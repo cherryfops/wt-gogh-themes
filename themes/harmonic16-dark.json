@@ -1,0 +1,23 @@
+{
+    "name": "harmonic16 Dark",
+    "black": "#0B1C2C",
+    "red": "#BF8B56",
+    "green": "#56BF8B",
+    "yellow": "#8BBF56",
+    "blue": "#8B56BF",
+    "purple": "#BF568B",
+    "cyan": "#568BBF",
+    "white": "#CBD6E2",
+    "brightBlack": "#627E99",
+    "brightRed": "#BF8B56",
+    "brightGreen": "#56BF8B",
+    "brightYellow": "#8BBF56",
+    "brightBlue": "#8B56BF",
+    "brightPurple": "#BF568B",
+    "brightCyan": "#568BBF",
+    "brightWhite": "#F7F9FB",
+    "background": "#0B1C2C",
+    "foreground": "#CBD6E2",
+    "cursorColor": "#CBD6E2",
+    "selectionBackground": "#3B4A5A"
+}

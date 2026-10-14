@@ -1,0 +1,23 @@
+{
+    "name": "Wood",
+    "black": "#161616",
+    "red": "#D00016",
+    "green": "#7BBB00",
+    "yellow": "#F5EC00",
+    "blue": "#6644CC",
+    "purple": "#9D1650",
+    "cyan": "#55AAFF",
+    "white": "#C8CCCD",
+    "brightBlack": "#7A7A7A",
+    "brightRed": "#FF6481",
+    "brightGreen": "#BDE271",
+    "brightYellow": "#EEEE88",
+    "brightBlue": "#BBAAFF",
+    "brightPurple": "#E372D9",
+    "brightCyan": "#55EEFF",
+    "brightWhite": "#FEFFFF",
+    "background": "#331401",
+    "foreground": "#FFFBCA",
+    "cursorColor": "#FFFBCA",
+    "selectionBackground": "#664E33"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Hopscotch.256",
+    "black": "#322931",
+    "red": "#DD464C",
+    "green": "#8FC13E",
+    "yellow": "#FDCC59",
+    "blue": "#1290BF",
+    "purple": "#C85E7C",
+    "cyan": "#149B93",
+    "white": "#B9B5B8",
+    "brightBlack": "#797379",
+    "brightRed": "#DD464C",
+    "brightGreen": "#8FC13E",
+    "brightYellow": "#FDCC59",
+    "brightBlue": "#1290BF",
+    "brightPurple": "#C85E7C",
+    "brightCyan": "#149B93",
+    "brightWhite": "#FFFFFF",
+    "background": "#322931",
+    "foreground": "#B9B5B8",
+    "cursorColor": "#B9B5B8",
+    "selectionBackground": "#5C545B"
+}

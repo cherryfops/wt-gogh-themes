@@ -1,0 +1,23 @@
+{
+    "name": "Serendipity Morning",
+    "black": "#CCD0DC",
+    "red": "#C25A4D",
+    "green": "#2F7AAB",
+    "yellow": "#785FD0",
+    "blue": "#6288D8",
+    "purple": "#629AA5",
+    "cyan": "#E58678",
+    "white": "#3F4363",
+    "brightBlack": "#505575",
+    "brightRed": "#C25A4D",
+    "brightGreen": "#2F7AAB",
+    "brightYellow": "#785FD0",
+    "brightBlue": "#6288D8",
+    "brightPurple": "#629AA5",
+    "brightCyan": "#E58678",
+    "brightWhite": "#3F4363",
+    "background": "#F6F7FB",
+    "foreground": "#3F4363",
+    "cursorColor": "#6D7296",
+    "selectionBackground": "#5A5670"
+}

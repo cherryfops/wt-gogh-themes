@@ -1,0 +1,23 @@
+{
+    "name": "Codeschool",
+    "black": "#232C31",
+    "red": "#2A5491",
+    "green": "#237986",
+    "yellow": "#A03B1E",
+    "blue": "#484D79",
+    "purple": "#C59820",
+    "cyan": "#B02F30",
+    "white": "#9EA7A6",
+    "brightBlack": "#3F4944",
+    "brightRed": "#2A5491",
+    "brightGreen": "#237986",
+    "brightYellow": "#A03B1E",
+    "brightBlue": "#484D79",
+    "brightPurple": "#C59820",
+    "brightCyan": "#B02F30",
+    "brightWhite": "#B5D8F6",
+    "background": "#232C31",
+    "foreground": "#9EA7A6",
+    "cursorColor": "#9EA7A6",
+    "selectionBackground": "#424B4E"
+}

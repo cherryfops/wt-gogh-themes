@@ -1,0 +1,23 @@
+{
+    "name": "N0Tch2K",
+    "black": "#383838",
+    "red": "#A95551",
+    "green": "#666666",
+    "yellow": "#A98051",
+    "blue": "#657D3E",
+    "purple": "#767676",
+    "cyan": "#C9C9C9",
+    "white": "#D0B8A3",
+    "brightBlack": "#474747",
+    "brightRed": "#A97775",
+    "brightGreen": "#8C8C8C",
+    "brightYellow": "#A99175",
+    "brightBlue": "#98BD5E",
+    "brightPurple": "#A3A3A3",
+    "brightCyan": "#DCDCDC",
+    "brightWhite": "#D8C8BB",
+    "background": "#222222",
+    "foreground": "#A0A0A0",
+    "cursorColor": "#AA9175",
+    "selectionBackground": "#424242"
+}

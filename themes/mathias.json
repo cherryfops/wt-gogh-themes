@@ -1,0 +1,23 @@
+{
+    "name": "Mathias",
+    "black": "#000000",
+    "red": "#E52222",
+    "green": "#A6E32D",
+    "yellow": "#FC951E",
+    "blue": "#C48DFF",
+    "purple": "#FA2573",
+    "cyan": "#67D9F0",
+    "white": "#F2F2F2",
+    "brightBlack": "#555555",
+    "brightRed": "#FF5555",
+    "brightGreen": "#55FF55",
+    "brightYellow": "#FFFF55",
+    "brightBlue": "#5555FF",
+    "brightPurple": "#FF55FF",
+    "brightCyan": "#55FFFF",
+    "brightWhite": "#FFFFFF",
+    "background": "#000000",
+    "foreground": "#BBBBBB",
+    "cursorColor": "#BBBBBB",
+    "selectionBackground": "#555555"
+}

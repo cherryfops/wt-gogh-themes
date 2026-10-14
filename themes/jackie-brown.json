@@ -1,0 +1,23 @@
+{
+    "name": "Jackie Brown",
+    "black": "#2C1D16",
+    "red": "#EF5734",
+    "green": "#2BAF2B",
+    "yellow": "#BEBF00",
+    "blue": "#246EB2",
+    "purple": "#D05EC1",
+    "cyan": "#00ACEE",
+    "white": "#BFBFBF",
+    "brightBlack": "#666666",
+    "brightRed": "#E50000",
+    "brightGreen": "#86A93E",
+    "brightYellow": "#E5E500",
+    "brightBlue": "#0000FF",
+    "brightPurple": "#E500E5",
+    "brightCyan": "#00E5E5",
+    "brightWhite": "#E5E5E5",
+    "background": "#2C1D16",
+    "foreground": "#FFCC2F",
+    "cursorColor": "#23FF18",
+    "selectionBackground": "#AF8D21"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Freya",
+    "black": "#073642",
+    "red": "#DC322F",
+    "green": "#859900",
+    "yellow": "#B58900",
+    "blue": "#268BD2",
+    "purple": "#EC0048",
+    "cyan": "#2AA198",
+    "white": "#94A3A5",
+    "brightBlack": "#586E75",
+    "brightRed": "#CB4B16",
+    "brightGreen": "#859900",
+    "brightYellow": "#B58900",
+    "brightBlue": "#268BD2",
+    "brightPurple": "#D33682",
+    "brightCyan": "#2AA198",
+    "brightWhite": "#6C71C4",
+    "background": "#252E32",
+    "foreground": "#94A3A5",
+    "cursorColor": "#839496",
+    "selectionBackground": "#414B4F"
+}

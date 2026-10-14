@@ -1,0 +1,23 @@
+{
+    "name": "Forest Night",
+    "black": "#7F8F9F",
+    "red": "#FD8489",
+    "green": "#A9DD9D",
+    "yellow": "#F0AA8A",
+    "blue": "#BDD0E5",
+    "purple": "#DACCF0",
+    "cyan": "#A9DD9D",
+    "white": "#FFEBC3",
+    "brightBlack": "#7F8F9F",
+    "brightRed": "#FD8489",
+    "brightGreen": "#A9DD9D",
+    "brightYellow": "#EED094",
+    "brightBlue": "#BDD0E5",
+    "brightPurple": "#DACCF0",
+    "brightCyan": "#A9DD9D",
+    "brightWhite": "#FFEBC3",
+    "background": "#3C4C55",
+    "foreground": "#FFEBC3",
+    "cursorColor": "#FFEBC3",
+    "selectionBackground": "#6D7470"
+}

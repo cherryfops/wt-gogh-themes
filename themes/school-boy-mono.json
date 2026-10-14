@@ -1,0 +1,23 @@
+{
+    "name": "School Boy Mono",
+    "black": "#174715",
+    "red": "#BFBFBF",
+    "green": "#BFBFBF",
+    "yellow": "#BFBFBF",
+    "blue": "#BFBFBF",
+    "purple": "#BFBFBF",
+    "cyan": "#BFBFBF",
+    "white": "#BFBFBF",
+    "brightBlack": "#21631E",
+    "brightRed": "#DDDDDD",
+    "brightGreen": "#DDDDDD",
+    "brightYellow": "#DDDDDD",
+    "brightBlue": "#DDDDDD",
+    "brightPurple": "#DDDDDD",
+    "brightCyan": "#DDDDDD",
+    "brightWhite": "#DDDDDD",
+    "background": "#0B230A",
+    "foreground": "#BFBFBF",
+    "cursorColor": "#BFBFBF",
+    "selectionBackground": "#384A37"
+}

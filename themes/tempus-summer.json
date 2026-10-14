@@ -1,0 +1,23 @@
+{
+    "name": "Tempus Summer",
+    "black": "#202C3D",
+    "red": "#FE6F70",
+    "green": "#4EB075",
+    "yellow": "#BA9A0A",
+    "blue": "#60A1E6",
+    "purple": "#D285AD",
+    "cyan": "#3DAE9F",
+    "white": "#949CBF",
+    "brightBlack": "#39304F",
+    "brightRed": "#EC7F4F",
+    "brightGreen": "#5BAF4F",
+    "brightYellow": "#BE981F",
+    "brightBlue": "#8599EF",
+    "brightPurple": "#CC82D7",
+    "brightCyan": "#2AACBF",
+    "brightWhite": "#A0ABAE",
+    "background": "#202C3D",
+    "foreground": "#A0ABAE",
+    "cursorColor": "#A0ABAE",
+    "selectionBackground": "#404C59"
+}

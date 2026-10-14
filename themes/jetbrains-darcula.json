@@ -1,0 +1,23 @@
+{
+    "name": "JetBrains Darcula",
+    "black": "#000000",
+    "red": "#FA5355",
+    "green": "#126E00",
+    "yellow": "#C2C300",
+    "blue": "#4581EB",
+    "purple": "#FA54FF",
+    "cyan": "#33C2C1",
+    "white": "#ADADAD",
+    "brightBlack": "#555555",
+    "brightRed": "#FB7172",
+    "brightGreen": "#67FF4F",
+    "brightYellow": "#FFFF00",
+    "brightBlue": "#6D9DF1",
+    "brightPurple": "#FB82FF",
+    "brightCyan": "#60D3D1",
+    "brightWhite": "#EEEEEE",
+    "background": "#202020",
+    "foreground": "#ADADAD",
+    "cursorColor": "#FFFFFF",
+    "selectionBackground": "#1A3272"
+}

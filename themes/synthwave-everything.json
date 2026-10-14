@@ -1,0 +1,23 @@
+{
+    "name": "Synthwave Everything",
+    "black": "#FEFEFE",
+    "red": "#F97E72",
+    "green": "#72F1B8",
+    "yellow": "#FEDE5D",
+    "blue": "#6D77B3",
+    "purple": "#C792EA",
+    "cyan": "#F772E0",
+    "white": "#FEFEFE",
+    "brightBlack": "#FEFEFE",
+    "brightRed": "#F88414",
+    "brightGreen": "#72F1B8",
+    "brightYellow": "#FFF951",
+    "brightBlue": "#36F9F6",
+    "brightPurple": "#E1ACFF",
+    "brightCyan": "#F92AAD",
+    "brightWhite": "#FEFEFE",
+    "background": "#2A2139",
+    "foreground": "#F0EFF1",
+    "cursorColor": "#72F1B8",
+    "selectionBackground": "#181521"
+}

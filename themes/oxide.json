@@ -1,0 +1,23 @@
+{
+    "name": "Oxide",
+    "black": "#262626",
+    "red": "#ED756E",
+    "green": "#5BB661",
+    "yellow": "#C39900",
+    "blue": "#3BA6F5",
+    "purple": "#968FF7",
+    "cyan": "#00BAAA",
+    "white": "#CECECE",
+    "brightBlack": "#8F8F8F",
+    "brightRed": "#FF9890",
+    "brightGreen": "#7BD77F",
+    "brightYellow": "#E3B831",
+    "brightBlue": "#6FC6FF",
+    "brightPurple": "#B5B2FF",
+    "brightCyan": "#00DCCA",
+    "brightWhite": "#DEDEDE",
+    "background": "#161616",
+    "foreground": "#CECECE",
+    "cursorColor": "#CECECE",
+    "selectionBackground": "#262626"
+}

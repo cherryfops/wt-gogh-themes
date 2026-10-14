@@ -1,0 +1,23 @@
+{
+    "name": "Detroit Become Human",
+    "black": "#928C80",
+    "red": "#DD563E",
+    "green": "#78E05E",
+    "yellow": "#F9FF4C",
+    "blue": "#78D6F2",
+    "purple": "#565BBC",
+    "cyan": "#BCE5D2",
+    "white": "#FFFFFF",
+    "brightBlack": "#A0A0A0",
+    "brightRed": "#DF806E",
+    "brightGreen": "#B9E293",
+    "brightYellow": "#E2D07A",
+    "brightBlue": "#6DDDF1",
+    "brightPurple": "#6369DB",
+    "brightCyan": "#90E6BF",
+    "brightWhite": "#FBFCFF",
+    "background": "#1A1A18",
+    "foreground": "#6AE4F1",
+    "cursorColor": "#6AE4F1",
+    "selectionBackground": "#2E4C4E"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Dimmed Monokai",
+    "black": "#3A3D43",
+    "red": "#BE3F48",
+    "green": "#879A3B",
+    "yellow": "#C5A635",
+    "blue": "#4F76A1",
+    "purple": "#855C8D",
+    "cyan": "#578FA4",
+    "white": "#B9BCBA",
+    "brightBlack": "#888987",
+    "brightRed": "#FB001F",
+    "brightGreen": "#0F722F",
+    "brightYellow": "#C47033",
+    "brightBlue": "#186DE3",
+    "brightPurple": "#FB0067",
+    "brightCyan": "#2E706D",
+    "brightWhite": "#FDFFB9",
+    "background": "#1F1F1F",
+    "foreground": "#B9BCBA",
+    "cursorColor": "#F83E19",
+    "selectionBackground": "#2A2D32"
+}

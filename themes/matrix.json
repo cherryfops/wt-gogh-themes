@@ -1,0 +1,23 @@
+{
+    "name": "Matrix",
+    "black": "#0F191C",
+    "red": "#23755A",
+    "green": "#82D967",
+    "yellow": "#FFD700",
+    "blue": "#3F5242",
+    "purple": "#409931",
+    "cyan": "#50B45A",
+    "white": "#507350",
+    "brightBlack": "#688060",
+    "brightRed": "#2FC079",
+    "brightGreen": "#90D762",
+    "brightYellow": "#FAFF00",
+    "brightBlue": "#4F7E7E",
+    "brightPurple": "#11FF25",
+    "brightCyan": "#C1FF8A",
+    "brightWhite": "#678C61",
+    "background": "#0F191C",
+    "foreground": "#426644",
+    "cursorColor": "#384545",
+    "selectionBackground": "#18282E"
+}

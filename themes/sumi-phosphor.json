@@ -1,0 +1,23 @@
+{
+    "name": "Sumi Phosphor",
+    "black": "#1E1A16",
+    "red": "#D45848",
+    "green": "#5CA868",
+    "yellow": "#D4A03C",
+    "blue": "#5A82B8",
+    "purple": "#9870B0",
+    "cyan": "#2EC4B6",
+    "white": "#8A8478",
+    "brightBlack": "#474139",
+    "brightRed": "#E87060",
+    "brightGreen": "#72C078",
+    "brightYellow": "#E8B84C",
+    "brightBlue": "#70A0D8",
+    "brightPurple": "#B088C8",
+    "brightCyan": "#48D8C8",
+    "brightWhite": "#E0DCD4",
+    "background": "#12100E",
+    "foreground": "#BAB4A8",
+    "cursorColor": "#2EC4B6",
+    "selectionBackground": "#3A3834"
+}

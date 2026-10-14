@@ -1,0 +1,23 @@
+{
+    "name": "Doom Peacock",
+    "black": "#1C1F24",
+    "red": "#CB4B16",
+    "green": "#26A6A6",
+    "yellow": "#BCD42A",
+    "blue": "#2A6CC6",
+    "purple": "#A9A1E1",
+    "cyan": "#5699AF",
+    "white": "#EDE0CE",
+    "brightBlack": "#2B2A27",
+    "brightRed": "#FF5D38",
+    "brightGreen": "#98BE65",
+    "brightYellow": "#E6F972",
+    "brightBlue": "#51AFEF",
+    "brightPurple": "#C678DD",
+    "brightCyan": "#46D9FF",
+    "brightWhite": "#DFDFDF",
+    "background": "#2B2A27",
+    "foreground": "#EDE0CE",
+    "cursorColor": "#9C9C9D",
+    "selectionBackground": "#5C5851"
+}

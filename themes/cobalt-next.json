@@ -1,0 +1,23 @@
+{
+    "name": "Cobalt Next",
+    "black": "#000000",
+    "red": "#ED5F7D",
+    "green": "#99C794",
+    "yellow": "#FAC863",
+    "blue": "#5A9BCF",
+    "purple": "#C5A5C5",
+    "cyan": "#5FB3B3",
+    "white": "#D8DEE9",
+    "brightBlack": "#65737E",
+    "brightRed": "#D6838C",
+    "brightGreen": "#C1DCBE",
+    "brightYellow": "#FFDE9B",
+    "brightBlue": "#8ABEE7",
+    "brightPurple": "#EDCDED",
+    "brightCyan": "#9BE2E2",
+    "brightWhite": "#FFFFFF",
+    "background": "#1B2B34",
+    "foreground": "#D8DEE9",
+    "cursorColor": "#FAC863",
+    "selectionBackground": "#4A5861"
+}

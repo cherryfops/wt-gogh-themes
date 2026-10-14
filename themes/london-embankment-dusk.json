@@ -1,0 +1,23 @@
+{
+    "name": "London Embankment Dusk",
+    "black": "#1C2533",
+    "red": "#C5573F",
+    "green": "#6A8E85",
+    "yellow": "#E2BD5C",
+    "blue": "#5E87B3",
+    "purple": "#9B86A8",
+    "cyan": "#82A8B8",
+    "white": "#E8EEF2",
+    "brightBlack": "#4A566A",
+    "brightRed": "#E07050",
+    "brightGreen": "#88AAA3",
+    "brightYellow": "#F0CD6C",
+    "brightBlue": "#82A4CC",
+    "brightPurple": "#B09BC0",
+    "brightCyan": "#A0C2D0",
+    "brightWhite": "#FAFBFC",
+    "background": "#161F2C",
+    "foreground": "#E8EEF2",
+    "cursorColor": "#F2C455",
+    "selectionBackground": "#2C3A52"
+}

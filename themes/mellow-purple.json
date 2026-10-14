@@ -1,0 +1,23 @@
+{
+    "name": "Mellow Purple",
+    "black": "#1E0528",
+    "red": "#00D9E9",
+    "green": "#05CB0D",
+    "yellow": "#955AE7",
+    "blue": "#550068",
+    "purple": "#8991BB",
+    "cyan": "#B900B1",
+    "white": "#FFEEFF",
+    "brightBlack": "#320F55",
+    "brightRed": "#00D9E9",
+    "brightGreen": "#05CB0D",
+    "brightYellow": "#955AE7",
+    "brightBlue": "#550068",
+    "brightPurple": "#8991BB",
+    "brightCyan": "#B900B1",
+    "brightWhite": "#F8C0FF",
+    "background": "#1E0528",
+    "foreground": "#FFEEFF",
+    "cursorColor": "#FFEEFF",
+    "selectionBackground": "#563F5E"
+}

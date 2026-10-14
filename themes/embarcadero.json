@@ -1,0 +1,23 @@
+{
+    "name": "Embarcadero",
+    "black": "#252A2F",
+    "red": "#ED5D86",
+    "green": "#20C290",
+    "yellow": "#EB824D",
+    "blue": "#4080D0",
+    "purple": "#A070D0",
+    "cyan": "#02EFEF",
+    "white": "#BCBDC0",
+    "brightBlack": "#7F8285",
+    "brightRed": "#F57D9A",
+    "brightGreen": "#A0D0A0",
+    "brightYellow": "#FFE089",
+    "brightBlue": "#80B0F0",
+    "brightPurple": "#C090F0",
+    "brightCyan": "#40C0C0",
+    "brightWhite": "#F8F8F8",
+    "background": "#252A2F",
+    "foreground": "#BCBDC0",
+    "cursorColor": "#BCBDC0",
+    "selectionBackground": "#4B4F53"
+}

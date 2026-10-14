@@ -1,0 +1,23 @@
+{
+    "name": "Kokiri",
+    "black": "#A0C080",
+    "red": "#B8860B",
+    "green": "#4A7A4A",
+    "yellow": "#8A6830",
+    "blue": "#4A6A8A",
+    "purple": "#7A5A7A",
+    "cyan": "#4A7A7A",
+    "white": "#C9A654",
+    "brightBlack": "#704518",
+    "brightRed": "#D4A420",
+    "brightGreen": "#5A8A5A",
+    "brightYellow": "#A07838",
+    "brightBlue": "#5A7A9A",
+    "brightPurple": "#8A6A8A",
+    "brightCyan": "#5A8A8A",
+    "brightWhite": "#DDC070",
+    "background": "#C5D8A0",
+    "foreground": "#704518",
+    "cursorColor": "#704518",
+    "selectionBackground": "#B0B37E"
+}

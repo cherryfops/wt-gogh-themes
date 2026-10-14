@@ -1,0 +1,23 @@
+{
+    "name": "Pyrokai Light",
+    "black": "#242120",
+    "red": "#B84963",
+    "green": "#568413",
+    "yellow": "#8E7100",
+    "blue": "#0979C4",
+    "purple": "#B44A74",
+    "cyan": "#008490",
+    "white": "#B4AFAD",
+    "brightBlack": "#807C7A",
+    "brightRed": "#943C50",
+    "brightGreen": "#456A13",
+    "brightYellow": "#735A00",
+    "brightBlue": "#0F619D",
+    "brightPurple": "#913C5D",
+    "brightCyan": "#006A74",
+    "brightWhite": "#FAF6F5",
+    "background": "#FAF6F5",
+    "foreground": "#242120",
+    "cursorColor": "#B65318",
+    "selectionBackground": "#E4E0DE"
+}

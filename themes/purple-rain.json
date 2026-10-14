@@ -1,0 +1,23 @@
+{
+    "name": "Purple Rain",
+    "black": "#000000",
+    "red": "#FF260E",
+    "green": "#9BE205",
+    "yellow": "#FFC400",
+    "blue": "#00A2FA",
+    "purple": "#815BB5",
+    "cyan": "#00DEEF",
+    "white": "#FFFFFF",
+    "brightBlack": "#565656",
+    "brightRed": "#FF4250",
+    "brightGreen": "#B8E36E",
+    "brightYellow": "#FFD852",
+    "brightBlue": "#00A6FF",
+    "brightPurple": "#AC7BF0",
+    "brightCyan": "#74FDF3",
+    "brightWhite": "#FFFFFF",
+    "background": "#21084A",
+    "foreground": "#FFFBF6",
+    "cursorColor": "#FF271D",
+    "selectionBackground": "#287691"
+}

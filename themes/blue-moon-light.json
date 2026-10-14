@@ -1,0 +1,23 @@
+{
+    "name": "Blue Moon Light",
+    "black": "#292D3E",
+    "red": "#D06179",
+    "green": "#D0E7D0",
+    "yellow": "#CFCFBF",
+    "blue": "#959DCB",
+    "purple": "#A9A3DB",
+    "cyan": "#89BBDD",
+    "white": "#FFFFFF",
+    "brightBlack": "#292D3E",
+    "brightRed": "#D06179",
+    "brightGreen": "#D0E7D0",
+    "brightYellow": "#CFCFBF",
+    "brightBlue": "#959DCB",
+    "brightPurple": "#A9A3DB",
+    "brightCyan": "#89BBDD",
+    "brightWhite": "#FFFFFF",
+    "background": "#32374D",
+    "foreground": "#FBFBFB",
+    "cursorColor": "#FBFBFB",
+    "selectionBackground": "#646878"
+}

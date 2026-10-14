@@ -1,0 +1,23 @@
+{
+    "name": "Melange Dark",
+    "black": "#34302C",
+    "red": "#BD8183",
+    "green": "#78997A",
+    "yellow": "#E49B5D",
+    "blue": "#7F91B2",
+    "purple": "#B380B0",
+    "cyan": "#7B9695",
+    "white": "#C1A78E",
+    "brightBlack": "#867462",
+    "brightRed": "#D47766",
+    "brightGreen": "#85B695",
+    "brightYellow": "#EBC06D",
+    "brightBlue": "#A3A9CE",
+    "brightPurple": "#CF9BC2",
+    "brightCyan": "#89B3B6",
+    "brightWhite": "#ECE1D7",
+    "background": "#292522",
+    "foreground": "#ECE1D7",
+    "cursorColor": "#ECE1D7",
+    "selectionBackground": "#5A544F"
+}

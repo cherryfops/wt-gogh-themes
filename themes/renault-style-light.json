@@ -1,0 +1,23 @@
+{
+    "name": "Renault Style Light",
+    "black": "#000000",
+    "red": "#DA4839",
+    "green": "#509F50",
+    "yellow": "#FFD249",
+    "blue": "#46657D",
+    "purple": "#CFCFFF",
+    "cyan": "#87C1F1",
+    "white": "#FFFFFF",
+    "brightBlack": "#323232",
+    "brightRed": "#FF7B6A",
+    "brightGreen": "#83D082",
+    "brightYellow": "#FFFF7B",
+    "brightBlue": "#9FCEF0",
+    "brightPurple": "#FFFFFF",
+    "brightCyan": "#A4D4F8",
+    "brightWhite": "#FFFFFF",
+    "background": "#3A3A3A",
+    "foreground": "#E9CB7B",
+    "cursorColor": "#E9CB7B",
+    "selectionBackground": "#665E4A"
+}

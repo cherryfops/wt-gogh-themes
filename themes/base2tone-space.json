@@ -1,0 +1,23 @@
+{
+    "name": "Base2Tone Space",
+    "black": "#24242E",
+    "red": "#7676F4",
+    "green": "#EC7336",
+    "yellow": "#FE8C52",
+    "blue": "#767693",
+    "purple": "#EC7336",
+    "cyan": "#8A8AAD",
+    "white": "#A1A1B5",
+    "brightBlack": "#5B5B76",
+    "brightRed": "#F37B3F",
+    "brightGreen": "#333342",
+    "brightYellow": "#515167",
+    "brightBlue": "#737391",
+    "brightPurple": "#CECEE3",
+    "brightCyan": "#E66E33",
+    "brightWhite": "#EBEBFF",
+    "background": "#24242E",
+    "foreground": "#A1A1B5",
+    "cursorColor": "#B25424",
+    "selectionBackground": "#434350"
+}

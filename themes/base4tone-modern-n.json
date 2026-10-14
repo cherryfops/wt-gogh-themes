@@ -1,0 +1,23 @@
+{
+    "name": "Base4Tone Modern N",
+    "black": "#1A2023",
+    "red": "#D53975",
+    "green": "#A48F04",
+    "yellow": "#DCC218",
+    "blue": "#47B5F5",
+    "purple": "#8493F6",
+    "cyan": "#C1AA15",
+    "white": "#E8EBEE",
+    "brightBlack": "#070B0D",
+    "brightRed": "#EB75A2",
+    "brightGreen": "#E6CA1A",
+    "brightYellow": "#F2E58C",
+    "brightBlue": "#BBE4FB",
+    "brightPurple": "#A0ACF8",
+    "brightCyan": "#B1E0FB",
+    "brightWhite": "#F6F8F9",
+    "background": "#1A2023",
+    "foreground": "#8A9DA8",
+    "cursorColor": "#85826F",
+    "selectionBackground": "#363F44"
+}

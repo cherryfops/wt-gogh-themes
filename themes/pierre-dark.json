@@ -1,0 +1,23 @@
+{
+    "name": "Pierre Dark",
+    "black": "#141415",
+    "red": "#FF2E3F",
+    "green": "#0DBE4E",
+    "yellow": "#FFCA00",
+    "blue": "#009FFF",
+    "purple": "#C635E4",
+    "cyan": "#08C0EF",
+    "white": "#C6C6C8",
+    "brightBlack": "#6C6C71",
+    "brightRed": "#FF6762",
+    "brightGreen": "#5ECC71",
+    "brightYellow": "#FFD452",
+    "brightBlue": "#69B1FF",
+    "brightPurple": "#D568EA",
+    "brightCyan": "#68CDF2",
+    "brightWhite": "#FBFBFB",
+    "background": "#070707",
+    "foreground": "#FBFBFB",
+    "cursorColor": "#009FFF",
+    "selectionBackground": "#19283C"
+}

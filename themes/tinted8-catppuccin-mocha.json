@@ -1,0 +1,23 @@
+{
+    "name": "tinted8 Catppuccin Mocha",
+    "black": "#1E1E2E",
+    "red": "#F38BA8",
+    "green": "#A6E3A1",
+    "yellow": "#F9E2AF",
+    "blue": "#89B4FA",
+    "purple": "#CBA6F7",
+    "cyan": "#94E2D5",
+    "white": "#CDD6F4",
+    "brightBlack": "#353554",
+    "brightRed": "#F9C2D2",
+    "brightGreen": "#D3F1D0",
+    "brightYellow": "#FCF6E9",
+    "brightBlue": "#C4D9FC",
+    "brightPurple": "#ECE0FB",
+    "brightCyan": "#C4EFE8",
+    "brightWhite": "#FFFFFF",
+    "background": "#1E1E2E",
+    "foreground": "#CDD6F4",
+    "cursorColor": "#CDD6F4",
+    "selectionBackground": "#4A4C60"
+}

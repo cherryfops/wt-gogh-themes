@@ -1,0 +1,23 @@
+{
+    "name": "Karma Light",
+    "black": "#0A0E14",
+    "red": "#FC618D",
+    "green": "#2D972F",
+    "yellow": "#EEAE11",
+    "blue": "#5688C7",
+    "purple": "#6F42C1",
+    "cyan": "#5688C7",
+    "white": "#525053",
+    "brightBlack": "#999999",
+    "brightRed": "#FC618D",
+    "brightGreen": "#2D972F",
+    "brightYellow": "#FFAA33",
+    "brightBlue": "#5688C7",
+    "brightPurple": "#A86EFD",
+    "brightCyan": "#5688C7",
+    "brightWhite": "#0A0E14",
+    "background": "#FFFFFF",
+    "foreground": "#0A0E14",
+    "cursorColor": "#A86EFD",
+    "selectionBackground": "#E5E3EA"
+}

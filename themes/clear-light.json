@@ -1,0 +1,23 @@
+{
+    "name": "Clear Light",
+    "black": "#2D3840",
+    "red": "#B45648",
+    "green": "#6CAA71",
+    "yellow": "#C4AC62",
+    "blue": "#5685A8",
+    "purple": "#AD64BE",
+    "cyan": "#69C6C9",
+    "white": "#B4BBBF",
+    "brightBlack": "#506573",
+    "brightRed": "#DF6C5A",
+    "brightGreen": "#79BE7E",
+    "brightYellow": "#D8BB65",
+    "brightBlue": "#49A2E1",
+    "brightPurple": "#D389E5",
+    "brightCyan": "#5EC7CB",
+    "brightWhite": "#D8E1E7",
+    "background": "#FFFFFF",
+    "foreground": "#3A4851",
+    "cursorColor": "#919191",
+    "selectionBackground": "#CED1D4"
+}

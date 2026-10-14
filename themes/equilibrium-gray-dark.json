@@ -1,0 +1,23 @@
+{
+    "name": "Equilibrium Gray Dark",
+    "black": "#111111",
+    "red": "#F04339",
+    "green": "#7F8B00",
+    "yellow": "#BB8801",
+    "blue": "#008DD1",
+    "purple": "#6A7FD2",
+    "cyan": "#00948B",
+    "white": "#ABABAB",
+    "brightBlack": "#777777",
+    "brightRed": "#F04339",
+    "brightGreen": "#7F8B00",
+    "brightYellow": "#BB8801",
+    "brightBlue": "#008DD1",
+    "brightPurple": "#6A7FD2",
+    "brightCyan": "#00948B",
+    "brightWhite": "#E2E2E2",
+    "background": "#111111",
+    "foreground": "#ABABAB",
+    "cursorColor": "#ABABAB",
+    "selectionBackground": "#383838"
+}

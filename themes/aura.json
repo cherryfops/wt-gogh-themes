@@ -1,0 +1,23 @@
+{
+    "name": "Aura",
+    "black": "#110F18",
+    "red": "#FF6767",
+    "green": "#61FFCA",
+    "yellow": "#FFCA85",
+    "blue": "#A277FF",
+    "purple": "#A277FF",
+    "cyan": "#61FFCA",
+    "white": "#EDECEE",
+    "brightBlack": "#4D4D4D",
+    "brightRed": "#FFCA85",
+    "brightGreen": "#A277FF",
+    "brightYellow": "#FFCA85",
+    "brightBlue": "#A277FF",
+    "brightPurple": "#A277FF",
+    "brightCyan": "#61FFCA",
+    "brightWhite": "#EDECEE",
+    "background": "#15141B",
+    "foreground": "#EDECEE",
+    "cursorColor": "#A277FF",
+    "selectionBackground": "#A277FF"
+}

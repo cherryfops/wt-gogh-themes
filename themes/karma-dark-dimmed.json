@@ -1,0 +1,23 @@
+{
+    "name": "Karma Dark Dimmed",
+    "black": "#14181F",
+    "red": "#E87691",
+    "green": "#82C891",
+    "yellow": "#EBD870",
+    "blue": "#6CC4D2",
+    "purple": "#A892D4",
+    "cyan": "#6CC4D2",
+    "white": "#A8A4AE",
+    "brightBlack": "#5C5A5F",
+    "brightRed": "#E8869C",
+    "brightGreen": "#98CEA4",
+    "brightYellow": "#EBD870",
+    "brightBlue": "#80C8D2",
+    "brightPurple": "#B6A4D6",
+    "brightCyan": "#80C8D2",
+    "brightWhite": "#E2DEF0",
+    "background": "#14181F",
+    "foreground": "#E2DEF0",
+    "cursorColor": "#EBD870",
+    "selectionBackground": "#2F2D3D"
+}

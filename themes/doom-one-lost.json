@@ -1,0 +1,23 @@
+{
+    "name": "Doom One Lost",
+    "black": "#1B2229",
+    "red": "#FF6C6B",
+    "green": "#98BE65",
+    "yellow": "#ECBE7B",
+    "blue": "#2257A0",
+    "purple": "#A9A1E1",
+    "cyan": "#5699AF",
+    "white": "#5B6268",
+    "brightBlack": "#3F444A",
+    "brightRed": "#DA8548",
+    "brightGreen": "#4DB5BD",
+    "brightYellow": "#ECBE7B",
+    "brightBlue": "#51AFEF",
+    "brightPurple": "#C678DD",
+    "brightCyan": "#46D9FF",
+    "brightWhite": "#BBC2CF",
+    "background": "#21242B",
+    "foreground": "#5B6268",
+    "cursorColor": "#5B6268",
+    "selectionBackground": "#30343A"
+}

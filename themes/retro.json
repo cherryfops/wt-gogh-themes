@@ -1,0 +1,23 @@
+{
+    "name": "Retro",
+    "black": "#13A10E",
+    "red": "#13A10E",
+    "green": "#13A10E",
+    "yellow": "#13A10E",
+    "blue": "#13A10E",
+    "purple": "#13A10E",
+    "cyan": "#13A10E",
+    "white": "#13A10E",
+    "brightBlack": "#16BA10",
+    "brightRed": "#16BA10",
+    "brightGreen": "#16BA10",
+    "brightYellow": "#16BA10",
+    "brightBlue": "#16BA10",
+    "brightPurple": "#16BA10",
+    "brightCyan": "#16BA10",
+    "brightWhite": "#16BA10",
+    "background": "#000000",
+    "foreground": "#13A10E",
+    "cursorColor": "#13A10E",
+    "selectionBackground": "#FFFFFF"
+}

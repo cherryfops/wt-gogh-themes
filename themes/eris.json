@@ -1,0 +1,23 @@
+{
+    "name": "Eris",
+    "black": "#0A0920",
+    "red": "#F768A3",
+    "green": "#A2FAA8",
+    "yellow": "#F7D668",
+    "blue": "#258FC4",
+    "purple": "#C368F7",
+    "cyan": "#A2FAF0",
+    "white": "#606BAC",
+    "brightBlack": "#333773",
+    "brightRed": "#F768A3",
+    "brightGreen": "#A2FAA8",
+    "brightYellow": "#F7D668",
+    "brightBlue": "#258FC4",
+    "brightPurple": "#C368F7",
+    "brightCyan": "#A2FAF0",
+    "brightWhite": "#9AAAE5",
+    "background": "#0A0920",
+    "foreground": "#606BAC",
+    "cursorColor": "#606BAC",
+    "selectionBackground": "#202243"
+}

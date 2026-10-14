@@ -1,0 +1,23 @@
+{
+    "name": "Katy",
+    "black": "#292D3E",
+    "red": "#6E98E1",
+    "green": "#78C06E",
+    "yellow": "#E0A557",
+    "blue": "#82AAFF",
+    "purple": "#C792EA",
+    "cyan": "#83B7E5",
+    "white": "#959DCB",
+    "brightBlack": "#676E95",
+    "brightRed": "#6E98E1",
+    "brightGreen": "#78C06E",
+    "brightYellow": "#E0A557",
+    "brightBlue": "#82AAFF",
+    "brightPurple": "#C792EA",
+    "brightCyan": "#83B7E5",
+    "brightWhite": "#FFFFFF",
+    "background": "#292D3E",
+    "foreground": "#959DCB",
+    "cursorColor": "#959DCB",
+    "selectionBackground": "#444961"
+}

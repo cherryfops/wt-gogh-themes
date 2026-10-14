@@ -1,0 +1,23 @@
+{
+    "name": "Tomorrow Night Bright",
+    "black": "#000000",
+    "red": "#D54E53",
+    "green": "#B9CA4A",
+    "yellow": "#E7C547",
+    "blue": "#7AA6DA",
+    "purple": "#C397D8",
+    "cyan": "#70C0B1",
+    "white": "#FFFFFF",
+    "brightBlack": "#000000",
+    "brightRed": "#D54E53",
+    "brightGreen": "#B9CA4A",
+    "brightYellow": "#E7C547",
+    "brightBlue": "#7AA6DA",
+    "brightPurple": "#C397D8",
+    "brightCyan": "#70C0B1",
+    "brightWhite": "#FFFFFF",
+    "background": "#000000",
+    "foreground": "#EAEAEA",
+    "cursorColor": "#EAEAEA",
+    "selectionBackground": "#3A3A3A"
+}

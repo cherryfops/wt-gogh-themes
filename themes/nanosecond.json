@@ -1,0 +1,23 @@
+{
+    "name": "Nanosecond",
+    "black": "#000000",
+    "red": "#FF0000",
+    "green": "#00AA00",
+    "yellow": "#FFAA00",
+    "blue": "#00AAFF",
+    "purple": "#FF00FF",
+    "cyan": "#00AAAA",
+    "white": "#AAAAAA",
+    "brightBlack": "#555555",
+    "brightRed": "#FF5555",
+    "brightGreen": "#80FF80",
+    "brightYellow": "#FFFF80",
+    "brightBlue": "#AACCFF",
+    "brightPurple": "#FFAAFF",
+    "brightCyan": "#80FFFF",
+    "brightWhite": "#FFFFFF",
+    "background": "#112233",
+    "foreground": "#FAFAFA",
+    "cursorColor": "#FAFAFA",
+    "selectionBackground": "#4B5865"
+}

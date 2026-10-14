@@ -1,0 +1,23 @@
+{
+    "name": "Havn Daggry",
+    "black": "#212840",
+    "red": "#8F564B",
+    "green": "#5C705B",
+    "yellow": "#B36F00",
+    "blue": "#40567A",
+    "purple": "#775D93",
+    "cyan": "#8A5A7E",
+    "white": "#D7DBEA",
+    "brightBlack": "#212840",
+    "brightRed": "#BD533E",
+    "brightGreen": "#79957B",
+    "brightYellow": "#F3B550",
+    "brightBlue": "#6988BC",
+    "brightPurple": "#7B7393",
+    "brightCyan": "#A4879C",
+    "brightWhite": "#D7DBEA",
+    "background": "#F8F9FB",
+    "foreground": "#3E4A77",
+    "cursorColor": "#386A51",
+    "selectionBackground": "#CACDDA"
+}

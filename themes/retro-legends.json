@@ -1,0 +1,23 @@
+{
+    "name": "Retro Legends",
+    "black": "#262626",
+    "red": "#DE5454",
+    "green": "#45EB45",
+    "yellow": "#F7BF2B",
+    "blue": "#4066F2",
+    "purple": "#BF4CF2",
+    "cyan": "#40D9E6",
+    "white": "#BFE6BF",
+    "brightBlack": "#4C594C",
+    "brightRed": "#FF6666",
+    "brightGreen": "#59FF59",
+    "brightYellow": "#FFD933",
+    "brightBlue": "#4C80FF",
+    "brightPurple": "#E666FF",
+    "brightCyan": "#59E6FF",
+    "brightWhite": "#F2FFF2",
+    "background": "#0D0D0D",
+    "foreground": "#45EB45",
+    "cursorColor": "#45EB45",
+    "selectionBackground": "#336633"
+}

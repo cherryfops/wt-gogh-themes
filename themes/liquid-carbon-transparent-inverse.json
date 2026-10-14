@@ -1,0 +1,23 @@
+{
+    "name": "Liquid Carbon Transparent Inverse",
+    "black": "#BCCCCD",
+    "red": "#FF3030",
+    "green": "#559A70",
+    "yellow": "#CCAC00",
+    "blue": "#0099CC",
+    "purple": "#CC69C8",
+    "cyan": "#7AC4CC",
+    "white": "#000000",
+    "brightBlack": "#FFFFFF",
+    "brightRed": "#FF3030",
+    "brightGreen": "#559A70",
+    "brightYellow": "#CCAC00",
+    "brightBlue": "#0099CC",
+    "brightPurple": "#CC69C8",
+    "brightCyan": "#7AC4CC",
+    "brightWhite": "#000000",
+    "background": "#000000",
+    "foreground": "#AFC2C2",
+    "cursorColor": "#AFC2C2",
+    "selectionBackground": "#2C3030"
+}

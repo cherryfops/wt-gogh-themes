@@ -1,0 +1,23 @@
+{
+    "name": "Icy",
+    "black": "#021012",
+    "red": "#16C1D9",
+    "green": "#4DD0E1",
+    "yellow": "#80DEEA",
+    "blue": "#00BCD4",
+    "purple": "#00ACC1",
+    "cyan": "#26C6DA",
+    "white": "#095B67",
+    "brightBlack": "#052E34",
+    "brightRed": "#16C1D9",
+    "brightGreen": "#4DD0E1",
+    "brightYellow": "#80DEEA",
+    "brightBlue": "#00BCD4",
+    "brightPurple": "#00ACC1",
+    "brightCyan": "#26C6DA",
+    "brightWhite": "#109CB0",
+    "background": "#021012",
+    "foreground": "#095B67",
+    "cursorColor": "#095B67",
+    "selectionBackground": "#042327"
+}

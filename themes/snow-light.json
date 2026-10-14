@@ -1,0 +1,23 @@
+{
+    "name": "Snow Light",
+    "black": "#FBFFFF",
+    "red": "#AE5865",
+    "green": "#4D7F43",
+    "yellow": "#906C33",
+    "blue": "#2B7AB2",
+    "purple": "#8F63A2",
+    "cyan": "#008483",
+    "white": "#535C65",
+    "brightBlack": "#6D7782",
+    "brightRed": "#AE5865",
+    "brightGreen": "#4D7F43",
+    "brightYellow": "#906C33",
+    "brightBlue": "#2B7AB2",
+    "brightPurple": "#8F63A2",
+    "brightCyan": "#008483",
+    "brightWhite": "#434951",
+    "background": "#FBFFFF",
+    "foreground": "#535C65",
+    "cursorColor": "#535C65",
+    "selectionBackground": "#D1D6D8"
+}

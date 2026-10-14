@@ -1,0 +1,23 @@
+{
+    "name": "GitHub Dark High Contrast",
+    "black": "#7A828E",
+    "red": "#FF9492",
+    "green": "#26CD4D",
+    "yellow": "#F0B72F",
+    "blue": "#71B7FF",
+    "purple": "#CB9EFF",
+    "cyan": "#39C5CF",
+    "white": "#D9DEE3",
+    "brightBlack": "#9EA7B3",
+    "brightRed": "#FFB1AF",
+    "brightGreen": "#4AE168",
+    "brightYellow": "#F7C843",
+    "brightBlue": "#91CBFF",
+    "brightPurple": "#DBB7FF",
+    "brightCyan": "#56D4DD",
+    "brightWhite": "#FFFFFF",
+    "background": "#0A0C10",
+    "foreground": "#F0F3F6",
+    "cursorColor": "#71B7FF",
+    "selectionBackground": "#44464A"
+}

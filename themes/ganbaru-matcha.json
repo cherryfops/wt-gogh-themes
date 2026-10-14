@@ -1,0 +1,23 @@
+{
+    "name": "Ganbaru Matcha",
+    "black": "#17181D",
+    "red": "#E86081",
+    "green": "#75C186",
+    "yellow": "#FFAF5D",
+    "blue": "#95BFF0",
+    "purple": "#B5A7EF",
+    "cyan": "#54CEC4",
+    "white": "#7B8E95",
+    "brightBlack": "#475254",
+    "brightRed": "#FF6D7E",
+    "brightGreen": "#B1C771",
+    "brightYellow": "#E5DE8C",
+    "brightBlue": "#A7D9F1",
+    "brightPurple": "#F3ACE2",
+    "brightCyan": "#A9D9BD",
+    "brightWhite": "#859298",
+    "background": "#17181D",
+    "foreground": "#E1E5EC",
+    "cursorColor": "#E1E5EC",
+    "selectionBackground": "#4A4B51"
+}

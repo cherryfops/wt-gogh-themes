@@ -1,0 +1,23 @@
+{
+    "name": "Stella",
+    "black": "#2B213C",
+    "red": "#C79987",
+    "green": "#ACC79B",
+    "yellow": "#C7C691",
+    "blue": "#A5AAD4",
+    "purple": "#C594FF",
+    "cyan": "#9BC7BF",
+    "white": "#998BAD",
+    "brightBlack": "#655978",
+    "brightRed": "#C79987",
+    "brightGreen": "#ACC79B",
+    "brightYellow": "#C7C691",
+    "brightBlue": "#A5AAD4",
+    "brightPurple": "#C594FF",
+    "brightCyan": "#9BC7BF",
+    "brightWhite": "#EBDCFF",
+    "background": "#2B213C",
+    "foreground": "#998BAD",
+    "cursorColor": "#998BAD",
+    "selectionBackground": "#463C58"
+}

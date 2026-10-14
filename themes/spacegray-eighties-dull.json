@@ -1,0 +1,23 @@
+{
+    "name": "Spacegray Eighties Dull",
+    "black": "#15171C",
+    "red": "#B24A56",
+    "green": "#92B477",
+    "yellow": "#C6735A",
+    "blue": "#7C8FA5",
+    "purple": "#A5789E",
+    "cyan": "#80CDCB",
+    "white": "#B3B8C3",
+    "brightBlack": "#555555",
+    "brightRed": "#EC5F67",
+    "brightGreen": "#89E986",
+    "brightYellow": "#FEC254",
+    "brightBlue": "#5486C0",
+    "brightPurple": "#BF83C1",
+    "brightCyan": "#58C2C1",
+    "brightWhite": "#FFFFFF",
+    "background": "#222222",
+    "foreground": "#C9C6BC",
+    "cursorColor": "#BBBBBB",
+    "selectionBackground": "#272E36"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Railscasts",
+    "black": "#2B2B2B",
+    "red": "#DA4939",
+    "green": "#A5C261",
+    "yellow": "#FFC66D",
+    "blue": "#6D9CBE",
+    "purple": "#B6B3EB",
+    "cyan": "#519F50",
+    "white": "#E6E1DC",
+    "brightBlack": "#5A647E",
+    "brightRed": "#DA4939",
+    "brightGreen": "#A5C261",
+    "brightYellow": "#FFC66D",
+    "brightBlue": "#6D9CBE",
+    "brightPurple": "#B6B3EB",
+    "brightCyan": "#519F50",
+    "brightWhite": "#F9F7F3",
+    "background": "#2B2B2B",
+    "foreground": "#E6E1DC",
+    "cursorColor": "#E6E1DC",
+    "selectionBackground": "#5A5857"
+}

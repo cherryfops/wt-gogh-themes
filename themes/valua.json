@@ -1,0 +1,23 @@
+{
+    "name": "Valua",
+    "black": "#131F1F",
+    "red": "#D7586E",
+    "green": "#59D678",
+    "yellow": "#DFE754",
+    "blue": "#4ED2D2",
+    "purple": "#A874E0",
+    "cyan": "#76DBD2",
+    "white": "#98C1A3",
+    "brightBlack": "#3E5C53",
+    "brightRed": "#D7586E",
+    "brightGreen": "#59D678",
+    "brightYellow": "#DFE754",
+    "brightBlue": "#4ED2D2",
+    "brightPurple": "#A874E0",
+    "brightCyan": "#76DBD2",
+    "brightWhite": "#AACBCB",
+    "background": "#131F1F",
+    "foreground": "#98C1A3",
+    "cursorColor": "#98C1A3",
+    "selectionBackground": "#344840"
+}

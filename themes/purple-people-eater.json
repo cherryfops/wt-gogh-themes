@@ -1,0 +1,23 @@
+{
+    "name": "Purple People Eater",
+    "black": "#0D1117",
+    "red": "#E34C26",
+    "green": "#238636",
+    "yellow": "#ED9A51",
+    "blue": "#A5D6FF",
+    "purple": "#6EB0E8",
+    "cyan": "#C09AEB",
+    "white": "#C9D1D9",
+    "brightBlack": "#0D1117",
+    "brightRed": "#FF7B72",
+    "brightGreen": "#3BAB4A",
+    "brightYellow": "#FFA657",
+    "brightBlue": "#A5D6FF",
+    "brightPurple": "#79C0FF",
+    "brightCyan": "#B694DF",
+    "brightWhite": "#C9D1D9",
+    "background": "#161B22",
+    "foreground": "#C9D1D9",
+    "cursorColor": "#C9D1D9",
+    "selectionBackground": "#434850"
+}

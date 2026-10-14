@@ -1,0 +1,23 @@
+{
+    "name": "Black Metal (Mayhem)",
+    "black": "#000000",
+    "red": "#5F8787",
+    "green": "#F3ECD4",
+    "yellow": "#EECC6C",
+    "blue": "#888888",
+    "purple": "#999999",
+    "cyan": "#AAAAAA",
+    "white": "#C1C1C1",
+    "brightBlack": "#404040",
+    "brightRed": "#5F8787",
+    "brightGreen": "#F3ECD4",
+    "brightYellow": "#EECC6C",
+    "brightBlue": "#888888",
+    "brightPurple": "#999999",
+    "brightCyan": "#AAAAAA",
+    "brightWhite": "#C1C1C1",
+    "background": "#000000",
+    "foreground": "#C1C1C1",
+    "cursorColor": "#C1C1C1",
+    "selectionBackground": "#303030"
+}

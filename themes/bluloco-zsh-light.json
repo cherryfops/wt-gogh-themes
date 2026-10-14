@@ -1,0 +1,23 @@
+{
+    "name": "Bluloco Zsh Light",
+    "black": "#E4E5F1",
+    "red": "#D52753",
+    "green": "#23974A",
+    "yellow": "#DF631C",
+    "blue": "#275FE4",
+    "purple": "#823FF1",
+    "cyan": "#27618D",
+    "white": "#000000",
+    "brightBlack": "#5794DE",
+    "brightRed": "#FF6480",
+    "brightGreen": "#3CBC66",
+    "brightYellow": "#C5A332",
+    "brightBlue": "#0099E1",
+    "brightPurple": "#CE33C0",
+    "brightCyan": "#6D93BB",
+    "brightWhite": "#26272D",
+    "background": "#F9F9F9",
+    "foreground": "#383A42",
+    "cursorColor": "#383A42",
+    "selectionBackground": "#C9C9CB"
+}

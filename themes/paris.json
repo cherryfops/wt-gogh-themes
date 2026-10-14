@@ -1,0 +1,23 @@
+{
+    "name": "Paris",
+    "black": "#1A0A30",
+    "red": "#FC618D",
+    "green": "#7BD88F",
+    "yellow": "#FCE566",
+    "blue": "#A3F3FF",
+    "purple": "#C4BDFF",
+    "cyan": "#A3F3FF",
+    "white": "#1A0A30",
+    "brightBlack": "#C4BDFF",
+    "brightRed": "#FC618D",
+    "brightGreen": "#7BD88F",
+    "brightYellow": "#FCE566",
+    "brightBlue": "#A3F3FF",
+    "brightPurple": "#C4BDFF",
+    "brightCyan": "#A3F3FF",
+    "brightWhite": "#F7F1FF",
+    "background": "#1A0A30",
+    "foreground": "#F7F1FF",
+    "cursorColor": "#F7F1FF",
+    "selectionBackground": "#514464"
+}

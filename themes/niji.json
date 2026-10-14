@@ -1,0 +1,23 @@
+{
+    "name": "Niji",
+    "black": "#333333",
+    "red": "#D23E08",
+    "green": "#54CA74",
+    "yellow": "#FFF700",
+    "blue": "#2AB9FF",
+    "purple": "#FF50DA",
+    "cyan": "#1EF9F5",
+    "white": "#DDD0C4",
+    "brightBlack": "#515151",
+    "brightRed": "#FFB7B7",
+    "brightGreen": "#C1FFAE",
+    "brightYellow": "#FCFFB8",
+    "brightBlue": "#8EFFF3",
+    "brightPurple": "#FFA2ED",
+    "brightCyan": "#BCFFC7",
+    "brightWhite": "#FFFFFF",
+    "background": "#141515",
+    "foreground": "#FFFFFF",
+    "cursorColor": "#FFC663",
+    "selectionBackground": "#515151"
+}

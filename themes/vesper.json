@@ -1,0 +1,23 @@
+{
+    "name": "Vesper",
+    "black": "#101010",
+    "red": "#F5A191",
+    "green": "#90B99F",
+    "yellow": "#E6B99D",
+    "blue": "#ACA1CF",
+    "purple": "#E29ECA",
+    "cyan": "#EA83A5",
+    "white": "#A0A0A0",
+    "brightBlack": "#7E7E7E",
+    "brightRed": "#FF8080",
+    "brightGreen": "#99FFE4",
+    "brightYellow": "#FFC799",
+    "brightBlue": "#B9AEDA",
+    "brightPurple": "#ECAAD6",
+    "brightCyan": "#F591B2",
+    "brightWhite": "#FFFFFF",
+    "background": "#101010",
+    "foreground": "#FFFFFF",
+    "cursorColor": "#ACB1AB",
+    "selectionBackground": "#988049"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Arroz Con Dulce Dark",
+    "black": "#21140F",
+    "red": "#E07A8A",
+    "green": "#D47A50",
+    "yellow": "#D9A441",
+    "blue": "#B99AC8",
+    "purple": "#D58AB4",
+    "cyan": "#D98276",
+    "white": "#F2DFC0",
+    "brightBlack": "#A98568",
+    "brightRed": "#E07A8A",
+    "brightGreen": "#D47A50",
+    "brightYellow": "#D9A441",
+    "brightBlue": "#B99AC8",
+    "brightPurple": "#D58AB4",
+    "brightCyan": "#D98276",
+    "brightWhite": "#FFF8E7",
+    "background": "#21140F",
+    "foreground": "#F2DFC0",
+    "cursorColor": "#F2DFC0",
+    "selectionBackground": "#55473B"
+}

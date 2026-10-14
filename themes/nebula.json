@@ -1,0 +1,23 @@
+{
+    "name": "Nebula",
+    "black": "#2E3436",
+    "red": "#FF007A",
+    "green": "#84FF39",
+    "yellow": "#F3D56E",
+    "blue": "#7CB7FF",
+    "purple": "#C74DED",
+    "cyan": "#00E8C6",
+    "white": "#D3D7CF",
+    "brightBlack": "#555753",
+    "brightRed": "#FF007A",
+    "brightGreen": "#84FF39",
+    "brightYellow": "#F3D56E",
+    "brightBlue": "#7CB7FF",
+    "brightPurple": "#C74DED",
+    "brightCyan": "#00E8C6",
+    "brightWhite": "#EEEEEC",
+    "background": "#23262E",
+    "foreground": "#FFFFFF",
+    "cursorColor": "#FFFFFF",
+    "selectionBackground": "#5A5C62"
+}

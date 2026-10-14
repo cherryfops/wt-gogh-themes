@@ -1,0 +1,23 @@
+{
+    "name": "Pro Light",
+    "black": "#000000",
+    "red": "#E5492B",
+    "green": "#50D148",
+    "yellow": "#C6C440",
+    "blue": "#3B75FF",
+    "purple": "#ED66E8",
+    "cyan": "#4ED2DE",
+    "white": "#DCDCDC",
+    "brightBlack": "#9F9F9F",
+    "brightRed": "#FF6640",
+    "brightGreen": "#61EF57",
+    "brightYellow": "#F2F156",
+    "brightBlue": "#0082FF",
+    "brightPurple": "#FF7EFF",
+    "brightCyan": "#61F7F8",
+    "brightWhite": "#F2F2F2",
+    "background": "#FFFFFF",
+    "foreground": "#191919",
+    "cursorColor": "#4D4D4D",
+    "selectionBackground": "#C6C6C6"
+}

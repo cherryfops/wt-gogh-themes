@@ -1,0 +1,23 @@
+{
+    "name": "Taerminal",
+    "black": "#26282A",
+    "red": "#FF8878",
+    "green": "#B4FB73",
+    "yellow": "#FFFCB7",
+    "blue": "#8BBCE5",
+    "purple": "#FFB2FE",
+    "cyan": "#A2E1F8",
+    "white": "#F1F1F1",
+    "brightBlack": "#6F6F6F",
+    "brightRed": "#FE978B",
+    "brightGreen": "#D6FCBA",
+    "brightYellow": "#FFFED5",
+    "brightBlue": "#C2E3FF",
+    "brightPurple": "#FFC6FF",
+    "brightCyan": "#C0E9F8",
+    "brightWhite": "#FFFFFF",
+    "background": "#26282A",
+    "foreground": "#F0F0F0",
+    "cursorColor": "#F0F0F0",
+    "selectionBackground": "#585A5C"
+}

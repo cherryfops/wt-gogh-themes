@@ -1,0 +1,23 @@
+{
+    "name": "Ardoise",
+    "black": "#2C2C2C",
+    "red": "#D3322D",
+    "green": "#588B35",
+    "yellow": "#FCA93A",
+    "blue": "#2465C2",
+    "purple": "#7332B4",
+    "cyan": "#64E1B8",
+    "white": "#F7F7F7",
+    "brightBlack": "#535353",
+    "brightRed": "#FA5852",
+    "brightGreen": "#8DC252",
+    "brightYellow": "#FFEA51",
+    "brightBlue": "#6AB5F8",
+    "brightPurple": "#BE68CA",
+    "brightCyan": "#89FFDB",
+    "brightWhite": "#FEFEFE",
+    "background": "#1E1E1E",
+    "foreground": "#EAEAEA",
+    "cursorColor": "#F7F7F7",
+    "selectionBackground": "#46515E"
+}

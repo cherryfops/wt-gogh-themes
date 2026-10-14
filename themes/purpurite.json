@@ -1,0 +1,23 @@
+{
+    "name": "Purpurite",
+    "black": "#1F2533",
+    "red": "#FF6666",
+    "green": "#99FF99",
+    "yellow": "#FF9966",
+    "blue": "#99BBFF",
+    "purple": "#FF99DD",
+    "cyan": "#99DDFF",
+    "white": "#CCDDFF",
+    "brightBlack": "#3D4B66",
+    "brightRed": "#FF9999",
+    "brightGreen": "#99FFDD",
+    "brightYellow": "#FFCC66",
+    "brightBlue": "#CCDDFF",
+    "brightPurple": "#9999FF",
+    "brightCyan": "#CCEEFF",
+    "brightWhite": "#99FFDD",
+    "background": "#1F2533",
+    "foreground": "#CCDDFF",
+    "cursorColor": "#CCDDFF",
+    "selectionBackground": "#4A5366"
+}

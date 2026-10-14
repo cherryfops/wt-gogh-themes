@@ -1,0 +1,23 @@
+{
+    "name": "Havn Skumring",
+    "black": "#262C45",
+    "red": "#D96048",
+    "green": "#7CAB7F",
+    "yellow": "#EEB64E",
+    "blue": "#5D6BEF",
+    "purple": "#7A729A",
+    "cyan": "#CA8CBE",
+    "white": "#DDE0ED",
+    "brightBlack": "#212840",
+    "brightRed": "#C47768",
+    "brightGreen": "#8F9D90",
+    "brightYellow": "#E4C693",
+    "brightBlue": "#5D85C6",
+    "brightPurple": "#967DE7",
+    "brightCyan": "#C57EB3",
+    "brightWhite": "#FDF6E3",
+    "background": "#121521",
+    "foreground": "#D7DBEA",
+    "cursorColor": "#40786F",
+    "selectionBackground": "#434653"
+}

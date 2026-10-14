@@ -1,0 +1,23 @@
+{
+    "name": "Mirage",
+    "black": "#011627",
+    "red": "#FF9999",
+    "green": "#85CC95",
+    "yellow": "#FFD700",
+    "blue": "#7FB5FF",
+    "purple": "#DDB3FF",
+    "cyan": "#21C7A8",
+    "white": "#FFFFFF",
+    "brightBlack": "#575656",
+    "brightRed": "#FF9999",
+    "brightGreen": "#85CC95",
+    "brightYellow": "#FFD700",
+    "brightBlue": "#7FB5FF",
+    "brightPurple": "#DDB3FF",
+    "brightCyan": "#85CC95",
+    "brightWhite": "#FFFFFF",
+    "background": "#1B2738",
+    "foreground": "#A6B2C0",
+    "cursorColor": "#DDB3FF",
+    "selectionBackground": "#273951"
+}

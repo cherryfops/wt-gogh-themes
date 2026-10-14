@@ -1,0 +1,23 @@
+{
+    "name": "Inferno",
+    "black": "#330000",
+    "red": "#FF3300",
+    "green": "#FF6600",
+    "yellow": "#FF9900",
+    "blue": "#FFCC00",
+    "purple": "#FF6600",
+    "cyan": "#FF9900",
+    "white": "#D9D9D9",
+    "brightBlack": "#663300",
+    "brightRed": "#FF6633",
+    "brightGreen": "#FF9966",
+    "brightYellow": "#FFCC99",
+    "brightBlue": "#FFCC33",
+    "brightPurple": "#FF9966",
+    "brightCyan": "#FFCC99",
+    "brightWhite": "#D9D9D9",
+    "background": "#270D06",
+    "foreground": "#D9D9D9",
+    "cursorColor": "#D9D9D9",
+    "selectionBackground": "#54403B"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Porple",
+    "black": "#292C36",
+    "red": "#F84547",
+    "green": "#95C76F",
+    "yellow": "#EFA16B",
+    "blue": "#8485CE",
+    "purple": "#B74989",
+    "cyan": "#64878F",
+    "white": "#D8D8D8",
+    "brightBlack": "#65568A",
+    "brightRed": "#F84547",
+    "brightGreen": "#95C76F",
+    "brightYellow": "#EFA16B",
+    "brightBlue": "#8485CE",
+    "brightPurple": "#B74989",
+    "brightCyan": "#64878F",
+    "brightWhite": "#F8F8F8",
+    "background": "#292C36",
+    "foreground": "#D8D8D8",
+    "cursorColor": "#D8D8D8",
+    "selectionBackground": "#55575E"
+}

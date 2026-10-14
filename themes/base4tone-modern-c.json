@@ -1,0 +1,23 @@
+{
+    "name": "Base4Tone Modern C",
+    "black": "#221F1C",
+    "red": "#5C6FEB",
+    "green": "#DD407C",
+    "yellow": "#F17EAA",
+    "blue": "#E6971A",
+    "purple": "#1BBBA6",
+    "cyan": "#E96396",
+    "white": "#EEEBE8",
+    "brightBlack": "#0D0B07",
+    "brightRed": "#929FF7",
+    "brightGreen": "#F391B6",
+    "brightYellow": "#F6B1CC",
+    "brightBlue": "#F5D8A8",
+    "brightPurple": "#1ED2BA",
+    "brightCyan": "#F3CD91",
+    "brightWhite": "#F9F8F6",
+    "background": "#221F1C",
+    "foreground": "#A39B8F",
+    "cursorColor": "#817479",
+    "selectionBackground": "#423E39"
+}

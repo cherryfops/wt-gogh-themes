@@ -1,0 +1,23 @@
+{
+    "name": "Grok Day",
+    "black": "#262626",
+    "red": "#CD3048",
+    "green": "#378E23",
+    "yellow": "#A27612",
+    "blue": "#2F64D2",
+    "purple": "#7D4BC6",
+    "cyan": "#0082AA",
+    "white": "#BBBBBB",
+    "brightBlack": "#767676",
+    "brightRed": "#CD3048",
+    "brightGreen": "#378E23",
+    "brightYellow": "#A27612",
+    "brightBlue": "#2F64D2",
+    "brightPurple": "#7D4BC6",
+    "brightCyan": "#0082AA",
+    "brightWhite": "#444444",
+    "background": "#F5F5F5",
+    "foreground": "#262626",
+    "cursorColor": "#7D4BC6",
+    "selectionBackground": "#DEDEDE"
+}

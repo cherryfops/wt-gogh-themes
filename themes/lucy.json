@@ -1,0 +1,23 @@
+{
+    "name": "Lucy",
+    "black": "#2E3436",
+    "red": "#FB7DA7",
+    "green": "#76C5A4",
+    "yellow": "#E8D56D",
+    "blue": "#3465A4",
+    "purple": "#AF98E6",
+    "cyan": "#56C9DB",
+    "white": "#D3D7CF",
+    "brightBlack": "#555753",
+    "brightRed": "#FB7DA7",
+    "brightGreen": "#76C5A4",
+    "brightYellow": "#E8D56D",
+    "brightBlue": "#729FCF",
+    "brightPurple": "#AF98E6",
+    "brightCyan": "#56C9DB",
+    "brightWhite": "#EEEEEC",
+    "background": "#1A1B23",
+    "foreground": "#96979B",
+    "cursorColor": "#96979B",
+    "selectionBackground": "#393A41"
+}

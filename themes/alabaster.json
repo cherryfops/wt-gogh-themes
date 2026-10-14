@@ -1,0 +1,23 @@
+{
+    "name": "Alabaster",
+    "black": "#000000",
+    "red": "#AA3731",
+    "green": "#448C27",
+    "yellow": "#CB9000",
+    "blue": "#325CC0",
+    "purple": "#7A3E9D",
+    "cyan": "#0083B2",
+    "white": "#F7F7F7",
+    "brightBlack": "#777777",
+    "brightRed": "#F05050",
+    "brightGreen": "#60CB00",
+    "brightYellow": "#FFBC5D",
+    "brightBlue": "#007ACC",
+    "brightPurple": "#E64CE6",
+    "brightCyan": "#00AACB",
+    "brightWhite": "#F7F7F7",
+    "background": "#F7F7F7",
+    "foreground": "#000000",
+    "cursorColor": "#007ACC",
+    "selectionBackground": "#B9B9B9"
+}

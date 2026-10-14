@@ -1,0 +1,23 @@
+{
+    "name": "Pinky",
+    "black": "#171517",
+    "red": "#FFA600",
+    "green": "#FF0066",
+    "yellow": "#20DF6C",
+    "blue": "#00FFFF",
+    "purple": "#007FFF",
+    "cyan": "#6600FF",
+    "white": "#F5F5F5",
+    "brightBlack": "#383338",
+    "brightRed": "#FFA600",
+    "brightGreen": "#FF0066",
+    "brightYellow": "#20DF6C",
+    "brightBlue": "#00FFFF",
+    "brightPurple": "#007FFF",
+    "brightCyan": "#6600FF",
+    "brightWhite": "#F7F3F7",
+    "background": "#171517",
+    "foreground": "#F5F5F5",
+    "cursorColor": "#F5F5F5",
+    "selectionBackground": "#4E4D4E"
+}

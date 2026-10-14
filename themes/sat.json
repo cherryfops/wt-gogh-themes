@@ -1,0 +1,23 @@
+{
+    "name": "Sat",
+    "black": "#000000",
+    "red": "#DD0007",
+    "green": "#07DD00",
+    "yellow": "#DDD600",
+    "blue": "#0007DD",
+    "purple": "#D600DD",
+    "cyan": "#00DDD6",
+    "white": "#F2F2F2",
+    "brightBlack": "#7D7D7D",
+    "brightRed": "#FF7478",
+    "brightGreen": "#78FF74",
+    "brightYellow": "#FFFA74",
+    "brightBlue": "#7478FF",
+    "brightPurple": "#FA74FF",
+    "brightCyan": "#74FFFA",
+    "brightWhite": "#FFFFFF",
+    "background": "#758480",
+    "foreground": "#23476A",
+    "cursorColor": "#23476A",
+    "selectionBackground": "#62767B"
+}

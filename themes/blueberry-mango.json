@@ -1,0 +1,23 @@
+{
+    "name": "Blueberry Mango",
+    "black": "#16141E",
+    "red": "#ED7481",
+    "green": "#54B99D",
+    "yellow": "#E0C750",
+    "blue": "#6EE4DE",
+    "purple": "#CA476A",
+    "cyan": "#6FB3BF",
+    "white": "#F1F1F1",
+    "brightBlack": "#4A5060",
+    "brightRed": "#F0A2A3",
+    "brightGreen": "#A0C180",
+    "brightYellow": "#F5E47D",
+    "brightBlue": "#ABFCF3",
+    "brightPurple": "#CC75D0",
+    "brightCyan": "#C7F1FC",
+    "brightWhite": "#FEFEFE",
+    "background": "#181321",
+    "foreground": "#FEFFE0",
+    "cursorColor": "#FEFFE0",
+    "selectionBackground": "#524E51"
+}

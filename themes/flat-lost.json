@@ -1,0 +1,23 @@
+{
+    "name": "Flat Lost",
+    "black": "#2C3E50",
+    "red": "#C0392B",
+    "green": "#27AE60",
+    "yellow": "#F39C12",
+    "blue": "#2980B9",
+    "purple": "#8E44AD",
+    "cyan": "#16A085",
+    "white": "#BDC3C7",
+    "brightBlack": "#34495E",
+    "brightRed": "#E74C3C",
+    "brightGreen": "#2ECC71",
+    "brightYellow": "#F1C40F",
+    "brightBlue": "#3498DB",
+    "brightPurple": "#9B59B6",
+    "brightCyan": "#2AA198",
+    "brightWhite": "#ECF0F1",
+    "background": "#1F2D3A",
+    "foreground": "#1ABC9C",
+    "cursorColor": "#1ABC9C",
+    "selectionBackground": "#1E5152"
+}

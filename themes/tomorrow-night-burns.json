@@ -1,0 +1,23 @@
+{
+    "name": "Tomorrow Night Burns",
+    "black": "#252525",
+    "red": "#832E31",
+    "green": "#A63C40",
+    "yellow": "#D3494E",
+    "blue": "#FC595F",
+    "purple": "#DF9395",
+    "cyan": "#BA8586",
+    "white": "#F5F5F5",
+    "brightBlack": "#5D6F71",
+    "brightRed": "#832E31",
+    "brightGreen": "#A63C40",
+    "brightYellow": "#D2494E",
+    "brightBlue": "#FC595F",
+    "brightPurple": "#DF9395",
+    "brightCyan": "#BA8586",
+    "brightWhite": "#F5F5F5",
+    "background": "#151515",
+    "foreground": "#A1B0B8",
+    "cursorColor": "#FF443E",
+    "selectionBackground": "#B0BEC5"
+}

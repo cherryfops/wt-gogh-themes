@@ -1,0 +1,23 @@
+{
+    "name": "Relaxed",
+    "black": "#151515",
+    "red": "#BC5653",
+    "green": "#909D63",
+    "yellow": "#EBC17A",
+    "blue": "#6A8799",
+    "purple": "#B06698",
+    "cyan": "#C9DFFF",
+    "white": "#D9D9D9",
+    "brightBlack": "#636363",
+    "brightRed": "#BC5653",
+    "brightGreen": "#A0AC77",
+    "brightYellow": "#EBC17A",
+    "brightBlue": "#7EAAC7",
+    "brightPurple": "#B06698",
+    "brightCyan": "#ACBBD0",
+    "brightWhite": "#F7F7F7",
+    "background": "#353A44",
+    "foreground": "#D9D9D9",
+    "cursorColor": "#D9D9D9",
+    "selectionBackground": "#6A7985"
+}

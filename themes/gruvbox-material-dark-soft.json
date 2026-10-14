@@ -1,0 +1,23 @@
+{
+    "name": "Gruvbox Material Dark Soft",
+    "black": "#32302F",
+    "red": "#EA6962",
+    "green": "#A9B665",
+    "yellow": "#D8A657",
+    "blue": "#7DAEA3",
+    "purple": "#D3869B",
+    "cyan": "#89B482",
+    "white": "#DDC7A1",
+    "brightBlack": "#7C6F64",
+    "brightRed": "#EA6962",
+    "brightGreen": "#A9B665",
+    "brightYellow": "#D8A657",
+    "brightBlue": "#7DAEA3",
+    "brightPurple": "#D3869B",
+    "brightCyan": "#89B482",
+    "brightWhite": "#FBF1C7",
+    "background": "#32302F",
+    "foreground": "#DDC7A1",
+    "cursorColor": "#DDC7A1",
+    "selectionBackground": "#5D564C"
+}

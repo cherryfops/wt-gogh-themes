@@ -1,0 +1,23 @@
+{
+    "name": "Hot Dog Stand",
+    "black": "#000000",
+    "red": "#FFFF54",
+    "green": "#FFFF54",
+    "yellow": "#FFFF54",
+    "blue": "#000000",
+    "purple": "#FFFF54",
+    "cyan": "#FFFFFF",
+    "white": "#C6C6C6",
+    "brightBlack": "#000000",
+    "brightRed": "#FFFF54",
+    "brightGreen": "#FFFF54",
+    "brightYellow": "#FFFF54",
+    "brightBlue": "#000000",
+    "brightPurple": "#FFFF54",
+    "brightCyan": "#FFFFFF",
+    "brightWhite": "#C6C6C6",
+    "background": "#EA3323",
+    "foreground": "#FFFFFF",
+    "cursorColor": "#FFFF54",
+    "selectionBackground": "#EF665A"
+}

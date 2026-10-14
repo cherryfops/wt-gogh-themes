@@ -1,0 +1,23 @@
+{
+    "name": "Vice",
+    "black": "#17191E",
+    "red": "#FF29A8",
+    "green": "#0BADFF",
+    "yellow": "#F0FFAA",
+    "blue": "#00EAFF",
+    "purple": "#00F6D9",
+    "cyan": "#8265FF",
+    "white": "#8B9CBE",
+    "brightBlack": "#383A47",
+    "brightRed": "#FF29A8",
+    "brightGreen": "#0BADFF",
+    "brightYellow": "#F0FFAA",
+    "brightBlue": "#00EAFF",
+    "brightPurple": "#00F6D9",
+    "brightCyan": "#8265FF",
+    "brightWhite": "#F4F4F7",
+    "background": "#17191E",
+    "foreground": "#8B9CBE",
+    "cursorColor": "#8B9CBE",
+    "selectionBackground": "#343A46"
+}

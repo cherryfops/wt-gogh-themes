@@ -1,0 +1,23 @@
+{
+    "name": "Bluloco Dark",
+    "black": "#41444D",
+    "red": "#FC2F52",
+    "green": "#25A45C",
+    "yellow": "#FF936A",
+    "blue": "#3476FF",
+    "purple": "#7A82DA",
+    "cyan": "#4483AA",
+    "white": "#CDD4E0",
+    "brightBlack": "#8F9AAE",
+    "brightRed": "#FF6480",
+    "brightGreen": "#3FC56B",
+    "brightYellow": "#F9C859",
+    "brightBlue": "#10B1FE",
+    "brightPurple": "#FF78F8",
+    "brightCyan": "#5FB9BC",
+    "brightWhite": "#FFFFFF",
+    "background": "#282C34",
+    "foreground": "#B9C0CB",
+    "cursorColor": "#FFCC00",
+    "selectionBackground": "#4C515A"
+}

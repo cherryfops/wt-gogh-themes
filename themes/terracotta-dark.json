@@ -1,0 +1,23 @@
+{
+    "name": "Terracotta Dark",
+    "black": "#241D1A",
+    "red": "#F6998F",
+    "green": "#B6C68A",
+    "yellow": "#FFC37A",
+    "blue": "#B0A4C3",
+    "purple": "#D8A2B0",
+    "cyan": "#C0BCDB",
+    "white": "#B8A59D",
+    "brightBlack": "#594740",
+    "brightRed": "#F6998F",
+    "brightGreen": "#B6C68A",
+    "brightYellow": "#FFC37A",
+    "brightBlue": "#B0A4C3",
+    "brightPurple": "#D8A2B0",
+    "brightCyan": "#C0BCDB",
+    "brightWhite": "#DCD2CE",
+    "background": "#241D1A",
+    "foreground": "#B8A59D",
+    "cursorColor": "#B8A59D",
+    "selectionBackground": "#493F3B"
+}

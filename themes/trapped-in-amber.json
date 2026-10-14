@@ -1,0 +1,23 @@
+{
+    "name": "Trapped in Amber",
+    "black": "#4A3220",
+    "red": "#E05C1C",
+    "green": "#7A9C4A",
+    "yellow": "#F0A020",
+    "blue": "#4A7EC9",
+    "purple": "#C95A8C",
+    "cyan": "#7A9EA8",
+    "white": "#FFD9A0",
+    "brightBlack": "#5A4A3A",
+    "brightRed": "#FF7832",
+    "brightGreen": "#A8C46B",
+    "brightYellow": "#FFD700",
+    "brightBlue": "#6B9FFF",
+    "brightPurple": "#FF7FA8",
+    "brightCyan": "#A5C2CC",
+    "brightWhite": "#FFF5E0",
+    "background": "#0A1017",
+    "foreground": "#F0A020",
+    "cursorColor": "#FFC940",
+    "selectionBackground": "#4A3416"
+}

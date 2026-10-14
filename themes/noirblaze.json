@@ -1,0 +1,23 @@
+{
+    "name": "Noirblaze",
+    "black": "#121212",
+    "red": "#FF0088",
+    "green": "#00FF77",
+    "yellow": "#FFFFFF",
+    "blue": "#B0B0B0",
+    "purple": "#7A7A7A",
+    "cyan": "#787878",
+    "white": "#D5D5D5",
+    "brightBlack": "#737373",
+    "brightRed": "#FD319E",
+    "brightGreen": "#FD319E",
+    "brightYellow": "#FDFDFD",
+    "brightBlue": "#BEBEBE",
+    "brightPurple": "#939393",
+    "brightCyan": "#919191",
+    "brightWhite": "#F5F5F5",
+    "background": "#121212",
+    "foreground": "#D5D5D5",
+    "cursorColor": "#D5D5D5",
+    "selectionBackground": "#434343"
+}

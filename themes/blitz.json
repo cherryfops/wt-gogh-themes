@@ -1,0 +1,23 @@
+{
+    "name": "Blitz",
+    "black": "#2E3436",
+    "red": "#F70047",
+    "green": "#00FF7D",
+    "yellow": "#FCDD42",
+    "blue": "#26B3D2",
+    "purple": "#B055F4",
+    "cyan": "#FF8DB4",
+    "white": "#D3D7CF",
+    "brightBlack": "#555753",
+    "brightRed": "#FF5555",
+    "brightGreen": "#55FF55",
+    "brightYellow": "#FFFF55",
+    "brightBlue": "#729FCF",
+    "brightPurple": "#FF55FF",
+    "brightCyan": "#34E2E2",
+    "brightWhite": "#EEEEEC",
+    "background": "#16141E",
+    "foreground": "#00ECC8",
+    "cursorColor": "#00ECC8",
+    "selectionBackground": "#104A48"
+}

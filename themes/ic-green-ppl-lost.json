@@ -1,0 +1,23 @@
+{
+    "name": "IC Green PPL Lost",
+    "black": "#1F1F1F",
+    "red": "#FB002A",
+    "green": "#339C24",
+    "yellow": "#659B25",
+    "blue": "#149B45",
+    "purple": "#53B82C",
+    "cyan": "#2CB868",
+    "white": "#E0FFEF",
+    "brightBlack": "#032710",
+    "brightRed": "#A7FF3F",
+    "brightGreen": "#9FFF6D",
+    "brightYellow": "#D2FF6D",
+    "brightBlue": "#72FFB5",
+    "brightPurple": "#50FF3E",
+    "brightCyan": "#22FF71",
+    "brightWhite": "#DAEFD0",
+    "background": "#3A3D3F",
+    "foreground": "#D9EFD3",
+    "cursorColor": "#D9EFD3",
+    "selectionBackground": "#626A64"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Synthwave Lost",
+    "black": "#011627",
+    "red": "#FE4450",
+    "green": "#72F1B8",
+    "yellow": "#FEDE5D",
+    "blue": "#03EDF9",
+    "purple": "#FF7EDB",
+    "cyan": "#03EDF9",
+    "white": "#FFFFFF",
+    "brightBlack": "#575656",
+    "brightRed": "#FE4450",
+    "brightGreen": "#72F1B8",
+    "brightYellow": "#FEDE5D",
+    "brightBlue": "#03EDF9",
+    "brightPurple": "#FF7EDB",
+    "brightCyan": "#03EDF9",
+    "brightWhite": "#FFFFFF",
+    "background": "#262335",
+    "foreground": "#FFFFFF",
+    "cursorColor": "#03EDF9",
+    "selectionBackground": "#5C5A68"
+}

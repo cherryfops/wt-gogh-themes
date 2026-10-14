@@ -1,0 +1,23 @@
+{
+    "name": "Noctis Obscuro",
+    "black": "#324A4D",
+    "red": "#E66533",
+    "green": "#49E9A6",
+    "yellow": "#E4B781",
+    "blue": "#49ACE9",
+    "purple": "#DF769B",
+    "cyan": "#49D6E9",
+    "white": "#B2CACD",
+    "brightBlack": "#47686C",
+    "brightRed": "#E97749",
+    "brightGreen": "#60EBB1",
+    "brightYellow": "#E69533",
+    "brightBlue": "#60B6EB",
+    "brightPurple": "#E798B3",
+    "brightCyan": "#60DBEB",
+    "brightWhite": "#C1D4D7",
+    "background": "#031417",
+    "foreground": "#B2CACD",
+    "cursorColor": "#B2CACD",
+    "selectionBackground": "#0D2A2F"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Red Planet",
+    "black": "#202020",
+    "red": "#8C3432",
+    "green": "#728271",
+    "yellow": "#E8BF6A",
+    "blue": "#69819E",
+    "purple": "#896492",
+    "cyan": "#5B8390",
+    "white": "#B9AA99",
+    "brightBlack": "#676767",
+    "brightRed": "#B55242",
+    "brightGreen": "#869985",
+    "brightYellow": "#EBEB91",
+    "brightBlue": "#60827E",
+    "brightPurple": "#DE4974",
+    "brightCyan": "#38ADD8",
+    "brightWhite": "#D6BFB8",
+    "background": "#222222",
+    "foreground": "#C2B790",
+    "cursorColor": "#C2B790",
+    "selectionBackground": "#1B324A"
+}

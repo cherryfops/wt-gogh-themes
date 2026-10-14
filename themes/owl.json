@@ -1,0 +1,23 @@
+{
+    "name": "owl",
+    "black": "#302C2C",
+    "red": "#5A5A5A",
+    "green": "#989898",
+    "yellow": "#CACACA",
+    "blue": "#656565",
+    "purple": "#B1B1B1",
+    "cyan": "#7F7F7F",
+    "white": "#DEDEDE",
+    "brightBlack": "#5D595B",
+    "brightRed": "#DA5B2C",
+    "brightGreen": "#989898",
+    "brightYellow": "#CACACA",
+    "brightBlue": "#656565",
+    "brightPurple": "#B1B1B1",
+    "brightCyan": "#7F7F7F",
+    "brightWhite": "#FFFFFF",
+    "background": "#2F2B2C",
+    "foreground": "#DEDEDE",
+    "cursorColor": "#DEDEDE",
+    "selectionBackground": "#5B5858"
+}

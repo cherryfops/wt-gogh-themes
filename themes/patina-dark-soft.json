@@ -1,0 +1,23 @@
+{
+    "name": "Patina Dark Soft",
+    "black": "#2E2E2E",
+    "red": "#CB7676",
+    "green": "#549C7D",
+    "yellow": "#E6CC77",
+    "blue": "#6DB3C2",
+    "purple": "#C98A7D",
+    "cyan": "#5DA9A7",
+    "white": "#DBD7CA",
+    "brightBlack": "#585858",
+    "brightRed": "#CB7676",
+    "brightGreen": "#549C7D",
+    "brightYellow": "#E6CC77",
+    "brightBlue": "#6DB3C2",
+    "brightPurple": "#C98A7D",
+    "brightCyan": "#5DA9A7",
+    "brightWhite": "#DBD7CA",
+    "background": "#1A1A1A",
+    "foreground": "#DBD7CA",
+    "cursorColor": "#DBD7CA",
+    "selectionBackground": "#3A3835"
+}

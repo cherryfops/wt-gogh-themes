@@ -1,0 +1,23 @@
+{
+    "name": "Base2Tone Earth",
+    "black": "#322D29",
+    "red": "#816D5F",
+    "green": "#D9B154",
+    "yellow": "#FCC440",
+    "blue": "#88786D",
+    "purple": "#D9B154",
+    "cyan": "#967E6E",
+    "white": "#B5A9A1",
+    "brightBlack": "#6A5F58",
+    "brightRed": "#E6B84D",
+    "brightGreen": "#3F3A37",
+    "brightYellow": "#5B534D",
+    "brightBlue": "#796B63",
+    "brightPurple": "#DFB99F",
+    "brightCyan": "#CDA956",
+    "brightWhite": "#FFF3EB",
+    "background": "#322D29",
+    "foreground": "#B5A9A1",
+    "cursorColor": "#9C8349",
+    "selectionBackground": "#534C47"
+}

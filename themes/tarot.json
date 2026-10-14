@@ -1,0 +1,23 @@
+{
+    "name": "Tarot",
+    "black": "#0E091D",
+    "red": "#C53253",
+    "green": "#A68E5A",
+    "yellow": "#FF6565",
+    "blue": "#6E6080",
+    "purple": "#A45782",
+    "cyan": "#8C9785",
+    "white": "#AA556F",
+    "brightBlack": "#74316B",
+    "brightRed": "#C53253",
+    "brightGreen": "#A68E5A",
+    "brightYellow": "#FF6565",
+    "brightBlue": "#6E6080",
+    "brightPurple": "#A45782",
+    "brightCyan": "#8C9785",
+    "brightWhite": "#DC8F7C",
+    "background": "#0E091D",
+    "foreground": "#AA556F",
+    "cursorColor": "#AA556F",
+    "selectionBackground": "#351C32"
+}

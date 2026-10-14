@@ -1,0 +1,23 @@
+{
+    "name": "SeedFlip Amethyst",
+    "black": "#D7D1CB",
+    "red": "#BD0F0F",
+    "green": "#0FBD49",
+    "yellow": "#BDA00F",
+    "blue": "#0F58BD",
+    "purple": "#BD0FBD",
+    "cyan": "#0FBDBD",
+    "white": "#0E0519",
+    "brightBlack": "#B5ABA0",
+    "brightRed": "#EE2B2B",
+    "brightGreen": "#12D452",
+    "brightYellow": "#D4B312",
+    "brightBlue": "#2B7CEE",
+    "brightPurple": "#EE2BEE",
+    "brightCyan": "#05C8C8",
+    "brightWhite": "#1A0A2E",
+    "background": "#F8F7F6",
+    "foreground": "#1A0A2E",
+    "cursorColor": "#635BFF",
+    "selectionBackground": "#FFFFFF"
+}

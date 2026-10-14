@@ -1,0 +1,23 @@
+{
+    "name": "Pali",
+    "black": "#0A0A0A",
+    "red": "#AB8F74",
+    "green": "#74AB8F",
+    "yellow": "#8FAB74",
+    "blue": "#8F74AB",
+    "purple": "#AB748F",
+    "cyan": "#748FAB",
+    "white": "#F2F2F2",
+    "brightBlack": "#5D5D5D",
+    "brightRed": "#FF1D62",
+    "brightGreen": "#9CC3AF",
+    "brightYellow": "#FFD00A",
+    "brightBlue": "#AF9CC3",
+    "brightPurple": "#FF1D62",
+    "brightCyan": "#4BB8FD",
+    "brightWhite": "#A020F0",
+    "background": "#232E37",
+    "foreground": "#D9E6F2",
+    "cursorColor": "#D9E6F2",
+    "selectionBackground": "#505C66"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Hybrid",
+    "black": "#2A2E33",
+    "red": "#B84D51",
+    "green": "#B3BF5A",
+    "yellow": "#E4B55E",
+    "blue": "#6E90B0",
+    "purple": "#A17EAC",
+    "cyan": "#7FBFB4",
+    "white": "#B5B9B6",
+    "brightBlack": "#1D1F22",
+    "brightRed": "#8D2E32",
+    "brightGreen": "#798431",
+    "brightYellow": "#E58A50",
+    "brightBlue": "#4B6B88",
+    "brightPurple": "#6E5079",
+    "brightCyan": "#4D7B74",
+    "brightWhite": "#5A626A",
+    "background": "#161719",
+    "foreground": "#B7BCBA",
+    "cursorColor": "#B7BCBA",
+    "selectionBackground": "#3E4041"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Base2Tone Forest",
+    "black": "#2A2D2A",
+    "red": "#5C705C",
+    "green": "#BFD454",
+    "yellow": "#E5FB79",
+    "blue": "#687D68",
+    "purple": "#BFD454",
+    "cyan": "#8FAE8F",
+    "white": "#A1B5A1",
+    "brightBlack": "#535F53",
+    "brightRed": "#CBE25A",
+    "brightGreen": "#353B35",
+    "brightYellow": "#485148",
+    "brightBlue": "#5E6E5E",
+    "brightPurple": "#C8E4C8",
+    "brightCyan": "#B1C44F",
+    "brightWhite": "#F0FFF0",
+    "background": "#2A2D2A",
+    "foreground": "#A1B5A1",
+    "cursorColor": "#818B4B",
+    "selectionBackground": "#484F48"
+}

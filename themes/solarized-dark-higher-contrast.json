@@ -1,0 +1,23 @@
+{
+    "name": "Solarized Dark Higher Contrast",
+    "black": "#002831",
+    "red": "#D11C24",
+    "green": "#6CBE6C",
+    "yellow": "#A57706",
+    "blue": "#2176C7",
+    "purple": "#C61C6F",
+    "cyan": "#259286",
+    "white": "#EAE3CB",
+    "brightBlack": "#006488",
+    "brightRed": "#F5163B",
+    "brightGreen": "#51EF84",
+    "brightYellow": "#B27E28",
+    "brightBlue": "#178EC8",
+    "brightPurple": "#E24D8E",
+    "brightCyan": "#00B39E",
+    "brightWhite": "#FCF4DC",
+    "background": "#001E27",
+    "foreground": "#9CC2C3",
+    "cursorColor": "#F34B00",
+    "selectionBackground": "#003748"
+}

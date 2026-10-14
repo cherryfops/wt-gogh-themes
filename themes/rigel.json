@@ -1,0 +1,23 @@
+{
+    "name": "Rigel",
+    "black": "#00384D",
+    "red": "#C43061",
+    "green": "#7FC06E",
+    "yellow": "#F08E48",
+    "blue": "#1C8DB2",
+    "purple": "#C694FF",
+    "cyan": "#00CCCC",
+    "white": "#77929E",
+    "brightBlack": "#517F8D",
+    "brightRed": "#FF5A67",
+    "brightGreen": "#9CF087",
+    "brightYellow": "#FFCC1B",
+    "brightBlue": "#7EB2DD",
+    "brightPurple": "#FB94FF",
+    "brightCyan": "#00FFFF",
+    "brightWhite": "#B7CFF9",
+    "background": "#002635",
+    "foreground": "#E6E6DC",
+    "cursorColor": "#E6E6DC",
+    "selectionBackground": "#3A565F"
+}

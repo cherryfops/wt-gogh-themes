@@ -1,0 +1,23 @@
+{
+    "name": "Sierra",
+    "black": "#0E0E04",
+    "red": "#515A45",
+    "green": "#68694F",
+    "yellow": "#7F7F60",
+    "blue": "#989876",
+    "purple": "#897C5B",
+    "cyan": "#A18E60",
+    "white": "#BB7774",
+    "brightBlack": "#A85E5D",
+    "brightRed": "#475A2E",
+    "brightGreen": "#676938",
+    "brightYellow": "#7F7F41",
+    "brightBlue": "#98984E",
+    "brightPurple": "#897645",
+    "brightCyan": "#A17140",
+    "brightWhite": "#C9CBAC",
+    "background": "#1C1A14",
+    "foreground": "#CACBB9",
+    "cursorColor": "#CACBB9",
+    "selectionBackground": "#48463D"
+}

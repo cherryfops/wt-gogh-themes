@@ -1,0 +1,23 @@
+{
+    "name": "Bloody",
+    "black": "#2E3436",
+    "red": "#FF512F",
+    "green": "#B2FFA9",
+    "yellow": "#FFFD82",
+    "blue": "#3185FC",
+    "purple": "#DD2476",
+    "cyan": "#66D7D1",
+    "white": "#F2EFEA",
+    "brightBlack": "#555753",
+    "brightRed": "#FF512F",
+    "brightGreen": "#B2FFA9",
+    "brightYellow": "#FFFD82",
+    "brightBlue": "#3185FC",
+    "brightPurple": "#DD2476",
+    "brightCyan": "#66D7D1",
+    "brightWhite": "#F2EFEA",
+    "background": "#1E1F29",
+    "foreground": "#AAAAAA",
+    "cursorColor": "#AAAAAA",
+    "selectionBackground": "#414249"
+}

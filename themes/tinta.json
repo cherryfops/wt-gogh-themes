@@ -1,0 +1,23 @@
+{
+    "name": "Tinta",
+    "black": "#101012",
+    "red": "#D0726A",
+    "green": "#9AA890",
+    "yellow": "#C8B86A",
+    "blue": "#8A9AB0",
+    "purple": "#B0A0B8",
+    "cyan": "#80B8B4",
+    "white": "#D8D6D0",
+    "brightBlack": "#62626A",
+    "brightRed": "#D0726A",
+    "brightGreen": "#9AA890",
+    "brightYellow": "#C8B86A",
+    "brightBlue": "#8A9AB0",
+    "brightPurple": "#B0A0B8",
+    "brightCyan": "#80B8B4",
+    "brightWhite": "#EEECE6",
+    "background": "#101012",
+    "foreground": "#D8D6D0",
+    "cursorColor": "#D8D6D0",
+    "selectionBackground": "#424242"
+}

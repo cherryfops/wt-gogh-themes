@@ -1,0 +1,23 @@
+{
+    "name": "Neovim Dark",
+    "black": "#14161B",
+    "red": "#FFC0B9",
+    "green": "#B3F6C0",
+    "yellow": "#FCE094",
+    "blue": "#A6DBFF",
+    "purple": "#FFCAFF",
+    "cyan": "#8CF8F7",
+    "white": "#E0E2EA",
+    "brightBlack": "#9B9EA4",
+    "brightRed": "#FFC0B9",
+    "brightGreen": "#B3F6C0",
+    "brightYellow": "#FCE094",
+    "brightBlue": "#A6DBFF",
+    "brightPurple": "#FFCAFF",
+    "brightCyan": "#8CF8F7",
+    "brightWhite": "#EEF1F8",
+    "background": "#14161B",
+    "foreground": "#E0E2EA",
+    "cursorColor": "#E0E2EA",
+    "selectionBackground": "#47494F"
+}

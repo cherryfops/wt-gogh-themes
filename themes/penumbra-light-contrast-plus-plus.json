@@ -1,0 +1,23 @@
+{
+    "name": "Penumbra Light Contrast Plus Plus",
+    "black": "#FFFDFB",
+    "red": "#F58C81",
+    "green": "#54C794",
+    "yellow": "#A9B852",
+    "blue": "#6EB2FD",
+    "purple": "#B69CF6",
+    "cyan": "#00C4D7",
+    "white": "#636363",
+    "brightBlack": "#DEDEDE",
+    "brightRed": "#F58C81",
+    "brightGreen": "#54C794",
+    "brightYellow": "#A9B852",
+    "brightBlue": "#6EB2FD",
+    "brightPurple": "#B69CF6",
+    "brightCyan": "#00C4D7",
+    "brightWhite": "#0D0F13",
+    "background": "#FFFDFB",
+    "foreground": "#636363",
+    "cursorColor": "#636363",
+    "selectionBackground": "#D8D6D5"
+}

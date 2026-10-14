@@ -1,0 +1,23 @@
+{
+    "name": "Tomorrow",
+    "black": "#000000",
+    "red": "#C82829",
+    "green": "#718C00",
+    "yellow": "#EAB700",
+    "blue": "#4271AE",
+    "purple": "#8959A8",
+    "cyan": "#3E999F",
+    "white": "#FFFFFF",
+    "brightBlack": "#000000",
+    "brightRed": "#C82829",
+    "brightGreen": "#718C00",
+    "brightYellow": "#EAB700",
+    "brightBlue": "#4271AE",
+    "brightPurple": "#8959A8",
+    "brightCyan": "#3E999F",
+    "brightWhite": "#FFFFFF",
+    "background": "#FFFFFF",
+    "foreground": "#4D4D4C",
+    "cursorColor": "#4D4D4C",
+    "selectionBackground": "#D2D2D2"
+}

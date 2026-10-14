@@ -1,0 +1,23 @@
+{
+    "name": "Cyberpunk",
+    "black": "#000000",
+    "red": "#FF7092",
+    "green": "#00FBAC",
+    "yellow": "#FFFA6A",
+    "blue": "#00BFFF",
+    "purple": "#DF95FF",
+    "cyan": "#86CBFE",
+    "white": "#FFFFFF",
+    "brightBlack": "#000000",
+    "brightRed": "#FF8AA4",
+    "brightGreen": "#21F6BC",
+    "brightYellow": "#FFF787",
+    "brightBlue": "#1BCCFD",
+    "brightPurple": "#E6AEFE",
+    "brightCyan": "#99D6FC",
+    "brightWhite": "#FFFFFF",
+    "background": "#332A57",
+    "foreground": "#E5E5E5",
+    "cursorColor": "#21F6BC",
+    "selectionBackground": "#60597A"
+}

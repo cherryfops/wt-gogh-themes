@@ -1,0 +1,23 @@
+{
+    "name": "IRIX Console",
+    "black": "#1A1919",
+    "red": "#D42426",
+    "green": "#37A327",
+    "yellow": "#C29D28",
+    "blue": "#0739E2",
+    "purple": "#911F9C",
+    "cyan": "#4497DF",
+    "white": "#CCCCCC",
+    "brightBlack": "#767676",
+    "brightRed": "#F34F59",
+    "brightGreen": "#45C731",
+    "brightYellow": "#F9F2A7",
+    "brightBlue": "#4079FF",
+    "brightPurple": "#C31BA2",
+    "brightCyan": "#6ED7D7",
+    "brightWhite": "#F2F2F2",
+    "background": "#0C0C0C",
+    "foreground": "#F2F2F2",
+    "cursorColor": "#C7C7C7",
+    "selectionBackground": "#C2DEFF"
+}

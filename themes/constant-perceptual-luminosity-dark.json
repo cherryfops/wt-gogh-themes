@@ -1,0 +1,23 @@
+{
+    "name": "Constant Perceptual Luminosity Dark",
+    "black": "#000000",
+    "red": "#B10B00",
+    "green": "#007232",
+    "yellow": "#745B00",
+    "blue": "#3123FF",
+    "purple": "#9B0097",
+    "cyan": "#006A78",
+    "white": "#777777",
+    "brightBlack": "#464646",
+    "brightRed": "#FF3D2B",
+    "brightGreen": "#00AE50",
+    "brightYellow": "#B18C00",
+    "brightBlue": "#6786FF",
+    "brightPurple": "#EB00E4",
+    "brightCyan": "#00A3B7",
+    "brightWhite": "#ABABAB",
+    "background": "#000000",
+    "foreground": "#777777",
+    "cursorColor": "#777777",
+    "selectionBackground": "#1E1E1E"
+}

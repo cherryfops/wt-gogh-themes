@@ -1,0 +1,23 @@
+{
+    "name": "Karasu Night",
+    "black": "#0A0A0A",
+    "red": "#E06C75",
+    "green": "#8FBF7A",
+    "yellow": "#D4B86A",
+    "blue": "#7AA2C8",
+    "purple": "#B4A1D8",
+    "cyan": "#76B7B2",
+    "white": "#F5F5F5",
+    "brightBlack": "#44403C",
+    "brightRed": "#FF5C5C",
+    "brightGreen": "#A6D189",
+    "brightYellow": "#E8D07D",
+    "brightBlue": "#8CB4E2",
+    "brightPurple": "#C7B3EE",
+    "brightCyan": "#8AD4CE",
+    "brightWhite": "#E7E5E4",
+    "background": "#0A0A0A",
+    "foreground": "#E7E5E4",
+    "cursorColor": "#F5F5F5",
+    "selectionBackground": "#262626"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Tempus Rift",
+    "black": "#162C22",
+    "red": "#C19904",
+    "green": "#34B534",
+    "yellow": "#7FAD00",
+    "blue": "#30AEB0",
+    "purple": "#C8954C",
+    "cyan": "#5FAD8F",
+    "white": "#AB9AA9",
+    "brightBlack": "#283431",
+    "brightRed": "#D2A634",
+    "brightGreen": "#6AC134",
+    "brightYellow": "#82BD00",
+    "brightBlue": "#56BDAD",
+    "brightPurple": "#CCA0BA",
+    "brightCyan": "#10C480",
+    "brightWhite": "#BBBCBC",
+    "background": "#162C22",
+    "foreground": "#BBBCBC",
+    "cursorColor": "#BBBCBC",
+    "selectionBackground": "#3F5048"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Atelier Heath",
+    "black": "#1B181B",
+    "red": "#CA402B",
+    "green": "#918B3B",
+    "yellow": "#BB8A35",
+    "blue": "#516AEC",
+    "purple": "#7B59C0",
+    "cyan": "#159393",
+    "white": "#AB9BAB",
+    "brightBlack": "#776977",
+    "brightRed": "#A65926",
+    "brightGreen": "#918B3B",
+    "brightYellow": "#BB8A35",
+    "brightBlue": "#516AEC",
+    "brightPurple": "#7B59C0",
+    "brightCyan": "#159393",
+    "brightWhite": "#F7F3F7",
+    "background": "#1B181B",
+    "foreground": "#9E8F9E",
+    "cursorColor": "#9E8F9E",
+    "selectionBackground": "#3C363C"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Seafoam Pastel",
+    "black": "#757575",
+    "red": "#825D4D",
+    "green": "#728C62",
+    "yellow": "#ADA16D",
+    "blue": "#4D7B82",
+    "purple": "#8A7267",
+    "cyan": "#729494",
+    "white": "#E0E0E0",
+    "brightBlack": "#8A8A8A",
+    "brightRed": "#CF937A",
+    "brightGreen": "#98D9AA",
+    "brightYellow": "#FAE79D",
+    "brightBlue": "#7AC3CF",
+    "brightPurple": "#D6B2A1",
+    "brightCyan": "#ADE0E0",
+    "brightWhite": "#E0E0E0",
+    "background": "#243435",
+    "foreground": "#D4E7D4",
+    "cursorColor": "#57647A",
+    "selectionBackground": "#FFFFFF"
+}

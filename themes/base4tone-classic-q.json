@@ -1,0 +1,23 @@
+{
+    "name": "Base4Tone Classic Q",
+    "black": "#1D1D20",
+    "red": "#D4359A",
+    "green": "#4287F5",
+    "yellow": "#88B4FC",
+    "blue": "#A095F3",
+    "purple": "#BA6CEA",
+    "cyan": "#659EFB",
+    "white": "#E9E8ED",
+    "brightBlack": "#08070D",
+    "brightRed": "#EB75C0",
+    "brightGreen": "#9CC1FC",
+    "brightYellow": "#C2D9FF",
+    "brightBlue": "#D9D5FC",
+    "brightPurple": "#C988F2",
+    "brightCyan": "#D1CBFB",
+    "brightWhite": "#F6F6F9",
+    "background": "#1D1D20",
+    "foreground": "#95949E",
+    "cursorColor": "#67768E",
+    "selectionBackground": "#3B3B40"
+}

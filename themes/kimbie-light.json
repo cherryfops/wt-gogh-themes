@@ -1,0 +1,23 @@
+{
+    "name": "Kimbie Light",
+    "black": "#FBEBD4",
+    "red": "#D43552",
+    "green": "#B8BB26",
+    "yellow": "#F0C674",
+    "blue": "#7CAFC2",
+    "purple": "#D3869B",
+    "cyan": "#8ABEB7",
+    "white": "#6E5346",
+    "brightBlack": "#F7E4C6",
+    "brightRed": "#D43552",
+    "brightGreen": "#B8BB26",
+    "brightYellow": "#F0C674",
+    "brightBlue": "#7CAFC2",
+    "brightPurple": "#D3869B",
+    "brightCyan": "#8ABEB7",
+    "brightWhite": "#4A3631",
+    "background": "#FBEBD4",
+    "foreground": "#6E5346",
+    "cursorColor": "#6E5346",
+    "selectionBackground": "#D8C5B0"
+}

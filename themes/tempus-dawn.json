@@ -1,0 +1,23 @@
+{
+    "name": "Tempus Dawn",
+    "black": "#4A4B4E",
+    "red": "#A32A3A",
+    "green": "#206620",
+    "yellow": "#745300",
+    "blue": "#4B529A",
+    "purple": "#8D377E",
+    "cyan": "#086784",
+    "white": "#DEE2E0",
+    "brightBlack": "#676364",
+    "brightRed": "#A64822",
+    "brightGreen": "#187408",
+    "brightYellow": "#8B590A",
+    "brightBlue": "#5C59B2",
+    "brightPurple": "#8E45A8",
+    "brightCyan": "#3F649C",
+    "brightWhite": "#EFF0F2",
+    "background": "#EFF0F2",
+    "foreground": "#4A4B4E",
+    "cursorColor": "#4A4B4E",
+    "selectionBackground": "#C6C7C9"
+}

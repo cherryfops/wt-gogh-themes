@@ -1,0 +1,23 @@
+{
+    "name": "Marrakesh",
+    "black": "#201602",
+    "red": "#C35359",
+    "green": "#18974E",
+    "yellow": "#A88339",
+    "blue": "#477CA1",
+    "purple": "#8868B3",
+    "cyan": "#75A738",
+    "white": "#948E48",
+    "brightBlack": "#6C6823",
+    "brightRed": "#C35359",
+    "brightGreen": "#18974E",
+    "brightYellow": "#A88339",
+    "brightBlue": "#477CA1",
+    "brightPurple": "#8868B3",
+    "brightCyan": "#75A738",
+    "brightWhite": "#FAF0A5",
+    "background": "#201602",
+    "foreground": "#948E48",
+    "cursorColor": "#948E48",
+    "selectionBackground": "#3D3414"
+}

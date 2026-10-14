@@ -1,0 +1,23 @@
+{
+    "name": "Candy",
+    "black": "#2E3436",
+    "red": "#FA2573",
+    "green": "#A6E32D",
+    "yellow": "#FC951E",
+    "blue": "#C48DFF",
+    "purple": "#FA2573",
+    "cyan": "#67D9F0",
+    "white": "#F2F2F2",
+    "brightBlack": "#555753",
+    "brightRed": "#FA2573",
+    "brightGreen": "#8AE234",
+    "brightYellow": "#FCE94F",
+    "brightBlue": "#729FCF",
+    "brightPurple": "#FA2573",
+    "brightCyan": "#34E2E2",
+    "brightWhite": "#EEEEEC",
+    "background": "#000000",
+    "foreground": "#AAAAAA",
+    "cursorColor": "#AAAAAA",
+    "selectionBackground": "#2A2A2A"
+}

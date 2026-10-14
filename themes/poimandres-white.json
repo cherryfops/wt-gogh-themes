@@ -1,0 +1,23 @@
+{
+    "name": "Poimandres White",
+    "black": "#FEFEFF",
+    "red": "#FF2090",
+    "green": "#01DAB2",
+    "yellow": "#E5BA4E",
+    "blue": "#8ABACD",
+    "purple": "#EB8394",
+    "cyan": "#8ABACD",
+    "white": "#000000",
+    "brightBlack": "#969CBD",
+    "brightRed": "#FF2090",
+    "brightGreen": "#01DAB2",
+    "brightYellow": "#E5BA4E",
+    "brightBlue": "#0EBFFF",
+    "brightPurple": "#EB8394",
+    "brightCyan": "#0EBFFF",
+    "brightWhite": "#000000",
+    "background": "#FEFEFF",
+    "foreground": "#969CBD",
+    "cursorColor": "#969CBD",
+    "selectionBackground": "#E4E6EE"
+}

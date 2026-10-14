@@ -1,0 +1,23 @@
+{
+    "name": "Windows 95",
+    "black": "#000000",
+    "red": "#FC5454",
+    "green": "#54FC54",
+    "yellow": "#FCFC54",
+    "blue": "#5454FC",
+    "purple": "#FC54FC",
+    "cyan": "#54FCFC",
+    "white": "#A8A8A8",
+    "brightBlack": "#545454",
+    "brightRed": "#FC5454",
+    "brightGreen": "#54FC54",
+    "brightYellow": "#FCFC54",
+    "brightBlue": "#5454FC",
+    "brightPurple": "#FC54FC",
+    "brightCyan": "#54FCFC",
+    "brightWhite": "#FCFCFC",
+    "background": "#000000",
+    "foreground": "#A8A8A8",
+    "cursorColor": "#A8A8A8",
+    "selectionBackground": "#2A2A2A"
+}

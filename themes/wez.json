@@ -1,0 +1,23 @@
+{
+    "name": "Wez",
+    "black": "#000000",
+    "red": "#CC5555",
+    "green": "#55CC55",
+    "yellow": "#CDCD55",
+    "blue": "#5555CC",
+    "purple": "#CC55CC",
+    "cyan": "#7ACACA",
+    "white": "#CCCCCC",
+    "brightBlack": "#555555",
+    "brightRed": "#FF5555",
+    "brightGreen": "#55FF55",
+    "brightYellow": "#FFFF55",
+    "brightBlue": "#5555FF",
+    "brightPurple": "#FF55FF",
+    "brightCyan": "#55FFFF",
+    "brightWhite": "#FFFFFF",
+    "background": "#000000",
+    "foreground": "#B3B3B3",
+    "cursorColor": "#53AE71",
+    "selectionBackground": "#4D52F8"
+}

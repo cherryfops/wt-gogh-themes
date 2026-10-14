@@ -1,0 +1,23 @@
+{
+    "name": "traffic",
+    "black": "#292D31",
+    "red": "#8A5249",
+    "green": "#667269",
+    "yellow": "#C1A088",
+    "blue": "#535E66",
+    "purple": "#6E605E",
+    "cyan": "#606E7C",
+    "white": "#CBBAAA",
+    "brightBlack": "#434A50",
+    "brightRed": "#8A5249",
+    "brightGreen": "#667270",
+    "brightYellow": "#C1A088",
+    "brightBlue": "#535E66",
+    "brightPurple": "#6E605E",
+    "brightCyan": "#606E7C",
+    "brightWhite": "#DACFC3",
+    "background": "#282C30",
+    "foreground": "#CBBAAA",
+    "cursorColor": "#CBBAAA",
+    "selectionBackground": "#51504E"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Pasque",
+    "black": "#271C3A",
+    "red": "#A92258",
+    "green": "#C6914B",
+    "yellow": "#804EAD",
+    "blue": "#8E7DC6",
+    "purple": "#953B9D",
+    "cyan": "#7263AA",
+    "white": "#DEDCDF",
+    "brightBlack": "#5D5766",
+    "brightRed": "#A92258",
+    "brightGreen": "#C6914B",
+    "brightYellow": "#804EAD",
+    "brightBlue": "#8E7DC6",
+    "brightPurple": "#953B9D",
+    "brightCyan": "#7263AA",
+    "brightWhite": "#BBAADD",
+    "background": "#271C3A",
+    "foreground": "#DEDCDF",
+    "cursorColor": "#DEDCDF",
+    "selectionBackground": "#554C63"
+}

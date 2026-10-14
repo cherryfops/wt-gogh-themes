@@ -1,0 +1,23 @@
+{
+    "name": "Duotone Dark",
+    "black": "#1F1D27",
+    "red": "#D9393E",
+    "green": "#2DCD73",
+    "yellow": "#D9B76E",
+    "blue": "#FFC284",
+    "purple": "#DE8D40",
+    "cyan": "#2488FF",
+    "white": "#B7A1FF",
+    "brightBlack": "#353147",
+    "brightRed": "#D9393E",
+    "brightGreen": "#2DCD73",
+    "brightYellow": "#D9B76E",
+    "brightBlue": "#FFC284",
+    "brightPurple": "#DE8D40",
+    "brightCyan": "#2488FF",
+    "brightWhite": "#EAE5FF",
+    "background": "#1F1D27",
+    "foreground": "#B7A1FF",
+    "cursorColor": "#FF9839",
+    "selectionBackground": "#453E5D"
+}

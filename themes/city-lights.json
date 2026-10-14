@@ -1,0 +1,23 @@
+{
+    "name": "City Lights",
+    "black": "#41505E",
+    "red": "#D95468",
+    "green": "#8BD49C",
+    "yellow": "#EBBF83",
+    "blue": "#539AFC",
+    "purple": "#B62D65",
+    "cyan": "#70E1E8",
+    "white": "#FFFFFF",
+    "brightBlack": "#41505E",
+    "brightRed": "#D95468",
+    "brightGreen": "#8BD49C",
+    "brightYellow": "#EBBF83",
+    "brightBlue": "#539AFC",
+    "brightPurple": "#B62D65",
+    "brightCyan": "#70E1E8",
+    "brightWhite": "#FFFFFF",
+    "background": "#171D23",
+    "foreground": "#FFFFFF",
+    "cursorColor": "#008B94",
+    "selectionBackground": "#51565A"
+}

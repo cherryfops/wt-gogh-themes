@@ -1,0 +1,23 @@
+{
+    "name": "Rapture",
+    "black": "#000000",
+    "red": "#FC644D",
+    "green": "#7AFDE1",
+    "yellow": "#FFF09B",
+    "blue": "#6C9BF5",
+    "purple": "#FF4FA1",
+    "cyan": "#64E0FF",
+    "white": "#C0C9E5",
+    "brightBlack": "#304B66",
+    "brightRed": "#FC644D",
+    "brightGreen": "#7AFDE1",
+    "brightYellow": "#FFF09B",
+    "brightBlue": "#6C9BF5",
+    "brightPurple": "#FF4FA1",
+    "brightCyan": "#64E0FF",
+    "brightWhite": "#FFFFFF",
+    "background": "#111E2A",
+    "foreground": "#C0C9E5",
+    "cursorColor": "#FFFFFF",
+    "selectionBackground": "#304B66"
+}

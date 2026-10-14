@@ -1,0 +1,23 @@
+{
+    "name": "Cacao",
+    "black": "#160F0C",
+    "red": "#E0705C",
+    "green": "#9AC97A",
+    "yellow": "#E8A84A",
+    "blue": "#A89AD0",
+    "purple": "#CE8AB0",
+    "cyan": "#74C8B0",
+    "white": "#E8D6C4",
+    "brightBlack": "#766052",
+    "brightRed": "#E0705C",
+    "brightGreen": "#9AC97A",
+    "brightYellow": "#E8A84A",
+    "brightBlue": "#A89AD0",
+    "brightPurple": "#CE8AB0",
+    "brightCyan": "#74C8B0",
+    "brightWhite": "#F4E6D6",
+    "background": "#160F0C",
+    "foreground": "#E8D6C4",
+    "cursorColor": "#E8D6C4",
+    "selectionBackground": "#4A413A"
+}

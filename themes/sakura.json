@@ -1,0 +1,23 @@
+{
+    "name": "Sakura",
+    "black": "#000000",
+    "red": "#D52370",
+    "green": "#41AF1A",
+    "yellow": "#BC7053",
+    "blue": "#6964AB",
+    "purple": "#C71FBF",
+    "cyan": "#939393",
+    "white": "#998EAC",
+    "brightBlack": "#786D69",
+    "brightRed": "#F41D99",
+    "brightGreen": "#22E529",
+    "brightYellow": "#F59574",
+    "brightBlue": "#9892F1",
+    "brightPurple": "#E90CDD",
+    "brightCyan": "#EEEEEE",
+    "brightWhite": "#CBB6FF",
+    "background": "#18131E",
+    "foreground": "#DD7BDC",
+    "cursorColor": "#FF65FD",
+    "selectionBackground": "#C05CBF"
+}

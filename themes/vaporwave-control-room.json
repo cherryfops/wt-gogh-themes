@@ -1,0 +1,23 @@
+{
+    "name": "Vaporwave Control Room",
+    "black": "#393552",
+    "red": "#B50134",
+    "green": "#70EAFF",
+    "yellow": "#000000",
+    "blue": "#3A8EB1",
+    "purple": "#C4A7E7",
+    "cyan": "#9E4242",
+    "white": "#8F85F1",
+    "brightBlack": "#6E6A86",
+    "brightRed": "#743C3C",
+    "brightGreen": "#50FA7B",
+    "brightYellow": "#000000",
+    "brightBlue": "#73EAFF",
+    "brightPurple": "#C4A7E7",
+    "brightCyan": "#8B2F2F",
+    "brightWhite": "#9990FB",
+    "background": "#EB64B9",
+    "foreground": "#F5F4FD",
+    "cursorColor": "#E0DEF4",
+    "selectionBackground": "#EE88CA"
+}

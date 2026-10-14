@@ -1,0 +1,23 @@
+{
+    "name": "TokyoNight Day",
+    "black": "#E9E9ED",
+    "red": "#F52A65",
+    "green": "#587539",
+    "yellow": "#8C6C3E",
+    "blue": "#2E7DE9",
+    "purple": "#9854F1",
+    "cyan": "#007197",
+    "white": "#6172B0",
+    "brightBlack": "#A1A6C5",
+    "brightRed": "#F52A65",
+    "brightGreen": "#587539",
+    "brightYellow": "#8C6C3E",
+    "brightBlue": "#2E7DE9",
+    "brightPurple": "#9854F1",
+    "brightCyan": "#007197",
+    "brightWhite": "#3760BF",
+    "background": "#E1E2E7",
+    "foreground": "#3760BF",
+    "cursorColor": "#3760BF",
+    "selectionBackground": "#99A7DF"
+}

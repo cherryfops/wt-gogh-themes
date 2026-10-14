@@ -1,0 +1,23 @@
+{
+    "name": "Solarized Osaka Dark",
+    "black": "#001014",
+    "red": "#DB302D",
+    "green": "#849900",
+    "yellow": "#B28500",
+    "blue": "#268BD3",
+    "purple": "#D23681",
+    "cyan": "#29A298",
+    "white": "#839395",
+    "brightBlack": "#576D74",
+    "brightRed": "#DB302D",
+    "brightGreen": "#849900",
+    "brightYellow": "#B28500",
+    "brightBlue": "#268BD3",
+    "brightPurple": "#D23681",
+    "brightCyan": "#29A298",
+    "brightWhite": "#839395",
+    "background": "#001419",
+    "foreground": "#839395",
+    "cursorColor": "#839395",
+    "selectionBackground": "#213438"
+}

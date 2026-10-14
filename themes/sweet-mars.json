@@ -1,0 +1,23 @@
+{
+    "name": "Sweet Mars",
+    "black": "#2E3436",
+    "red": "#F67E7D",
+    "green": "#CAE7B9",
+    "yellow": "#E1DD8F",
+    "blue": "#729FCF",
+    "purple": "#D7BCC8",
+    "cyan": "#A0C1B9",
+    "white": "#D3D7CF",
+    "brightBlack": "#555753",
+    "brightRed": "#F67E7D",
+    "brightGreen": "#CAE7B9",
+    "brightYellow": "#E1DD8F",
+    "brightBlue": "#729FCF",
+    "brightPurple": "#D7BCC8",
+    "brightCyan": "#A0C1B9",
+    "brightWhite": "#EEEEEC",
+    "background": "#1A1E21",
+    "foreground": "#B6B7B9",
+    "cursorColor": "#B6B7B9",
+    "selectionBackground": "#414447"
+}

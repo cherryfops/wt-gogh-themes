@@ -1,0 +1,23 @@
+{
+    "name": "Tokyo Night Light",
+    "black": "#0F0F14",
+    "red": "#8C4351",
+    "green": "#485E30",
+    "yellow": "#8F5E15",
+    "blue": "#34548A",
+    "purple": "#5A4A78",
+    "cyan": "#0F4B6E",
+    "white": "#343B58",
+    "brightBlack": "#9699A3",
+    "brightRed": "#8C4351",
+    "brightGreen": "#485E30",
+    "brightYellow": "#8F5E15",
+    "brightBlue": "#34548A",
+    "brightPurple": "#5A4A78",
+    "brightCyan": "#0F4B6E",
+    "brightWhite": "#343B58",
+    "background": "#D5D6DB",
+    "foreground": "#565A6E",
+    "cursorColor": "#565A6E",
+    "selectionBackground": "#B5B7C0"
+}

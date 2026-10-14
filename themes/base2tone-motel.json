@@ -1,0 +1,23 @@
+{
+    "name": "Base2Tone Motel",
+    "black": "#242323",
+    "red": "#956F76",
+    "green": "#F8917C",
+    "yellow": "#FFC8BD",
+    "blue": "#A7868B",
+    "purple": "#F8917C",
+    "cyan": "#B89DA2",
+    "white": "#A5979A",
+    "brightBlack": "#766B6C",
+    "brightRed": "#FFA28F",
+    "brightGreen": "#373434",
+    "brightYellow": "#5A5354",
+    "brightBlue": "#86797B",
+    "brightPurple": "#DEC9CC",
+    "brightCyan": "#F77C64",
+    "brightWhite": "#F0DBDF",
+    "background": "#242323",
+    "foreground": "#A5979A",
+    "cursorColor": "#E24F32",
+    "selectionBackground": "#444041"
+}

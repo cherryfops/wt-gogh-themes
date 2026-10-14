@@ -1,0 +1,23 @@
+{
+    "name": "H Pux",
+    "black": "#000000",
+    "red": "#8C0000",
+    "green": "#007D00",
+    "yellow": "#8C7000",
+    "blue": "#003CB4",
+    "purple": "#820082",
+    "cyan": "#008B8B",
+    "white": "#BBBBBB",
+    "brightBlack": "#545454",
+    "brightRed": "#FF0000",
+    "brightGreen": "#00EE00",
+    "brightYellow": "#FFFF00",
+    "brightBlue": "#0000FF",
+    "brightPurple": "#FF00FF",
+    "brightCyan": "#00CDCD",
+    "brightWhite": "#FFFFFF",
+    "background": "#D1BCA7",
+    "foreground": "#000000",
+    "cursorColor": "#000000",
+    "selectionBackground": "#9D8D7D"
+}

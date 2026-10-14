@@ -1,0 +1,23 @@
+{
+    "name": "Pink Lavender",
+    "black": "#0C0611",
+    "red": "#B292AC",
+    "green": "#C8A3BC",
+    "yellow": "#DAB2CC",
+    "blue": "#A697A0",
+    "purple": "#B292AC",
+    "cyan": "#C8A3BC",
+    "white": "#DAB2CC",
+    "brightBlack": "#90758D",
+    "brightRed": "#C29EB6",
+    "brightGreen": "#BB9FC2",
+    "brightYellow": "#EED8E5",
+    "brightBlue": "#90758D",
+    "brightPurple": "#C29EB6",
+    "brightCyan": "#BB9FC2",
+    "brightWhite": "#EED8E5",
+    "background": "#0C0611",
+    "foreground": "#EED8E5",
+    "cursorColor": "#EED8E5",
+    "selectionBackground": "#443A46"
+}

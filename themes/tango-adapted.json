@@ -1,0 +1,23 @@
+{
+    "name": "Tango Adapted",
+    "black": "#000000",
+    "red": "#FF0000",
+    "green": "#59D600",
+    "yellow": "#F0CB00",
+    "blue": "#00A2FF",
+    "purple": "#C17ECC",
+    "cyan": "#00D0D6",
+    "white": "#E6EBE1",
+    "brightBlack": "#8F928B",
+    "brightRed": "#FF0013",
+    "brightGreen": "#93FF00",
+    "brightYellow": "#FFF121",
+    "brightBlue": "#88C9FF",
+    "brightPurple": "#E9A7E1",
+    "brightCyan": "#00FEFF",
+    "brightWhite": "#F6F6F4",
+    "background": "#FFFFFF",
+    "foreground": "#000000",
+    "cursorColor": "#000000",
+    "selectionBackground": "#BFBFBF"
+}

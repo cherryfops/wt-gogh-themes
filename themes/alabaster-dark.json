@@ -1,0 +1,23 @@
+{
+    "name": "Alabaster Dark",
+    "black": "#000000",
+    "red": "#E25D56",
+    "green": "#73CA50",
+    "yellow": "#E9BF57",
+    "blue": "#4A88E4",
+    "purple": "#915CAF",
+    "cyan": "#23ACDD",
+    "white": "#CECECE",
+    "brightBlack": "#777777",
+    "brightRed": "#F36868",
+    "brightGreen": "#88DB3F",
+    "brightYellow": "#F0BF7A",
+    "brightBlue": "#6F8FDB",
+    "brightPurple": "#E987E9",
+    "brightCyan": "#4AC9E2",
+    "brightWhite": "#FFFFFF",
+    "background": "#0E1415",
+    "foreground": "#CECECE",
+    "cursorColor": "#CECECE",
+    "selectionBackground": "#3E4243"
+}

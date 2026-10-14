@@ -1,0 +1,23 @@
+{
+    "name": "Wryan",
+    "black": "#333333",
+    "red": "#8C4665",
+    "green": "#287373",
+    "yellow": "#7C7C99",
+    "blue": "#395573",
+    "purple": "#5E468C",
+    "cyan": "#31658C",
+    "white": "#899CA1",
+    "brightBlack": "#3D3D3D",
+    "brightRed": "#BF4D80",
+    "brightGreen": "#53A6A6",
+    "brightYellow": "#9E9ECB",
+    "brightBlue": "#477AB3",
+    "brightPurple": "#7E62B3",
+    "brightCyan": "#6096BF",
+    "brightWhite": "#C0C0C0",
+    "background": "#101010",
+    "foreground": "#999993",
+    "cursorColor": "#9E9ECB",
+    "selectionBackground": "#4D4D4D"
+}

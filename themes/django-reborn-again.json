@@ -1,0 +1,23 @@
+{
+    "name": "Django Reborn Again",
+    "black": "#000000",
+    "red": "#FD6209",
+    "green": "#41A83E",
+    "yellow": "#FFE862",
+    "blue": "#245032",
+    "purple": "#F8F8F8",
+    "cyan": "#9DF39F",
+    "white": "#FFFFFF",
+    "brightBlack": "#323232",
+    "brightRed": "#FF943B",
+    "brightGreen": "#73DA70",
+    "brightYellow": "#FFFF94",
+    "brightBlue": "#568264",
+    "brightPurple": "#FFFFFF",
+    "brightCyan": "#CFFFD1",
+    "brightWhite": "#FFFFFF",
+    "background": "#051F14",
+    "foreground": "#DADEDC",
+    "cursorColor": "#FFCC00",
+    "selectionBackground": "#3A4F46"
+}

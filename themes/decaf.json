@@ -1,0 +1,23 @@
+{
+    "name": "Decaf",
+    "black": "#2D2D2D",
+    "red": "#FF7F7B",
+    "green": "#BEDA78",
+    "yellow": "#FFD67C",
+    "blue": "#90BEE1",
+    "purple": "#EFB3F7",
+    "cyan": "#BED6FF",
+    "white": "#CCCCCC",
+    "brightBlack": "#777777",
+    "brightRed": "#FF7F7B",
+    "brightGreen": "#BEDA78",
+    "brightYellow": "#FFD67C",
+    "brightBlue": "#90BEE1",
+    "brightPurple": "#EFB3F7",
+    "brightCyan": "#BED6FF",
+    "brightWhite": "#FFFFFF",
+    "background": "#2D2D2D",
+    "foreground": "#CCCCCC",
+    "cursorColor": "#CCCCCC",
+    "selectionBackground": "#555555"
+}

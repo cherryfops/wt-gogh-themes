@@ -1,0 +1,23 @@
+{
+    "name": "Bosque",
+    "black": "#0E1410",
+    "red": "#E2706A",
+    "green": "#6FC56E",
+    "yellow": "#C8B84A",
+    "blue": "#6DAE9E",
+    "purple": "#B894D0",
+    "cyan": "#5FD0B8",
+    "white": "#CFE5D2",
+    "brightBlack": "#5C6E5E",
+    "brightRed": "#E2706A",
+    "brightGreen": "#6FC56E",
+    "brightYellow": "#C8B84A",
+    "brightBlue": "#6DAE9E",
+    "brightPurple": "#B894D0",
+    "brightCyan": "#5FD0B8",
+    "brightWhite": "#E4F0E2",
+    "background": "#0E1410",
+    "foreground": "#CFE5D2",
+    "cursorColor": "#CFE5D2",
+    "selectionBackground": "#3E4840"
+}

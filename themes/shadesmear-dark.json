@@ -1,0 +1,23 @@
+{
+    "name": "Shadesmear Dark",
+    "black": "#232323",
+    "red": "#CC5450",
+    "green": "#71983B",
+    "yellow": "#307878",
+    "blue": "#376388",
+    "purple": "#D7AB54",
+    "cyan": "#C57D42",
+    "white": "#DBDBDB",
+    "brightBlack": "#C0C0C0",
+    "brightRed": "#CC5450",
+    "brightGreen": "#71983B",
+    "brightYellow": "#307878",
+    "brightBlue": "#376388",
+    "brightPurple": "#D7AB54",
+    "brightCyan": "#C57D42",
+    "brightWhite": "#1C1C1C",
+    "background": "#232323",
+    "foreground": "#DBDBDB",
+    "cursorColor": "#DBDBDB",
+    "selectionBackground": "#515151"
+}

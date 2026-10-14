@@ -1,0 +1,23 @@
+{
+    "name": "Citruszest",
+    "black": "#404040",
+    "red": "#FF5454",
+    "green": "#00CC7A",
+    "yellow": "#FFD400",
+    "blue": "#00BFFF",
+    "purple": "#FF90FE",
+    "cyan": "#48D1CC",
+    "white": "#BFBFBF",
+    "brightBlack": "#808080",
+    "brightRed": "#FF1A75",
+    "brightGreen": "#1AFFA3",
+    "brightYellow": "#FFFF00",
+    "brightBlue": "#33CFFF",
+    "brightPurple": "#FFB2FE",
+    "brightCyan": "#00FFF2",
+    "brightWhite": "#F9F9F9",
+    "background": "#121212",
+    "foreground": "#BFBFBF",
+    "cursorColor": "#666666",
+    "selectionBackground": "#FF8C00"
+}

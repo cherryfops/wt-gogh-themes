@@ -1,0 +1,23 @@
+{
+    "name": "Smyck Lost",
+    "black": "#000000",
+    "red": "#C75646",
+    "green": "#8EB33B",
+    "yellow": "#D0B03C",
+    "blue": "#72B3CC",
+    "purple": "#C8A0D1",
+    "cyan": "#218693",
+    "white": "#B0B0B0",
+    "brightBlack": "#5D5D5D",
+    "brightRed": "#E09690",
+    "brightGreen": "#CDEE69",
+    "brightYellow": "#FFE377",
+    "brightBlue": "#9CD9F0",
+    "brightPurple": "#FBB1F9",
+    "brightCyan": "#77DFD8",
+    "brightWhite": "#F7F7F7",
+    "background": "#242424",
+    "foreground": "#F7F7F7",
+    "cursorColor": "#F7F7F7",
+    "selectionBackground": "#595959"
+}

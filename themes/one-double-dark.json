@@ -1,0 +1,23 @@
+{
+    "name": "One Double Dark",
+    "black": "#3E4451",
+    "red": "#E06C75",
+    "green": "#98C379",
+    "yellow": "#E5C07B",
+    "blue": "#61AFEF",
+    "purple": "#C678DD",
+    "cyan": "#56B6C2",
+    "white": "#DCDFE4",
+    "brightBlack": "#545D6D",
+    "brightRed": "#FD807F",
+    "brightGreen": "#96D58B",
+    "brightYellow": "#EDC273",
+    "brightBlue": "#84C8FF",
+    "brightPurple": "#EE82EE",
+    "brightCyan": "#3AE1F7",
+    "brightWhite": "#F7F9FC",
+    "background": "#292C33",
+    "foreground": "#DCDFE4",
+    "cursorColor": "#F1E1DD",
+    "selectionBackground": "#56595F"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Nocturnal Winter",
+    "black": "#4D4D4D",
+    "red": "#F12D52",
+    "green": "#09CD7E",
+    "yellow": "#F5F17A",
+    "blue": "#3182E0",
+    "purple": "#FF2B6D",
+    "cyan": "#09C87A",
+    "white": "#FCFCFC",
+    "brightBlack": "#808080",
+    "brightRed": "#F16D86",
+    "brightGreen": "#0AE78D",
+    "brightYellow": "#FFFC67",
+    "brightBlue": "#6096FF",
+    "brightPurple": "#FF78A2",
+    "brightCyan": "#0AE78D",
+    "brightWhite": "#FFFFFF",
+    "background": "#0D0D17",
+    "foreground": "#E6E5E5",
+    "cursorColor": "#E6E5E5",
+    "selectionBackground": "#ADBDD0"
+}

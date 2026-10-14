@@ -1,0 +1,23 @@
+{
+    "name": "Cerulean Signal Dark",
+    "black": "#101722",
+    "red": "#FF8A9A",
+    "green": "#70E1B0",
+    "yellow": "#E2C85F",
+    "blue": "#7DD3FF",
+    "purple": "#FF74D4",
+    "cyan": "#58D9DF",
+    "white": "#DCE6F2",
+    "brightBlack": "#8FA0B5",
+    "brightRed": "#FF9CAC",
+    "brightGreen": "#8BE7BD",
+    "brightYellow": "#F4DC76",
+    "brightBlue": "#9ADFFF",
+    "brightPurple": "#FF8BDD",
+    "brightCyan": "#72E7EB",
+    "brightWhite": "#F7F9FC",
+    "background": "#101722",
+    "foreground": "#DCE6F2",
+    "cursorColor": "#DCE6F2",
+    "selectionBackground": "#434B56"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "novmbr",
+    "black": "#282A2E",
+    "red": "#97673D",
+    "green": "#A0AC68",
+    "yellow": "#C6A869",
+    "blue": "#457B7B",
+    "purple": "#AE8B72",
+    "cyan": "#5E867F",
+    "white": "#C4B9AD",
+    "brightBlack": "#4E423B",
+    "brightRed": "#97673D",
+    "brightGreen": "#A0AC68",
+    "brightYellow": "#C6A869",
+    "brightBlue": "#457B7B",
+    "brightPurple": "#AE8B72",
+    "brightCyan": "#5E867F",
+    "brightWhite": "#C4B9AD",
+    "background": "#231D1A",
+    "foreground": "#C4B9AD",
+    "cursorColor": "#C4B9AD",
+    "selectionBackground": "#4B443F"
+}

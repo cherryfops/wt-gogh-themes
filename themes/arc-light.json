@@ -1,0 +1,23 @@
+{
+    "name": "Arc Light",
+    "black": "#0D1117",
+    "red": "#C32424",
+    "green": "#24C391",
+    "yellow": "#C3A924",
+    "blue": "#2455C3",
+    "purple": "#C224C3",
+    "cyan": "#24BAC3",
+    "white": "#E8ECF2",
+    "brightBlack": "#3B4D68",
+    "brightRed": "#BE2323",
+    "brightGreen": "#23BE8D",
+    "brightYellow": "#BEA423",
+    "brightBlue": "#2351BE",
+    "brightPurple": "#BE23BE",
+    "brightCyan": "#23B6BE",
+    "brightWhite": "#FFFFFF",
+    "background": "#E8ECF2",
+    "foreground": "#333333",
+    "cursorColor": "#00FF00",
+    "selectionBackground": "#BBBEC2"
+}

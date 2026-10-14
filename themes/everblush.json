@@ -1,0 +1,23 @@
+{
+    "name": "Everblush",
+    "black": "#232A2D",
+    "red": "#E57474",
+    "green": "#8CCF7E",
+    "yellow": "#E5C76B",
+    "blue": "#67B0E8",
+    "purple": "#C47FD5",
+    "cyan": "#6CBFBF",
+    "white": "#B3B9B8",
+    "brightBlack": "#2D3437",
+    "brightRed": "#EF7E7E",
+    "brightGreen": "#96D988",
+    "brightYellow": "#F4D67A",
+    "brightBlue": "#71BAF2",
+    "brightPurple": "#CE89DF",
+    "brightCyan": "#67CBE7",
+    "brightWhite": "#BDC3C2",
+    "background": "#141B1E",
+    "foreground": "#DADADA",
+    "cursorColor": "#DADADA",
+    "selectionBackground": "#464B4D"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Idea",
+    "black": "#ADADAD",
+    "red": "#FC5256",
+    "green": "#98B61C",
+    "yellow": "#CCB444",
+    "blue": "#437EE7",
+    "purple": "#9D74B0",
+    "cyan": "#248887",
+    "white": "#181818",
+    "brightBlack": "#FFFFFF",
+    "brightRed": "#FC7072",
+    "brightGreen": "#98B61C",
+    "brightYellow": "#FFFF0B",
+    "brightBlue": "#6C9CED",
+    "brightPurple": "#FC7EFF",
+    "brightCyan": "#248887",
+    "brightWhite": "#181818",
+    "background": "#202020",
+    "foreground": "#ADADAD",
+    "cursorColor": "#BBBBBB",
+    "selectionBackground": "#434343"
+}

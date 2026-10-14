@@ -1,0 +1,23 @@
+{
+    "name": "Quiet",
+    "black": "#141414",
+    "red": "#C16262",
+    "green": "#49B685",
+    "yellow": "#C5B76D",
+    "blue": "#4992B6",
+    "purple": "#815BBE",
+    "cyan": "#41A4A4",
+    "white": "#C5C5C5",
+    "brightBlack": "#505050",
+    "brightRed": "#ED5E7A",
+    "brightGreen": "#7ECE7E",
+    "brightYellow": "#DBDB70",
+    "brightBlue": "#4DBFFF",
+    "brightPurple": "#C067E4",
+    "brightCyan": "#70DBD8",
+    "brightWhite": "#F0F0F0",
+    "background": "#141414",
+    "foreground": "#B9B9B9",
+    "cursorColor": "#A0A0A0",
+    "selectionBackground": "#3D3D3D"
+}

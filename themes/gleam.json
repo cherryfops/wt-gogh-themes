@@ -1,0 +1,23 @@
+{
+    "name": "Gleam",
+    "black": "#000000",
+    "red": "#F44747",
+    "green": "#AADD8B",
+    "yellow": "#FFD596",
+    "blue": "#6796E6",
+    "purple": "#FE7AB2",
+    "cyan": "#B181EC",
+    "white": "#F7F7F7",
+    "brightBlack": "#808080",
+    "brightRed": "#FF4A4A",
+    "brightGreen": "#C8FFA7",
+    "brightYellow": "#FDFFAB",
+    "brightBlue": "#9CE7FF",
+    "brightPurple": "#FFAFF3",
+    "brightCyan": "#D9BAFF",
+    "brightWhite": "#FFFFFF",
+    "background": "#292D3E",
+    "foreground": "#FFFFFF",
+    "cursorColor": "#FFFFFF",
+    "selectionBackground": "#393F57"
+}

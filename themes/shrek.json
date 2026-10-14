@@ -1,0 +1,23 @@
+{
+    "name": "Shrek",
+    "black": "#472D1A",
+    "red": "#FF1212",
+    "green": "#7FFF00",
+    "yellow": "#FFD700",
+    "blue": "#3399FF",
+    "purple": "#9933FF",
+    "cyan": "#00CCCC",
+    "white": "#FFFFE0",
+    "brightBlack": "#3A5F3A",
+    "brightRed": "#FF3333",
+    "brightGreen": "#ADFF2F",
+    "brightYellow": "#FFEA00",
+    "brightBlue": "#66B2FF",
+    "brightPurple": "#B266FF",
+    "brightCyan": "#33FFFF",
+    "brightWhite": "#FFFFFF",
+    "background": "#475347",
+    "foreground": "#F0F0C0",
+    "cursorColor": "#F0F0C0",
+    "selectionBackground": "#717A65"
+}

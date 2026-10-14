@@ -1,0 +1,23 @@
+{
+    "name": "Venom",
+    "black": "#2E3436",
+    "red": "#E94759",
+    "green": "#9ECFA2",
+    "yellow": "#F3EFA9",
+    "blue": "#00898D",
+    "purple": "#9C21B0",
+    "cyan": "#06989A",
+    "white": "#D3D7CF",
+    "brightBlack": "#555753",
+    "brightRed": "#EF2929",
+    "brightGreen": "#8AE234",
+    "brightYellow": "#FCE94F",
+    "brightBlue": "#729FCF",
+    "brightPurple": "#AD7FA8",
+    "brightCyan": "#34E2E2",
+    "brightWhite": "#EEEEEC",
+    "background": "#060D14",
+    "foreground": "#668198",
+    "cursorColor": "#668198",
+    "selectionBackground": "#1E2A35"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Builtin Solarized Dark",
+    "black": "#002B36",
+    "red": "#DC322F",
+    "green": "#859900",
+    "yellow": "#839496",
+    "blue": "#268BD2",
+    "purple": "#D33682",
+    "cyan": "#2AA198",
+    "white": "#B2B8AD",
+    "brightBlack": "#3B5A5D",
+    "brightRed": "#CB4B16",
+    "brightGreen": "#586E75",
+    "brightYellow": "#657B83",
+    "brightBlue": "#839496",
+    "brightPurple": "#6C71C4",
+    "brightCyan": "#93A1A1",
+    "brightWhite": "#FDF6E3",
+    "background": "#002B36",
+    "foreground": "#B2B8AD",
+    "cursorColor": "#B2B8AD",
+    "selectionBackground": "#2C4E54"
+}

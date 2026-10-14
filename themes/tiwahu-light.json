@@ -1,0 +1,23 @@
+{
+    "name": "Tiwahu Light",
+    "black": "#000000",
+    "red": "#AA0000",
+    "green": "#008800",
+    "yellow": "#AAAA00",
+    "blue": "#0077AA",
+    "purple": "#880088",
+    "cyan": "#00AA99",
+    "white": "#BBBBBB",
+    "brightBlack": "#777777",
+    "brightRed": "#FF8888",
+    "brightGreen": "#88FF88",
+    "brightYellow": "#FFFF66",
+    "brightBlue": "#88CCFF",
+    "brightPurple": "#FF88FF",
+    "brightCyan": "#88FFCC",
+    "brightWhite": "#FFFFFF",
+    "background": "#DDDDDD",
+    "foreground": "#181818",
+    "cursorColor": "#888888",
+    "selectionBackground": "#ACACAC"
+}

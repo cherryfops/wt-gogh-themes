@@ -1,0 +1,23 @@
+{
+    "name": "Mayukai",
+    "black": "#191E2A",
+    "red": "#ED8274",
+    "green": "#A6CC70",
+    "yellow": "#FAD07B",
+    "blue": "#95E6CB",
+    "purple": "#CFBAFA",
+    "cyan": "#95E6CB",
+    "white": "#C7C7C7",
+    "brightBlack": "#686868",
+    "brightRed": "#F28779",
+    "brightGreen": "#BAE67E",
+    "brightYellow": "#FFD580",
+    "brightBlue": "#95E6CB",
+    "brightPurple": "#D4BFFF",
+    "brightCyan": "#95E6CB",
+    "brightWhite": "#FFFFFF",
+    "background": "#1B1C24",
+    "foreground": "#CBCCC6",
+    "cursorColor": "#CBCCC6",
+    "selectionBackground": "#47484C"
+}

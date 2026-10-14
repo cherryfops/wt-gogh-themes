@@ -1,0 +1,23 @@
+{
+    "name": "Konsolas",
+    "black": "#000000",
+    "red": "#AA1717",
+    "green": "#18B218",
+    "yellow": "#EBAE1F",
+    "blue": "#2323A5",
+    "purple": "#AD1EDC",
+    "cyan": "#42B0C8",
+    "white": "#C8C1C1",
+    "brightBlack": "#7B716E",
+    "brightRed": "#FF4141",
+    "brightGreen": "#5FFF5F",
+    "brightYellow": "#FFFF55",
+    "brightBlue": "#4B4BFF",
+    "brightPurple": "#FF54FF",
+    "brightCyan": "#69FFFF",
+    "brightWhite": "#FFFFFF",
+    "background": "#060606",
+    "foreground": "#C8C1C1",
+    "cursorColor": "#C8C1C1",
+    "selectionBackground": "#060606"
+}

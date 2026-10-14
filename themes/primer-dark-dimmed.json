@@ -1,0 +1,23 @@
+{
+    "name": "Primer Dark Dimmed",
+    "black": "#1C2128",
+    "red": "#F47067",
+    "green": "#57AB5A",
+    "yellow": "#C69026",
+    "blue": "#539BF5",
+    "purple": "#E275AD",
+    "cyan": "#96D0FF",
+    "white": "#909DAB",
+    "brightBlack": "#545D68",
+    "brightRed": "#F47067",
+    "brightGreen": "#57AB5A",
+    "brightYellow": "#C69026",
+    "brightBlue": "#539BF5",
+    "brightPurple": "#E275AD",
+    "brightCyan": "#96D0FF",
+    "brightWhite": "#CDD9E5",
+    "background": "#1C2128",
+    "foreground": "#909DAB",
+    "cursorColor": "#909DAB",
+    "selectionBackground": "#394049"
+}

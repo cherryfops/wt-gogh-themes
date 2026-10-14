@@ -1,0 +1,23 @@
+{
+    "name": "IC Green PPL",
+    "black": "#014401",
+    "red": "#FF2736",
+    "green": "#41A638",
+    "yellow": "#76A831",
+    "blue": "#2EC3B9",
+    "purple": "#50A096",
+    "cyan": "#3CA078",
+    "white": "#E6FEF2",
+    "brightBlack": "#035C03",
+    "brightRed": "#B4FA5C",
+    "brightGreen": "#AEFB86",
+    "brightYellow": "#DAFA87",
+    "brightBlue": "#2EFAEB",
+    "brightPurple": "#50FAFA",
+    "brightCyan": "#3CFAC8",
+    "brightWhite": "#E0F1DC",
+    "background": "#2C2C2C",
+    "foreground": "#E0F1DC",
+    "cursorColor": "#47FA6B",
+    "selectionBackground": "#595D58"
+}

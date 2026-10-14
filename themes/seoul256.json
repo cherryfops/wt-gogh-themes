@@ -1,0 +1,23 @@
+{
+    "name": "Seoul256",
+    "black": "#4E4E4E",
+    "red": "#D68787",
+    "green": "#5F865F",
+    "yellow": "#D8AF5F",
+    "blue": "#85ADD4",
+    "purple": "#D7AFAF",
+    "cyan": "#87AFAF",
+    "white": "#D0D0D0",
+    "brightBlack": "#626262",
+    "brightRed": "#D75F87",
+    "brightGreen": "#87AF87",
+    "brightYellow": "#FFD787",
+    "brightBlue": "#ADD4FB",
+    "brightPurple": "#FFAFAF",
+    "brightCyan": "#87D7D7",
+    "brightWhite": "#E4E4E4",
+    "background": "#3A3A3A",
+    "foreground": "#D0D0D0",
+    "cursorColor": "#D0D0D0",
+    "selectionBackground": "#606060"
+}

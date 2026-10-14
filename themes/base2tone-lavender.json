@@ -1,0 +1,23 @@
+{
+    "name": "Base2Tone Lavender",
+    "black": "#201D2A",
+    "red": "#9375F5",
+    "green": "#D294FF",
+    "yellow": "#ECD1FF",
+    "blue": "#A286FD",
+    "purple": "#D294FF",
+    "cyan": "#B5A0FE",
+    "white": "#9992B0",
+    "brightBlack": "#625A7C",
+    "brightRed": "#DBA8FF",
+    "brightGreen": "#2C2839",
+    "brightYellow": "#4B455F",
+    "brightBlue": "#6E658B",
+    "brightPurple": "#DCD2FE",
+    "brightCyan": "#CA80FF",
+    "brightWhite": "#EFEBFF",
+    "background": "#201D2A",
+    "foreground": "#9992B0",
+    "cursorColor": "#B042FF",
+    "selectionBackground": "#3E3A4C"
+}

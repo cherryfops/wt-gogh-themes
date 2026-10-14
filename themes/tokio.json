@@ -1,0 +1,23 @@
+{
+    "name": "Tokio",
+    "black": "#1C1C1D",
+    "red": "#FC618D",
+    "green": "#7BD88F",
+    "yellow": "#FCE566",
+    "blue": "#FD9353",
+    "purple": "#948AE3",
+    "cyan": "#5AD4E6",
+    "white": "#F7F1FF",
+    "brightBlack": "#1C1C1D",
+    "brightRed": "#FC618D",
+    "brightGreen": "#7BD88F",
+    "brightYellow": "#FCE566",
+    "brightBlue": "#FD9353",
+    "brightPurple": "#948AE3",
+    "brightCyan": "#5AD4E6",
+    "brightWhite": "#F7F1FF",
+    "background": "#1C1C1D",
+    "foreground": "#F7F1FF",
+    "cursorColor": "#F7F1FF",
+    "selectionBackground": "#535156"
+}

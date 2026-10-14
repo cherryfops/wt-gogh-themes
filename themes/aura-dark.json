@@ -1,0 +1,23 @@
+{
+    "name": "Aura Dark",
+    "black": "#15141B",
+    "red": "#FF6767",
+    "green": "#61FFCA",
+    "yellow": "#FFCA85",
+    "blue": "#A277FF",
+    "purple": "#61FFCA",
+    "cyan": "#A277FF",
+    "white": "#CDCCCE",
+    "brightBlack": "#464646",
+    "brightRed": "#FFCA85",
+    "brightGreen": "#A277FF",
+    "brightYellow": "#FFCA85",
+    "brightBlue": "#A277FF",
+    "brightPurple": "#61FFCA",
+    "brightCyan": "#61FFCA",
+    "brightWhite": "#EDECEE",
+    "background": "#15141B",
+    "foreground": "#CDCCCE",
+    "cursorColor": "#A277FF",
+    "selectionBackground": "#434248"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Tempus Autumn",
+    "black": "#302420",
+    "red": "#F46F55",
+    "green": "#85A400",
+    "yellow": "#B09640",
+    "blue": "#799ACA",
+    "purple": "#DF798E",
+    "cyan": "#52A885",
+    "white": "#A8948A",
+    "brightBlack": "#36302A",
+    "brightRed": "#E27E3D",
+    "brightGreen": "#43AA7A",
+    "brightYellow": "#BA9400",
+    "brightBlue": "#958FDF",
+    "brightPurple": "#CE7DC4",
+    "brightCyan": "#2FA6B7",
+    "brightWhite": "#A9A2A6",
+    "background": "#302420",
+    "foreground": "#A9A2A6",
+    "cursorColor": "#A9A2A6",
+    "selectionBackground": "#4E4442"
+}

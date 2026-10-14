@@ -1,0 +1,23 @@
+{
+    "name": "Emil",
+    "black": "#EFEFEF",
+    "red": "#F43979",
+    "green": "#0073A8",
+    "yellow": "#FF669B",
+    "blue": "#471397",
+    "purple": "#6916B6",
+    "cyan": "#2155D6",
+    "white": "#313145",
+    "brightBlack": "#7C7C98",
+    "brightRed": "#F43979",
+    "brightGreen": "#0073A8",
+    "brightYellow": "#FF669B",
+    "brightBlue": "#471397",
+    "brightPurple": "#6916B6",
+    "brightCyan": "#2155D6",
+    "brightWhite": "#1A1A2F",
+    "background": "#EFEFEF",
+    "foreground": "#313145",
+    "cursorColor": "#313145",
+    "selectionBackground": "#C0C0C4"
+}

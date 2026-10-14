@@ -1,0 +1,23 @@
+{
+    "name": "Doom One Light",
+    "black": "#383A42",
+    "red": "#E45649",
+    "green": "#50A14F",
+    "yellow": "#986801",
+    "blue": "#4078F2",
+    "purple": "#A626A4",
+    "cyan": "#005478",
+    "white": "#F0F0F0",
+    "brightBlack": "#C6C7C7",
+    "brightRed": "#E45649",
+    "brightGreen": "#50A14F",
+    "brightYellow": "#986801",
+    "brightBlue": "#4078F2",
+    "brightPurple": "#B751B6",
+    "brightCyan": "#0184BC",
+    "brightWhite": "#383A42",
+    "background": "#FAFAFA",
+    "foreground": "#383A42",
+    "cursorColor": "#383A42",
+    "selectionBackground": "#CACACC"
+}

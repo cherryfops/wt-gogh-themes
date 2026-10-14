@@ -1,0 +1,23 @@
+{
+    "name": "Madrid",
+    "black": "#FAFAFA",
+    "red": "#990026",
+    "green": "#007A28",
+    "yellow": "#8A6408",
+    "blue": "#007A9E",
+    "purple": "#4D2699",
+    "cyan": "#007A9E",
+    "white": "#1A1A1A",
+    "brightBlack": "#4D4D4D",
+    "brightRed": "#990026",
+    "brightGreen": "#007A28",
+    "brightYellow": "#8A6408",
+    "brightBlue": "#007A9E",
+    "brightPurple": "#4D2699",
+    "brightCyan": "#007A9E",
+    "brightWhite": "#1A1A1A",
+    "background": "#FAFAFA",
+    "foreground": "#1A1A1A",
+    "cursorColor": "#1A1A1A",
+    "selectionBackground": "#C2C2C2"
+}

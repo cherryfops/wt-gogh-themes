@@ -1,0 +1,23 @@
+{
+    "name": "Kaolin Aurora",
+    "black": "#14191E",
+    "red": "#E55C7A",
+    "green": "#31E183",
+    "yellow": "#F5C791",
+    "blue": "#4CA6E8",
+    "purple": "#9D81BA",
+    "cyan": "#49BDB0",
+    "white": "#E6E6E8",
+    "brightBlack": "#454459",
+    "brightRed": "#CD5C60",
+    "brightGreen": "#7CF083",
+    "brightYellow": "#DBAC66",
+    "brightBlue": "#91B9C7",
+    "brightPurple": "#6E6884",
+    "brightCyan": "#0D9C94",
+    "brightWhite": "#F2F2F2",
+    "background": "#14191E",
+    "foreground": "#E6E6E8",
+    "cursorColor": "#E6E6E8",
+    "selectionBackground": "#484C50"
+}

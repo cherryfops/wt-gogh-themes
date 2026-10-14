@@ -1,0 +1,23 @@
+{
+    "name": "Rouge 2",
+    "black": "#5D5D6B",
+    "red": "#C6797E",
+    "green": "#969E92",
+    "yellow": "#DBCDAB",
+    "blue": "#6E94B9",
+    "purple": "#4C4E78",
+    "cyan": "#8AB6C1",
+    "white": "#E8E8EA",
+    "brightBlack": "#616274",
+    "brightRed": "#C6797E",
+    "brightGreen": "#E6DCC4",
+    "brightYellow": "#E6DCC4",
+    "brightBlue": "#98B3CD",
+    "brightPurple": "#8283A1",
+    "brightCyan": "#ABCBD3",
+    "brightWhite": "#E8E8EA",
+    "background": "#17182B",
+    "foreground": "#A2A3AA",
+    "cursorColor": "#969E92",
+    "selectionBackground": "#5D5D6B"
+}

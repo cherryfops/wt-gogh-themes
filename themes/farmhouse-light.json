@@ -1,0 +1,23 @@
+{
+    "name": "Farmhouse Light",
+    "black": "#1D2027",
+    "red": "#8D0003",
+    "green": "#3A7D00",
+    "yellow": "#A95600",
+    "blue": "#092CCD",
+    "purple": "#820046",
+    "cyan": "#229256",
+    "white": "#E8E4E1",
+    "brightBlack": "#394047",
+    "brightRed": "#EB0009",
+    "brightGreen": "#7AC100",
+    "brightYellow": "#EA9A00",
+    "brightBlue": "#006EFE",
+    "brightPurple": "#BF3B7F",
+    "brightCyan": "#19E062",
+    "brightWhite": "#F4EEF0",
+    "background": "#E8E4E1",
+    "foreground": "#1D2027",
+    "cursorColor": "#006EFE",
+    "selectionBackground": "#B5B3B2"
+}

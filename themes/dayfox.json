@@ -1,0 +1,23 @@
+{
+    "name": "Dayfox",
+    "black": "#352C24",
+    "red": "#A5222F",
+    "green": "#396847",
+    "yellow": "#AC5402",
+    "blue": "#2848A9",
+    "purple": "#6E33CE",
+    "cyan": "#287980",
+    "white": "#F2E9E1",
+    "brightBlack": "#534C45",
+    "brightRed": "#B3434E",
+    "brightGreen": "#577F63",
+    "brightYellow": "#B86E28",
+    "brightBlue": "#4863B6",
+    "brightPurple": "#8452D5",
+    "brightCyan": "#488D93",
+    "brightWhite": "#F4ECE6",
+    "background": "#F6F2EE",
+    "foreground": "#3D2B5A",
+    "cursorColor": "#3D2B5A",
+    "selectionBackground": "#C8C0C9"
+}

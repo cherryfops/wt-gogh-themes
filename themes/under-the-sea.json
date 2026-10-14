@@ -1,0 +1,23 @@
+{
+    "name": "Under The Sea",
+    "black": "#022026",
+    "red": "#B2302D",
+    "green": "#00A941",
+    "yellow": "#59819C",
+    "blue": "#459A86",
+    "purple": "#00599D",
+    "cyan": "#5D7E19",
+    "white": "#405555",
+    "brightBlack": "#384451",
+    "brightRed": "#FF4242",
+    "brightGreen": "#2AEA5E",
+    "brightYellow": "#8ED4FD",
+    "brightBlue": "#61D5BA",
+    "brightPurple": "#1298FF",
+    "brightCyan": "#98D028",
+    "brightWhite": "#58FBD6",
+    "background": "#011116",
+    "foreground": "#FFFFFF",
+    "cursorColor": "#4AFCD6",
+    "selectionBackground": "#415555"
+}

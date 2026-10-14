@@ -1,0 +1,23 @@
+{
+    "name": "Vacme",
+    "black": "#424242",
+    "red": "#B85C57",
+    "green": "#57864E",
+    "yellow": "#8F7634",
+    "blue": "#2A8DC5",
+    "purple": "#8888C7",
+    "cyan": "#6AA7A8",
+    "white": "#FFFFEC",
+    "brightBlack": "#999957",
+    "brightRed": "#E28C88",
+    "brightGreen": "#7AB877",
+    "brightYellow": "#9E9477",
+    "brightBlue": "#7EC6EB",
+    "brightPurple": "#A9ABDA",
+    "brightCyan": "#7AD0D1",
+    "brightWhite": "#D6D687",
+    "background": "#FFFFEC",
+    "foreground": "#424242",
+    "cursorColor": "#030093",
+    "selectionBackground": "#D0D0C2"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Default Light",
+    "black": "#F8F8F8",
+    "red": "#AB4642",
+    "green": "#A1B56C",
+    "yellow": "#F7CA88",
+    "blue": "#7CAFC2",
+    "purple": "#BA8BAF",
+    "cyan": "#86C1B9",
+    "white": "#383838",
+    "brightBlack": "#B8B8B8",
+    "brightRed": "#AB4642",
+    "brightGreen": "#A1B56C",
+    "brightYellow": "#F7CA88",
+    "brightBlue": "#7CAFC2",
+    "brightPurple": "#BA8BAF",
+    "brightCyan": "#86C1B9",
+    "brightWhite": "#181818",
+    "background": "#F8F8F8",
+    "foreground": "#383838",
+    "cursorColor": "#383838",
+    "selectionBackground": "#C8C8C8"
+}

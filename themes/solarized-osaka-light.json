@@ -1,0 +1,23 @@
+{
+    "name": "Solarized Osaka Light",
+    "black": "#CAC4B5",
+    "red": "#DB302D",
+    "green": "#849900",
+    "yellow": "#B28500",
+    "blue": "#268BD3",
+    "purple": "#D23681",
+    "cyan": "#29A298",
+    "white": "#576D74",
+    "brightBlack": "#ADB7B7",
+    "brightRed": "#DB302D",
+    "brightGreen": "#849900",
+    "brightYellow": "#B28500",
+    "brightBlue": "#268BD3",
+    "brightPurple": "#D23681",
+    "brightCyan": "#29A298",
+    "brightWhite": "#576D74",
+    "background": "#FDF5E2",
+    "foreground": "#576D74",
+    "cursorColor": "#576D74",
+    "selectionBackground": "#D4D3C6"
+}

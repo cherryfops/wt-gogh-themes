@@ -1,0 +1,23 @@
+{
+    "name": "Iceberg Light",
+    "black": "#DCDFE7",
+    "red": "#CC517A",
+    "green": "#668E3D",
+    "yellow": "#C57339",
+    "blue": "#2D539E",
+    "purple": "#7759B4",
+    "cyan": "#3F83A6",
+    "white": "#33374C",
+    "brightBlack": "#8389A3",
+    "brightRed": "#CC3768",
+    "brightGreen": "#598030",
+    "brightYellow": "#B6662D",
+    "brightBlue": "#22478E",
+    "brightPurple": "#6845AD",
+    "brightCyan": "#327698",
+    "brightWhite": "#262A3F",
+    "background": "#E8E9EC",
+    "foreground": "#33374C",
+    "cursorColor": "#33374C",
+    "selectionBackground": "#BBBCC4"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Xcode Light hc",
+    "black": "#B4D8FD",
+    "red": "#AD1805",
+    "green": "#355D61",
+    "yellow": "#78492A",
+    "blue": "#0058A1",
+    "purple": "#9C2191",
+    "cyan": "#703DAA",
+    "white": "#000000",
+    "brightBlack": "#8A99A6",
+    "brightRed": "#AD1805",
+    "brightGreen": "#174145",
+    "brightYellow": "#78492A",
+    "brightBlue": "#003F73",
+    "brightPurple": "#9C2191",
+    "brightCyan": "#441EA1",
+    "brightWhite": "#000000",
+    "background": "#FFFFFF",
+    "foreground": "#000000",
+    "cursorColor": "#000000",
+    "selectionBackground": "#B4D8FD"
+}

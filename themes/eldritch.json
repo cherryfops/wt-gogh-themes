@@ -1,0 +1,23 @@
+{
+    "name": "Eldritch",
+    "black": "#212337",
+    "red": "#F16C75",
+    "green": "#37F499",
+    "yellow": "#F1FC79",
+    "blue": "#39DDFD",
+    "purple": "#A48CF2",
+    "cyan": "#04D1F9",
+    "white": "#EBFAFA",
+    "brightBlack": "#7081D0",
+    "brightRed": "#F89A9D",
+    "brightGreen": "#6FFFC1",
+    "brightYellow": "#F9E9A1",
+    "brightBlue": "#7AE9FF",
+    "brightPurple": "#D4B3FF",
+    "brightCyan": "#6CE9FF",
+    "brightWhite": "#FFFFFF",
+    "background": "#212337",
+    "foreground": "#EBFAFA",
+    "cursorColor": "#EBFAFA",
+    "selectionBackground": "#545968"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Doom Vibrant",
+    "black": "#2A2E38",
+    "red": "#FF665C",
+    "green": "#7BC275",
+    "yellow": "#FCCE7B",
+    "blue": "#51AFEF",
+    "purple": "#C57BDB",
+    "cyan": "#5CEFFF",
+    "white": "#DFDFDF",
+    "brightBlack": "#484854",
+    "brightRed": "#FF665C",
+    "brightGreen": "#99BB66",
+    "brightYellow": "#ECBE7B",
+    "brightBlue": "#51AFEF",
+    "brightPurple": "#C678DD",
+    "brightCyan": "#46D9FF",
+    "brightWhite": "#BBC2CF",
+    "background": "#242730",
+    "foreground": "#BBC2CF",
+    "cursorColor": "#BBC2CF",
+    "selectionBackground": "#4A4E58"
+}

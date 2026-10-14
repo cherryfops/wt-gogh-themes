@@ -1,0 +1,23 @@
+{
+    "name": "Shaman",
+    "black": "#012026",
+    "red": "#B2302D",
+    "green": "#00A941",
+    "yellow": "#5E8BAA",
+    "blue": "#449A86",
+    "purple": "#00599D",
+    "cyan": "#5D7E19",
+    "white": "#405555",
+    "brightBlack": "#384451",
+    "brightRed": "#FF4242",
+    "brightGreen": "#2AEA5E",
+    "brightYellow": "#8ED4FD",
+    "brightBlue": "#61D5BA",
+    "brightPurple": "#1298FF",
+    "brightCyan": "#98D028",
+    "brightWhite": "#58FBD6",
+    "background": "#001015",
+    "foreground": "#405555",
+    "cursorColor": "#4AFCD6",
+    "selectionBackground": "#102125"
+}

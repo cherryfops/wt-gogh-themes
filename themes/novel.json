@@ -1,0 +1,23 @@
+{
+    "name": "Novel",
+    "black": "#000000",
+    "red": "#CC0000",
+    "green": "#009600",
+    "yellow": "#D06B00",
+    "blue": "#0000CC",
+    "purple": "#CC00CC",
+    "cyan": "#0087CC",
+    "white": "#CCCCCC",
+    "brightBlack": "#808080",
+    "brightRed": "#CC0000",
+    "brightGreen": "#009600",
+    "brightYellow": "#D06B00",
+    "brightBlue": "#0000CC",
+    "brightPurple": "#CC00CC",
+    "brightCyan": "#0087CC",
+    "brightWhite": "#FFFFFF",
+    "background": "#DFDBC3",
+    "foreground": "#3B2322",
+    "cursorColor": "#73635A",
+    "selectionBackground": "#B6AD9B"
+}

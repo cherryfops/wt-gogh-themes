@@ -1,0 +1,23 @@
+{
+    "name": "Patina Stellar",
+    "black": "#2E2A24",
+    "red": "#A84040",
+    "green": "#3A7055",
+    "yellow": "#6E5817",
+    "blue": "#2F626F",
+    "purple": "#8A5A50",
+    "cyan": "#387775",
+    "white": "#5A5248",
+    "brightBlack": "#6A6258",
+    "brightRed": "#BF3C3C",
+    "brightGreen": "#3E7A5E",
+    "brightYellow": "#826743",
+    "brightBlue": "#3F7381",
+    "brightPurple": "#9D594B",
+    "brightCyan": "#337675",
+    "brightWhite": "#393A34",
+    "background": "#F5F2ED",
+    "foreground": "#2E2A24",
+    "cursorColor": "#2E2A24",
+    "selectionBackground": "#DBD5C5"
+}

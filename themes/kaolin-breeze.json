@@ -1,0 +1,23 @@
+{
+    "name": "Kaolin Breeze",
+    "black": "#383E3F",
+    "red": "#CD5C60",
+    "green": "#39855F",
+    "yellow": "#B87E3C",
+    "blue": "#2683B5",
+    "purple": "#845A84",
+    "cyan": "#48A9A9",
+    "white": "#C9C2BD",
+    "brightBlack": "#7D8468",
+    "brightRed": "#EF6787",
+    "brightGreen": "#3E594E",
+    "brightYellow": "#D1832E",
+    "brightBlue": "#4F9CB8",
+    "brightPurple": "#605DB3",
+    "brightCyan": "#008B8B",
+    "brightWhite": "#60696B",
+    "background": "#EBE8E4",
+    "foreground": "#383E3F",
+    "cursorColor": "#383E3F",
+    "selectionBackground": "#BEBEBB"
+}

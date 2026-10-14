@@ -1,0 +1,23 @@
+{
+    "name": "Meliora",
+    "black": "#2A2421",
+    "red": "#D49191",
+    "green": "#B6B696",
+    "yellow": "#C4B392",
+    "blue": "#9E96B6",
+    "purple": "#B696B1",
+    "cyan": "#98ACC8",
+    "white": "#DDD9D6",
+    "brightBlack": "#2E2622",
+    "brightRed": "#D89393",
+    "brightGreen": "#B9B99B",
+    "brightYellow": "#C8B692",
+    "brightBlue": "#A299B9",
+    "brightPurple": "#B997B4",
+    "brightCyan": "#9BB0CA",
+    "brightWhite": "#E1DBD9",
+    "background": "#1C1917",
+    "foreground": "#D6D0CD",
+    "cursorColor": "#D6D0CD",
+    "selectionBackground": "#4A4744"
+}

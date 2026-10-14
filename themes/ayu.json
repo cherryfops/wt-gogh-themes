@@ -1,0 +1,23 @@
+{
+    "name": "Ayu",
+    "black": "#11151C",
+    "red": "#EA6C73",
+    "green": "#7FD962",
+    "yellow": "#F9AF4F",
+    "blue": "#53BDFA",
+    "purple": "#CDA1FA",
+    "cyan": "#90E1C6",
+    "white": "#C7C7C7",
+    "brightBlack": "#686868",
+    "brightRed": "#F07178",
+    "brightGreen": "#AAD94C",
+    "brightYellow": "#FFB454",
+    "brightBlue": "#59C2FF",
+    "brightPurple": "#D2A6FF",
+    "brightCyan": "#95E6CB",
+    "brightWhite": "#FFFFFF",
+    "background": "#0B0E14",
+    "foreground": "#BFBDB6",
+    "cursorColor": "#E6B450",
+    "selectionBackground": "#409FFF"
+}

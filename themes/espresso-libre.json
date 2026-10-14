@@ -1,0 +1,23 @@
+{
+    "name": "Espresso Libre",
+    "black": "#000000",
+    "red": "#CC0000",
+    "green": "#1A921C",
+    "yellow": "#F0E53A",
+    "blue": "#0066FF",
+    "purple": "#C5656B",
+    "cyan": "#06989A",
+    "white": "#D3D7CF",
+    "brightBlack": "#555753",
+    "brightRed": "#EF2929",
+    "brightGreen": "#9AFF87",
+    "brightYellow": "#FFFB5C",
+    "brightBlue": "#43A8ED",
+    "brightPurple": "#FF818A",
+    "brightCyan": "#34E2E2",
+    "brightWhite": "#EEEEEC",
+    "background": "#2A211C",
+    "foreground": "#B8A898",
+    "cursorColor": "#FFFFFF",
+    "selectionBackground": "#C3DCFF"
+}

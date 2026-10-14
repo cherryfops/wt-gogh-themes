@@ -1,0 +1,23 @@
+{
+    "name": "Serendipity Sunset",
+    "black": "#363847",
+    "red": "#D1918F",
+    "green": "#709BBD",
+    "yellow": "#A392DC",
+    "blue": "#A0B6E8",
+    "purple": "#AAC9D4",
+    "cyan": "#D6B4B4",
+    "white": "#DEE0EF",
+    "brightBlack": "#6B6D7C",
+    "brightRed": "#D1918F",
+    "brightGreen": "#709BBD",
+    "brightYellow": "#A392DC",
+    "brightBlue": "#A0B6E8",
+    "brightPurple": "#AAC9D4",
+    "brightCyan": "#D6B4B4",
+    "brightWhite": "#DEE0EF",
+    "background": "#202231",
+    "foreground": "#DEE0EF",
+    "cursorColor": "#8D8F9E",
+    "selectionBackground": "#6B6D7C"
+}

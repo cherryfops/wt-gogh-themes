@@ -1,0 +1,23 @@
+{
+    "name": "Base4Tone Modern W",
+    "black": "#201D1E",
+    "red": "#21A00D",
+    "green": "#1398AA",
+    "yellow": "#3CCADD",
+    "blue": "#EB75A2",
+    "purple": "#E97263",
+    "cyan": "#23B4C7",
+    "white": "#EDE8EA",
+    "brightBlack": "#0D080A",
+    "brightRed": "#39C723",
+    "brightGreen": "#5AD2E2",
+    "brightYellow": "#A4E6EF",
+    "brightBlue": "#F8BFD5",
+    "brightPurple": "#F18C7E",
+    "brightCyan": "#F6B1CC",
+    "brightWhite": "#F9F6F7",
+    "background": "#201D1E",
+    "foreground": "#9E9498",
+    "cursorColor": "#6A878A",
+    "selectionBackground": "#403B3C"
+}

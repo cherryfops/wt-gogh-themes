@@ -1,0 +1,23 @@
+{
+    "name": "Sublette",
+    "black": "#253045",
+    "red": "#EE5577",
+    "green": "#55EE77",
+    "yellow": "#FFDD88",
+    "blue": "#5588FF",
+    "purple": "#FF77CC",
+    "cyan": "#44EEEE",
+    "white": "#F5F5DA",
+    "brightBlack": "#405570",
+    "brightRed": "#EE6655",
+    "brightGreen": "#99EE77",
+    "brightYellow": "#FFFF77",
+    "brightBlue": "#77BBFF",
+    "brightPurple": "#AA88FF",
+    "brightCyan": "#55FFBB",
+    "brightWhite": "#FFFFEE",
+    "background": "#202535",
+    "foreground": "#CCCED0",
+    "cursorColor": "#CCCED0",
+    "selectionBackground": "#4B4F5C"
+}

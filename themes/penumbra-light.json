@@ -1,0 +1,23 @@
+{
+    "name": "Penumbra Light",
+    "black": "#FFFDFB",
+    "red": "#CA736C",
+    "green": "#47A477",
+    "yellow": "#8D9741",
+    "blue": "#5794D0",
+    "purple": "#9481CC",
+    "cyan": "#00A2AF",
+    "white": "#636363",
+    "brightBlack": "#BEBEBE",
+    "brightRed": "#CA736C",
+    "brightGreen": "#47A477",
+    "brightYellow": "#8D9741",
+    "brightBlue": "#5794D0",
+    "brightPurple": "#9481CC",
+    "brightCyan": "#00A2AF",
+    "brightWhite": "#24272B",
+    "background": "#FFFDFB",
+    "foreground": "#636363",
+    "cursorColor": "#636363",
+    "selectionBackground": "#D8D6D5"
+}

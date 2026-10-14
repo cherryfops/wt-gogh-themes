@@ -1,0 +1,23 @@
+{
+    "name": "Kolorit",
+    "black": "#1D1A1E",
+    "red": "#FF5B82",
+    "green": "#47D7A1",
+    "yellow": "#E8E562",
+    "blue": "#5DB4EE",
+    "purple": "#DA6CDA",
+    "cyan": "#57E9EB",
+    "white": "#EDEDED",
+    "brightBlack": "#1D1A1E",
+    "brightRed": "#FF5B82",
+    "brightGreen": "#47D7A1",
+    "brightYellow": "#E8E562",
+    "brightBlue": "#5DB4EE",
+    "brightPurple": "#DA6CDA",
+    "brightCyan": "#57E9EB",
+    "brightWhite": "#EDEDED",
+    "background": "#1D1A1E",
+    "foreground": "#EFECEC",
+    "cursorColor": "#C7C7C7",
+    "selectionBackground": "#524E52"
+}

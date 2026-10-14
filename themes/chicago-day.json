@@ -1,0 +1,23 @@
+{
+    "name": "Chicago Day",
+    "black": "#E8F0EA",
+    "red": "#C60C30",
+    "green": "#009B3A",
+    "yellow": "#968400",
+    "blue": "#522398",
+    "purple": "#E27EA6",
+    "cyan": "#00A1DE",
+    "white": "#364C40",
+    "brightBlack": "#8A9A91",
+    "brightRed": "#C60C30",
+    "brightGreen": "#009B3A",
+    "brightYellow": "#968400",
+    "brightBlue": "#522398",
+    "brightPurple": "#E27EA6",
+    "brightCyan": "#00A1DE",
+    "brightWhite": "#1E2A24",
+    "background": "#E8F0EA",
+    "foreground": "#364C40",
+    "cursorColor": "#364C40",
+    "selectionBackground": "#BCC7C0"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Windows 10 Light",
+    "black": "#F2F2F2",
+    "red": "#C50F1F",
+    "green": "#13A10E",
+    "yellow": "#C19C00",
+    "blue": "#0037DA",
+    "purple": "#881798",
+    "cyan": "#3A96DD",
+    "white": "#767676",
+    "brightBlack": "#CCCCCC",
+    "brightRed": "#C50F1F",
+    "brightGreen": "#13A10E",
+    "brightYellow": "#C19C00",
+    "brightBlue": "#0037DA",
+    "brightPurple": "#881798",
+    "brightCyan": "#3A96DD",
+    "brightWhite": "#0C0C0C",
+    "background": "#F2F2F2",
+    "foreground": "#767676",
+    "cursorColor": "#767676",
+    "selectionBackground": "#D3D3D3"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Tempus Fugit",
+    "black": "#4D595F",
+    "red": "#C61A14",
+    "green": "#357200",
+    "yellow": "#825E00",
+    "blue": "#1666B0",
+    "purple": "#A83884",
+    "cyan": "#007072",
+    "white": "#EFE6E4",
+    "brightBlack": "#796271",
+    "brightRed": "#B93F1A",
+    "brightGreen": "#437520",
+    "brightYellow": "#985900",
+    "brightBlue": "#485ADF",
+    "brightPurple": "#A234C0",
+    "brightCyan": "#00756A",
+    "brightWhite": "#FFF5F3",
+    "background": "#FFF5F3",
+    "foreground": "#4D595F",
+    "cursorColor": "#4D595F",
+    "selectionBackground": "#D2CECE"
+}

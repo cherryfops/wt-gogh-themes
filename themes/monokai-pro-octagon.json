@@ -1,0 +1,23 @@
+{
+    "name": "Monokai Pro Octagon",
+    "black": "#282A3A",
+    "red": "#FF657A",
+    "green": "#BAD761",
+    "yellow": "#FFD76D",
+    "blue": "#FF9B5E",
+    "purple": "#C39AC9",
+    "cyan": "#9CD1BB",
+    "white": "#EAF2F1",
+    "brightBlack": "#696D77",
+    "brightRed": "#FF657A",
+    "brightGreen": "#BAD761",
+    "brightYellow": "#FFD76D",
+    "brightBlue": "#FF9B5E",
+    "brightPurple": "#C39AC9",
+    "brightCyan": "#9CD1BB",
+    "brightWhite": "#EAF2F1",
+    "background": "#282A3A",
+    "foreground": "#EAF2F1",
+    "cursorColor": "#B2B9BD",
+    "selectionBackground": "#535763"
+}

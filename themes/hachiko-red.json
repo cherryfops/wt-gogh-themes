@@ -1,0 +1,23 @@
+{
+    "name": "Hachiko Red",
+    "black": "#181818",
+    "red": "#960042",
+    "green": "#FF0000",
+    "yellow": "#FF5D05",
+    "blue": "#FF2044",
+    "purple": "#FFEDCF",
+    "cyan": "#6F0027",
+    "white": "#FFDAF1",
+    "brightBlack": "#333333",
+    "brightRed": "#870300",
+    "brightGreen": "#690000",
+    "brightYellow": "#6F2700",
+    "brightBlue": "#333333",
+    "brightPurple": "#FFFFB5",
+    "brightCyan": "#F50056",
+    "brightWhite": "#FFE6DA",
+    "background": "#181818",
+    "foreground": "#FFDAF1",
+    "cursorColor": "#FFDAF1",
+    "selectionBackground": "#52484E"
+}

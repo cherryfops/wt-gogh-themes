@@ -1,0 +1,23 @@
+{
+    "name": "Aztec",
+    "black": "#101600",
+    "red": "#EE2E00",
+    "green": "#63D932",
+    "yellow": "#EEBB00",
+    "blue": "#5B4A9F",
+    "purple": "#883E9F",
+    "cyan": "#3D94A5",
+    "white": "#FFDA51",
+    "brightBlack": "#2E2E05",
+    "brightRed": "#EE2E00",
+    "brightGreen": "#63D932",
+    "brightYellow": "#EEBB00",
+    "brightBlue": "#5B4A9F",
+    "brightPurple": "#883E9F",
+    "brightCyan": "#3D94A5",
+    "brightWhite": "#FFEBA0",
+    "background": "#101600",
+    "foreground": "#FFDA51",
+    "cursorColor": "#FFDA51",
+    "selectionBackground": "#4C4714"
+}

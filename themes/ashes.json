@@ -1,0 +1,23 @@
+{
+    "name": "Ashes",
+    "black": "#1C2023",
+    "red": "#C7AE95",
+    "green": "#95C7AE",
+    "yellow": "#AEC795",
+    "blue": "#AE95C7",
+    "purple": "#C795AE",
+    "cyan": "#95AEC7",
+    "white": "#C7CCD1",
+    "brightBlack": "#747C84",
+    "brightRed": "#C7AE95",
+    "brightGreen": "#95C7AE",
+    "brightYellow": "#AEC795",
+    "brightBlue": "#AE95C7",
+    "brightPurple": "#C795AE",
+    "brightCyan": "#95AEC7",
+    "brightWhite": "#F3F4F5",
+    "background": "#1C2023",
+    "foreground": "#C7CCD1",
+    "cursorColor": "#C7CCD1",
+    "selectionBackground": "#474B4E"
+}

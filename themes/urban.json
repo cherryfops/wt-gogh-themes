@@ -1,0 +1,23 @@
+{
+    "name": "urban",
+    "black": "#32303A",
+    "red": "#7E444F",
+    "green": "#7A9256",
+    "yellow": "#A78560",
+    "blue": "#5F5770",
+    "purple": "#704156",
+    "cyan": "#534856",
+    "white": "#BCA89C",
+    "brightBlack": "#4E4B57",
+    "brightRed": "#7E444F",
+    "brightGreen": "#7A9256",
+    "brightYellow": "#A78560",
+    "brightBlue": "#5F5770",
+    "brightPurple": "#704156",
+    "brightCyan": "#534856",
+    "brightWhite": "#BCA89C",
+    "background": "#302E38",
+    "foreground": "#BCA89C",
+    "cursorColor": "#BCA89C",
+    "selectionBackground": "#534C51"
+}

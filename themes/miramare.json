@@ -1,0 +1,23 @@
+{
+    "name": "Miramare",
+    "black": "#242021",
+    "red": "#E68183",
+    "green": "#A7C080",
+    "yellow": "#D9BB80",
+    "blue": "#89BEBA",
+    "purple": "#D3A0BC",
+    "cyan": "#87C095",
+    "white": "#D8CAAC",
+    "brightBlack": "#444444",
+    "brightRed": "#E39B7B",
+    "brightGreen": "#A7C080",
+    "brightYellow": "#D9BB80",
+    "brightBlue": "#89BEBA",
+    "brightPurple": "#D3A0BC",
+    "brightCyan": "#87C095",
+    "brightWhite": "#E6D6AC",
+    "background": "#2A2426",
+    "foreground": "#E6D6AC",
+    "cursorColor": "#E6D6AC",
+    "selectionBackground": "#595048"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Aizen Light",
+    "black": "#F0F2F6",
+    "red": "#D00C36",
+    "green": "#3E9E28",
+    "yellow": "#DD8C1A",
+    "blue": "#1C64F2",
+    "purple": "#8636EC",
+    "cyan": "#159096",
+    "white": "#4A4D66",
+    "brightBlack": "#ADB2BC",
+    "brightRed": "#D00C36",
+    "brightGreen": "#3E9E28",
+    "brightYellow": "#DD8C1A",
+    "brightBlue": "#1C64F2",
+    "brightPurple": "#8636EC",
+    "brightCyan": "#159096",
+    "brightWhite": "#4A4D66",
+    "background": "#F0F2F6",
+    "foreground": "#4A4D66",
+    "cursorColor": "#FC6008",
+    "selectionBackground": "#BDC2CC"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "IC Orange PPL",
+    "black": "#000000",
+    "red": "#C13900",
+    "green": "#A4A900",
+    "yellow": "#CAAF00",
+    "blue": "#BD6D00",
+    "purple": "#FC5E00",
+    "cyan": "#F79500",
+    "white": "#FFC88A",
+    "brightBlack": "#6A4F2A",
+    "brightRed": "#FF8C68",
+    "brightGreen": "#F6FF40",
+    "brightYellow": "#FFE36E",
+    "brightBlue": "#FFBE55",
+    "brightPurple": "#FC874F",
+    "brightCyan": "#C69752",
+    "brightWhite": "#FAFAFF",
+    "background": "#262626",
+    "foreground": "#FFCB83",
+    "cursorColor": "#FC531D",
+    "selectionBackground": "#C14020"
+}

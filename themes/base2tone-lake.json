@@ -1,0 +1,23 @@
+{
+    "name": "Base2Tone Lake",
+    "black": "#192D34",
+    "red": "#3E91AC",
+    "green": "#CBBB4D",
+    "yellow": "#FFEB66",
+    "blue": "#499FBC",
+    "purple": "#CBBB4D",
+    "cyan": "#62B1CB",
+    "white": "#7BA8B7",
+    "brightBlack": "#3D6876",
+    "brightRed": "#D6C65C",
+    "brightGreen": "#223C44",
+    "brightYellow": "#335966",
+    "brightBlue": "#467686",
+    "brightPurple": "#A5D8E9",
+    "brightCyan": "#C4B031",
+    "brightWhite": "#E1F7FF",
+    "background": "#192D34",
+    "foreground": "#7BA8B7",
+    "cursorColor": "#84740B",
+    "selectionBackground": "#324C55"
+}

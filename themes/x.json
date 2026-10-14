@@ -1,0 +1,23 @@
+{
+    "name": "X",
+    "black": "#0A0A0A",
+    "red": "#FC618D",
+    "green": "#7BD88F",
+    "yellow": "#FCE566",
+    "blue": "#FD9353",
+    "purple": "#948AE3",
+    "cyan": "#5AD4E6",
+    "white": "#F7F1FF",
+    "brightBlack": "#0F0F0F",
+    "brightRed": "#FC618D",
+    "brightGreen": "#7BD88F",
+    "brightYellow": "#FCE566",
+    "brightBlue": "#FD9353",
+    "brightPurple": "#948AE3",
+    "brightCyan": "#5AD4E6",
+    "brightWhite": "#F7F1FF",
+    "background": "#050505",
+    "foreground": "#F7F1FF",
+    "cursorColor": "#F7F1FF",
+    "selectionBackground": "#424044"
+}

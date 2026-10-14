@@ -1,0 +1,23 @@
+{
+    "name": "Harper",
+    "black": "#010101",
+    "red": "#F8B63F",
+    "green": "#7FB5E1",
+    "yellow": "#D6DA25",
+    "blue": "#489E48",
+    "purple": "#B296C6",
+    "cyan": "#F5BFD7",
+    "white": "#A8A49D",
+    "brightBlack": "#726E6A",
+    "brightRed": "#F8B63F",
+    "brightGreen": "#7FB5E1",
+    "brightYellow": "#D6DA25",
+    "brightBlue": "#489E48",
+    "brightPurple": "#B296C6",
+    "brightCyan": "#F5BFD7",
+    "brightWhite": "#FEFBEA",
+    "background": "#010101",
+    "foreground": "#A8A49D",
+    "cursorColor": "#A8A49D",
+    "selectionBackground": "#5A5753"
+}

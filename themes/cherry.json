@@ -1,0 +1,23 @@
+{
+    "name": "Cherry",
+    "black": "#43435A",
+    "red": "#FF568E",
+    "green": "#64DE83",
+    "yellow": "#EFFF73",
+    "blue": "#73A9FF",
+    "purple": "#946FF7",
+    "cyan": "#62C6DA",
+    "white": "#DEDEFF",
+    "brightBlack": "#53536B",
+    "brightRed": "#FF69A2",
+    "brightGreen": "#73DE8A",
+    "brightYellow": "#F3FF85",
+    "brightBlue": "#85B6FF",
+    "brightPurple": "#A481F7",
+    "brightCyan": "#71C2D9",
+    "brightWhite": "#EBEBFF",
+    "background": "#1F1F2A",
+    "foreground": "#BDC3DF",
+    "cursorColor": "#BDC3DF",
+    "selectionBackground": "#464857"
+}

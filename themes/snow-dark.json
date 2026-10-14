@@ -1,0 +1,23 @@
+{
+    "name": "Snow Dark",
+    "black": "#2C2D30",
+    "red": "#BE868C",
+    "green": "#7F9D77",
+    "yellow": "#AB916D",
+    "blue": "#759ABD",
+    "purple": "#A88CB3",
+    "cyan": "#5DA19F",
+    "white": "#AFB7C0",
+    "brightBlack": "#363A3E",
+    "brightRed": "#BE868C",
+    "brightGreen": "#7F9D77",
+    "brightYellow": "#AB916D",
+    "brightBlue": "#759ABD",
+    "brightPurple": "#A88CB3",
+    "brightCyan": "#5DA19F",
+    "brightWhite": "#CBD2D9",
+    "background": "#2C2D30",
+    "foreground": "#AFB7C0",
+    "cursorColor": "#AFB7C0",
+    "selectionBackground": "#4D5054"
+}

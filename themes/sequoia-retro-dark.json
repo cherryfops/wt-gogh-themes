@@ -1,0 +1,23 @@
+{
+    "name": "Sequoia Retro Dark",
+    "black": "#131317",
+    "red": "#829FA7",
+    "green": "#648F68",
+    "yellow": "#DA674B",
+    "blue": "#5C87A4",
+    "purple": "#E8B246",
+    "cyan": "#A27E57",
+    "white": "#868690",
+    "brightBlack": "#575861",
+    "brightRed": "#E8B246",
+    "brightGreen": "#648F68",
+    "brightYellow": "#DA674B",
+    "brightBlue": "#5C87A4",
+    "brightPurple": "#829FA7",
+    "brightCyan": "#A27E57",
+    "brightWhite": "#868690",
+    "background": "#0F1014",
+    "foreground": "#868690",
+    "cursorColor": "#43444D",
+    "selectionBackground": "#2D2E33"
+}

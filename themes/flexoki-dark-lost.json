@@ -1,0 +1,23 @@
+{
+    "name": "Flexoki Dark Lost",
+    "black": "#282726",
+    "red": "#AF3029",
+    "green": "#66800B",
+    "yellow": "#AD8301",
+    "blue": "#205EA6",
+    "purple": "#A02F6F",
+    "cyan": "#24837B",
+    "white": "#E6E4D9",
+    "brightBlack": "#343331",
+    "brightRed": "#D14D41",
+    "brightGreen": "#879A39",
+    "brightYellow": "#D0A215",
+    "brightBlue": "#4385BE",
+    "brightPurple": "#CE5D97",
+    "brightCyan": "#3AA99F",
+    "brightWhite": "#FFFCF0",
+    "background": "#100F0F",
+    "foreground": "#878580",
+    "cursorColor": "#CECDC3",
+    "selectionBackground": "#2E2C2B"
+}

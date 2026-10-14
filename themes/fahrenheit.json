@@ -1,0 +1,23 @@
+{
+    "name": "Fahrenheit",
+    "black": "#1D1D1D",
+    "red": "#CDA074",
+    "green": "#9E744D",
+    "yellow": "#FECF75",
+    "blue": "#720102",
+    "purple": "#734C4D",
+    "cyan": "#979797",
+    "white": "#FFFFCE",
+    "brightBlack": "#000000",
+    "brightRed": "#FECEA0",
+    "brightGreen": "#CC734D",
+    "brightYellow": "#FD9F4D",
+    "brightBlue": "#CB4A05",
+    "brightPurple": "#4E739F",
+    "brightCyan": "#FED04D",
+    "brightWhite": "#FFFFFF",
+    "background": "#000000",
+    "foreground": "#FFFFCE",
+    "cursorColor": "#BBBBBB",
+    "selectionBackground": "#404034"
+}

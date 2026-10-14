@@ -1,0 +1,23 @@
+{
+    "name": "Grey Green",
+    "black": "#000000",
+    "red": "#FE1414",
+    "green": "#74FF00",
+    "yellow": "#F1FF01",
+    "blue": "#00DEFF",
+    "purple": "#FF00F0",
+    "cyan": "#00FFBC",
+    "white": "#FFFFFF",
+    "brightBlack": "#666666",
+    "brightRed": "#FF3939",
+    "brightGreen": "#00FF44",
+    "brightYellow": "#FFD100",
+    "brightBlue": "#00AFFF",
+    "brightPurple": "#FF008A",
+    "brightCyan": "#00FFD3",
+    "brightWhite": "#F5ECEC",
+    "background": "#002A1A",
+    "foreground": "#FFFFFF",
+    "cursorColor": "#FFF400",
+    "selectionBackground": "#517E50"
+}

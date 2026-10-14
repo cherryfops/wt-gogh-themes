@@ -1,0 +1,23 @@
+{
+    "name": "Midnight Haze",
+    "black": "#2C2C3D",
+    "red": "#FF6E6E",
+    "green": "#9EC875",
+    "yellow": "#FFA759",
+    "blue": "#70A7D4",
+    "purple": "#D291E0",
+    "cyan": "#96E0E0",
+    "white": "#D8DEE9",
+    "brightBlack": "#414166",
+    "brightRed": "#FF8D8D",
+    "brightGreen": "#B3D987",
+    "brightYellow": "#FFC57F",
+    "brightBlue": "#9BB3D3",
+    "brightPurple": "#FFA1FF",
+    "brightCyan": "#9CD8D8",
+    "brightWhite": "#FFFFFF",
+    "background": "#0C0C16",
+    "foreground": "#D8DEE9",
+    "cursorColor": "#D8DEE9",
+    "selectionBackground": "#3F404B"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Base2Tone Desert",
+    "black": "#292724",
+    "red": "#816F4B",
+    "green": "#EC9255",
+    "yellow": "#FFB380",
+    "blue": "#957E50",
+    "purple": "#EC9255",
+    "cyan": "#AC8E53",
+    "white": "#ADA594",
+    "brightBlack": "#7E7767",
+    "brightRed": "#F29D63",
+    "brightGreen": "#3D3A34",
+    "brightYellow": "#615C51",
+    "brightBlue": "#908774",
+    "brightPurple": "#DDCBA6",
+    "brightCyan": "#E58748",
+    "brightWhite": "#F2EAD9",
+    "background": "#292724",
+    "foreground": "#ADA594",
+    "cursorColor": "#BC672F",
+    "selectionBackground": "#4A4640"
+}

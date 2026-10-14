@@ -1,0 +1,23 @@
+{
+    "name": "Hatsunemiku",
+    "black": "#242829",
+    "red": "#DF2683",
+    "green": "#13868C",
+    "yellow": "#FCFCDF",
+    "blue": "#1A86B9",
+    "purple": "#BC7FD2",
+    "cyan": "#7CC7D6",
+    "white": "#4A4B4B",
+    "brightBlack": "#7B8B99",
+    "brightRed": "#DF2683",
+    "brightGreen": "#13868C",
+    "brightYellow": "#FCFCDF",
+    "brightBlue": "#1A86B9",
+    "brightPurple": "#BC7FD2",
+    "brightCyan": "#7CC7D6",
+    "brightWhite": "#DCD7D7",
+    "background": "#242829",
+    "foreground": "#DCD7D7",
+    "cursorColor": "#DCD7D7",
+    "selectionBackground": "#525454"
+}

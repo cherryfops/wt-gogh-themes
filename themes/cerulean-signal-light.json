@@ -1,0 +1,23 @@
+{
+    "name": "Cerulean Signal Light",
+    "black": "#F7F9FC",
+    "red": "#B4233D",
+    "green": "#17795E",
+    "yellow": "#6F6300",
+    "blue": "#006FA8",
+    "purple": "#A0007D",
+    "cyan": "#00727E",
+    "white": "#232B38",
+    "brightBlack": "#637287",
+    "brightRed": "#C7354D",
+    "brightGreen": "#247B4E",
+    "brightYellow": "#7B6500",
+    "brightBlue": "#0078B5",
+    "brightPurple": "#B5149E",
+    "brightCyan": "#007787",
+    "brightWhite": "#141D2A",
+    "background": "#F7F9FC",
+    "foreground": "#232B38",
+    "cursorColor": "#232B38",
+    "selectionBackground": "#C2C6CB"
+}

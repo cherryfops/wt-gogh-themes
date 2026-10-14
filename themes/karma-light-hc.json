@@ -1,0 +1,23 @@
+{
+    "name": "Karma Light HC",
+    "black": "#000000",
+    "red": "#C01650",
+    "green": "#1A6E1C",
+    "yellow": "#9C6800",
+    "blue": "#2F5E9E",
+    "purple": "#4D2D9A",
+    "cyan": "#2F5E9E",
+    "white": "#2E2C30",
+    "brightBlack": "#999999",
+    "brightRed": "#C01650",
+    "brightGreen": "#1A6E1C",
+    "brightYellow": "#9C6800",
+    "brightBlue": "#2F5E9E",
+    "brightPurple": "#4D2D9A",
+    "brightCyan": "#2F5E9E",
+    "brightWhite": "#0A0E14",
+    "background": "#FFFFFF",
+    "foreground": "#000000",
+    "cursorColor": "#4D2D9A",
+    "selectionBackground": "#CFCAD8"
+}

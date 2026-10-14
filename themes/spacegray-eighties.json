@@ -1,0 +1,23 @@
+{
+    "name": "Spacegray Eighties",
+    "black": "#15171C",
+    "red": "#EC5F67",
+    "green": "#81A764",
+    "yellow": "#FEC254",
+    "blue": "#5486C0",
+    "purple": "#BF83C1",
+    "cyan": "#57C2C1",
+    "white": "#EFECE7",
+    "brightBlack": "#555555",
+    "brightRed": "#FF6973",
+    "brightGreen": "#93D493",
+    "brightYellow": "#FFD256",
+    "brightBlue": "#4D84D1",
+    "brightPurple": "#FF55FF",
+    "brightCyan": "#83E9E4",
+    "brightWhite": "#FFFFFF",
+    "background": "#222222",
+    "foreground": "#BDBAAE",
+    "cursorColor": "#BBBBBB",
+    "selectionBackground": "#272E35"
+}

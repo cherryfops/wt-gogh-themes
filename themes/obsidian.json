@@ -1,0 +1,23 @@
+{
+    "name": "Obsidian",
+    "black": "#000000",
+    "red": "#A60001",
+    "green": "#00BB00",
+    "yellow": "#FECD22",
+    "blue": "#3A9BDB",
+    "purple": "#BB00BB",
+    "cyan": "#00BBBB",
+    "white": "#BBBBBB",
+    "brightBlack": "#555555",
+    "brightRed": "#FF0003",
+    "brightGreen": "#93C863",
+    "brightYellow": "#FEF874",
+    "brightBlue": "#A1D7FF",
+    "brightPurple": "#FF55FF",
+    "brightCyan": "#55FFFF",
+    "brightWhite": "#FFFFFF",
+    "background": "#283033",
+    "foreground": "#CDCDCD",
+    "cursorColor": "#C0CAD0",
+    "selectionBackground": "#51575A"
+}

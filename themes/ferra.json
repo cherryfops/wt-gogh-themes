@@ -1,0 +1,23 @@
+{
+    "name": "Ferra",
+    "black": "#1F1E20",
+    "red": "#C05862",
+    "green": "#8E9478",
+    "yellow": "#FFA07A",
+    "blue": "#BFBFCF",
+    "purple": "#F6B6C9",
+    "cyan": "#8EB5B0",
+    "white": "#D8D4D6",
+    "brightBlack": "#6F5D63",
+    "brightRed": "#E06B75",
+    "brightGreen": "#B1B695",
+    "brightYellow": "#B8864E",
+    "brightBlue": "#D1D1E0",
+    "brightPurple": "#E8829C",
+    "brightCyan": "#AACDC8",
+    "brightWhite": "#E4E0E2",
+    "background": "#2B292D",
+    "foreground": "#FECDB2",
+    "cursorColor": "#FECDB2",
+    "selectionBackground": "#60524E"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Darkviolet",
+    "black": "#000000",
+    "red": "#A82EE6",
+    "green": "#4595E6",
+    "yellow": "#F29DF2",
+    "blue": "#4136D9",
+    "purple": "#7E5CE6",
+    "cyan": "#40DFFF",
+    "white": "#B08AE6",
+    "brightBlack": "#593380",
+    "brightRed": "#A82EE6",
+    "brightGreen": "#4595E6",
+    "brightYellow": "#F29DF2",
+    "brightBlue": "#4136D9",
+    "brightPurple": "#7E5CE6",
+    "brightCyan": "#40DFFF",
+    "brightWhite": "#A366FF",
+    "background": "#000000",
+    "foreground": "#B08AE6",
+    "cursorColor": "#B08AE6",
+    "selectionBackground": "#2C223A"
+}

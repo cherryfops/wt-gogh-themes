@@ -1,0 +1,23 @@
+{
+    "name": "Espresso",
+    "black": "#353535",
+    "red": "#D25252",
+    "green": "#A5C261",
+    "yellow": "#FFC66D",
+    "blue": "#6C99BB",
+    "purple": "#D197D9",
+    "cyan": "#BED6FF",
+    "white": "#EEEEEC",
+    "brightBlack": "#535353",
+    "brightRed": "#F00C0C",
+    "brightGreen": "#C2E075",
+    "brightYellow": "#E1E48B",
+    "brightBlue": "#8AB7D9",
+    "brightPurple": "#EFB5F7",
+    "brightCyan": "#DCF4FF",
+    "brightWhite": "#FFFFFF",
+    "background": "#323232",
+    "foreground": "#FFFFFF",
+    "cursorColor": "#D6D6D6",
+    "selectionBackground": "#656565"
+}

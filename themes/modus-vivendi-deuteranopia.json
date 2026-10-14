@@ -1,0 +1,23 @@
+{
+    "name": "Modus Vivendi Deuteranopia",
+    "black": "#000000",
+    "red": "#FF5F59",
+    "green": "#44BC44",
+    "yellow": "#CABF00",
+    "blue": "#2FAFFF",
+    "purple": "#FEACD0",
+    "cyan": "#00D3D0",
+    "white": "#A6A6A6",
+    "brightBlack": "#595959",
+    "brightRed": "#FF7F9F",
+    "brightGreen": "#00C06F",
+    "brightYellow": "#FFA00F",
+    "brightBlue": "#79A8FF",
+    "brightPurple": "#B6A0FF",
+    "brightCyan": "#6AE4B9",
+    "brightWhite": "#FFFFFF",
+    "background": "#000000",
+    "foreground": "#FFFFFF",
+    "cursorColor": "#FFFFFF",
+    "selectionBackground": "#5A5A5A"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Source Code X",
+    "black": "#4E596B",
+    "red": "#FB695D",
+    "green": "#74B391",
+    "yellow": "#FC8E3E",
+    "blue": "#9586F4",
+    "purple": "#FB5EA3",
+    "cyan": "#79C8B6",
+    "white": "#BFBFBF",
+    "brightBlack": "#91A0B1",
+    "brightRed": "#FB695D",
+    "brightGreen": "#AEF37C",
+    "brightYellow": "#FC8E3E",
+    "brightBlue": "#53A4FB",
+    "brightPurple": "#FB5EA3",
+    "brightCyan": "#83D2C0",
+    "brightWhite": "#91A0B1",
+    "background": "#1F1F24",
+    "foreground": "#000000",
+    "cursorColor": "#000000",
+    "selectionBackground": "#414144"
+}

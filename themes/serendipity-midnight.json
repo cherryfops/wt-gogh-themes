@@ -1,0 +1,23 @@
+{
+    "name": "Serendipity Midnight",
+    "black": "#232534",
+    "red": "#EE8679",
+    "green": "#5BA2D0",
+    "yellow": "#A78BFA",
+    "blue": "#94B8FF",
+    "purple": "#9CCFD8",
+    "cyan": "#F8D2C9",
+    "white": "#DEE0EF",
+    "brightBlack": "#8D8F9E",
+    "brightRed": "#EE8679",
+    "brightGreen": "#5BA2D0",
+    "brightYellow": "#A78BFA",
+    "brightBlue": "#94B8FF",
+    "brightPurple": "#9CCFD8",
+    "brightCyan": "#F8D2C9",
+    "brightWhite": "#DEE0EF",
+    "background": "#151726",
+    "foreground": "#DEE0EF",
+    "cursorColor": "#6B6D7C",
+    "selectionBackground": "#6B6D7C"
+}

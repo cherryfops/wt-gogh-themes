@@ -1,0 +1,23 @@
+{
+    "name": "Kurokula",
+    "black": "#333333",
+    "red": "#B66056",
+    "green": "#85B1A9",
+    "yellow": "#DBBB43",
+    "blue": "#6890D7",
+    "purple": "#887AA3",
+    "cyan": "#837369",
+    "white": "#DDD0C4",
+    "brightBlack": "#515151",
+    "brightRed": "#FFC663",
+    "brightGreen": "#C1FFAE",
+    "brightYellow": "#FFF700",
+    "brightBlue": "#A1D9FF",
+    "brightPurple": "#A994FF",
+    "brightCyan": "#F9CFB9",
+    "brightWhite": "#FFFFFF",
+    "background": "#141515",
+    "foreground": "#DDD0C4",
+    "cursorColor": "#702420",
+    "selectionBackground": "#464441"
+}

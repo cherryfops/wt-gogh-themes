@@ -1,0 +1,23 @@
+{
+    "name": "Caroline",
+    "black": "#1C1213",
+    "red": "#C24F57",
+    "green": "#806C61",
+    "yellow": "#F28171",
+    "blue": "#684C59",
+    "purple": "#A63650",
+    "cyan": "#6B6566",
+    "white": "#A87569",
+    "brightBlack": "#6D4745",
+    "brightRed": "#C24F57",
+    "brightGreen": "#806C61",
+    "brightYellow": "#F28171",
+    "brightBlue": "#684C59",
+    "brightPurple": "#A63650",
+    "brightCyan": "#6B6566",
+    "brightWhite": "#E3A68C",
+    "background": "#1C1213",
+    "foreground": "#A87569",
+    "cursorColor": "#A87569",
+    "selectionBackground": "#3F2B28"
+}

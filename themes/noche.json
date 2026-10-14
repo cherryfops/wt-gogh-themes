@@ -1,0 +1,23 @@
+{
+    "name": "Noche",
+    "black": "#0C0E16",
+    "red": "#E2727E",
+    "green": "#7CC596",
+    "yellow": "#D8C062",
+    "blue": "#7AA0E8",
+    "purple": "#B79AE0",
+    "cyan": "#6DD8D0",
+    "white": "#CBD4EC",
+    "brightBlack": "#5A6178",
+    "brightRed": "#E2727E",
+    "brightGreen": "#7CC596",
+    "brightYellow": "#D8C062",
+    "brightBlue": "#7AA0E8",
+    "brightPurple": "#B79AE0",
+    "brightCyan": "#6DD8D0",
+    "brightWhite": "#E6ECFA",
+    "background": "#0C0E16",
+    "foreground": "#CBD4EC",
+    "cursorColor": "#CBD4EC",
+    "selectionBackground": "#3C404C"
+}

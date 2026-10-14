@@ -1,0 +1,23 @@
+{
+    "name": "Toy Chest",
+    "black": "#2C3F58",
+    "red": "#BE2D26",
+    "green": "#1A9172",
+    "yellow": "#DB8E27",
+    "blue": "#325D96",
+    "purple": "#8A5EDC",
+    "cyan": "#35A08F",
+    "white": "#23D183",
+    "brightBlack": "#336889",
+    "brightRed": "#DD5944",
+    "brightGreen": "#31D07B",
+    "brightYellow": "#E7D84B",
+    "brightBlue": "#34A6DA",
+    "brightPurple": "#AE6BDC",
+    "brightCyan": "#42C3AE",
+    "brightWhite": "#D5D5D5",
+    "background": "#24364B",
+    "foreground": "#31D07B",
+    "cursorColor": "#D5D5D5",
+    "selectionBackground": "#5F217A"
+}

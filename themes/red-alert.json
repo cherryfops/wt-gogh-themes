@@ -1,0 +1,23 @@
+{
+    "name": "Red Alert",
+    "black": "#000000",
+    "red": "#D62E4E",
+    "green": "#71BE6B",
+    "yellow": "#BEB86B",
+    "blue": "#489BEE",
+    "purple": "#E979D7",
+    "cyan": "#6BBEB8",
+    "white": "#D6D6D6",
+    "brightBlack": "#262626",
+    "brightRed": "#E02553",
+    "brightGreen": "#AFF08C",
+    "brightYellow": "#DFDDB7",
+    "brightBlue": "#65AAF1",
+    "brightPurple": "#DDB7DF",
+    "brightCyan": "#B7DFDD",
+    "brightWhite": "#FFFFFF",
+    "background": "#762423",
+    "foreground": "#FFFFFF",
+    "cursorColor": "#FFFFFF",
+    "selectionBackground": "#985B5A"
+}

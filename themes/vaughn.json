@@ -1,0 +1,23 @@
+{
+    "name": "Vaughn",
+    "black": "#25234F",
+    "red": "#705050",
+    "green": "#60B48A",
+    "yellow": "#DFAF8F",
+    "blue": "#5555FF",
+    "purple": "#F08CC3",
+    "cyan": "#8CD0D3",
+    "white": "#709080",
+    "brightBlack": "#709080",
+    "brightRed": "#DCA3A3",
+    "brightGreen": "#60B48A",
+    "brightYellow": "#F0DFAF",
+    "brightBlue": "#5555FF",
+    "brightPurple": "#EC93D3",
+    "brightCyan": "#93E0E3",
+    "brightWhite": "#FFFFFF",
+    "background": "#25234F",
+    "foreground": "#DCDCCC",
+    "cursorColor": "#FF5555",
+    "selectionBackground": "#53516E"
+}

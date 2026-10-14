@@ -1,0 +1,23 @@
+{
+    "name": "Lichen Chartreuse Light",
+    "black": "#F5F7F2",
+    "red": "#A34740",
+    "green": "#2F7462",
+    "yellow": "#506B29",
+    "blue": "#356E8A",
+    "purple": "#6E5689",
+    "cyan": "#356569",
+    "white": "#2D302B",
+    "brightBlack": "#687161",
+    "brightRed": "#A34740",
+    "brightGreen": "#506B29",
+    "brightYellow": "#875E20",
+    "brightBlue": "#3B6D86",
+    "brightPurple": "#8A4F67",
+    "brightCyan": "#3F6464",
+    "brightWhite": "#151613",
+    "background": "#F5F7F2",
+    "foreground": "#2D302B",
+    "cursorColor": "#2D302B",
+    "selectionBackground": "#C3C5C0"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Arc Dark",
+    "black": "#0D1117",
+    "red": "#C32424",
+    "green": "#24C391",
+    "yellow": "#C3A924",
+    "blue": "#2455C3",
+    "purple": "#C224C3",
+    "cyan": "#24BAC3",
+    "white": "#E8ECF2",
+    "brightBlack": "#3B4D68",
+    "brightRed": "#D93030",
+    "brightGreen": "#30D9A4",
+    "brightYellow": "#D9BD30",
+    "brightBlue": "#3063D9",
+    "brightPurple": "#D930D9",
+    "brightCyan": "#30D1D9",
+    "brightWhite": "#FFFFFF",
+    "background": "#0D1117",
+    "foreground": "#9198A1",
+    "cursorColor": "#00FF00",
+    "selectionBackground": "#2E333A"
+}

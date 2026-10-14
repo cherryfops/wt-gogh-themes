@@ -1,0 +1,23 @@
+{
+    "name": "Kaolin Galaxy",
+    "black": "#212026",
+    "red": "#EF6787",
+    "green": "#49BDB0",
+    "yellow": "#EED891",
+    "blue": "#41B0F3",
+    "purple": "#CEA2CA",
+    "cyan": "#6BD9DB",
+    "white": "#E6E6E8",
+    "brightBlack": "#615B75",
+    "brightRed": "#D6224D",
+    "brightGreen": "#6DD797",
+    "brightYellow": "#F5C791",
+    "brightBlue": "#2A57CC",
+    "brightPurple": "#9D81BA",
+    "brightCyan": "#0BC9CF",
+    "brightWhite": "#F2F2F2",
+    "background": "#212026",
+    "foreground": "#E6E6E8",
+    "cursorColor": "#E6E6E8",
+    "selectionBackground": "#525256"
+}

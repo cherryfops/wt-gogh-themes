@@ -1,0 +1,23 @@
+{
+    "name": "Kurayami",
+    "black": "#2C2C2C",
+    "red": "#BF616A",
+    "green": "#00AF87",
+    "yellow": "#CECB00",
+    "blue": "#158C8A",
+    "purple": "#B48EAD",
+    "cyan": "#1A8FFF",
+    "white": "#DCDCDC",
+    "brightBlack": "#626262",
+    "brightRed": "#B2201F",
+    "brightGreen": "#36F57A",
+    "brightYellow": "#FFFD00",
+    "brightBlue": "#1A8FFF",
+    "brightPurple": "#CB1ED1",
+    "brightCyan": "#14FFFF",
+    "brightWhite": "#FFFFFF",
+    "background": "#1C1C1C",
+    "foreground": "#CCCCCC",
+    "cursorColor": "#CCCCCC",
+    "selectionBackground": "#484848"
+}

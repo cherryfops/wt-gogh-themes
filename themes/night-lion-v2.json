@@ -1,0 +1,23 @@
+{
+    "name": "Night Lion V2",
+    "black": "#4C4C4C",
+    "red": "#BB0000",
+    "green": "#04F623",
+    "yellow": "#F3F167",
+    "blue": "#64D0F0",
+    "purple": "#CE6FDB",
+    "cyan": "#00DADF",
+    "white": "#BBBBBB",
+    "brightBlack": "#555555",
+    "brightRed": "#FF5555",
+    "brightGreen": "#7DF71D",
+    "brightYellow": "#FFFF55",
+    "brightBlue": "#62CBE8",
+    "brightPurple": "#FF9BF5",
+    "brightCyan": "#00CCD8",
+    "brightWhite": "#FFFFFF",
+    "background": "#171717",
+    "foreground": "#BBBBBB",
+    "cursorColor": "#BBBBBB",
+    "selectionBackground": "#B5D5FF"
+}

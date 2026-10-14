@@ -1,0 +1,23 @@
+{
+    "name": "SeedFlip Ultraviolet",
+    "black": "#05000A",
+    "red": "#F04242",
+    "green": "#42F07C",
+    "yellow": "#F0D342",
+    "blue": "#428BF0",
+    "purple": "#F042F0",
+    "cyan": "#42F0F0",
+    "white": "#F6F3FB",
+    "brightBlack": "#5B2687",
+    "brightRed": "#F58989",
+    "brightGreen": "#89F5AD",
+    "brightYellow": "#F5E389",
+    "brightBlue": "#89B6F5",
+    "brightPurple": "#F589F5",
+    "brightCyan": "#89F5F5",
+    "brightWhite": "#FFFFFF",
+    "background": "#0B0014",
+    "foreground": "#E8E0F5",
+    "cursorColor": "#C77DFF",
+    "selectionBackground": "#13082A"
+}

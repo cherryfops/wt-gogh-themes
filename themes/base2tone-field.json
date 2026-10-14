@@ -1,0 +1,23 @@
+{
+    "name": "Base2Tone Field",
+    "black": "#18201E",
+    "red": "#0FBDA0",
+    "green": "#3BE381",
+    "yellow": "#85FFB8",
+    "blue": "#25D0B4",
+    "purple": "#3BE381",
+    "cyan": "#40DDC3",
+    "white": "#8EA4A0",
+    "brightBlack": "#5A6D6A",
+    "brightRed": "#55EC94",
+    "brightGreen": "#242E2C",
+    "brightYellow": "#42524F",
+    "brightBlue": "#667A77",
+    "brightPurple": "#88F2E0",
+    "brightCyan": "#25D46E",
+    "brightWhite": "#A8FFF1",
+    "background": "#18201E",
+    "foreground": "#8EA4A0",
+    "cursorColor": "#00943E",
+    "selectionBackground": "#36413E"
+}

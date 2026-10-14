@@ -1,0 +1,23 @@
+{
+    "name": "London Soho Night",
+    "black": "#2A221A",
+    "red": "#D4574A",
+    "green": "#8FAE5E",
+    "yellow": "#E8B04A",
+    "blue": "#6A8FB5",
+    "purple": "#D96AA5",
+    "cyan": "#9AB8A8",
+    "white": "#EBE0C8",
+    "brightBlack": "#6B5A48",
+    "brightRed": "#E87765",
+    "brightGreen": "#AAC874",
+    "brightYellow": "#F4C560",
+    "brightBlue": "#88A8C8",
+    "brightPurple": "#ED85B8",
+    "brightCyan": "#B8CEBD",
+    "brightWhite": "#F8EED2",
+    "background": "#1A1612",
+    "foreground": "#EBE0C8",
+    "cursorColor": "#FF5DB1",
+    "selectionBackground": "#3A2F24"
+}

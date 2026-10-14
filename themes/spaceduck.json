@@ -1,0 +1,23 @@
+{
+    "name": "Spaceduck",
+    "black": "#16172D",
+    "red": "#E33400",
+    "green": "#5CCC96",
+    "yellow": "#F2CE00",
+    "blue": "#7A5CCC",
+    "purple": "#B3A1E6",
+    "cyan": "#00A3CC",
+    "white": "#ECF0C1",
+    "brightBlack": "#686F9A",
+    "brightRed": "#E33400",
+    "brightGreen": "#5CCC96",
+    "brightYellow": "#F2CE00",
+    "brightBlue": "#7A5CCC",
+    "brightPurple": "#B3A1E6",
+    "brightCyan": "#00A3CC",
+    "brightWhite": "#FFFFFF",
+    "background": "#16172D",
+    "foreground": "#ECF0C1",
+    "cursorColor": "#ECF0C1",
+    "selectionBackground": "#4C4D52"
+}

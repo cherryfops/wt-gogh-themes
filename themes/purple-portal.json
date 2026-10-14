@@ -1,0 +1,23 @@
+{
+    "name": "Purple Portal",
+    "black": "#483A57",
+    "red": "#FB7185",
+    "green": "#34D399",
+    "yellow": "#F472B6",
+    "blue": "#FACC15",
+    "purple": "#38BDF8",
+    "cyan": "#580FF0",
+    "white": "#D8B4FE",
+    "brightBlack": "#503872",
+    "brightRed": "#FC8D9D",
+    "brightGreen": "#5DDCAD",
+    "brightYellow": "#F68BC3",
+    "brightBlue": "#FBD644",
+    "brightPurple": "#60CAF9",
+    "brightCyan": "#793FF3",
+    "brightWhite": "#FAF5FF",
+    "background": "#160528",
+    "foreground": "#FAF5FF",
+    "cursorColor": "#FAF5FF",
+    "selectionBackground": "#4F415E"
+}

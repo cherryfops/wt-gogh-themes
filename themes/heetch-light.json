@@ -1,0 +1,23 @@
+{
+    "name": "Heetch Light",
+    "black": "#FEFFFF",
+    "red": "#F80059",
+    "green": "#5BB66A",
+    "yellow": "#BD9701",
+    "blue": "#5BA2B6",
+    "purple": "#8F6C97",
+    "cyan": "#47F9F5",
+    "white": "#5A496E",
+    "brightBlack": "#9C92A8",
+    "brightRed": "#F80059",
+    "brightGreen": "#5BB66A",
+    "brightYellow": "#BD9701",
+    "brightBlue": "#5BA2B6",
+    "brightPurple": "#8F6C97",
+    "brightCyan": "#47F9F5",
+    "brightWhite": "#190134",
+    "background": "#FEFFFF",
+    "foreground": "#5A496E",
+    "cursorColor": "#5A496E",
+    "selectionBackground": "#D5D2DB"
+}

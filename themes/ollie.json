@@ -1,0 +1,23 @@
+{
+    "name": "Ollie",
+    "black": "#000000",
+    "red": "#AC2E31",
+    "green": "#31AC61",
+    "yellow": "#AC4300",
+    "blue": "#2D57AC",
+    "purple": "#B08528",
+    "cyan": "#1FA6AC",
+    "white": "#8A8EAC",
+    "brightBlack": "#5B3725",
+    "brightRed": "#FF3D48",
+    "brightGreen": "#3BFF99",
+    "brightYellow": "#FF5E1E",
+    "brightBlue": "#4488FF",
+    "brightPurple": "#FFC21D",
+    "brightCyan": "#1FFAFF",
+    "brightWhite": "#5B6EA7",
+    "background": "#222125",
+    "foreground": "#8A8DAE",
+    "cursorColor": "#5B6EA7",
+    "selectionBackground": "#3C3C47"
+}

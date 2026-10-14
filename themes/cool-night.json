@@ -1,0 +1,23 @@
+{
+    "name": "Cool Night",
+    "black": "#0B3B61",
+    "red": "#FF3A3A",
+    "green": "#52FFD0",
+    "yellow": "#FFF383",
+    "blue": "#1376F9",
+    "purple": "#C792EA",
+    "cyan": "#FF5ED4",
+    "white": "#16FDA2",
+    "brightBlack": "#63686D",
+    "brightRed": "#FF54B0",
+    "brightGreen": "#74FFD8",
+    "brightYellow": "#FCF5AE",
+    "brightBlue": "#388EFF",
+    "brightPurple": "#AE81FF",
+    "brightCyan": "#FF6AD7",
+    "brightWhite": "#60FBBF",
+    "background": "#010C18",
+    "foreground": "#ECDEF4",
+    "cursorColor": "#38FF9D",
+    "selectionBackground": "#3C404F"
+}

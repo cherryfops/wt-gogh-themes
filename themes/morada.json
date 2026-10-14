@@ -1,0 +1,23 @@
+{
+    "name": "Morada",
+    "black": "#040404",
+    "red": "#0F49C4",
+    "green": "#48B117",
+    "yellow": "#E87324",
+    "blue": "#BC0116",
+    "purple": "#665B93",
+    "cyan": "#70A699",
+    "white": "#F5DCBE",
+    "brightBlack": "#4F7CBF",
+    "brightRed": "#1C96C7",
+    "brightGreen": "#3BFF6F",
+    "brightYellow": "#EFC31C",
+    "brightBlue": "#FB605B",
+    "brightPurple": "#975B5A",
+    "brightCyan": "#1EFF8E",
+    "brightWhite": "#F6F5FB",
+    "background": "#211F46",
+    "foreground": "#FFFFFF",
+    "cursorColor": "#FFFFFF",
+    "selectionBackground": "#585774"
+}

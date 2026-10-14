@@ -1,0 +1,23 @@
+{
+    "name": "Chinoiserie",
+    "black": "#FFFFFF",
+    "red": "#C04851",
+    "green": "#428675",
+    "yellow": "#D6A01D",
+    "blue": "#815C94",
+    "purple": "#C08EAF",
+    "cyan": "#2B73AF",
+    "white": "#4A4035",
+    "brightBlack": "#80766E",
+    "brightRed": "#C04851",
+    "brightGreen": "#428675",
+    "brightYellow": "#D6A01D",
+    "brightBlue": "#815C94",
+    "brightPurple": "#C08EAF",
+    "brightCyan": "#2B73AF",
+    "brightWhite": "#131124",
+    "background": "#FFFFFF",
+    "foreground": "#4A4035",
+    "cursorColor": "#4A4035",
+    "selectionBackground": "#D2CFCC"
+}

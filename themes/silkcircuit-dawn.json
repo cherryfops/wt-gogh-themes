@@ -1,0 +1,23 @@
+{
+    "name": "SilkCircuit Dawn",
+    "black": "#2B2540",
+    "red": "#C1272D",
+    "green": "#1D6E46",
+    "yellow": "#796100",
+    "blue": "#1454DC",
+    "purple": "#B40077",
+    "cyan": "#006E72",
+    "white": "#FAF8FF",
+    "brightBlack": "#5A4D6E",
+    "brightRed": "#DC2626",
+    "brightGreen": "#288855",
+    "brightYellow": "#7F5F00",
+    "brightBlue": "#2572EF",
+    "brightPurple": "#D92A99",
+    "brightCyan": "#048397",
+    "brightWhite": "#FFFFFF",
+    "background": "#FAF8FF",
+    "foreground": "#2B2540",
+    "cursorColor": "#006E72",
+    "selectionBackground": "#C6C3CF"
+}

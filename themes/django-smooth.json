@@ -1,0 +1,23 @@
+{
+    "name": "Django Smooth",
+    "black": "#000000",
+    "red": "#FD6209",
+    "green": "#41A83E",
+    "yellow": "#FFE862",
+    "blue": "#989898",
+    "purple": "#F8F8F8",
+    "cyan": "#9DF39F",
+    "white": "#E8E8E7",
+    "brightBlack": "#323232",
+    "brightRed": "#FF943B",
+    "brightGreen": "#73DA70",
+    "brightYellow": "#FFFF94",
+    "brightBlue": "#CACACA",
+    "brightPurple": "#FFFFFF",
+    "brightCyan": "#CFFFD1",
+    "brightWhite": "#FFFFFF",
+    "background": "#245032",
+    "foreground": "#F8F8F8",
+    "cursorColor": "#336442",
+    "selectionBackground": "#597A64"
+}

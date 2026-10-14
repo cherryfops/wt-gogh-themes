@@ -1,0 +1,23 @@
+{
+    "name": "Base2Tone Drawbridge",
+    "black": "#1B1F32",
+    "red": "#627AF4",
+    "green": "#67C9E4",
+    "yellow": "#99E9FF",
+    "blue": "#7289FD",
+    "purple": "#67C9E4",
+    "cyan": "#8B9EFD",
+    "white": "#9094A7",
+    "brightBlack": "#51587B",
+    "brightRed": "#75D5F0",
+    "brightGreen": "#252A41",
+    "brightYellow": "#444B6F",
+    "brightBlue": "#5E6587",
+    "brightPurple": "#C3CDFE",
+    "brightCyan": "#5CBCD6",
+    "brightWhite": "#E1E6FF",
+    "background": "#1B1F32",
+    "foreground": "#9094A7",
+    "cursorColor": "#289DBD",
+    "selectionBackground": "#383C4F"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Pierre Light",
+    "black": "#1F1F21",
+    "red": "#D52C36",
+    "green": "#1D8138",
+    "yellow": "#AC8816",
+    "blue": "#216CAB",
+    "purple": "#A631BE",
+    "cyan": "#2182A1",
+    "white": "#79797F",
+    "brightBlack": "#8E8E95",
+    "brightRed": "#FF2E3F",
+    "brightGreen": "#0DBE4E",
+    "brightYellow": "#D5A910",
+    "brightBlue": "#009FFF",
+    "brightPurple": "#C635E4",
+    "brightCyan": "#08C0EF",
+    "brightWhite": "#DBDBDD",
+    "background": "#FFFFFF",
+    "foreground": "#070707",
+    "cursorColor": "#009FFF",
+    "selectionBackground": "#DFEBFF"
+}

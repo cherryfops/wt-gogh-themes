@@ -1,0 +1,23 @@
+{
+    "name": "Colors",
+    "black": "#111111",
+    "red": "#FF4136",
+    "green": "#2ECC40",
+    "yellow": "#FFDC00",
+    "blue": "#0074D9",
+    "purple": "#B10DC9",
+    "cyan": "#7FDBFF",
+    "white": "#BBBBBB",
+    "brightBlack": "#777777",
+    "brightRed": "#FF4136",
+    "brightGreen": "#2ECC40",
+    "brightYellow": "#FFDC00",
+    "brightBlue": "#0074D9",
+    "brightPurple": "#B10DC9",
+    "brightCyan": "#7FDBFF",
+    "brightWhite": "#FFFFFF",
+    "background": "#111111",
+    "foreground": "#BBBBBB",
+    "cursorColor": "#BBBBBB",
+    "selectionBackground": "#3C3C3C"
+}

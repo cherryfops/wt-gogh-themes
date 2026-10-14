@@ -1,0 +1,23 @@
+{
+    "name": "Precious Dark Fifteen",
+    "black": "#23262B",
+    "red": "#FF8782",
+    "green": "#95B659",
+    "yellow": "#CFA546",
+    "blue": "#66B0EF",
+    "purple": "#B799FF",
+    "cyan": "#42BDA7",
+    "white": "#BAB9B6",
+    "brightBlack": "#898989",
+    "brightRed": "#FF8782",
+    "brightGreen": "#95B659",
+    "brightYellow": "#CFA546",
+    "brightBlue": "#66B0EF",
+    "brightPurple": "#B799FF",
+    "brightCyan": "#42BDA7",
+    "brightWhite": "#BAB9B6",
+    "background": "#23262B",
+    "foreground": "#BAB9B6",
+    "cursorColor": "#BAB9B6",
+    "selectionBackground": "#494B4E"
+}

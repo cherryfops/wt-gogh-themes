@@ -1,0 +1,23 @@
+{
+    "name": "Dark One Nuanced",
+    "black": "#3F4451",
+    "red": "#E06C75",
+    "green": "#98C379",
+    "yellow": "#D19A66",
+    "blue": "#61AFEF",
+    "purple": "#C678DD",
+    "cyan": "#56B6C2",
+    "white": "#E6E6E6",
+    "brightBlack": "#4F5666",
+    "brightRed": "#FF7B86",
+    "brightGreen": "#B1E18B",
+    "brightYellow": "#EFB074",
+    "brightBlue": "#67CDFF",
+    "brightPurple": "#E48BFF",
+    "brightCyan": "#63D4E0",
+    "brightWhite": "#FFFFFF",
+    "background": "#282C34",
+    "foreground": "#ABB2BF",
+    "cursorColor": "#ABB2BF",
+    "selectionBackground": "#494E57"
+}

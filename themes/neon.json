@@ -1,0 +1,23 @@
+{
+    "name": "Neon",
+    "black": "#000000",
+    "red": "#FF3045",
+    "green": "#5FFA74",
+    "yellow": "#FFFC7E",
+    "blue": "#0208CB",
+    "purple": "#F924E7",
+    "cyan": "#00FFFC",
+    "white": "#C7C7C7",
+    "brightBlack": "#686868",
+    "brightRed": "#FF5A5A",
+    "brightGreen": "#75FF88",
+    "brightYellow": "#FFFD96",
+    "brightBlue": "#3C40CB",
+    "brightPurple": "#F15BE5",
+    "brightCyan": "#88FFFE",
+    "brightWhite": "#FFFFFF",
+    "background": "#14161A",
+    "foreground": "#00FFFC",
+    "cursorColor": "#C7C7C7",
+    "selectionBackground": "#0F5052"
+}

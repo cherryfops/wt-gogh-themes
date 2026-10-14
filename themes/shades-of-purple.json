@@ -1,0 +1,23 @@
+{
+    "name": "Shades Of Purple",
+    "black": "#000000",
+    "red": "#D90429",
+    "green": "#3AD900",
+    "yellow": "#FFE700",
+    "blue": "#6943FF",
+    "purple": "#FF2C70",
+    "cyan": "#00C5C7",
+    "white": "#C7C7C7",
+    "brightBlack": "#686868",
+    "brightRed": "#F92A1C",
+    "brightGreen": "#43D426",
+    "brightYellow": "#F1D000",
+    "brightBlue": "#6871FF",
+    "brightPurple": "#FF77FF",
+    "brightCyan": "#79E8FB",
+    "brightWhite": "#FFFFFF",
+    "background": "#1E1D40",
+    "foreground": "#FFFFFF",
+    "cursorColor": "#FAD000",
+    "selectionBackground": "#B362FF"
+}

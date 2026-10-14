@@ -1,0 +1,23 @@
+{
+    "name": "Violet Dark",
+    "black": "#56595C",
+    "red": "#C94C22",
+    "green": "#85981C",
+    "yellow": "#B4881D",
+    "blue": "#2E8BCE",
+    "purple": "#D13A82",
+    "cyan": "#32A198",
+    "white": "#C9C6BD",
+    "brightBlack": "#45484B",
+    "brightRed": "#BD3613",
+    "brightGreen": "#738A04",
+    "brightYellow": "#A57705",
+    "brightBlue": "#2176C7",
+    "brightPurple": "#C61C6F",
+    "brightCyan": "#259286",
+    "brightWhite": "#C9C6BD",
+    "background": "#1C1D1F",
+    "foreground": "#708284",
+    "cursorColor": "#708284",
+    "selectionBackground": "#595AB7"
+}

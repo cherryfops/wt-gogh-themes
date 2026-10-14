@@ -1,0 +1,23 @@
+{
+    "name": "Edge Dark",
+    "black": "#262729",
+    "red": "#E77171",
+    "green": "#A1BF78",
+    "yellow": "#DBB774",
+    "blue": "#73B3E7",
+    "purple": "#D390E7",
+    "cyan": "#5EBAA5",
+    "white": "#AFB2B5",
+    "brightBlack": "#4A4C4F",
+    "brightRed": "#E77171",
+    "brightGreen": "#A1BF78",
+    "brightYellow": "#DBB774",
+    "brightBlue": "#73B3E7",
+    "brightPurple": "#D390E7",
+    "brightCyan": "#5EBAA5",
+    "brightWhite": "#E4E5E6",
+    "background": "#262729",
+    "foreground": "#AFB2B5",
+    "cursorColor": "#AFB2B5",
+    "selectionBackground": "#484A4C"
+}

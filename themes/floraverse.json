@@ -1,0 +1,23 @@
+{
+    "name": "Floraverse",
+    "black": "#08002E",
+    "red": "#64002C",
+    "green": "#5D731A",
+    "yellow": "#CD751C",
+    "blue": "#1D6DA1",
+    "purple": "#B7077E",
+    "cyan": "#42A38C",
+    "white": "#F3E0B8",
+    "brightBlack": "#331E4D",
+    "brightRed": "#D02063",
+    "brightGreen": "#B4CE59",
+    "brightYellow": "#FAC357",
+    "brightBlue": "#40A4CF",
+    "brightPurple": "#F12AAE",
+    "brightCyan": "#62CAA8",
+    "brightWhite": "#FFF5DB",
+    "background": "#0E0D15",
+    "foreground": "#DBD1B9",
+    "cursorColor": "#BBBBBB",
+    "selectionBackground": "#413E3E"
+}

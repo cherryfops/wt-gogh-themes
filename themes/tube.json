@@ -1,0 +1,23 @@
+{
+    "name": "Tube",
+    "black": "#231F20",
+    "red": "#EE2E24",
+    "green": "#00853E",
+    "yellow": "#FFD204",
+    "blue": "#009DDC",
+    "purple": "#98005D",
+    "cyan": "#85CEBC",
+    "white": "#D9D8D8",
+    "brightBlack": "#737171",
+    "brightRed": "#EE2E24",
+    "brightGreen": "#00853E",
+    "brightYellow": "#FFD204",
+    "brightBlue": "#009DDC",
+    "brightPurple": "#98005D",
+    "brightCyan": "#85CEBC",
+    "brightWhite": "#FFFFFF",
+    "background": "#231F20",
+    "foreground": "#D9D8D8",
+    "cursorColor": "#D9D8D8",
+    "selectionBackground": "#504D4E"
+}

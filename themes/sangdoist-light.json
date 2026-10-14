@@ -1,0 +1,23 @@
+{
+    "name": "Sangdoist Light",
+    "black": "#131417",
+    "red": "#C4481A",
+    "green": "#5E7E1A",
+    "yellow": "#9C7A08",
+    "blue": "#1F5FC4",
+    "purple": "#9A3F6C",
+    "cyan": "#3A7F72",
+    "white": "#C8C8C4",
+    "brightBlack": "#62627A",
+    "brightRed": "#B8300F",
+    "brightGreen": "#4A8A2C",
+    "brightYellow": "#B0901A",
+    "brightBlue": "#3641CF",
+    "brightPurple": "#B3407E",
+    "brightCyan": "#55689A",
+    "brightWhite": "#E7E7E4",
+    "background": "#F4F4F1",
+    "foreground": "#26272B",
+    "cursorColor": "#808080",
+    "selectionBackground": "#C0C1C0"
+}

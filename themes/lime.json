@@ -1,0 +1,23 @@
+{
+    "name": "Lime",
+    "black": "#1A1A2F",
+    "red": "#FF662A",
+    "green": "#8CD97C",
+    "yellow": "#FFD15E",
+    "blue": "#2B926F",
+    "purple": "#1B825F",
+    "cyan": "#4CAD83",
+    "white": "#818175",
+    "brightBlack": "#313140",
+    "brightRed": "#FF662A",
+    "brightGreen": "#8CD97C",
+    "brightYellow": "#FFD15E",
+    "brightBlue": "#2B926F",
+    "brightPurple": "#1B825F",
+    "brightCyan": "#4CAD83",
+    "brightWhite": "#FFF8E1",
+    "background": "#1A1A2F",
+    "foreground": "#818175",
+    "cursorColor": "#818175",
+    "selectionBackground": "#343440"
+}

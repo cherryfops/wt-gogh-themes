@@ -1,0 +1,23 @@
+{
+    "name": "Ultra Violet",
+    "black": "#242728",
+    "red": "#FF0090",
+    "green": "#B5FF00",
+    "yellow": "#7FEBFF",
+    "blue": "#47DFFB",
+    "purple": "#D630FF",
+    "cyan": "#0EFFBB",
+    "white": "#C1C2C2",
+    "brightBlack": "#818484",
+    "brightRed": "#FB57B4",
+    "brightGreen": "#DEFF8B",
+    "brightYellow": "#EBDF86",
+    "brightBlue": "#7FEBFF",
+    "brightPurple": "#E681FF",
+    "brightCyan": "#68FCD2",
+    "brightWhite": "#F9F9F4",
+    "background": "#242728",
+    "foreground": "#C1C2C2",
+    "cursorColor": "#C1C2C2",
+    "selectionBackground": "#4B4E4E"
+}

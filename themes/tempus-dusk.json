@@ -1,0 +1,23 @@
+{
+    "name": "Tempus Dusk",
+    "black": "#1F252D",
+    "red": "#CB8D56",
+    "green": "#8BA089",
+    "yellow": "#A79C46",
+    "blue": "#8C9ABE",
+    "purple": "#B190AF",
+    "cyan": "#8E9ABA",
+    "white": "#A29899",
+    "brightBlack": "#2C3150",
+    "brightRed": "#D39D74",
+    "brightGreen": "#80B48F",
+    "brightYellow": "#BDA75A",
+    "brightBlue": "#9CA5DE",
+    "brightPurple": "#C69AC6",
+    "brightCyan": "#8CAEB6",
+    "brightWhite": "#A2A8BA",
+    "background": "#1F252D",
+    "foreground": "#A2A8BA",
+    "cursorColor": "#A2A8BA",
+    "selectionBackground": "#404650"
+}

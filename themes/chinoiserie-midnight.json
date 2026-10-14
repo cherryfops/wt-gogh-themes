@@ -1,0 +1,23 @@
+{
+    "name": "Chinoiserie Midnight",
+    "black": "#1D1D1D",
+    "red": "#ED5A56",
+    "green": "#AEB831",
+    "yellow": "#FBB957",
+    "blue": "#81A2A2",
+    "purple": "#CF8997",
+    "cyan": "#88B68D",
+    "white": "#C4CBCF",
+    "brightBlack": "#918072",
+    "brightRed": "#ED5A56",
+    "brightGreen": "#AEB831",
+    "brightYellow": "#FBB957",
+    "brightBlue": "#81A2A2",
+    "brightPurple": "#CF8997",
+    "brightCyan": "#88B68D",
+    "brightWhite": "#FFFEF9",
+    "background": "#1D1D1D",
+    "foreground": "#C4CBCF",
+    "cursorColor": "#C4CBCF",
+    "selectionBackground": "#47484A"
+}

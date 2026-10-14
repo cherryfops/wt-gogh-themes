@@ -1,0 +1,23 @@
+{
+    "name": "Sakura Night",
+    "black": "#181425",
+    "red": "#E43B44",
+    "green": "#3E8948",
+    "yellow": "#FEAE34",
+    "blue": "#124E89",
+    "purple": "#B55088",
+    "cyan": "#008080",
+    "white": "#C0CBDC",
+    "brightBlack": "#262B44",
+    "brightRed": "#FF0044",
+    "brightGreen": "#63C74D",
+    "brightYellow": "#FEE761",
+    "brightBlue": "#0099DB",
+    "brightPurple": "#F06292",
+    "brightCyan": "#66B2B2",
+    "brightWhite": "#FFFFFF",
+    "background": "#181425",
+    "foreground": "#F06292",
+    "cursorColor": "#F06292",
+    "selectionBackground": "#4E2840"
+}

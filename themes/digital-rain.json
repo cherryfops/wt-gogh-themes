@@ -1,0 +1,23 @@
+{
+    "name": "Digital Rain",
+    "black": "#000000",
+    "red": "#C85A46",
+    "green": "#64C83C",
+    "yellow": "#A67A50",
+    "blue": "#5482AF",
+    "purple": "#9472B4",
+    "cyan": "#468C78",
+    "white": "#00FF00",
+    "brightBlack": "#7C8D7C",
+    "brightRed": "#C85A46",
+    "brightGreen": "#64C83C",
+    "brightYellow": "#A67A50",
+    "brightBlue": "#5482AF",
+    "brightPurple": "#9472B4",
+    "brightCyan": "#468C78",
+    "brightWhite": "#D8E2DC",
+    "background": "#000000",
+    "foreground": "#00FF00",
+    "cursorColor": "#00FF00",
+    "selectionBackground": "#004000"
+}

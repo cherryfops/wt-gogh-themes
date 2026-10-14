@@ -1,0 +1,23 @@
+{
+    "name": "Dainty Dark",
+    "black": "#214969",
+    "red": "#E52E2E",
+    "green": "#44FFB1",
+    "yellow": "#FFE073",
+    "blue": "#0FC5ED",
+    "purple": "#A277FF",
+    "cyan": "#24EAF7",
+    "white": "#24EAF7",
+    "brightBlack": "#214969",
+    "brightRed": "#E52E2E",
+    "brightGreen": "#44FFB1",
+    "brightYellow": "#FFE073",
+    "brightBlue": "#A277FF",
+    "brightPurple": "#A277FF",
+    "brightCyan": "#24EAF7",
+    "brightWhite": "#24EAF7",
+    "background": "#011423",
+    "foreground": "#CBE0F0",
+    "cursorColor": "#CBE0F0",
+    "selectionBackground": "#344756"
+}

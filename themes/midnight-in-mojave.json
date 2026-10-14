@@ -1,0 +1,23 @@
+{
+    "name": "Midnight In Mojave",
+    "black": "#1E1E1E",
+    "red": "#FF453A",
+    "green": "#32D74B",
+    "yellow": "#FFD60A",
+    "blue": "#0A84FF",
+    "purple": "#BF5AF2",
+    "cyan": "#5AC8FA",
+    "white": "#FFFFFF",
+    "brightBlack": "#1E1E1E",
+    "brightRed": "#FF453A",
+    "brightGreen": "#32D74B",
+    "brightYellow": "#FFD60A",
+    "brightBlue": "#0A84FF",
+    "brightPurple": "#BF5AF2",
+    "brightCyan": "#5AC8FA",
+    "brightWhite": "#FFFFFF",
+    "background": "#1E1E1E",
+    "foreground": "#FFFFFF",
+    "cursorColor": "#32D74B",
+    "selectionBackground": "#565656"
+}

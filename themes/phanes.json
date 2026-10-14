@@ -1,0 +1,23 @@
+{
+    "name": "Phanes",
+    "black": "#222021",
+    "red": "#6E5B86",
+    "green": "#CCA133",
+    "yellow": "#FFCC4D",
+    "blue": "#8B78A3",
+    "purple": "#CCA133",
+    "cyan": "#9067CF",
+    "white": "#9F999B",
+    "brightBlack": "#635F60",
+    "brightRed": "#DDAF3C",
+    "brightGreen": "#2F2D2E",
+    "brightYellow": "#565254",
+    "brightBlue": "#706B6D",
+    "brightPurple": "#B28CE7",
+    "brightCyan": "#C39622",
+    "brightWhite": "#FFEBF2",
+    "background": "#222021",
+    "foreground": "#9F999B",
+    "cursorColor": "#9F999B",
+    "selectionBackground": "#413E40"
+}

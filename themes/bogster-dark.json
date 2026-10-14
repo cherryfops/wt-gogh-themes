@@ -1,0 +1,23 @@
+{
+    "name": "Bogster Dark",
+    "black": "#161C23",
+    "red": "#BD2853",
+    "green": "#549D2F",
+    "yellow": "#CCA734",
+    "blue": "#248BAA",
+    "purple": "#B759DC",
+    "cyan": "#23A580",
+    "white": "#C6BFBA",
+    "brightBlack": "#45576D",
+    "brightRed": "#DB567C",
+    "brightGreen": "#6FCC4C",
+    "brightYellow": "#DFC26B",
+    "brightBlue": "#4FBADB",
+    "brightPurple": "#DC59C0",
+    "brightCyan": "#59DCB7",
+    "brightWhite": "#DFD7D0",
+    "background": "#161C23",
+    "foreground": "#C6BFBA",
+    "cursorColor": "#C6BFBA",
+    "selectionBackground": "#424549"
+}

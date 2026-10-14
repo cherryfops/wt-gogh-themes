@@ -1,0 +1,23 @@
+{
+    "name": "Boo Shnickle",
+    "black": "#191914",
+    "red": "#FFBFA5",
+    "green": "#E7FF99",
+    "yellow": "#FFF299",
+    "blue": "#BFBFD9",
+    "purple": "#F2BFD9",
+    "cyan": "#BFFFC5",
+    "white": "#BDBD97",
+    "brightBlack": "#7C7C63",
+    "brightRed": "#FFBFA5",
+    "brightGreen": "#E7FF99",
+    "brightYellow": "#FFF299",
+    "brightBlue": "#BFBFD9",
+    "brightPurple": "#F2BFD9",
+    "brightCyan": "#BFFFC5",
+    "brightWhite": "#FFFFCC",
+    "background": "#191914",
+    "foreground": "#BDBD97",
+    "cursorColor": "#BDBD97",
+    "selectionBackground": "#424235"
+}

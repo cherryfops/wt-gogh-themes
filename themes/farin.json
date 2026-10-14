@@ -1,0 +1,23 @@
+{
+    "name": "Farin",
+    "black": "#444444",
+    "red": "#FF1155",
+    "green": "#11FF55",
+    "yellow": "#FFBB33",
+    "blue": "#1155FF",
+    "purple": "#ED53C9",
+    "cyan": "#00FFBB",
+    "white": "#CCCCCC",
+    "brightBlack": "#666666",
+    "brightRed": "#FF4488",
+    "brightGreen": "#44FF88",
+    "brightYellow": "#FFDD66",
+    "brightBlue": "#4488FF",
+    "brightPurple": "#DD66FF",
+    "brightCyan": "#66FFDD",
+    "brightWhite": "#FFFFFF",
+    "background": "#1E1E1E",
+    "foreground": "#AAAAAA",
+    "cursorColor": "#AAAAAA",
+    "selectionBackground": "#414141"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Cyberpunk Scarlet Protocol",
+    "black": "#101116",
+    "red": "#EA3356",
+    "green": "#64D98C",
+    "yellow": "#FAF968",
+    "blue": "#306FB1",
+    "purple": "#BA3EC1",
+    "cyan": "#59C2C6",
+    "white": "#C7C7C7",
+    "brightBlack": "#686868",
+    "brightRed": "#ED776D",
+    "brightGreen": "#8DF77A",
+    "brightYellow": "#FEFC7F",
+    "brightBlue": "#6A71F6",
+    "brightPurple": "#AE40E4",
+    "brightCyan": "#8EFAFD",
+    "brightWhite": "#FFFFFF",
+    "background": "#101116",
+    "foreground": "#D13554",
+    "cursorColor": "#9BFCA8",
+    "selectionBackground": "#401A26"
+}

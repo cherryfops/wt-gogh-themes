@@ -1,0 +1,23 @@
+{
+    "name": "Ura",
+    "black": "#000000",
+    "red": "#C21B6F",
+    "green": "#6FC21B",
+    "yellow": "#C26F1B",
+    "blue": "#1B6FC2",
+    "purple": "#6F1BC2",
+    "cyan": "#1BC26F",
+    "white": "#808080",
+    "brightBlack": "#808080",
+    "brightRed": "#EE84B9",
+    "brightGreen": "#B9EE84",
+    "brightYellow": "#EEB984",
+    "brightBlue": "#84B9EE",
+    "brightPurple": "#B984EE",
+    "brightCyan": "#84EEB9",
+    "brightWhite": "#E5E5E5",
+    "background": "#FEFFEE",
+    "foreground": "#23476A",
+    "cursorColor": "#23476A",
+    "selectionBackground": "#C7D1CD"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Smyck",
+    "black": "#000000",
+    "red": "#B84131",
+    "green": "#7DA900",
+    "yellow": "#C4A500",
+    "blue": "#62A3C4",
+    "purple": "#BA8ACC",
+    "cyan": "#207383",
+    "white": "#A1A1A1",
+    "brightBlack": "#7A7A7A",
+    "brightRed": "#D6837C",
+    "brightGreen": "#C4F137",
+    "brightYellow": "#FEE14D",
+    "brightBlue": "#8DCFF0",
+    "brightPurple": "#F79AFF",
+    "brightCyan": "#6AD9CF",
+    "brightWhite": "#F7F7F7",
+    "background": "#1B1B1B",
+    "foreground": "#F7F7F7",
+    "cursorColor": "#BBBBBB",
+    "selectionBackground": "#207483"
+}

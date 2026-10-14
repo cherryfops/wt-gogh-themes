@@ -1,0 +1,23 @@
+{
+    "name": "Tempus Spring",
+    "black": "#283A37",
+    "red": "#FF8B5F",
+    "green": "#5EC04D",
+    "yellow": "#B0B01A",
+    "blue": "#39BACE",
+    "purple": "#E99399",
+    "cyan": "#36C08E",
+    "white": "#99AFAE",
+    "brightBlack": "#2A453D",
+    "brightRed": "#E19E00",
+    "brightGreen": "#73BE0D",
+    "brightYellow": "#C6A843",
+    "brightBlue": "#70AFEF",
+    "brightPurple": "#D095E2",
+    "brightCyan": "#3CBFAF",
+    "brightWhite": "#B5B8B7",
+    "background": "#283A37",
+    "foreground": "#B5B8B7",
+    "cursorColor": "#B5B8B7",
+    "selectionBackground": "#4B5A57"
+}

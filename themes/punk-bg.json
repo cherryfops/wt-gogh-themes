@@ -1,0 +1,23 @@
+{
+    "name": "Punk Bg",
+    "black": "#2E3436",
+    "red": "#FD3057",
+    "green": "#970230",
+    "yellow": "#C4A000",
+    "blue": "#3465A4",
+    "purple": "#510A34",
+    "cyan": "#076A7F",
+    "white": "#D3D7CF",
+    "brightBlack": "#555753",
+    "brightRed": "#AD0B44",
+    "brightGreen": "#F63D5C",
+    "brightYellow": "#FCE94F",
+    "brightBlue": "#66BABC",
+    "brightPurple": "#921E65",
+    "brightCyan": "#51AAC8",
+    "brightWhite": "#EEEEEC",
+    "background": "#0E051F",
+    "foreground": "#B8E5EA",
+    "cursorColor": "#3F0A29",
+    "selectionBackground": "#383D52"
+}

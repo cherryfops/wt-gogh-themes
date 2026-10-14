@@ -1,0 +1,23 @@
+{
+    "name": "Predawn",
+    "black": "#F18260",
+    "red": "#B51A20",
+    "green": "#A6CC75",
+    "yellow": "#FED33A",
+    "blue": "#81B2B1",
+    "purple": "#EB6C4E",
+    "cyan": "#81B2B1",
+    "white": "#EAEAEA",
+    "brightBlack": "#666666",
+    "brightRed": "#FF000B",
+    "brightGreen": "#C4EE94",
+    "brightYellow": "#E8E06D",
+    "brightBlue": "#A5EBEA",
+    "brightPurple": "#EF8A50",
+    "brightCyan": "#A5EBEA",
+    "brightWhite": "#FFFFFF",
+    "background": "#282828",
+    "foreground": "#F1F1F1",
+    "cursorColor": "#F1F1F1",
+    "selectionBackground": "#5A5A5A"
+}

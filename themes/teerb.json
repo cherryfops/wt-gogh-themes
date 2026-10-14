@@ -1,0 +1,23 @@
+{
+    "name": "Teerb",
+    "black": "#1C1C1C",
+    "red": "#D68686",
+    "green": "#AED686",
+    "yellow": "#D7AF87",
+    "blue": "#86AED6",
+    "purple": "#D6AED6",
+    "cyan": "#8ADBB4",
+    "white": "#D0D0D0",
+    "brightBlack": "#1C1C1C",
+    "brightRed": "#D68686",
+    "brightGreen": "#AED686",
+    "brightYellow": "#E4C9AF",
+    "brightBlue": "#86AED6",
+    "brightPurple": "#D6AED6",
+    "brightCyan": "#B1E7DD",
+    "brightWhite": "#EFEFEF",
+    "background": "#262626",
+    "foreground": "#D0D0D0",
+    "cursorColor": "#E4C9AF",
+    "selectionBackground": "#505050"
+}

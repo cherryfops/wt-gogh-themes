@@ -1,0 +1,23 @@
+{
+    "name": "Uwunicorn",
+    "black": "#241B26",
+    "red": "#877BB6",
+    "green": "#C965BF",
+    "yellow": "#A84A73",
+    "blue": "#6A9EB5",
+    "purple": "#78A38F",
+    "cyan": "#9C5FCE",
+    "white": "#EED5D9",
+    "brightBlack": "#6C3CB2",
+    "brightRed": "#877BB6",
+    "brightGreen": "#C965BF",
+    "brightYellow": "#A84A73",
+    "brightBlue": "#6A9EB5",
+    "brightPurple": "#78A38F",
+    "brightCyan": "#9C5FCE",
+    "brightWhite": "#E4CCD0",
+    "background": "#241B26",
+    "foreground": "#EED5D9",
+    "cursorColor": "#EED5D9",
+    "selectionBackground": "#564A53"
+}

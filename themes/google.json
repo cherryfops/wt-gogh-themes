@@ -1,0 +1,23 @@
+{
+    "name": "Google",
+    "black": "#1D1F21",
+    "red": "#CC342B",
+    "green": "#198844",
+    "yellow": "#FBA922",
+    "blue": "#3971ED",
+    "purple": "#A36AC7",
+    "cyan": "#3971ED",
+    "white": "#C5C8C6",
+    "brightBlack": "#969896",
+    "brightRed": "#CC342B",
+    "brightGreen": "#198844",
+    "brightYellow": "#FBA922",
+    "brightBlue": "#3971ED",
+    "brightPurple": "#A36AC7",
+    "brightCyan": "#3971ED",
+    "brightWhite": "#FFFFFF",
+    "background": "#1D1F21",
+    "foreground": "#C5C8C6",
+    "cursorColor": "#C5C8C6",
+    "selectionBackground": "#47494A"
+}

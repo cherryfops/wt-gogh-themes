@@ -1,0 +1,23 @@
+{
+    "name": "Purpledream",
+    "black": "#100510",
+    "red": "#FF1D0D",
+    "green": "#14CC64",
+    "yellow": "#F000A0",
+    "blue": "#00A0F0",
+    "purple": "#B000D0",
+    "cyan": "#0075B0",
+    "white": "#DDD0DD",
+    "brightBlack": "#605060",
+    "brightRed": "#FF1D0D",
+    "brightGreen": "#14CC64",
+    "brightYellow": "#F000A0",
+    "brightBlue": "#00A0F0",
+    "brightPurple": "#B000D0",
+    "brightCyan": "#0075B0",
+    "brightWhite": "#FFF0FF",
+    "background": "#100510",
+    "foreground": "#DDD0DD",
+    "cursorColor": "#DDD0DD",
+    "selectionBackground": "#433843"
+}

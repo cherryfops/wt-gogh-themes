@@ -1,0 +1,23 @@
+{
+    "name": "Onenord Light",
+    "black": "#2E3440",
+    "red": "#CB4F53",
+    "green": "#48A53D",
+    "yellow": "#EE5E25",
+    "blue": "#3879C5",
+    "purple": "#9F4ACA",
+    "cyan": "#3EA1AD",
+    "white": "#E5E9F0",
+    "brightBlack": "#646A76",
+    "brightRed": "#D16366",
+    "brightGreen": "#5F9E9D",
+    "brightYellow": "#BA793E",
+    "brightBlue": "#1B40A6",
+    "brightPurple": "#9665AF",
+    "brightCyan": "#8FBCBB",
+    "brightWhite": "#ECEFF4",
+    "background": "#F7F8FA",
+    "foreground": "#2E3440",
+    "cursorColor": "#3879C5",
+    "selectionBackground": "#C5C7CC"
+}

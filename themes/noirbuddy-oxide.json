@@ -1,0 +1,23 @@
+{
+    "name": "Noirbuddy Oxide",
+    "black": "#070E11",
+    "red": "#FA5E86",
+    "green": "#00D992",
+    "yellow": "#FFFFFF",
+    "blue": "#B0B0B0",
+    "purple": "#90A7F8",
+    "cyan": "#787878",
+    "white": "#D5D5D5",
+    "brightBlack": "#737373",
+    "brightRed": "#FF0088",
+    "brightGreen": "#00FF77",
+    "brightYellow": "#FDFDFD",
+    "brightBlue": "#BEBEBE",
+    "brightPurple": "#939393",
+    "brightCyan": "#919191",
+    "brightWhite": "#F5F5F5",
+    "background": "#070E11",
+    "foreground": "#D5D5D5",
+    "cursorColor": "#D5D5D5",
+    "selectionBackground": "#3A4042"
+}

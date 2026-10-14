@@ -1,0 +1,23 @@
+{
+    "name": "School Boy Colored",
+    "black": "#174715",
+    "red": "#FCA4A4",
+    "green": "#9BFC94",
+    "yellow": "#FCF45F",
+    "blue": "#6384F9",
+    "purple": "#F771FC",
+    "cyan": "#7EE9FC",
+    "white": "#BFBFBF",
+    "brightBlack": "#21631E",
+    "brightRed": "#FCC2C2",
+    "brightGreen": "#BCFCB8",
+    "brightYellow": "#FCF797",
+    "brightBlue": "#8AA3FC",
+    "brightPurple": "#F99FFC",
+    "brightCyan": "#A9EFFC",
+    "brightWhite": "#DDDDDD",
+    "background": "#0B230A",
+    "foreground": "#BFBFBF",
+    "cursorColor": "#BFBFBF",
+    "selectionBackground": "#384A37"
+}

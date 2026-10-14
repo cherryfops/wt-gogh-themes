@@ -1,0 +1,23 @@
+{
+    "name": "GitHub Light Colorblind",
+    "black": "#24292F",
+    "red": "#B35900",
+    "green": "#0550AE",
+    "yellow": "#4D2D00",
+    "blue": "#0969DA",
+    "purple": "#8250DF",
+    "cyan": "#1B7C83",
+    "white": "#6E7781",
+    "brightBlack": "#57606A",
+    "brightRed": "#8A4600",
+    "brightGreen": "#0969DA",
+    "brightYellow": "#633C01",
+    "brightBlue": "#218BFF",
+    "brightPurple": "#A475F9",
+    "brightCyan": "#3192AA",
+    "brightWhite": "#8C959F",
+    "background": "#FFFFFF",
+    "foreground": "#24292F",
+    "cursorColor": "#0969DA",
+    "selectionBackground": "#C8CACB"
+}

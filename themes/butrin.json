@@ -1,0 +1,23 @@
+{
+    "name": "Butrin",
+    "black": "#8C7E78",
+    "red": "#E68A8A",
+    "green": "#99CC99",
+    "yellow": "#FAD7A0",
+    "blue": "#6699CC",
+    "purple": "#C8A2C8",
+    "cyan": "#6FC3B2",
+    "white": "#E2CEBE",
+    "brightBlack": "#BFACA4",
+    "brightRed": "#F2B1B1",
+    "brightGreen": "#B2D8B2",
+    "brightYellow": "#F7DCB4",
+    "brightBlue": "#87CEFA",
+    "brightPurple": "#D8BFD8",
+    "brightCyan": "#64DBDB",
+    "brightWhite": "#F2F2F2",
+    "background": "#4B3B3C",
+    "foreground": "#F2F2F2",
+    "cursorColor": "#E39D93",
+    "selectionBackground": "#75696A"
+}

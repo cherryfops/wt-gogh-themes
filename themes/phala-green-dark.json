@@ -1,0 +1,23 @@
+{
+    "name": "Phala Green Dark",
+    "black": "#000000",
+    "red": "#9D2814",
+    "green": "#4AAE31",
+    "yellow": "#A9A733",
+    "blue": "#0C23B8",
+    "purple": "#B23BBA",
+    "cyan": "#4BB1BD",
+    "white": "#CBCBCB",
+    "brightBlack": "#797979",
+    "brightRed": "#DA3B20",
+    "brightGreen": "#5DD83F",
+    "brightYellow": "#E9E74A",
+    "brightBlue": "#1432F5",
+    "brightPurple": "#DA4BE3",
+    "brightCyan": "#64E5E8",
+    "brightWhite": "#EAEAEA",
+    "background": "#000000",
+    "foreground": "#CDFA50",
+    "cursorColor": "#CDFA50",
+    "selectionBackground": "#333E14"
+}

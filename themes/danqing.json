@@ -1,0 +1,23 @@
+{
+    "name": "Danqing",
+    "black": "#2D302F",
+    "red": "#F9906F",
+    "green": "#8AB361",
+    "yellow": "#F0C239",
+    "blue": "#B0A4E3",
+    "purple": "#CCA4E3",
+    "cyan": "#30DFF3",
+    "white": "#E0F0EF",
+    "brightBlack": "#9DA8A3",
+    "brightRed": "#F9906F",
+    "brightGreen": "#8AB361",
+    "brightYellow": "#F0C239",
+    "brightBlue": "#B0A4E3",
+    "brightPurple": "#CCA4E3",
+    "brightCyan": "#30DFF3",
+    "brightWhite": "#FCFEFD",
+    "background": "#2D302F",
+    "foreground": "#E0F0EF",
+    "cursorColor": "#E0F0EF",
+    "selectionBackground": "#5A605F"
+}

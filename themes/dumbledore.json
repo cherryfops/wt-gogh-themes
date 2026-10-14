@@ -1,0 +1,23 @@
+{
+    "name": "Dumbledore",
+    "black": "#2B283D",
+    "red": "#AE0000",
+    "green": "#3E7C54",
+    "yellow": "#F0C75E",
+    "blue": "#415BAF",
+    "purple": "#9445AE",
+    "cyan": "#008AFF",
+    "white": "#850000",
+    "brightBlack": "#413E53",
+    "brightRed": "#D3A624",
+    "brightGreen": "#AAAAAA",
+    "brightYellow": "#716254",
+    "brightBlue": "#946A2C",
+    "brightPurple": "#B294BA",
+    "brightCyan": "#25DE50",
+    "brightWhite": "#C9C9C9",
+    "background": "#422553",
+    "foreground": "#C4C8C5",
+    "cursorColor": "#C4C8C5",
+    "selectionBackground": "#624E70"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Tempus Winter",
+    "black": "#202427",
+    "red": "#ED6E5A",
+    "green": "#4AA920",
+    "yellow": "#9A9921",
+    "blue": "#7B91DF",
+    "purple": "#D17E80",
+    "cyan": "#4FA394",
+    "white": "#91959B",
+    "brightBlack": "#2A2E38",
+    "brightRed": "#DE7B28",
+    "brightGreen": "#00AB5F",
+    "brightYellow": "#AF9155",
+    "brightBlue": "#329FCB",
+    "brightPurple": "#CA77C5",
+    "brightCyan": "#1BA6A4",
+    "brightWhite": "#8DA3B8",
+    "background": "#202427",
+    "foreground": "#8DA3B8",
+    "cursorColor": "#8DA3B8",
+    "selectionBackground": "#3B444B"
+}

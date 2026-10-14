@@ -1,0 +1,23 @@
+{
+    "name": "Standardized Light",
+    "black": "#FFFFFF",
+    "red": "#D03E3E",
+    "green": "#31861F",
+    "yellow": "#AD8200",
+    "blue": "#3173C5",
+    "purple": "#9E57C2",
+    "cyan": "#00998F",
+    "white": "#444444",
+    "brightBlack": "#767676",
+    "brightRed": "#D03E3E",
+    "brightGreen": "#31861F",
+    "brightYellow": "#AD8200",
+    "brightBlue": "#3173C5",
+    "brightPurple": "#9E57C2",
+    "brightCyan": "#00998F",
+    "brightWhite": "#222222",
+    "background": "#FFFFFF",
+    "foreground": "#444444",
+    "cursorColor": "#444444",
+    "selectionBackground": "#D0D0D0"
+}

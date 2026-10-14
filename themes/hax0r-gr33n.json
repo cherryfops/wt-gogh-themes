@@ -1,0 +1,23 @@
+{
+    "name": "HaX0R Gr33N",
+    "black": "#001F0B",
+    "red": "#15D00D",
+    "green": "#15D00D",
+    "yellow": "#15D00D",
+    "blue": "#15D00D",
+    "purple": "#15D00D",
+    "cyan": "#15D00D",
+    "white": "#FAFAFA",
+    "brightBlack": "#001510",
+    "brightRed": "#19E20E",
+    "brightGreen": "#19E20E",
+    "brightYellow": "#19E20E",
+    "brightBlue": "#19E20E",
+    "brightPurple": "#19E20E",
+    "brightCyan": "#19E20E",
+    "brightWhite": "#FEFEFE",
+    "background": "#020F01",
+    "foreground": "#16B10E",
+    "cursorColor": "#15D00D",
+    "selectionBackground": "#073804"
+}

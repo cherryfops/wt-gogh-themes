@@ -1,0 +1,23 @@
+{
+    "name": "Onenord",
+    "black": "#3B4252",
+    "red": "#E06C75",
+    "green": "#9EC183",
+    "yellow": "#EBCB8B",
+    "blue": "#81A1C1",
+    "purple": "#B988B0",
+    "cyan": "#88C0D0",
+    "white": "#E5E9F0",
+    "brightBlack": "#4C566A",
+    "brightRed": "#E06C75",
+    "brightGreen": "#9EC183",
+    "brightYellow": "#EBCB8B",
+    "brightBlue": "#81A1C1",
+    "brightPurple": "#B988B0",
+    "brightCyan": "#8FBCBB",
+    "brightWhite": "#ECEFF4",
+    "background": "#2E3440",
+    "foreground": "#E5E9F0",
+    "cursorColor": "#81A1C1",
+    "selectionBackground": "#5C616C"
+}

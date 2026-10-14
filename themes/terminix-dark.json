@@ -1,0 +1,23 @@
+{
+    "name": "Terminix Dark",
+    "black": "#282A2E",
+    "red": "#A54242",
+    "green": "#A1B56C",
+    "yellow": "#DE935F",
+    "blue": "#225555",
+    "purple": "#85678F",
+    "cyan": "#5E8D87",
+    "white": "#777777",
+    "brightBlack": "#373B41",
+    "brightRed": "#C63535",
+    "brightGreen": "#608360",
+    "brightYellow": "#FA805A",
+    "brightBlue": "#449DA1",
+    "brightPurple": "#BA8BAF",
+    "brightCyan": "#86C1B9",
+    "brightWhite": "#C5C8C6",
+    "background": "#091116",
+    "foreground": "#868A8C",
+    "cursorColor": "#868A8C",
+    "selectionBackground": "#282F34"
+}

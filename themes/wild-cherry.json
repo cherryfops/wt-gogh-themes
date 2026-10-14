@@ -1,0 +1,23 @@
+{
+    "name": "Wild Cherry",
+    "black": "#000507",
+    "red": "#D94085",
+    "green": "#2AB250",
+    "yellow": "#FFD16F",
+    "blue": "#883CDC",
+    "purple": "#ECECEC",
+    "cyan": "#C1B8B7",
+    "white": "#FFF8DE",
+    "brightBlack": "#009CC9",
+    "brightRed": "#DA6BAC",
+    "brightGreen": "#F4DCA5",
+    "brightYellow": "#EAC066",
+    "brightBlue": "#308CBA",
+    "brightPurple": "#AE636B",
+    "brightCyan": "#FF919D",
+    "brightWhite": "#E4838D",
+    "background": "#1F1726",
+    "foreground": "#DAFAFF",
+    "cursorColor": "#DD00FF",
+    "selectionBackground": "#002831"
+}

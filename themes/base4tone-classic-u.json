@@ -1,0 +1,23 @@
+{
+    "name": "Base4Tone Classic U",
+    "black": "#201D20",
+    "red": "#CE672C",
+    "green": "#AA52E0",
+    "yellow": "#C988F2",
+    "blue": "#EB75DD",
+    "purple": "#E96375",
+    "cyan": "#BA6CEA",
+    "white": "#EDE8ED",
+    "brightBlack": "#0D070C",
+    "brightRed": "#E78B55",
+    "brightGreen": "#D19AF4",
+    "brightYellow": "#E0BAF7",
+    "brightBlue": "#F8C3F2",
+    "brightPurple": "#F17E8E",
+    "brightCyan": "#F6B1EE",
+    "brightWhite": "#F9F6F8",
+    "background": "#201D20",
+    "foreground": "#9E949D",
+    "cursorColor": "#7C7481",
+    "selectionBackground": "#403B3F"
+}

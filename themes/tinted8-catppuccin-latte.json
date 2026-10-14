@@ -1,0 +1,23 @@
+{
+    "name": "tinted8 Catppuccin Latte",
+    "black": "#4C4F69",
+    "red": "#D20F39",
+    "green": "#40A02B",
+    "yellow": "#DF8E1D",
+    "blue": "#1E66F5",
+    "purple": "#8839EF",
+    "cyan": "#179299",
+    "white": "#DCE0E8",
+    "brightBlack": "#6C6F85",
+    "brightRed": "#F82653",
+    "brightGreen": "#53D138",
+    "brightYellow": "#EEAA4B",
+    "brightBlue": "#598EF8",
+    "brightPurple": "#AA72F4",
+    "brightCyan": "#18CBD5",
+    "brightWhite": "#FFFFFF",
+    "background": "#DCE0E8",
+    "foreground": "#4C4F69",
+    "cursorColor": "#4C4F69",
+    "selectionBackground": "#B8BCC8"
+}

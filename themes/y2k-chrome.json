@@ -1,0 +1,23 @@
+{
+    "name": "Y2K Chrome",
+    "black": "#383F4F",
+    "red": "#DC2626",
+    "green": "#15803D",
+    "yellow": "#0891B2",
+    "blue": "#F97316",
+    "purple": "#7C3AED",
+    "cyan": "#2563EB",
+    "white": "#475569",
+    "brightBlack": "#A3B1C4",
+    "brightRed": "#B01E1E",
+    "brightGreen": "#116631",
+    "brightYellow": "#077792",
+    "brightBlue": "#C75C12",
+    "brightPurple": "#632EBE",
+    "brightCyan": "#1E4FBC",
+    "brightWhite": "#0F172A",
+    "background": "#F1F5F9",
+    "foreground": "#0F172A",
+    "cursorColor": "#0F172A",
+    "selectionBackground": "#B8BEC5"
+}

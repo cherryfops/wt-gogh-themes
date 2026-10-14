@@ -1,0 +1,23 @@
+{
+    "name": "bl1nk",
+    "black": "#1A1C1D",
+    "red": "#FF5894",
+    "green": "#B5E354",
+    "yellow": "#F5921D",
+    "blue": "#4E81AA",
+    "purple": "#8B54FE",
+    "cyan": "#465456",
+    "white": "#CBCBC5",
+    "brightBlack": "#505354",
+    "brightRed": "#F92571",
+    "brightGreen": "#81B313",
+    "brightYellow": "#FEED6B",
+    "brightBlue": "#0B72C1",
+    "brightPurple": "#9D6EFE",
+    "brightCyan": "#889BA1",
+    "brightWhite": "#F8F8F2",
+    "background": "#111111",
+    "foreground": "#A0A0A0",
+    "cursorColor": "#A0A0A0",
+    "selectionBackground": "#353535"
+}

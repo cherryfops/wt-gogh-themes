@@ -1,0 +1,23 @@
+{
+    "name": "Agave",
+    "black": "#222826",
+    "red": "#A35D4E",
+    "green": "#6E9E75",
+    "yellow": "#C8A962",
+    "blue": "#5F8E97",
+    "purple": "#89739A",
+    "cyan": "#6EA7A3",
+    "white": "#C8D5CC",
+    "brightBlack": "#5A6661",
+    "brightRed": "#C97867",
+    "brightGreen": "#96C79C",
+    "brightYellow": "#E6CF8A",
+    "brightBlue": "#8FBBC3",
+    "brightPurple": "#B49AC8",
+    "brightCyan": "#9ED4CF",
+    "brightWhite": "#F6FBF5",
+    "background": "#141917",
+    "foreground": "#D8E3DA",
+    "cursorColor": "#EAF5D6",
+    "selectionBackground": "#454C48"
+}

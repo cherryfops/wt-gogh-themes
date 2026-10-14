@@ -1,0 +1,23 @@
+{
+    "name": "Square",
+    "black": "#050505",
+    "red": "#E9897C",
+    "green": "#B6377D",
+    "yellow": "#ECEBBE",
+    "blue": "#A9CDEB",
+    "purple": "#75507B",
+    "cyan": "#C9CAEC",
+    "white": "#F2F2F2",
+    "brightBlack": "#141414",
+    "brightRed": "#F99286",
+    "brightGreen": "#C3F786",
+    "brightYellow": "#FCFBCC",
+    "brightBlue": "#B6DEFB",
+    "brightPurple": "#AD7FA8",
+    "brightCyan": "#D7D9FC",
+    "brightWhite": "#E2E2E2",
+    "background": "#1A1A1A",
+    "foreground": "#ACACAB",
+    "cursorColor": "#FCFBCC",
+    "selectionBackground": "#3E3E3E"
+}

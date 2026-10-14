@@ -1,0 +1,23 @@
+{
+    "name": "Everforest Light Soft Lost",
+    "black": "#5C6A72",
+    "red": "#F85552",
+    "green": "#8DA101",
+    "yellow": "#DFA000",
+    "blue": "#3A94C5",
+    "purple": "#DF69BA",
+    "cyan": "#35A77C",
+    "white": "#DFDDC8",
+    "brightBlack": "#3A464C",
+    "brightRed": "#E67E80",
+    "brightGreen": "#A7C080",
+    "brightYellow": "#DBBC7F",
+    "brightBlue": "#7FBBB3",
+    "brightPurple": "#D699B6",
+    "brightCyan": "#83C092",
+    "brightWhite": "#D3C6AA",
+    "background": "#F3EAD3",
+    "foreground": "#5C6A72",
+    "cursorColor": "#5C6A72",
+    "selectionBackground": "#CDCABB"
+}

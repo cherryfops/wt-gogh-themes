@@ -1,0 +1,23 @@
+{
+    "name": "GitLab Light",
+    "black": "#303030",
+    "red": "#A31700",
+    "green": "#0A7F3D",
+    "yellow": "#AF551D",
+    "blue": "#006CD8",
+    "purple": "#583CAC",
+    "cyan": "#00798A",
+    "white": "#303030",
+    "brightBlack": "#303030",
+    "brightRed": "#A31700",
+    "brightGreen": "#0A7F3D",
+    "brightYellow": "#AF551D",
+    "brightBlue": "#006CD8",
+    "brightPurple": "#583CAC",
+    "brightCyan": "#00798A",
+    "brightWhite": "#303030",
+    "background": "#FAFAFF",
+    "foreground": "#303030",
+    "cursorColor": "#303030",
+    "selectionBackground": "#AD95E9"
+}

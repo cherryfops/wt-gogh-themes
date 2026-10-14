@@ -1,0 +1,23 @@
+{
+    "name": "Snazzy",
+    "black": "#000000",
+    "red": "#FC4346",
+    "green": "#50FB7C",
+    "yellow": "#F0FB8C",
+    "blue": "#49BAFF",
+    "purple": "#FC4CB4",
+    "cyan": "#8BE9FE",
+    "white": "#EDEDEC",
+    "brightBlack": "#555555",
+    "brightRed": "#FC4346",
+    "brightGreen": "#50FB7C",
+    "brightYellow": "#F0FB8C",
+    "brightBlue": "#49BAFF",
+    "brightPurple": "#FC4CB4",
+    "brightCyan": "#8BE9FE",
+    "brightWhite": "#EDEDEC",
+    "background": "#1E1F29",
+    "foreground": "#EBECE6",
+    "cursorColor": "#E4E4E4",
+    "selectionBackground": "#81AEC6"
+}

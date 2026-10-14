@@ -1,0 +1,23 @@
+{
+    "name": "Bright Lights",
+    "black": "#191919",
+    "red": "#FF355B",
+    "green": "#B7E876",
+    "yellow": "#FFC251",
+    "blue": "#76D4FF",
+    "purple": "#BA76E7",
+    "cyan": "#6CBFB5",
+    "white": "#C2C8D7",
+    "brightBlack": "#191919",
+    "brightRed": "#FF355B",
+    "brightGreen": "#B7E876",
+    "brightYellow": "#FFC251",
+    "brightBlue": "#76D5FF",
+    "brightPurple": "#BA76E7",
+    "brightCyan": "#6CBFB5",
+    "brightWhite": "#C2C8D7",
+    "background": "#191919",
+    "foreground": "#B3C9D7",
+    "cursorColor": "#F34B00",
+    "selectionBackground": "#404548"
+}

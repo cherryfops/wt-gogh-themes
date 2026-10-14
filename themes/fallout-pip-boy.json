@@ -1,0 +1,23 @@
+{
+    "name": "Fallout Pip Boy",
+    "black": "#000000",
+    "red": "#3B3A23",
+    "green": "#09A600",
+    "yellow": "#8F7500",
+    "blue": "#2C83FF",
+    "purple": "#701D43",
+    "cyan": "#009151",
+    "white": "#59FF59",
+    "brightBlack": "#003300",
+    "brightRed": "#5BFF00",
+    "brightGreen": "#32CD32",
+    "brightYellow": "#8F7C48",
+    "brightBlue": "#1D55A6",
+    "brightPurple": "#20755E",
+    "brightCyan": "#4DFFB8",
+    "brightWhite": "#99FF99",
+    "background": "#000000",
+    "foreground": "#4D9154",
+    "cursorColor": "#4D9154",
+    "selectionBackground": "#132415"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Base2Tone Sea",
+    "black": "#1D262F",
+    "red": "#34659D",
+    "green": "#0FC78A",
+    "yellow": "#47EBB4",
+    "blue": "#57718E",
+    "purple": "#0FC78A",
+    "cyan": "#6E9BCF",
+    "white": "#A1AAB5",
+    "brightBlack": "#4A5F78",
+    "brightRed": "#14E19D",
+    "brightGreen": "#27323F",
+    "brightYellow": "#405368",
+    "brightBlue": "#738191",
+    "brightPurple": "#AFD4FE",
+    "brightCyan": "#0DB57D",
+    "brightWhite": "#EBF4FF",
+    "background": "#1D262F",
+    "foreground": "#A1AAB5",
+    "cursorColor": "#067953",
+    "selectionBackground": "#3E4750"
+}

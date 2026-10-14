@@ -1,0 +1,23 @@
+{
+    "name": "Firefly Traditional",
+    "black": "#000000",
+    "red": "#C23720",
+    "green": "#33BC26",
+    "yellow": "#AFAD24",
+    "blue": "#5A63FF",
+    "purple": "#D53AD2",
+    "cyan": "#33BBC7",
+    "white": "#CCCCCC",
+    "brightBlack": "#828282",
+    "brightRed": "#FF3B1E",
+    "brightGreen": "#2EE720",
+    "brightYellow": "#ECEC16",
+    "brightBlue": "#838DFF",
+    "brightPurple": "#FF5CFE",
+    "brightCyan": "#29F0F0",
+    "brightWhite": "#EBEBEB",
+    "background": "#000000",
+    "foreground": "#F5F5F5",
+    "cursorColor": "#00F900",
+    "selectionBackground": "#CFEAC6"
+}

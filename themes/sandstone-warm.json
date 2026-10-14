@@ -1,0 +1,23 @@
+{
+    "name": "Sandstone Warm",
+    "black": "#2E2010",
+    "red": "#CF2522",
+    "green": "#5D7B00",
+    "yellow": "#865E00",
+    "blue": "#0D6EB2",
+    "purple": "#B52D6E",
+    "cyan": "#037A71",
+    "white": "#756C51",
+    "brightBlack": "#5C4A2A",
+    "brightRed": "#C04010",
+    "brightGreen": "#7F6648",
+    "brightYellow": "#7D6646",
+    "brightBlue": "#5C6F6F",
+    "brightPurple": "#5F64B7",
+    "brightCyan": "#5F6E6E",
+    "brightWhite": "#FDF6E3",
+    "background": "#FDF6E3",
+    "foreground": "#3E3220",
+    "cursorColor": "#3E3220",
+    "selectionBackground": "#E8DFC4"
+}

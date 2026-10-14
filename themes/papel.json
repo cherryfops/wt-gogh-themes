@@ -1,0 +1,23 @@
+{
+    "name": "Papel",
+    "black": "#F5EFE2",
+    "red": "#C0392B",
+    "green": "#5E7A28",
+    "yellow": "#A8761A",
+    "blue": "#2C6CA0",
+    "purple": "#9B4D8E",
+    "cyan": "#2A8A7A",
+    "white": "#3A2E20",
+    "brightBlack": "#9A8C76",
+    "brightRed": "#C0392B",
+    "brightGreen": "#5E7A28",
+    "brightYellow": "#A8761A",
+    "brightBlue": "#2C6CA0",
+    "brightPurple": "#9B4D8E",
+    "brightCyan": "#2A8A7A",
+    "brightWhite": "#EFE8D8",
+    "background": "#F5EFE2",
+    "foreground": "#3A2E20",
+    "cursorColor": "#3A2E20",
+    "selectionBackground": "#C6BFB2"
+}

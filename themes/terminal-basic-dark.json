@@ -1,0 +1,23 @@
+{
+    "name": "Terminal Basic Dark",
+    "black": "#000000",
+    "red": "#C65339",
+    "green": "#6AC44B",
+    "yellow": "#B8B74A",
+    "blue": "#6444ED",
+    "purple": "#D357DB",
+    "cyan": "#69C1CF",
+    "white": "#D1D1D1",
+    "brightBlack": "#909090",
+    "brightRed": "#EB5A3A",
+    "brightGreen": "#77EA51",
+    "brightYellow": "#EFEF53",
+    "brightBlue": "#D09AF9",
+    "brightPurple": "#EB5AF7",
+    "brightCyan": "#78F1F2",
+    "brightWhite": "#EDEDED",
+    "background": "#1D1E1D",
+    "foreground": "#FFFFFF",
+    "cursorColor": "#9D9D9D",
+    "selectionBackground": "#3F638A"
+}

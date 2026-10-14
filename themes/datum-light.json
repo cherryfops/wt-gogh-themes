@@ -1,0 +1,23 @@
+{
+    "name": "datum (light)",
+    "black": "#292E35",
+    "red": "#A24500",
+    "green": "#007553",
+    "yellow": "#656023",
+    "blue": "#0176B8",
+    "purple": "#973070",
+    "cyan": "#0D7A7F",
+    "white": "#CED3D9",
+    "brightBlack": "#616A76",
+    "brightRed": "#976700",
+    "brightGreen": "#007553",
+    "brightYellow": "#4D3919",
+    "brightBlue": "#2F516C",
+    "brightPurple": "#633750",
+    "brightCyan": "#154B4E",
+    "brightWhite": "#E7ECF2",
+    "background": "#F1F6FD",
+    "foreground": "#292E35",
+    "cursorColor": "#973070",
+    "selectionBackground": "#BFC4CB"
+}

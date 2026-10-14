@@ -1,0 +1,23 @@
+{
+    "name": "Brewer",
+    "black": "#0C0D0E",
+    "red": "#E31A1C",
+    "green": "#31A354",
+    "yellow": "#DCA060",
+    "blue": "#3182BD",
+    "purple": "#756BB1",
+    "cyan": "#80B1D3",
+    "white": "#B7B8B9",
+    "brightBlack": "#737475",
+    "brightRed": "#E31A1C",
+    "brightGreen": "#31A354",
+    "brightYellow": "#DCA060",
+    "brightBlue": "#3182BD",
+    "brightPurple": "#756BB1",
+    "brightCyan": "#80B1D3",
+    "brightWhite": "#FCFDFE",
+    "background": "#0C0D0E",
+    "foreground": "#B7B8B9",
+    "cursorColor": "#B7B8B9",
+    "selectionBackground": "#373839"
+}

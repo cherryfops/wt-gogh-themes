@@ -1,0 +1,23 @@
+{
+    "name": "Mellifluous",
+    "black": "#1A1A1A",
+    "red": "#D29393",
+    "green": "#B3B393",
+    "yellow": "#CBAA89",
+    "blue": "#A8A1BE",
+    "purple": "#B39FB0",
+    "cyan": "#C0AF8C",
+    "white": "#DADADA",
+    "brightBlack": "#5B5B5B",
+    "brightRed": "#C95954",
+    "brightGreen": "#828040",
+    "brightYellow": "#A6794C",
+    "brightBlue": "#5A6599",
+    "brightPurple": "#9C6995",
+    "brightCyan": "#74A39E",
+    "brightWhite": "#FFFFFF",
+    "background": "#1A1A1A",
+    "foreground": "#DADADA",
+    "cursorColor": "#BFAD9E",
+    "selectionBackground": "#2D2D2D"
+}

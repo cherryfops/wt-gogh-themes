@@ -1,0 +1,23 @@
+{
+    "name": "Kitty Low Contrast",
+    "black": "#000000",
+    "red": "#CC0403",
+    "green": "#19CB00",
+    "yellow": "#CECB00",
+    "blue": "#0D73CC",
+    "purple": "#CB1ED1",
+    "cyan": "#0DCDCD",
+    "white": "#DDDDDD",
+    "brightBlack": "#767676",
+    "brightRed": "#F2201F",
+    "brightGreen": "#23FD00",
+    "brightYellow": "#FFFD00",
+    "brightBlue": "#1A8FFF",
+    "brightPurple": "#FD28FF",
+    "brightCyan": "#14FFFF",
+    "brightWhite": "#FFFFFF",
+    "background": "#333333",
+    "foreground": "#FFFFFF",
+    "cursorColor": "#CCCCCC",
+    "selectionBackground": "#666666"
+}

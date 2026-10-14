@@ -1,0 +1,23 @@
+{
+    "name": "Pastel Cyberpunk",
+    "black": "#38404F",
+    "red": "#FF3838",
+    "green": "#DC38D0",
+    "yellow": "#F79538",
+    "blue": "#4B6C9B",
+    "purple": "#904DA9",
+    "cyan": "#3FCBD2",
+    "white": "#3FCBD2",
+    "brightBlack": "#4D83CF",
+    "brightRed": "#FF3333",
+    "brightGreen": "#DB33CF",
+    "brightYellow": "#FF7899",
+    "brightBlue": "#38FF38",
+    "brightPurple": "#8D49A7",
+    "brightCyan": "#3BCAD1",
+    "brightWhite": "#3BCAD1",
+    "background": "#333B4B",
+    "foreground": "#3FCBD2",
+    "cursorColor": "#3FCBD2",
+    "selectionBackground": "#365F6D"
+}

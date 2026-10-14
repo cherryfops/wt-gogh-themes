@@ -1,0 +1,23 @@
+{
+    "name": "SilkCircuit Neon",
+    "black": "#12101A",
+    "red": "#FF6363",
+    "green": "#50FA7B",
+    "yellow": "#F1FA8C",
+    "blue": "#82AAFF",
+    "purple": "#FF00FF",
+    "cyan": "#80FFEA",
+    "white": "#F8F8F2",
+    "brightBlack": "#768D8D",
+    "brightRed": "#FF8787",
+    "brightGreen": "#86FBA8",
+    "brightYellow": "#FFFFA5",
+    "brightBlue": "#82B1FF",
+    "brightPurple": "#FF69FF",
+    "brightCyan": "#5FFFFF",
+    "brightWhite": "#FFFFFF",
+    "background": "#12101A",
+    "foreground": "#F8F8F2",
+    "cursorColor": "#80FFEA",
+    "selectionBackground": "#44475A"
+}

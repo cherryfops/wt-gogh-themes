@@ -1,0 +1,23 @@
+{
+    "name": "Seoulism Light",
+    "black": "#101114",
+    "red": "#C83024",
+    "green": "#108C76",
+    "yellow": "#C46E0A",
+    "blue": "#244CC8",
+    "purple": "#8040D2",
+    "cyan": "#1880B4",
+    "white": "#C8C8C4",
+    "brightBlack": "#5A5C64",
+    "brightRed": "#E24E42",
+    "brightGreen": "#1EA68C",
+    "brightYellow": "#DE8A1E",
+    "brightBlue": "#466CE2",
+    "brightPurple": "#9E62E4",
+    "brightCyan": "#3298CC",
+    "brightWhite": "#ECECE9",
+    "background": "#FAFAF7",
+    "foreground": "#101114",
+    "cursorColor": "#808080",
+    "selectionBackground": "#C0C0BE"
+}

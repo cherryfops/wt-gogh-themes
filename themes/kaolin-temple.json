@@ -1,0 +1,23 @@
+{
+    "name": "Kaolin Temple",
+    "black": "#2B2B2F",
+    "red": "#EF6787",
+    "green": "#47BA99",
+    "yellow": "#EED891",
+    "blue": "#4EB8CA",
+    "purple": "#FBAED2",
+    "cyan": "#49BDB0",
+    "white": "#EEDCC1",
+    "brightBlack": "#697375",
+    "brightRed": "#BA667D",
+    "brightGreen": "#74B09A",
+    "brightYellow": "#F5C791",
+    "brightBlue": "#91B9C7",
+    "brightPurple": "#C791AA",
+    "brightCyan": "#4FA8A3",
+    "brightWhite": "#BEBEC4",
+    "background": "#2B2B2F",
+    "foreground": "#EEDCC1",
+    "cursorColor": "#EEDCC1",
+    "selectionBackground": "#5C5754"
+}

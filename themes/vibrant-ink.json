@@ -1,0 +1,23 @@
+{
+    "name": "Vibrant Ink",
+    "black": "#878787",
+    "red": "#FF6600",
+    "green": "#CCFF04",
+    "yellow": "#FFCC00",
+    "blue": "#44B4CC",
+    "purple": "#9933CC",
+    "cyan": "#44B4CC",
+    "white": "#F5F5F5",
+    "brightBlack": "#555555",
+    "brightRed": "#FF0000",
+    "brightGreen": "#00FF00",
+    "brightYellow": "#FFFF00",
+    "brightBlue": "#0000FF",
+    "brightPurple": "#FF00FF",
+    "brightCyan": "#00FFFF",
+    "brightWhite": "#E5E5E5",
+    "background": "#000000",
+    "foreground": "#FFFFFF",
+    "cursorColor": "#FFFFFF",
+    "selectionBackground": "#B5D5FF"
+}

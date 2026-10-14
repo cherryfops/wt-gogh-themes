@@ -1,0 +1,23 @@
+{
+    "name": "Pico",
+    "black": "#000000",
+    "red": "#FF004D",
+    "green": "#00E756",
+    "yellow": "#FFF024",
+    "blue": "#83769C",
+    "purple": "#FF77A8",
+    "cyan": "#29ADFF",
+    "white": "#5F574F",
+    "brightBlack": "#008751",
+    "brightRed": "#FF004D",
+    "brightGreen": "#00E756",
+    "brightYellow": "#FFF024",
+    "brightBlue": "#83769C",
+    "brightPurple": "#FF77A8",
+    "brightCyan": "#29ADFF",
+    "brightWhite": "#FFF1E8",
+    "background": "#000000",
+    "foreground": "#5F574F",
+    "cursorColor": "#5F574F",
+    "selectionBackground": "#181614"
+}

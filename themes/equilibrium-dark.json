@@ -1,0 +1,23 @@
+{
+    "name": "Equilibrium Dark",
+    "black": "#0C1118",
+    "red": "#F04339",
+    "green": "#7F8B00",
+    "yellow": "#BB8801",
+    "blue": "#008DD1",
+    "purple": "#6A7FD2",
+    "cyan": "#00948B",
+    "white": "#AFABA2",
+    "brightBlack": "#7B776E",
+    "brightRed": "#F04339",
+    "brightGreen": "#7F8B00",
+    "brightYellow": "#BB8801",
+    "brightBlue": "#008DD1",
+    "brightPurple": "#6A7FD2",
+    "brightCyan": "#00948B",
+    "brightWhite": "#E7E2D9",
+    "background": "#0C1118",
+    "foreground": "#AFABA2",
+    "cursorColor": "#AFABA2",
+    "selectionBackground": "#35383A"
+}

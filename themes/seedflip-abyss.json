@@ -1,0 +1,23 @@
+{
+    "name": "SeedFlip Abyss",
+    "black": "#030308",
+    "red": "#D26060",
+    "green": "#60D286",
+    "yellow": "#D2BF60",
+    "blue": "#6090D2",
+    "purple": "#D260D2",
+    "cyan": "#60D2D2",
+    "white": "#F1F1F8",
+    "brightBlack": "#3D3D70",
+    "brightRed": "#E39C9C",
+    "brightGreen": "#9CE3B3",
+    "brightYellow": "#E3D79C",
+    "brightBlue": "#9CB9E3",
+    "brightPurple": "#E39CE3",
+    "brightCyan": "#9CE3E3",
+    "brightWhite": "#FFFFFF",
+    "background": "#050510",
+    "foreground": "#E0E0F0",
+    "cursorColor": "#6E56CF",
+    "selectionBackground": "#0C0C1E"
+}

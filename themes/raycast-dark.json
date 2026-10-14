@@ -1,0 +1,23 @@
+{
+    "name": "Raycast Dark",
+    "black": "#000000",
+    "red": "#FF5360",
+    "green": "#59D499",
+    "yellow": "#FFC531",
+    "blue": "#56C2FF",
+    "purple": "#CF2F98",
+    "cyan": "#52EEE5",
+    "white": "#FFFFFF",
+    "brightBlack": "#000000",
+    "brightRed": "#FF6363",
+    "brightGreen": "#59D499",
+    "brightYellow": "#FFC531",
+    "brightBlue": "#56C2FF",
+    "brightPurple": "#CF2F98",
+    "brightCyan": "#52EEE5",
+    "brightWhite": "#FFFFFF",
+    "background": "#1A1A1A",
+    "foreground": "#FFFFFF",
+    "cursorColor": "#CCCCCC",
+    "selectionBackground": "#535353"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Tango",
+    "black": "#2E3436",
+    "red": "#CC0000",
+    "green": "#4E9A06",
+    "yellow": "#C4A000",
+    "blue": "#3465A4",
+    "purple": "#75507B",
+    "cyan": "#06989A",
+    "white": "#D3D7CF",
+    "brightBlack": "#555753",
+    "brightRed": "#CC0000",
+    "brightGreen": "#4E9A06",
+    "brightYellow": "#C4A000",
+    "brightBlue": "#3465A4",
+    "brightPurple": "#75507B",
+    "brightCyan": "#06989A",
+    "brightWhite": "#EEEEEC",
+    "background": "#2E3436",
+    "foreground": "#D3D7CF",
+    "cursorColor": "#D3D7CF",
+    "selectionBackground": "#575D5C"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Halcyon",
+    "black": "#1D2433",
+    "red": "#EF6B73",
+    "green": "#BAE67E",
+    "yellow": "#FFD580",
+    "blue": "#6679A4",
+    "purple": "#C3A6FF",
+    "cyan": "#5CCFE6",
+    "white": "#D7DCE2",
+    "brightBlack": "#1D2433",
+    "brightRed": "#EF6B73",
+    "brightGreen": "#BAE67E",
+    "brightYellow": "#FFD580",
+    "brightBlue": "#6679A4",
+    "brightPurple": "#C3A6FF",
+    "brightCyan": "#5CCFE6",
+    "brightWhite": "#D7DCE2",
+    "background": "#171C28",
+    "foreground": "#D7DCE2",
+    "cursorColor": "#D7DCE2",
+    "selectionBackground": "#474C56"
+}

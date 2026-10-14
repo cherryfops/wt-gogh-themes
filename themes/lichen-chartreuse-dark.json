@@ -1,0 +1,23 @@
+{
+    "name": "Lichen Chartreuse Dark",
+    "black": "#151613",
+    "red": "#E28B82",
+    "green": "#83BDA5",
+    "yellow": "#B2D084",
+    "blue": "#78ADC4",
+    "purple": "#BFA6D4",
+    "cyan": "#9CC6C9",
+    "white": "#E0E5DA",
+    "brightBlack": "#899282",
+    "brightRed": "#E28B82",
+    "brightGreen": "#CFE4AE",
+    "brightYellow": "#D5AD73",
+    "brightBlue": "#A3B8C2",
+    "brightPurple": "#D2A0B2",
+    "brightCyan": "#97C9C9",
+    "brightWhite": "#FCFCFA",
+    "background": "#151613",
+    "foreground": "#E0E5DA",
+    "cursorColor": "#E0E5DA",
+    "selectionBackground": "#484A45"
+}

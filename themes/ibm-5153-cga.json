@@ -1,0 +1,23 @@
+{
+    "name": "IBM 5153 CGA",
+    "black": "#141414",
+    "red": "#D03333",
+    "green": "#1BD01B",
+    "yellow": "#D08C1B",
+    "blue": "#1B1BD0",
+    "purple": "#D01BD0",
+    "cyan": "#1BD0D0",
+    "white": "#CECECE",
+    "brightBlack": "#4E4E4E",
+    "brightRed": "#DC4E4E",
+    "brightGreen": "#4EDC4E",
+    "brightYellow": "#F3F34E",
+    "brightBlue": "#4E4EDC",
+    "brightPurple": "#F34EF3",
+    "brightCyan": "#4EF3F3",
+    "brightWhite": "#FFFFFF",
+    "background": "#141414",
+    "foreground": "#CECECE",
+    "cursorColor": "#CECECE",
+    "selectionBackground": "#424242"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Linh",
+    "black": "#555555",
+    "red": "#C56360",
+    "green": "#599B5C",
+    "yellow": "#B2B05B",
+    "blue": "#B26CB7",
+    "purple": "#7D7EB3",
+    "cyan": "#50BBBC",
+    "white": "#D6D6D6",
+    "brightBlack": "#717171",
+    "brightRed": "#E95752",
+    "brightGreen": "#49AE4D",
+    "brightYellow": "#D8D54F",
+    "brightBlue": "#CE70D4",
+    "brightPurple": "#7374CA",
+    "brightCyan": "#57DCDD",
+    "brightWhite": "#F3F4F4",
+    "background": "#232323",
+    "foreground": "#6EBEFE",
+    "cursorColor": "#6EBEFE",
+    "selectionBackground": "#364A5A"
+}

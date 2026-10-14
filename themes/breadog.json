@@ -1,0 +1,23 @@
+{
+    "name": "Breadog",
+    "black": "#362C24",
+    "red": "#B10B00",
+    "green": "#007232",
+    "yellow": "#8B4C00",
+    "blue": "#005CB4",
+    "purple": "#9B0097",
+    "cyan": "#006A78",
+    "white": "#BAA99D",
+    "brightBlack": "#514337",
+    "brightRed": "#DE1100",
+    "brightGreen": "#008F40",
+    "brightYellow": "#AE6000",
+    "brightBlue": "#0074E1",
+    "brightPurple": "#C300BD",
+    "brightCyan": "#008697",
+    "brightWhite": "#EAE1DA",
+    "background": "#F1EBE6",
+    "foreground": "#362C24",
+    "cursorColor": "#362C24",
+    "selectionBackground": "#C2BBB6"
+}

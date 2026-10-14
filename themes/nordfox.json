@@ -1,0 +1,23 @@
+{
+    "name": "Nordfox",
+    "black": "#3B4252",
+    "red": "#BF616A",
+    "green": "#A3BE8C",
+    "yellow": "#EBCB8B",
+    "blue": "#81A1C1",
+    "purple": "#B48EAD",
+    "cyan": "#88C0D0",
+    "white": "#E5E9F0",
+    "brightBlack": "#465780",
+    "brightRed": "#D06F79",
+    "brightGreen": "#B1D196",
+    "brightYellow": "#F0D399",
+    "brightBlue": "#8CAFD2",
+    "brightPurple": "#C895BF",
+    "brightCyan": "#93CCDC",
+    "brightWhite": "#E7ECF4",
+    "background": "#2E3440",
+    "foreground": "#CDCECF",
+    "cursorColor": "#CDCECF",
+    "selectionBackground": "#565A64"
+}

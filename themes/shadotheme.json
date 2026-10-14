@@ -1,0 +1,23 @@
+{
+    "name": "Shadotheme",
+    "black": "#140A1D",
+    "red": "#B52A5B",
+    "green": "#FF4971",
+    "yellow": "#8897F4",
+    "blue": "#BD93F9",
+    "purple": "#E9729D",
+    "cyan": "#F18FB0",
+    "white": "#F1C4E0",
+    "brightBlack": "#A8899C",
+    "brightRed": "#B52A5B",
+    "brightGreen": "#FF4971",
+    "brightYellow": "#8897F4",
+    "brightBlue": "#BD93F9",
+    "brightPurple": "#E9729D",
+    "brightCyan": "#F18FB0",
+    "brightWhite": "#F1C4E0",
+    "background": "#191724",
+    "foreground": "#E3C7FC",
+    "cursorColor": "#E3C7FC",
+    "selectionBackground": "#4C435A"
+}

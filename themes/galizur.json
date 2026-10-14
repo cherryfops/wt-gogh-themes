@@ -1,0 +1,23 @@
+{
+    "name": "Galizur",
+    "black": "#223344",
+    "red": "#AA1122",
+    "green": "#33AA11",
+    "yellow": "#CCAA22",
+    "blue": "#2255CC",
+    "purple": "#7755AA",
+    "cyan": "#22BBDD",
+    "white": "#8899AA",
+    "brightBlack": "#556677",
+    "brightRed": "#FF1133",
+    "brightGreen": "#33FF11",
+    "brightYellow": "#FFDD33",
+    "brightBlue": "#3377FF",
+    "brightPurple": "#AA77FF",
+    "brightCyan": "#33DDFF",
+    "brightWhite": "#BBCCDD",
+    "background": "#071317",
+    "foreground": "#DDEEFF",
+    "cursorColor": "#DDEEFF",
+    "selectionBackground": "#071317"
+}

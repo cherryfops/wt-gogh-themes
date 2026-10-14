@@ -1,0 +1,23 @@
+{
+    "name": "Autumn",
+    "black": "#212121",
+    "red": "#F05E48",
+    "green": "#99BE70",
+    "yellow": "#FAD566",
+    "blue": "#86C1B9",
+    "purple": "#CFBA8B",
+    "cyan": "#72A59E",
+    "white": "#C8C8C8",
+    "brightBlack": "#404040",
+    "brightRed": "#F05E48",
+    "brightGreen": "#99BE70",
+    "brightYellow": "#FFFF9F",
+    "brightBlue": "#86C1B9",
+    "brightPurple": "#CFBA8B",
+    "brightCyan": "#72A59E",
+    "brightWhite": "#E8E8E8",
+    "background": "#232323",
+    "foreground": "#F3F2CC",
+    "cursorColor": "#F3F2CC",
+    "selectionBackground": "#57574D"
+}

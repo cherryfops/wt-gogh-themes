@@ -1,0 +1,23 @@
+{
+    "name": "Base2Tone Cave",
+    "black": "#222021",
+    "red": "#936C7A",
+    "green": "#CCA133",
+    "yellow": "#FFCC4D",
+    "blue": "#9C818B",
+    "purple": "#CCA133",
+    "cyan": "#D27998",
+    "white": "#9F999B",
+    "brightBlack": "#635F60",
+    "brightRed": "#DDAF3C",
+    "brightGreen": "#2F2D2E",
+    "brightYellow": "#565254",
+    "brightBlue": "#706B6D",
+    "brightPurple": "#F0A8C1",
+    "brightCyan": "#C39622",
+    "brightWhite": "#FFEBF2",
+    "background": "#222021",
+    "foreground": "#9F999B",
+    "cursorColor": "#996E00",
+    "selectionBackground": "#413E40"
+}

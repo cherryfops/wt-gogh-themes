@@ -1,0 +1,23 @@
+{
+    "name": "Apple System Colors Light",
+    "black": "#1A1A1A",
+    "red": "#BC4437",
+    "green": "#51A148",
+    "yellow": "#C7AD3A",
+    "blue": "#2E68C5",
+    "purple": "#8C4BB8",
+    "cyan": "#5E9CBE",
+    "white": "#98989D",
+    "brightBlack": "#464646",
+    "brightRed": "#EB5545",
+    "brightGreen": "#6BD45F",
+    "brightYellow": "#F8D84A",
+    "brightBlue": "#3B82F7",
+    "brightPurple": "#B260EA",
+    "brightCyan": "#8DD3FB",
+    "brightWhite": "#FFFFFF",
+    "background": "#FEFFFF",
+    "foreground": "#000000",
+    "cursorColor": "#98989D",
+    "selectionBackground": "#BEBFBF"
+}

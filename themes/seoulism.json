@@ -1,0 +1,23 @@
+{
+    "name": "Seoulism",
+    "black": "#101114",
+    "red": "#E94536",
+    "green": "#22D2B5",
+    "yellow": "#FF9F3E",
+    "blue": "#2D5CE6",
+    "purple": "#9C5CEB",
+    "cyan": "#2C9DD6",
+    "white": "#E0E0DC",
+    "brightBlack": "#242630",
+    "brightRed": "#EE6962",
+    "brightGreen": "#53DCBA",
+    "brightYellow": "#FFC068",
+    "brightBlue": "#5B80EC",
+    "brightPurple": "#C680EF",
+    "brightCyan": "#5AB3DF",
+    "brightWhite": "#E7E7E4",
+    "background": "#101114",
+    "foreground": "#ECECE9",
+    "cursorColor": "#ECECE9",
+    "selectionBackground": "#474849"
+}

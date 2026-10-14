@@ -1,0 +1,23 @@
+{
+    "name": "Synth Midnight Light",
+    "black": "#DDDFE0",
+    "red": "#B53B50",
+    "green": "#06EA61",
+    "yellow": "#C9D364",
+    "blue": "#03AEFF",
+    "purple": "#EA5CE2",
+    "cyan": "#42FFF9",
+    "white": "#28292A",
+    "brightBlack": "#A3A5A6",
+    "brightRed": "#B53B50",
+    "brightGreen": "#06EA61",
+    "brightYellow": "#C9D364",
+    "brightBlue": "#03AEFF",
+    "brightPurple": "#EA5CE2",
+    "brightCyan": "#42FFF9",
+    "brightWhite": "#050608",
+    "background": "#DDDFE0",
+    "foreground": "#28292A",
+    "cursorColor": "#28292A",
+    "selectionBackground": "#B0B2B2"
+}

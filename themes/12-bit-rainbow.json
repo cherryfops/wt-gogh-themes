@@ -1,0 +1,23 @@
+{
+    "name": "12-bit Rainbow",
+    "black": "#000000",
+    "red": "#A03050",
+    "green": "#40D080",
+    "yellow": "#E09040",
+    "blue": "#3060B0",
+    "purple": "#603090",
+    "cyan": "#0090C0",
+    "white": "#DBDED8",
+    "brightBlack": "#685656",
+    "brightRed": "#C06060",
+    "brightGreen": "#90D050",
+    "brightYellow": "#E0D000",
+    "brightBlue": "#00B0C0",
+    "brightPurple": "#801070",
+    "brightCyan": "#20B0C0",
+    "brightWhite": "#FFFFFF",
+    "background": "#040404",
+    "foreground": "#FEFFFF",
+    "cursorColor": "#E0D000",
+    "selectionBackground": "#606060"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Chester",
+    "black": "#080200",
+    "red": "#FA5E5B",
+    "green": "#16C98D",
+    "yellow": "#FFC83F",
+    "blue": "#288AD6",
+    "purple": "#D34590",
+    "cyan": "#28DDDE",
+    "white": "#E7E7E7",
+    "brightBlack": "#6F6B68",
+    "brightRed": "#FA5E5B",
+    "brightGreen": "#16C98D",
+    "brightYellow": "#FEEF6D",
+    "brightBlue": "#278AD6",
+    "brightPurple": "#D34590",
+    "brightCyan": "#27DEDE",
+    "brightWhite": "#FFFFFF",
+    "background": "#2C3643",
+    "foreground": "#FFFFFF",
+    "cursorColor": "#B4B1B1",
+    "selectionBackground": "#67747C"
+}

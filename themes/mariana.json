@@ -1,0 +1,23 @@
+{
+    "name": "Mariana",
+    "black": "#000000",
+    "red": "#EC5F66",
+    "green": "#99C794",
+    "yellow": "#F9AE58",
+    "blue": "#6699CC",
+    "purple": "#C695C6",
+    "cyan": "#5FB4B4",
+    "white": "#F7F7F7",
+    "brightBlack": "#333333",
+    "brightRed": "#F97B58",
+    "brightGreen": "#ACD1A8",
+    "brightYellow": "#FAC761",
+    "brightBlue": "#85ADD6",
+    "brightPurple": "#D8B6D8",
+    "brightCyan": "#82C4C4",
+    "brightWhite": "#FFFFFF",
+    "background": "#343D46",
+    "foreground": "#D8DEE9",
+    "cursorColor": "#FCBB6A",
+    "selectionBackground": "#5D656F"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Spacegray",
+    "black": "#000000",
+    "red": "#B04B57",
+    "green": "#87B379",
+    "yellow": "#E5C179",
+    "blue": "#7D8FA4",
+    "purple": "#A47996",
+    "cyan": "#85A7A5",
+    "white": "#B3B8C3",
+    "brightBlack": "#000000",
+    "brightRed": "#B04B57",
+    "brightGreen": "#87B379",
+    "brightYellow": "#E5C179",
+    "brightBlue": "#7D8FA4",
+    "brightPurple": "#A47996",
+    "brightCyan": "#85A7A5",
+    "brightWhite": "#FFFFFF",
+    "background": "#20242D",
+    "foreground": "#B3B8C3",
+    "cursorColor": "#B3B8C3",
+    "selectionBackground": "#454952"
+}

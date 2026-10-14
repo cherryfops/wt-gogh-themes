@@ -1,0 +1,23 @@
+{
+    "name": "Humanoid Dark",
+    "black": "#232629",
+    "red": "#F11235",
+    "green": "#02D849",
+    "yellow": "#FFB627",
+    "blue": "#00A6FB",
+    "purple": "#F15EE3",
+    "cyan": "#0DD9D6",
+    "white": "#F8F8F2",
+    "brightBlack": "#60615D",
+    "brightRed": "#F11235",
+    "brightGreen": "#02D849",
+    "brightYellow": "#FFB627",
+    "brightBlue": "#00A6FB",
+    "brightPurple": "#F15EE3",
+    "brightCyan": "#0DD9D6",
+    "brightWhite": "#FCFCFC",
+    "background": "#232629",
+    "foreground": "#F8F8F2",
+    "cursorColor": "#F8F8F2",
+    "selectionBackground": "#585A5B"
+}

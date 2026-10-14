@@ -1,0 +1,23 @@
+{
+    "name": "Aardvark Ink",
+    "black": "#222734",
+    "red": "#C26265",
+    "green": "#52AA60",
+    "yellow": "#AD9B49",
+    "blue": "#487FD4",
+    "purple": "#AF5BD1",
+    "cyan": "#269D9A",
+    "white": "#5A6377",
+    "brightBlack": "#3A4152",
+    "brightRed": "#E48383",
+    "brightGreen": "#75CF84",
+    "brightYellow": "#C7B461",
+    "brightBlue": "#76A8F2",
+    "brightPurple": "#D58BF0",
+    "brightCyan": "#52C4C0",
+    "brightWhite": "#DFE5EE",
+    "background": "#0F141F",
+    "foreground": "#B4BCCA",
+    "cursorColor": "#B4BCCA",
+    "selectionBackground": "#2A3645"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "SilkCircuit Soft",
+    "black": "#141220",
+    "red": "#FF6677",
+    "green": "#66FF99",
+    "yellow": "#FFE699",
+    "blue": "#92AAFF",
+    "purple": "#FF99FF",
+    "cyan": "#99FFEE",
+    "white": "#F8F8F2",
+    "brightBlack": "#6272A4",
+    "brightRed": "#FF7788",
+    "brightGreen": "#80FFB3",
+    "brightYellow": "#FFFFA5",
+    "brightBlue": "#A2BBFF",
+    "brightPurple": "#FFB3FF",
+    "brightCyan": "#B3FFEA",
+    "brightWhite": "#FFFFFF",
+    "background": "#1A1626",
+    "foreground": "#F8F8F2",
+    "cursorColor": "#99FFEE",
+    "selectionBackground": "#44475A"
+}

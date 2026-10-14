@@ -1,0 +1,23 @@
+{
+    "name": "Atom One Light",
+    "black": "#000000",
+    "red": "#DE3E35",
+    "green": "#3F953A",
+    "yellow": "#D2B67C",
+    "blue": "#2F5AF3",
+    "purple": "#950095",
+    "cyan": "#3F953A",
+    "white": "#BBBBBB",
+    "brightBlack": "#000000",
+    "brightRed": "#DE3E35",
+    "brightGreen": "#3F953A",
+    "brightYellow": "#D2B67C",
+    "brightBlue": "#2F5AF3",
+    "brightPurple": "#A00095",
+    "brightCyan": "#3F953A",
+    "brightWhite": "#FFFFFF",
+    "background": "#F9F9F9",
+    "foreground": "#2A2C33",
+    "cursorColor": "#BBBBBB",
+    "selectionBackground": "#D0DFFC"
+}

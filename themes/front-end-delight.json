@@ -1,0 +1,23 @@
+{
+    "name": "Front End Delight",
+    "black": "#242526",
+    "red": "#F8511B",
+    "green": "#565747",
+    "yellow": "#FA771D",
+    "blue": "#2C70B7",
+    "purple": "#F02E4F",
+    "cyan": "#3CA1A6",
+    "white": "#ADADAD",
+    "brightBlack": "#5FAC6D",
+    "brightRed": "#F74319",
+    "brightGreen": "#74EC4C",
+    "brightYellow": "#FDC325",
+    "brightBlue": "#3393CA",
+    "brightPurple": "#E75E4F",
+    "brightCyan": "#4FBCE6",
+    "brightWhite": "#8C735B",
+    "background": "#1B1C1D",
+    "foreground": "#ADADAD",
+    "cursorColor": "#CDCDCD",
+    "selectionBackground": "#EA6154"
+}

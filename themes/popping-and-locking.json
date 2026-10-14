@@ -1,0 +1,23 @@
+{
+    "name": "Popping And Locking",
+    "black": "#1D2021",
+    "red": "#CC241D",
+    "green": "#98971A",
+    "yellow": "#D79921",
+    "blue": "#458588",
+    "purple": "#B16286",
+    "cyan": "#689D6A",
+    "white": "#A89984",
+    "brightBlack": "#928374",
+    "brightRed": "#F42C3E",
+    "brightGreen": "#B8BB26",
+    "brightYellow": "#FABD2F",
+    "brightBlue": "#99C6CA",
+    "brightPurple": "#D3869B",
+    "brightCyan": "#7EC16E",
+    "brightWhite": "#EBDBB2",
+    "background": "#181921",
+    "foreground": "#EBDBB2",
+    "cursorColor": "#C7C7C7",
+    "selectionBackground": "#4D4A45"
+}

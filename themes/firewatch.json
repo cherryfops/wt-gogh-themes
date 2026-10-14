@@ -1,0 +1,23 @@
+{
+    "name": "Firewatch",
+    "black": "#585F6D",
+    "red": "#D95360",
+    "green": "#5AB977",
+    "yellow": "#DFB563",
+    "blue": "#4D89C4",
+    "purple": "#D55119",
+    "cyan": "#44A8B6",
+    "white": "#E6E5FF",
+    "brightBlack": "#585F6D",
+    "brightRed": "#D95360",
+    "brightGreen": "#5AB977",
+    "brightYellow": "#DFB563",
+    "brightBlue": "#4C89C5",
+    "brightPurple": "#D55119",
+    "brightCyan": "#44A8B6",
+    "brightWhite": "#E6E5FF",
+    "background": "#1E2027",
+    "foreground": "#9BA2B2",
+    "cursorColor": "#F6F7EC",
+    "selectionBackground": "#2F363E"
+}

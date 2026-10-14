@@ -1,0 +1,23 @@
+{
+    "name": "Penumbra Dark Contrast Plus",
+    "black": "#181B1F",
+    "red": "#DF7F78",
+    "green": "#50B584",
+    "yellow": "#9CA748",
+    "blue": "#61A3E6",
+    "purple": "#A48FE1",
+    "cyan": "#00B3C2",
+    "white": "#CECECE",
+    "brightBlack": "#636363",
+    "brightRed": "#DF7F78",
+    "brightGreen": "#50B584",
+    "brightYellow": "#9CA748",
+    "brightBlue": "#61A3E6",
+    "brightPurple": "#A48FE1",
+    "brightCyan": "#00B3C2",
+    "brightWhite": "#FFFDFB",
+    "background": "#181B1F",
+    "foreground": "#CECECE",
+    "cursorColor": "#CECECE",
+    "selectionBackground": "#46484B"
+}

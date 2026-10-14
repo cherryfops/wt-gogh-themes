@@ -1,0 +1,23 @@
+{
+    "name": "Linux Vt",
+    "black": "#000000",
+    "red": "#AA0000",
+    "green": "#00AA00",
+    "yellow": "#FFFF55",
+    "blue": "#5555FF",
+    "purple": "#FF55FF",
+    "cyan": "#00AAAA",
+    "white": "#AAAAAA",
+    "brightBlack": "#555555",
+    "brightRed": "#AA0000",
+    "brightGreen": "#00AA00",
+    "brightYellow": "#FFFF55",
+    "brightBlue": "#5555FF",
+    "brightPurple": "#FF55FF",
+    "brightCyan": "#00AAAA",
+    "brightWhite": "#FFFFFF",
+    "background": "#000000",
+    "foreground": "#AAAAAA",
+    "cursorColor": "#AAAAAA",
+    "selectionBackground": "#2A2A2A"
+}

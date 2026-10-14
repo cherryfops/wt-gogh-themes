@@ -1,0 +1,23 @@
+{
+    "name": "Vulcan",
+    "black": "#041523",
+    "red": "#818591",
+    "green": "#977D7C",
+    "yellow": "#ADB4B9",
+    "blue": "#977D7C",
+    "purple": "#9198A3",
+    "cyan": "#977D7C",
+    "white": "#5B778C",
+    "brightBlack": "#7A5759",
+    "brightRed": "#818591",
+    "brightGreen": "#977D7C",
+    "brightYellow": "#ADB4B9",
+    "brightBlue": "#977D7C",
+    "brightPurple": "#9198A3",
+    "brightCyan": "#977D7C",
+    "brightWhite": "#214D68",
+    "background": "#041523",
+    "foreground": "#5B778C",
+    "cursorColor": "#5B778C",
+    "selectionBackground": "#1A2E3D"
+}

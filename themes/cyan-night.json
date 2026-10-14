@@ -1,0 +1,23 @@
+{
+    "name": "Cyan Night",
+    "black": "#06191F",
+    "red": "#FF5F7A",
+    "green": "#5AF2D5",
+    "yellow": "#FFD166",
+    "blue": "#38BDF8",
+    "purple": "#B794F4",
+    "cyan": "#22D3EE",
+    "white": "#D5FBFF",
+    "brightBlack": "#27525C",
+    "brightRed": "#FF7A90",
+    "brightGreen": "#7DFFE5",
+    "brightYellow": "#FFE08A",
+    "brightBlue": "#67D8FF",
+    "brightPurple": "#C4A7FF",
+    "brightCyan": "#67E8F9",
+    "brightWhite": "#F2FEFF",
+    "background": "#031B22",
+    "foreground": "#D5FBFF",
+    "cursorColor": "#22D3EE",
+    "selectionBackground": "#385359"
+}

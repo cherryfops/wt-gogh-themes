@@ -1,0 +1,23 @@
+{
+    "name": "Abernathy",
+    "black": "#000000",
+    "red": "#CD0000",
+    "green": "#00CD00",
+    "yellow": "#CDCD00",
+    "blue": "#1093F5",
+    "purple": "#CD00CD",
+    "cyan": "#00CDCD",
+    "white": "#FAEBD7",
+    "brightBlack": "#404040",
+    "brightRed": "#FF0000",
+    "brightGreen": "#00FF00",
+    "brightYellow": "#FFFF00",
+    "brightBlue": "#11B5F6",
+    "brightPurple": "#FF00FF",
+    "brightCyan": "#00FFFF",
+    "brightWhite": "#FFFFFF",
+    "background": "#111416",
+    "foreground": "#EEEEEC",
+    "cursorColor": "#BBBBBB",
+    "selectionBackground": "#484A4C"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Fideloper",
+    "black": "#292F33",
+    "red": "#CB1E2D",
+    "green": "#EDB8AC",
+    "yellow": "#B7AB9B",
+    "blue": "#2E78C2",
+    "purple": "#C0236F",
+    "cyan": "#309186",
+    "white": "#EAE3CE",
+    "brightBlack": "#092028",
+    "brightRed": "#D4605A",
+    "brightGreen": "#D4605A",
+    "brightYellow": "#A86671",
+    "brightBlue": "#7C85C4",
+    "brightPurple": "#5C5DB2",
+    "brightCyan": "#819090",
+    "brightWhite": "#FCF4DF",
+    "background": "#292F33",
+    "foreground": "#DBDAE0",
+    "cursorColor": "#D4605A",
+    "selectionBackground": "#565A5E"
+}

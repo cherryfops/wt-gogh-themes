@@ -1,0 +1,23 @@
+{
+    "name": "Space Grey Eighties Dull",
+    "black": "#15171C",
+    "red": "#B14956",
+    "green": "#91B377",
+    "yellow": "#5485C0",
+    "blue": "#7B8FA4",
+    "purple": "#A5779E",
+    "cyan": "#7FCCCB",
+    "white": "#B2B8C2",
+    "brightBlack": "#555555",
+    "brightRed": "#EC5F67",
+    "brightGreen": "#88E985",
+    "brightYellow": "#FDC253",
+    "brightBlue": "#5485C0",
+    "brightPurple": "#BF83C0",
+    "brightCyan": "#58C2C0",
+    "brightWhite": "#FFFFFF",
+    "background": "#212121",
+    "foreground": "#9A9FA6",
+    "cursorColor": "#9A9FA6",
+    "selectionBackground": "#3F4042"
+}

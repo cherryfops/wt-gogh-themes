@@ -1,0 +1,23 @@
+{
+    "name": "3024 Night",
+    "black": "#090300",
+    "red": "#DB2D20",
+    "green": "#01A252",
+    "yellow": "#FDED02",
+    "blue": "#01A0E4",
+    "purple": "#A16A94",
+    "cyan": "#B5E4F4",
+    "white": "#A5A2A2",
+    "brightBlack": "#5C5855",
+    "brightRed": "#E8BBD0",
+    "brightGreen": "#3A3432",
+    "brightYellow": "#4A4543",
+    "brightBlue": "#807D7C",
+    "brightPurple": "#D6D5D4",
+    "brightCyan": "#CDAB53",
+    "brightWhite": "#F7F7F7",
+    "background": "#090300",
+    "foreground": "#A5A2A2",
+    "cursorColor": "#A5A2A2",
+    "selectionBackground": "#302B28"
+}

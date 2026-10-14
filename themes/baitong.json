@@ -1,0 +1,23 @@
+{
+    "name": "Baitong",
+    "black": "#000000",
+    "red": "#F77272",
+    "green": "#33FF33",
+    "yellow": "#1AE642",
+    "blue": "#68FDFE",
+    "purple": "#FF66FF",
+    "cyan": "#87CEFA",
+    "white": "#DBDBD9",
+    "brightBlack": "#FFFFFF",
+    "brightRed": "#F77272",
+    "brightGreen": "#33FF33",
+    "brightYellow": "#1AE642",
+    "brightBlue": "#68FDFE",
+    "brightPurple": "#FF66FF",
+    "brightCyan": "#68FDFE",
+    "brightWhite": "#DBDBD9",
+    "background": "#112A2A",
+    "foreground": "#33FF33",
+    "cursorColor": "#33FF33",
+    "selectionBackground": "#1A5F2C"
+}

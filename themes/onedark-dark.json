@@ -1,0 +1,23 @@
+{
+    "name": "Onedark Dark",
+    "black": "#000000",
+    "red": "#EF596F",
+    "green": "#89CA78",
+    "yellow": "#E5C07B",
+    "blue": "#61AFEF",
+    "purple": "#D55FDE",
+    "cyan": "#2BBAC5",
+    "white": "#ABB2BF",
+    "brightBlack": "#434852",
+    "brightRed": "#EF596F",
+    "brightGreen": "#89CA78",
+    "brightYellow": "#E5C07B",
+    "brightBlue": "#61AFEF",
+    "brightPurple": "#D55FDE",
+    "brightCyan": "#2BBAC5",
+    "brightWhite": "#C8CCD4",
+    "background": "#000000",
+    "foreground": "#ABB2BF",
+    "cursorColor": "#ABB2BF",
+    "selectionBackground": "#2B2C30"
+}

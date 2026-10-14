@@ -1,0 +1,23 @@
+{
+    "name": "Molokai",
+    "black": "#121212",
+    "red": "#FA2573",
+    "green": "#98E123",
+    "yellow": "#DFD460",
+    "blue": "#1080D0",
+    "purple": "#8700FF",
+    "cyan": "#43A8D0",
+    "white": "#BBBBBB",
+    "brightBlack": "#555555",
+    "brightRed": "#F6669D",
+    "brightGreen": "#B1E05F",
+    "brightYellow": "#FFF26D",
+    "brightBlue": "#00AFFF",
+    "brightPurple": "#AF87FF",
+    "brightCyan": "#51CEFF",
+    "brightWhite": "#FFFFFF",
+    "background": "#121212",
+    "foreground": "#BBBBBB",
+    "cursorColor": "#BBBBBB",
+    "selectionBackground": "#B5D5FF"
+}

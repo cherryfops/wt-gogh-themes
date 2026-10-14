@@ -1,0 +1,23 @@
+{
+    "name": "Ascendancy",
+    "black": "#282828",
+    "red": "#D05000",
+    "green": "#B8BB26",
+    "yellow": "#FFCC1B",
+    "blue": "#458588",
+    "purple": "#FABD2F",
+    "cyan": "#8F3F71",
+    "white": "#D5C7A1",
+    "brightBlack": "#928374",
+    "brightRed": "#D05000",
+    "brightGreen": "#B8BB26",
+    "brightYellow": "#FFCC1B",
+    "brightBlue": "#458588",
+    "brightPurple": "#FABD2F",
+    "brightCyan": "#8F3F71",
+    "brightWhite": "#FBF1C7",
+    "background": "#282828",
+    "foreground": "#D5C7A1",
+    "cursorColor": "#D5C7A1",
+    "selectionBackground": "#535046"
+}

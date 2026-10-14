@@ -1,0 +1,23 @@
+{
+    "name": "Selenized Dark",
+    "black": "#184956",
+    "red": "#FA5750",
+    "green": "#75B938",
+    "yellow": "#DBB32D",
+    "blue": "#4695F7",
+    "purple": "#F275BE",
+    "cyan": "#41C7B9",
+    "white": "#ADBCBC",
+    "brightBlack": "#72898F",
+    "brightRed": "#FF665C",
+    "brightGreen": "#84C747",
+    "brightYellow": "#EBC13D",
+    "brightBlue": "#58A3FF",
+    "brightPurple": "#FF84CD",
+    "brightCyan": "#53D6C7",
+    "brightWhite": "#CAD8D9",
+    "background": "#103C48",
+    "foreground": "#ADBCBC",
+    "cursorColor": "#ADBCBC",
+    "selectionBackground": "#184956"
+}

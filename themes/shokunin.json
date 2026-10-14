@@ -1,0 +1,23 @@
+{
+    "name": "Shokunin",
+    "black": "#303841",
+    "red": "#C84053",
+    "green": "#157A5B",
+    "yellow": "#9A6000",
+    "blue": "#006FAE",
+    "purple": "#8F4155",
+    "cyan": "#006C7F",
+    "white": "#F5F1E7",
+    "brightBlack": "#777269",
+    "brightRed": "#D95A66",
+    "brightGreen": "#1B8E6A",
+    "brightYellow": "#B67608",
+    "brightBlue": "#0084C7",
+    "brightPurple": "#A75B73",
+    "brightCyan": "#008396",
+    "brightWhite": "#FFFFFF",
+    "background": "#FCFAF2",
+    "foreground": "#303841",
+    "cursorColor": "#3A3E44",
+    "selectionBackground": "#C9CAC6"
+}

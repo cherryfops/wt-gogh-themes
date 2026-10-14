@@ -1,0 +1,23 @@
+{
+    "name": "Base2Tone Porch",
+    "black": "#221E24",
+    "red": "#9466A3",
+    "green": "#F39B68",
+    "yellow": "#FFC29E",
+    "blue": "#A77CB6",
+    "purple": "#F39B68",
+    "cyan": "#BA95C6",
+    "white": "#9F95A3",
+    "brightBlack": "#645A68",
+    "brightRed": "#F8AA7C",
+    "brightGreen": "#302A32",
+    "brightYellow": "#574E5A",
+    "brightBlue": "#716774",
+    "brightPurple": "#DFCBE6",
+    "brightCyan": "#EC8D55",
+    "brightWhite": "#F2E3F7",
+    "background": "#221E24",
+    "foreground": "#9F95A3",
+    "cursorColor": "#C46731",
+    "selectionBackground": "#413C44"
+}

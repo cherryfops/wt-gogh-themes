@@ -1,0 +1,23 @@
+{
+    "name": "Chalkby",
+    "black": "#2E3436",
+    "red": "#FFB0B0",
+    "green": "#C8FF9B",
+    "yellow": "#FFFCA4",
+    "blue": "#6F9CEB",
+    "purple": "#9395D3",
+    "cyan": "#BDEAFF",
+    "white": "#D3D7CF",
+    "brightBlack": "#555753",
+    "brightRed": "#FFB0B0",
+    "brightGreen": "#C8FF9B",
+    "brightYellow": "#FFFCA4",
+    "brightBlue": "#6F9CEB",
+    "brightPurple": "#9395D3",
+    "brightCyan": "#BDEAFF",
+    "brightWhite": "#EEEEEC",
+    "background": "#1F2D2D",
+    "foreground": "#FFFFFF",
+    "cursorColor": "#FFFFFF",
+    "selectionBackground": "#576262"
+}

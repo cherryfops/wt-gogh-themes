@@ -1,0 +1,23 @@
+{
+    "name": "Blueforest",
+    "black": "#141F2E",
+    "red": "#FFFAB1",
+    "green": "#80FF80",
+    "yellow": "#91CCFF",
+    "blue": "#A2CFF5",
+    "purple": "#0099FF",
+    "cyan": "#80FF80",
+    "white": "#FFCC33",
+    "brightBlack": "#A0FFA0",
+    "brightRed": "#FFFAB1",
+    "brightGreen": "#80FF80",
+    "brightYellow": "#91CCFF",
+    "brightBlue": "#A2CFF5",
+    "brightPurple": "#0099FF",
+    "brightCyan": "#80FF80",
+    "brightWhite": "#375780",
+    "background": "#141F2E",
+    "foreground": "#FFCC33",
+    "cursorColor": "#FFCC33",
+    "selectionBackground": "#4F4A2F"
+}

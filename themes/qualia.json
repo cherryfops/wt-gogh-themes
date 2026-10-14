@@ -1,0 +1,23 @@
+{
+    "name": "Qualia",
+    "black": "#101010",
+    "red": "#EFA6A2",
+    "green": "#80C990",
+    "yellow": "#E6A3DC",
+    "blue": "#50CACD",
+    "purple": "#E0AF85",
+    "cyan": "#C8C874",
+    "white": "#C0C0C0",
+    "brightBlack": "#454545",
+    "brightRed": "#EFA6A2",
+    "brightGreen": "#80C990",
+    "brightYellow": "#E6A3DC",
+    "brightBlue": "#50CACD",
+    "brightPurple": "#E0AF85",
+    "brightCyan": "#C8C874",
+    "brightWhite": "#454545",
+    "background": "#101010",
+    "foreground": "#C0C0C0",
+    "cursorColor": "#C0C0C0",
+    "selectionBackground": "#3C3C3C"
+}

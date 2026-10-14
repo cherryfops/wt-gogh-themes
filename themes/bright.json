@@ -1,0 +1,23 @@
+{
+    "name": "Bright",
+    "black": "#000000",
+    "red": "#FB0120",
+    "green": "#A1C659",
+    "yellow": "#FDA331",
+    "blue": "#6FB3D2",
+    "purple": "#D381C3",
+    "cyan": "#76C7B7",
+    "white": "#E0E0E0",
+    "brightBlack": "#B0B0B0",
+    "brightRed": "#FB0120",
+    "brightGreen": "#A1C659",
+    "brightYellow": "#FDA331",
+    "brightBlue": "#6FB3D2",
+    "brightPurple": "#D381C3",
+    "brightCyan": "#76C7B7",
+    "brightWhite": "#FFFFFF",
+    "background": "#000000",
+    "foreground": "#E0E0E0",
+    "cursorColor": "#E0E0E0",
+    "selectionBackground": "#383838"
+}

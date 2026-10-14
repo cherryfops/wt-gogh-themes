@@ -1,0 +1,23 @@
+{
+    "name": "Spacemacs",
+    "black": "#1F2022",
+    "red": "#F2241F",
+    "green": "#67B11D",
+    "yellow": "#B1951D",
+    "blue": "#4F97D7",
+    "purple": "#A31DB1",
+    "cyan": "#2D9574",
+    "white": "#A3A3A3",
+    "brightBlack": "#585858",
+    "brightRed": "#F2241F",
+    "brightGreen": "#67B11D",
+    "brightYellow": "#B1951D",
+    "brightBlue": "#4F97D7",
+    "brightPurple": "#A31DB1",
+    "brightCyan": "#2D9574",
+    "brightWhite": "#F8F8F8",
+    "background": "#1F2022",
+    "foreground": "#A3A3A3",
+    "cursorColor": "#A3A3A3",
+    "selectionBackground": "#404142"
+}

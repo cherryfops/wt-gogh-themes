@@ -1,0 +1,23 @@
+{
+    "name": "Monospace Light",
+    "black": "#333E4F",
+    "red": "#D03941",
+    "green": "#007B49",
+    "yellow": "#A65921",
+    "blue": "#3C60DD",
+    "purple": "#6F4CDE",
+    "cyan": "#0075A2",
+    "white": "#5D6A7D",
+    "brightBlack": "#000000",
+    "brightRed": "#A52430",
+    "brightGreen": "#00522F",
+    "brightYellow": "#904B1A",
+    "brightBlue": "#002487",
+    "brightPurple": "#4D21BB",
+    "brightCyan": "#00607E",
+    "brightWhite": "#475365",
+    "background": "#F4F7FD",
+    "foreground": "#475365",
+    "cursorColor": "#6F4CDE",
+    "selectionBackground": "#C7D3FF"
+}

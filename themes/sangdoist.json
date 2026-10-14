@@ -1,0 +1,23 @@
+{
+    "name": "Sangdoist",
+    "black": "#131417",
+    "red": "#EC6029",
+    "green": "#A1C246",
+    "yellow": "#E5BD2B",
+    "blue": "#2D7AEC",
+    "purple": "#B95485",
+    "cyan": "#A3CBC2",
+    "white": "#E0E0DC",
+    "brightBlack": "#62627A",
+    "brightRed": "#E43E1D",
+    "brightGreen": "#75BF52",
+    "brightYellow": "#E4C92E",
+    "brightBlue": "#3641CF",
+    "brightPurple": "#D3579D",
+    "brightCyan": "#BFC9E1",
+    "brightWhite": "#E7E7E4",
+    "background": "#131417",
+    "foreground": "#CECECC",
+    "cursorColor": "#CECECC",
+    "selectionBackground": "#424244"
+}

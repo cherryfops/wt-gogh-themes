@@ -1,0 +1,23 @@
+{
+    "name": "Pnevma",
+    "black": "#2F2E2D",
+    "red": "#A36666",
+    "green": "#90A57D",
+    "yellow": "#D7AF87",
+    "blue": "#7FA5BD",
+    "purple": "#C79EC4",
+    "cyan": "#8ADBB4",
+    "white": "#D0D0D0",
+    "brightBlack": "#4A4845",
+    "brightRed": "#D78787",
+    "brightGreen": "#AFBEA2",
+    "brightYellow": "#E4C9AF",
+    "brightBlue": "#A1BDCE",
+    "brightPurple": "#D7BEDA",
+    "brightCyan": "#B1E7DD",
+    "brightWhite": "#EFEFEF",
+    "background": "#1C1C1C",
+    "foreground": "#D0D0D0",
+    "cursorColor": "#E4C9AF",
+    "selectionBackground": "#4D4D4D"
+}

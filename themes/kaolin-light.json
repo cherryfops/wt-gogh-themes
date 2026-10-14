@@ -1,0 +1,23 @@
+{
+    "name": "Kaolin Light",
+    "black": "#353B3C",
+    "red": "#E84C58",
+    "green": "#13665F",
+    "yellow": "#E36B3F",
+    "blue": "#3B84CC",
+    "purple": "#A9779C",
+    "cyan": "#6FACB3",
+    "white": "#C8CCC3",
+    "brightBlack": "#4B5254",
+    "brightRed": "#E84C58",
+    "brightGreen": "#317A56",
+    "brightYellow": "#C5882C",
+    "brightBlue": "#4C7A90",
+    "brightPurple": "#6D46E3",
+    "brightCyan": "#008B8B",
+    "brightWhite": "#4B5254",
+    "background": "#EDEEEB",
+    "foreground": "#353B3C",
+    "cursorColor": "#353B3C",
+    "selectionBackground": "#BFC1BF"
+}

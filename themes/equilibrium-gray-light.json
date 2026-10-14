@@ -1,0 +1,23 @@
+{
+    "name": "Equilibrium Gray Light",
+    "black": "#F1F1F1",
+    "red": "#D02023",
+    "green": "#637200",
+    "yellow": "#9D6F00",
+    "blue": "#0073B5",
+    "purple": "#4E66B6",
+    "cyan": "#007A72",
+    "white": "#474747",
+    "brightBlack": "#777777",
+    "brightRed": "#D02023",
+    "brightGreen": "#637200",
+    "brightYellow": "#9D6F00",
+    "brightBlue": "#0073B5",
+    "brightPurple": "#4E66B6",
+    "brightCyan": "#007A72",
+    "brightWhite": "#1B1B1B",
+    "background": "#F1F1F1",
+    "foreground": "#474747",
+    "cursorColor": "#474747",
+    "selectionBackground": "#C6C6C6"
+}

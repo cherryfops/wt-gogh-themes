@@ -1,0 +1,23 @@
+{
+    "name": "Silk Dark",
+    "black": "#0E3C46",
+    "red": "#FB6953",
+    "green": "#73D8AD",
+    "yellow": "#FCE380",
+    "blue": "#46BDDD",
+    "purple": "#756B8A",
+    "cyan": "#3FB2B9",
+    "white": "#C7DBDD",
+    "brightBlack": "#587073",
+    "brightRed": "#FB6953",
+    "brightGreen": "#73D8AD",
+    "brightYellow": "#FCE380",
+    "brightBlue": "#46BDDD",
+    "brightPurple": "#756B8A",
+    "brightCyan": "#3FB2B9",
+    "brightWhite": "#D2FAFF",
+    "background": "#0E3C46",
+    "foreground": "#C7DBDD",
+    "cursorColor": "#C7DBDD",
+    "selectionBackground": "#3C646C"
+}

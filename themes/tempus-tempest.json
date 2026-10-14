@@ -1,0 +1,23 @@
+{
+    "name": "Tempus Tempest",
+    "black": "#282B2B",
+    "red": "#CFC80A",
+    "green": "#7AD97A",
+    "yellow": "#BFCC4A",
+    "blue": "#60D7CD",
+    "purple": "#C5C4AF",
+    "cyan": "#8BD0BF",
+    "white": "#B0C8CA",
+    "brightBlack": "#323535",
+    "brightRed": "#D1D933",
+    "brightGreen": "#99E299",
+    "brightYellow": "#BBDE4F",
+    "brightBlue": "#74E4CD",
+    "brightPurple": "#D2D4AA",
+    "brightCyan": "#9BDFC4",
+    "brightWhite": "#B6E0CA",
+    "background": "#282B2B",
+    "foreground": "#B6E0CA",
+    "cursorColor": "#B6E0CA",
+    "selectionBackground": "#4C5853"
+}

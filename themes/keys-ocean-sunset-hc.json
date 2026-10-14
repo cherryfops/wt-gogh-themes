@@ -1,0 +1,23 @@
+{
+    "name": "Keys Ocean Sunset HC",
+    "black": "#7A92A8",
+    "red": "#FF6361",
+    "green": "#4AD68A",
+    "yellow": "#FFA600",
+    "blue": "#6AA8F0",
+    "purple": "#DE72B0",
+    "cyan": "#5EDEE8",
+    "white": "#C8D8EC",
+    "brightBlack": "#8AA0B8",
+    "brightRed": "#FF8578",
+    "brightGreen": "#72F0A8",
+    "brightYellow": "#FFD380",
+    "brightBlue": "#88C4FF",
+    "brightPurple": "#F0A8D8",
+    "brightCyan": "#88F0F8",
+    "brightWhite": "#FFF5BE",
+    "background": "#060910",
+    "foreground": "#F0F4FA",
+    "cursorColor": "#FF8531",
+    "selectionBackground": "#2C4875"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Love Ghost",
+    "black": "#C0B4B8",
+    "red": "#806068",
+    "green": "#485848",
+    "yellow": "#604838",
+    "blue": "#484058",
+    "purple": "#603848",
+    "cyan": "#385050",
+    "white": "#B0A8A4",
+    "brightBlack": "#3A2830",
+    "brightRed": "#987078",
+    "brightGreen": "#586858",
+    "brightYellow": "#705848",
+    "brightBlue": "#585068",
+    "brightPurple": "#704858",
+    "brightCyan": "#486060",
+    "brightWhite": "#C8C0BC",
+    "background": "#EBE5E6",
+    "foreground": "#3A2830",
+    "cursorColor": "#3A2830",
+    "selectionBackground": "#BFB6B8"
+}

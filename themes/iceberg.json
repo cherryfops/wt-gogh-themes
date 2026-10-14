@@ -1,0 +1,23 @@
+{
+    "name": "Iceberg",
+    "black": "#161821",
+    "red": "#E27878",
+    "green": "#B4BE82",
+    "yellow": "#E2A478",
+    "blue": "#84A0C6",
+    "purple": "#A093C7",
+    "cyan": "#89B8C2",
+    "white": "#C6C8D1",
+    "brightBlack": "#6B7089",
+    "brightRed": "#E98989",
+    "brightGreen": "#C0CA8E",
+    "brightYellow": "#E9B189",
+    "brightBlue": "#91ACD1",
+    "brightPurple": "#ADA0D3",
+    "brightCyan": "#95C4CE",
+    "brightWhite": "#D2D4DE",
+    "background": "#161821",
+    "foreground": "#C6C8D1",
+    "cursorColor": "#D2D4DE",
+    "selectionBackground": "#42444D"
+}

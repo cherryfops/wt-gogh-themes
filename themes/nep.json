@@ -1,0 +1,23 @@
+{
+    "name": "Nep",
+    "black": "#000000",
+    "red": "#DD6F00",
+    "green": "#00DD6F",
+    "yellow": "#6FDD00",
+    "blue": "#6F00DD",
+    "purple": "#DD006F",
+    "cyan": "#006FDD",
+    "white": "#F2F2F2",
+    "brightBlack": "#7D7D7D",
+    "brightRed": "#FFB974",
+    "brightGreen": "#74FFB9",
+    "brightYellow": "#B9FF74",
+    "brightBlue": "#B974FF",
+    "brightPurple": "#FF74B9",
+    "brightCyan": "#74B9FF",
+    "brightWhite": "#FFFFFF",
+    "background": "#758480",
+    "foreground": "#23476A",
+    "cursorColor": "#23476A",
+    "selectionBackground": "#62767B"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Solarized Dark Patched",
+    "black": "#002831",
+    "red": "#D11C24",
+    "green": "#738A05",
+    "yellow": "#A57706",
+    "blue": "#2176C7",
+    "purple": "#C61C6F",
+    "cyan": "#259286",
+    "white": "#EAE3CB",
+    "brightBlack": "#475B62",
+    "brightRed": "#BD3613",
+    "brightGreen": "#475B62",
+    "brightYellow": "#536870",
+    "brightBlue": "#708284",
+    "brightPurple": "#5956BA",
+    "brightCyan": "#819090",
+    "brightWhite": "#FCF4DC",
+    "background": "#001E27",
+    "foreground": "#708284",
+    "cursorColor": "#708284",
+    "selectionBackground": "#002831"
+}

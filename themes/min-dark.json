@@ -1,0 +1,23 @@
+{
+    "name": "Min Dark",
+    "black": "#1A1A1A",
+    "red": "#F97583",
+    "green": "#85E89D",
+    "yellow": "#FFAB70",
+    "blue": "#79B8FF",
+    "purple": "#F97583",
+    "cyan": "#9DB1C5",
+    "white": "#BBBBBB",
+    "brightBlack": "#5C5C5C",
+    "brightRed": "#FF7A84",
+    "brightGreen": "#85E89D",
+    "brightYellow": "#FF9800",
+    "brightBlue": "#B392F0",
+    "brightPurple": "#FF7A84",
+    "brightCyan": "#79B8FF",
+    "brightWhite": "#F8F8F8",
+    "background": "#1F1F1F",
+    "foreground": "#F8F8F8",
+    "cursorColor": "#F8F8F8",
+    "selectionBackground": "#555555"
+}

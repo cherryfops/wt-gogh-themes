@@ -1,0 +1,23 @@
+{
+    "name": "Molokai Lost",
+    "black": "#1B1D1E",
+    "red": "#7325FA",
+    "green": "#23E298",
+    "yellow": "#60D4DF",
+    "blue": "#D08010",
+    "purple": "#FF0087",
+    "cyan": "#D0A843",
+    "white": "#BBBBBB",
+    "brightBlack": "#555555",
+    "brightRed": "#9D66F6",
+    "brightGreen": "#5FE0B1",
+    "brightYellow": "#6DF2FF",
+    "brightBlue": "#FFAF00",
+    "brightPurple": "#FF87AF",
+    "brightCyan": "#FFCE51",
+    "brightWhite": "#FFFFFF",
+    "background": "#1B1D1E",
+    "foreground": "#BBBBBB",
+    "cursorColor": "#BBBBBB",
+    "selectionBackground": "#434445"
+}

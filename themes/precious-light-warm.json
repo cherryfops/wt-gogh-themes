@@ -1,0 +1,23 @@
+{
+    "name": "Precious Light Warm",
+    "black": "#FFF5E5",
+    "red": "#B14745",
+    "green": "#557300",
+    "yellow": "#876500",
+    "blue": "#246DA5",
+    "purple": "#7A50C6",
+    "cyan": "#0E7767",
+    "white": "#4E5359",
+    "brightBlack": "#7F8080",
+    "brightRed": "#B14745",
+    "brightGreen": "#557300",
+    "brightYellow": "#876500",
+    "brightBlue": "#246DA5",
+    "brightPurple": "#7A50C6",
+    "brightCyan": "#0E7767",
+    "brightWhite": "#4E5359",
+    "background": "#FFF5E5",
+    "foreground": "#4E5359",
+    "cursorColor": "#4E5359",
+    "selectionBackground": "#D3CCC2"
+}

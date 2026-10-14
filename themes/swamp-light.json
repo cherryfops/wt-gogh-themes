@@ -1,0 +1,23 @@
+{
+    "name": "Swamp Light",
+    "black": "#F1E3D1",
+    "red": "#D09700",
+    "green": "#908D6A",
+    "yellow": "#993333",
+    "blue": "#BF7979",
+    "purple": "#9E5581",
+    "cyan": "#D09700",
+    "white": "#64513E",
+    "brightBlack": "#B5A492",
+    "brightRed": "#D09700",
+    "brightGreen": "#908D6A",
+    "brightYellow": "#993333",
+    "brightBlue": "#BF7979",
+    "brightPurple": "#9E5581",
+    "brightCyan": "#D09700",
+    "brightWhite": "#8C7B68",
+    "background": "#F1E3D1",
+    "foreground": "#64513E",
+    "cursorColor": "#64513E",
+    "selectionBackground": "#CEBEAC"
+}

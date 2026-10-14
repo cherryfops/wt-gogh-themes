@@ -1,0 +1,23 @@
+{
+    "name": "No Clown Fiesta Light",
+    "black": "#D6D6D6",
+    "red": "#874E42",
+    "green": "#677940",
+    "yellow": "#B89058",
+    "blue": "#8BA1BF",
+    "purple": "#AA759F",
+    "cyan": "#3E5F66",
+    "white": "#151515",
+    "brightBlack": "#2B2B2B",
+    "brightRed": "#637786",
+    "brightGreen": "#677940",
+    "brightYellow": "#B89058",
+    "brightBlue": "#93A2AB",
+    "brightPurple": "#AA759F",
+    "brightCyan": "#99AB93",
+    "brightWhite": "#373737",
+    "background": "#E1E1E1",
+    "foreground": "#151515",
+    "cursorColor": "#151515",
+    "selectionBackground": "#C6D5DE"
+}

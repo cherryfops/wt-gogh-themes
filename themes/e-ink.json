@@ -1,0 +1,23 @@
+{
+    "name": "E Ink",
+    "black": "#CCCCCC",
+    "red": "#333333",
+    "green": "#9A9A9A",
+    "yellow": "#868686",
+    "blue": "#727272",
+    "purple": "#AEAEAE",
+    "cyan": "#4A4A4A",
+    "white": "#5E5E5E",
+    "brightBlack": "#5E5E5E",
+    "brightRed": "#333333",
+    "brightGreen": "#9A9A9A",
+    "brightYellow": "#868686",
+    "brightBlue": "#727272",
+    "brightPurple": "#AEAEAE",
+    "brightCyan": "#4A4A4A",
+    "brightWhite": "#7C7C7C",
+    "background": "#CCCCCC",
+    "foreground": "#474747",
+    "cursorColor": "#474747",
+    "selectionBackground": "#ABABAB"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Charcoal Light",
+    "black": "#CABDA0",
+    "red": "#382E1B",
+    "green": "#110E06",
+    "yellow": "#110E06",
+    "blue": "#251E0F",
+    "purple": "#382E1B",
+    "cyan": "#110E06",
+    "white": "#382E1B",
+    "brightBlack": "#645538",
+    "brightRed": "#382E1B",
+    "brightGreen": "#110E06",
+    "brightYellow": "#110E06",
+    "brightBlue": "#251E0F",
+    "brightPurple": "#382E1B",
+    "brightCyan": "#110E06",
+    "brightWhite": "#BCAD8C",
+    "background": "#CABDA0",
+    "foreground": "#382E1B",
+    "cursorColor": "#382E1B",
+    "selectionBackground": "#A6997F"
+}

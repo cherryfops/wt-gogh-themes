@@ -1,0 +1,23 @@
+{
+    "name": "tinted8 Nord",
+    "black": "#2E3440",
+    "red": "#BF616A",
+    "green": "#A3BE8C",
+    "yellow": "#EBCB8B",
+    "blue": "#81A1C1",
+    "purple": "#B48EAD",
+    "cyan": "#88C0D0",
+    "white": "#E5E9F0",
+    "brightBlack": "#465165",
+    "brightRed": "#D18D93",
+    "brightGreen": "#C2D4B3",
+    "brightYellow": "#F4E2BF",
+    "brightBlue": "#AAC0D5",
+    "brightPurple": "#CCB3C8",
+    "brightCyan": "#B4D7E1",
+    "brightWhite": "#ECEFF4",
+    "background": "#2E3440",
+    "foreground": "#E5E9F0",
+    "cursorColor": "#E5E9F0",
+    "selectionBackground": "#5C616C"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Pastelon De Amarillos Dark",
+    "black": "#180D18",
+    "red": "#D95361",
+    "green": "#36AA72",
+    "yellow": "#D8A93A",
+    "blue": "#4C84BD",
+    "purple": "#B765B0",
+    "cyan": "#31A99E",
+    "white": "#FFE0A3",
+    "brightBlack": "#A0747C",
+    "brightRed": "#FFD052",
+    "brightGreen": "#3ED2C3",
+    "brightYellow": "#43D98D",
+    "brightBlue": "#E581DC",
+    "brightPurple": "#ED7D51",
+    "brightCyan": "#64ABF4",
+    "brightWhite": "#FFF7E6",
+    "background": "#180D18",
+    "foreground": "#FFE0A3",
+    "cursorColor": "#FFE0A3",
+    "selectionBackground": "#52423B"
+}

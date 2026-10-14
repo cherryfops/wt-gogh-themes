@@ -1,0 +1,23 @@
+{
+    "name": "Thayler Bright",
+    "black": "#1B1D1E",
+    "red": "#F92672",
+    "green": "#4DF740",
+    "yellow": "#3F78FF",
+    "blue": "#2656D6",
+    "purple": "#8C54FE",
+    "cyan": "#37C8B4",
+    "white": "#CCCCC6",
+    "brightBlack": "#505354",
+    "brightRed": "#FF5995",
+    "brightGreen": "#B6E354",
+    "brightYellow": "#FEED6C",
+    "brightBlue": "#3F78FF",
+    "brightPurple": "#9E6FFE",
+    "brightCyan": "#23CED4",
+    "brightWhite": "#F8F8F2",
+    "background": "#1B1D1E",
+    "foreground": "#ADADA9",
+    "cursorColor": "#ADADA9",
+    "selectionBackground": "#404141"
+}

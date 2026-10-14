@@ -1,0 +1,23 @@
+{
+    "name": "Seti",
+    "black": "#323232",
+    "red": "#C22832",
+    "green": "#8EC43D",
+    "yellow": "#E0C64F",
+    "blue": "#43A5D5",
+    "purple": "#8B57B5",
+    "cyan": "#8EC43D",
+    "white": "#EEEEEE",
+    "brightBlack": "#323232",
+    "brightRed": "#C22832",
+    "brightGreen": "#8EC43D",
+    "brightYellow": "#E0C64F",
+    "brightBlue": "#43A5D5",
+    "brightPurple": "#8B57B5",
+    "brightCyan": "#8EC43D",
+    "brightWhite": "#FFFFFF",
+    "background": "#111213",
+    "foreground": "#CACECD",
+    "cursorColor": "#E3BF21",
+    "selectionBackground": "#3F4142"
+}

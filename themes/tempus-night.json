@@ -1,0 +1,23 @@
+{
+    "name": "Tempus Night",
+    "black": "#1A1A1A",
+    "red": "#FF929F",
+    "green": "#5FC940",
+    "yellow": "#C5B300",
+    "blue": "#5FB8FF",
+    "purple": "#EF91DF",
+    "cyan": "#1DC5C3",
+    "white": "#C4BDAF",
+    "brightBlack": "#242536",
+    "brightRed": "#F69D6A",
+    "brightGreen": "#88C400",
+    "brightYellow": "#D7AE00",
+    "brightBlue": "#8CB4F0",
+    "brightPurple": "#DE99F0",
+    "brightCyan": "#00CA9A",
+    "brightWhite": "#E0E0E0",
+    "background": "#1A1A1A",
+    "foreground": "#E0E0E0",
+    "cursorColor": "#E0E0E0",
+    "selectionBackground": "#4C4C4C"
+}

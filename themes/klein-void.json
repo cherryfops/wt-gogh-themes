@@ -1,0 +1,23 @@
+{
+    "name": "Klein Void",
+    "black": "#1A1C24",
+    "red": "#F09890",
+    "green": "#A6C080",
+    "yellow": "#E8BC75",
+    "blue": "#002FA7",
+    "purple": "#D49BB5",
+    "cyan": "#9FC0E5",
+    "white": "#CDC7B8",
+    "brightBlack": "#92907A",
+    "brightRed": "#D97757",
+    "brightGreen": "#BCC89C",
+    "brightYellow": "#F0C880",
+    "brightBlue": "#A8BEF0",
+    "brightPurple": "#C8B4D4",
+    "brightCyan": "#B0D0ED",
+    "brightWhite": "#F5EFDE",
+    "background": "#0B0D14",
+    "foreground": "#EDE6D3",
+    "cursorColor": "#EDE6D3",
+    "selectionBackground": "#002FA7"
+}

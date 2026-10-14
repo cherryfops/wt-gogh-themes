@@ -1,0 +1,23 @@
+{
+    "name": "Retrowave Dark",
+    "black": "#7C676F",
+    "red": "#F06060",
+    "green": "#A5D164",
+    "yellow": "#F3B562",
+    "blue": "#6A9FD8",
+    "purple": "#ED80B1",
+    "cyan": "#8CBEB2",
+    "white": "#F2EBBF",
+    "brightBlack": "#967E86",
+    "brightRed": "#FC8F8F",
+    "brightGreen": "#C1EF7C",
+    "brightYellow": "#FCD29C",
+    "brightBlue": "#89BDF4",
+    "brightPurple": "#FCABD0",
+    "brightCyan": "#AEE2D6",
+    "brightWhite": "#FCF8DE",
+    "background": "#5C4B51",
+    "foreground": "#F3B562",
+    "cursorColor": "#F3B562",
+    "selectionBackground": "#826655"
+}

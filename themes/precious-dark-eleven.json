@@ -1,0 +1,23 @@
+{
+    "name": "Precious Dark Eleven",
+    "black": "#1C1E20",
+    "red": "#FF8782",
+    "green": "#95B658",
+    "yellow": "#D0A543",
+    "blue": "#68B0EE",
+    "purple": "#B799FE",
+    "cyan": "#42BDA7",
+    "white": "#B8B7B6",
+    "brightBlack": "#858585",
+    "brightRed": "#FF8782",
+    "brightGreen": "#95B658",
+    "brightYellow": "#D0A543",
+    "brightBlue": "#68B0EE",
+    "brightPurple": "#B799FE",
+    "brightCyan": "#42BDA7",
+    "brightWhite": "#B8B7B6",
+    "background": "#1C1E20",
+    "foreground": "#B8B7B6",
+    "cursorColor": "#B8B7B6",
+    "selectionBackground": "#434446"
+}

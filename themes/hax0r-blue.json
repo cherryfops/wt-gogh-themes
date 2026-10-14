@@ -1,0 +1,23 @@
+{
+    "name": "HaX0R Blue",
+    "black": "#010921",
+    "red": "#10B6FF",
+    "green": "#10B6FF",
+    "yellow": "#10B6FF",
+    "blue": "#10B6FF",
+    "purple": "#10B6FF",
+    "cyan": "#10B6FF",
+    "white": "#FAFAFA",
+    "brightBlack": "#080117",
+    "brightRed": "#00B3F7",
+    "brightGreen": "#00B3F7",
+    "brightYellow": "#00B3F7",
+    "brightBlue": "#00B3F7",
+    "brightPurple": "#00B3F7",
+    "brightCyan": "#00B3F7",
+    "brightWhite": "#FEFEFE",
+    "background": "#010515",
+    "foreground": "#11B7FF",
+    "cursorColor": "#10B6FF",
+    "selectionBackground": "#053250"
+}

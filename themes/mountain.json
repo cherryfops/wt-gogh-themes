@@ -1,0 +1,23 @@
+{
+    "name": "Mountain",
+    "black": "#0F0F0F",
+    "red": "#AC8A8C",
+    "green": "#8AAC8B",
+    "yellow": "#ACA98A",
+    "blue": "#8F8AAC",
+    "purple": "#AC8AAC",
+    "cyan": "#8AABAC",
+    "white": "#CACACA",
+    "brightBlack": "#393939",
+    "brightRed": "#C49EA0",
+    "brightGreen": "#9EC49F",
+    "brightYellow": "#C4C19E",
+    "brightBlue": "#A39EC4",
+    "brightPurple": "#C49EC4",
+    "brightCyan": "#9EC3C4",
+    "brightWhite": "#F0F0F0",
+    "background": "#0F0F0F",
+    "foreground": "#CACACA",
+    "cursorColor": "#CACACA",
+    "selectionBackground": "#3E3E3E"
+}

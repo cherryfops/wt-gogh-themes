@@ -1,0 +1,23 @@
+{
+    "name": "Tempus Future",
+    "black": "#090A18",
+    "red": "#FF7E8F",
+    "green": "#6ABA39",
+    "yellow": "#BFA51A",
+    "blue": "#4AB2D7",
+    "purple": "#E58F84",
+    "cyan": "#2AB7BB",
+    "white": "#A7A2C4",
+    "brightBlack": "#2B1329",
+    "brightRed": "#F78E2F",
+    "brightGreen": "#60BA80",
+    "brightYellow": "#DE9B1D",
+    "brightBlue": "#8BA7EA",
+    "brightPurple": "#E08BD6",
+    "brightCyan": "#2CBAB6",
+    "brightWhite": "#B4ABAC",
+    "background": "#090A18",
+    "foreground": "#B4ABAC",
+    "cursorColor": "#B4ABAC",
+    "selectionBackground": "#34323D"
+}

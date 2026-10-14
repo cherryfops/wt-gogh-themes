@@ -1,0 +1,23 @@
+{
+    "name": "Pastel Ega",
+    "black": "#414141",
+    "red": "#DD4274",
+    "green": "#1DB37B",
+    "yellow": "#CBAE25",
+    "blue": "#4C96D7",
+    "purple": "#BF2FAF",
+    "cyan": "#41BCBC",
+    "white": "#BFBFBF",
+    "brightBlack": "#8D8D8D",
+    "brightRed": "#DB7497",
+    "brightGreen": "#70E6AE",
+    "brightYellow": "#FAF8AC",
+    "brightBlue": "#A5D2F3",
+    "brightPurple": "#DF7CD3",
+    "brightCyan": "#5FE4E4",
+    "brightWhite": "#F6F6F6",
+    "background": "#414141",
+    "foreground": "#F6F6F6",
+    "cursorColor": "#F6F6F6",
+    "selectionBackground": "#6E6E6E"
+}

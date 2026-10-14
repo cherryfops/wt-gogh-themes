@@ -1,0 +1,23 @@
+{
+    "name": "Gogh",
+    "black": "#243342",
+    "red": "#C54133",
+    "green": "#27AE60",
+    "yellow": "#EDB20A",
+    "blue": "#2479D0",
+    "purple": "#7D3EA0",
+    "cyan": "#1D8579",
+    "white": "#C9CCCD",
+    "brightBlack": "#34495E",
+    "brightRed": "#E74C3C",
+    "brightGreen": "#2ECC71",
+    "brightYellow": "#F1C40F",
+    "brightBlue": "#3498DB",
+    "brightPurple": "#9B59B6",
+    "brightCyan": "#2AA198",
+    "brightWhite": "#ECF0F1",
+    "background": "#0D1926",
+    "foreground": "#ECF0F1",
+    "cursorColor": "#ECF0F1",
+    "selectionBackground": "#454F59"
+}

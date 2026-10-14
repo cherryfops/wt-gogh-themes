@@ -1,0 +1,23 @@
+{
+    "name": "Moonwalk",
+    "black": "#080808",
+    "red": "#7A0047",
+    "green": "#145B0E",
+    "yellow": "#733A11",
+    "blue": "#002FA7",
+    "purple": "#5400A8",
+    "cyan": "#00566B",
+    "white": "#9C958D",
+    "brightBlack": "#494440",
+    "brightRed": "#AF1608",
+    "brightGreen": "#4C6129",
+    "brightYellow": "#7A5000",
+    "brightBlue": "#0D50C5",
+    "brightPurple": "#952197",
+    "brightCyan": "#006092",
+    "brightWhite": "#FFFFFF",
+    "background": "#E4E2E0",
+    "foreground": "#061F4A",
+    "cursorColor": "#061F4A",
+    "selectionBackground": "#B8D2E5"
+}

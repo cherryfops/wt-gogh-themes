@@ -1,0 +1,23 @@
+{
+    "name": "Patina Lichen",
+    "black": "#393A34",
+    "red": "#8B4646",
+    "green": "#33644D",
+    "yellow": "#7F5031",
+    "blue": "#35616D",
+    "purple": "#854B3F",
+    "cyan": "#2A6361",
+    "white": "#5A5248",
+    "brightBlack": "#5B5B54",
+    "brightRed": "#8B4646",
+    "brightGreen": "#426338",
+    "brightYellow": "#7F5031",
+    "brightBlue": "#35616D",
+    "brightPurple": "#854B3F",
+    "brightCyan": "#2A6361",
+    "brightWhite": "#393A34",
+    "background": "#CDD1C6",
+    "foreground": "#393A34",
+    "cursorColor": "#393A34",
+    "selectionBackground": "#AAB0A3"
+}

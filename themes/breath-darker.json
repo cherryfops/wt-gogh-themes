@@ -1,0 +1,23 @@
+{
+    "name": "Breath Darker",
+    "black": "#1E2229",
+    "red": "#ED1515",
+    "green": "#44853A",
+    "yellow": "#F67400",
+    "blue": "#1D99F3",
+    "purple": "#9B59B6",
+    "cyan": "#1ABC9C",
+    "white": "#FCFCFC",
+    "brightBlack": "#7F8C8D",
+    "brightRed": "#C0392B",
+    "brightGreen": "#55A649",
+    "brightYellow": "#FDBC4B",
+    "brightBlue": "#3DAEE9",
+    "brightPurple": "#8E44AD",
+    "brightCyan": "#16A085",
+    "brightWhite": "#FFFFFF",
+    "background": "#080D14",
+    "foreground": "#17A88B",
+    "cursorColor": "#17A88B",
+    "selectionBackground": "#0C3432"
+}

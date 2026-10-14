@@ -1,0 +1,23 @@
+{
+    "name": "Greenscreen",
+    "black": "#001100",
+    "red": "#007700",
+    "green": "#00BB00",
+    "yellow": "#007700",
+    "blue": "#009900",
+    "purple": "#00BB00",
+    "cyan": "#005500",
+    "white": "#00BB00",
+    "brightBlack": "#007700",
+    "brightRed": "#007700",
+    "brightGreen": "#00BB00",
+    "brightYellow": "#007700",
+    "brightBlue": "#009900",
+    "brightPurple": "#00BB00",
+    "brightCyan": "#005500",
+    "brightWhite": "#00FF00",
+    "background": "#001100",
+    "foreground": "#00BB00",
+    "cursorColor": "#00BB00",
+    "selectionBackground": "#003C00"
+}

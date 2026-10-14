@@ -1,0 +1,23 @@
+{
+    "name": "Measured Dark",
+    "black": "#00211F",
+    "red": "#CE7E8E",
+    "green": "#56C16F",
+    "yellow": "#BFAC4E",
+    "blue": "#88B0DA",
+    "purple": "#B39BE0",
+    "cyan": "#62C0BE",
+    "white": "#DCDCDC",
+    "brightBlack": "#ABABAB",
+    "brightRed": "#CE7E8E",
+    "brightGreen": "#56C16F",
+    "brightYellow": "#BFAC4E",
+    "brightBlue": "#88B0DA",
+    "brightPurple": "#B39BE0",
+    "brightCyan": "#62C0BE",
+    "brightWhite": "#F5F5F5",
+    "background": "#00211F",
+    "foreground": "#DCDCDC",
+    "cursorColor": "#DCDCDC",
+    "selectionBackground": "#37504E"
+}

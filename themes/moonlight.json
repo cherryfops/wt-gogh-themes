@@ -1,0 +1,23 @@
+{
+    "name": "Moonlight",
+    "black": "#212337",
+    "red": "#FF5370",
+    "green": "#2DF4C0",
+    "yellow": "#FFC777",
+    "blue": "#40FFFF",
+    "purple": "#B994F1",
+    "cyan": "#04D1F9",
+    "white": "#A3ACE1",
+    "brightBlack": "#748CD6",
+    "brightRed": "#FF5370",
+    "brightGreen": "#2DF4C0",
+    "brightYellow": "#FFC777",
+    "brightBlue": "#40FFFF",
+    "brightPurple": "#B994F1",
+    "brightCyan": "#04D1F9",
+    "brightWhite": "#EF43FA",
+    "background": "#212337",
+    "foreground": "#A3ACE1",
+    "cursorColor": "#A3ACE1",
+    "selectionBackground": "#424562"
+}

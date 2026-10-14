@@ -1,0 +1,23 @@
+{
+    "name": "Tempus Totus",
+    "black": "#4A484D",
+    "red": "#A50000",
+    "green": "#005D26",
+    "yellow": "#714700",
+    "blue": "#1D3CCF",
+    "purple": "#88267A",
+    "cyan": "#185570",
+    "white": "#EFEFEF",
+    "brightBlack": "#5E4B4F",
+    "brightRed": "#992030",
+    "brightGreen": "#4A5500",
+    "brightYellow": "#8A3600",
+    "brightBlue": "#2D45B0",
+    "brightPurple": "#700DC9",
+    "brightCyan": "#005289",
+    "brightWhite": "#FFFFFF",
+    "background": "#FFFFFF",
+    "foreground": "#4A484D",
+    "cursorColor": "#4A484D",
+    "selectionBackground": "#D2D1D2"
+}

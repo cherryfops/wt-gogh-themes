@@ -1,0 +1,23 @@
+{
+    "name": "Electron Highlighter Day",
+    "black": "#C2C6D4",
+    "red": "#F52A65",
+    "green": "#10A877",
+    "yellow": "#DF8E1D",
+    "blue": "#366FF0",
+    "purple": "#8B4FE0",
+    "cyan": "#0A9FBF",
+    "white": "#59647E",
+    "brightBlack": "#7B88A8",
+    "brightRed": "#F52A65",
+    "brightGreen": "#10A877",
+    "brightYellow": "#DF8E1D",
+    "brightBlue": "#366FF0",
+    "brightPurple": "#8B4FE0",
+    "brightCyan": "#0A9FBF",
+    "brightWhite": "#2F3B54",
+    "background": "#EEF0F5",
+    "foreground": "#2F3B54",
+    "cursorColor": "#2F3B54",
+    "selectionBackground": "#D6DEF5"
+}

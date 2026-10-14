@@ -1,0 +1,23 @@
+{
+    "name": "Base2Tone Mall",
+    "black": "#1E1E1F",
+    "red": "#A17EFC",
+    "green": "#75BFFF",
+    "yellow": "#B3DBFF",
+    "blue": "#B294FF",
+    "purple": "#75BFFF",
+    "cyan": "#C5ADFF",
+    "white": "#97959D",
+    "brightBlack": "#5E5C60",
+    "brightRed": "#8AC8FF",
+    "brightGreen": "#2B2B2C",
+    "brightYellow": "#515053",
+    "brightBlue": "#6A686E",
+    "brightPurple": "#E5DBFF",
+    "brightCyan": "#69B5F7",
+    "brightWhite": "#F4F0FF",
+    "background": "#1E1E1F",
+    "foreground": "#97959D",
+    "cursorColor": "#3692E2",
+    "selectionBackground": "#3C3C3E"
+}

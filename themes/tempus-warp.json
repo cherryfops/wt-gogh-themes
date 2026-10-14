@@ -1,0 +1,23 @@
+{
+    "name": "Tempus Warp",
+    "black": "#001514",
+    "red": "#FF3737",
+    "green": "#169C16",
+    "yellow": "#9F8500",
+    "blue": "#5781EF",
+    "purple": "#DA4EBF",
+    "cyan": "#009880",
+    "white": "#968282",
+    "brightBlack": "#261C2C",
+    "brightRed": "#F0681A",
+    "brightGreen": "#3AA73A",
+    "brightYellow": "#BA8A00",
+    "brightBlue": "#8887F0",
+    "brightPurple": "#D85CF2",
+    "brightCyan": "#1DA1AF",
+    "brightWhite": "#A29FA0",
+    "background": "#001514",
+    "foreground": "#A29FA0",
+    "cursorColor": "#A29FA0",
+    "selectionBackground": "#283837"
+}

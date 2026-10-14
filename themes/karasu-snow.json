@@ -1,0 +1,23 @@
+{
+    "name": "Karasu Snow",
+    "black": "#0A0A0A",
+    "red": "#B84755",
+    "green": "#3F7E4A",
+    "yellow": "#8A6A1F",
+    "blue": "#2E5E9B",
+    "purple": "#6C4BB8",
+    "cyan": "#2D7E7A",
+    "white": "#F5F5F5",
+    "brightBlack": "#404040",
+    "brightRed": "#D93C3C",
+    "brightGreen": "#2F9150",
+    "brightYellow": "#9A7A1D",
+    "brightBlue": "#2B72C7",
+    "brightPurple": "#7B59D6",
+    "brightCyan": "#1F968F",
+    "brightWhite": "#FFFFFF",
+    "background": "#FAFAFA",
+    "foreground": "#292524",
+    "cursorColor": "#0A0A0A",
+    "selectionBackground": "#C6C5C4"
+}

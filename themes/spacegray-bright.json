@@ -1,0 +1,23 @@
+{
+    "name": "Spacegray Bright",
+    "black": "#080808",
+    "red": "#BC5553",
+    "green": "#A0B56C",
+    "yellow": "#F6C987",
+    "blue": "#7BAEC1",
+    "purple": "#B98AAE",
+    "cyan": "#85C9B8",
+    "white": "#D8D8D8",
+    "brightBlack": "#626262",
+    "brightRed": "#BC5553",
+    "brightGreen": "#A0B56C",
+    "brightYellow": "#F6C987",
+    "brightBlue": "#7BAEC1",
+    "brightPurple": "#B98AAE",
+    "brightCyan": "#85C9B8",
+    "brightWhite": "#F7F7F7",
+    "background": "#2A2E3A",
+    "foreground": "#F3F3F3",
+    "cursorColor": "#C6C6C6",
+    "selectionBackground": "#CACACA"
+}

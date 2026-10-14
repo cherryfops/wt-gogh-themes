@@ -1,0 +1,23 @@
+{
+    "name": "Ultra Dark",
+    "black": "#000000",
+    "red": "#F07178",
+    "green": "#C3E88D",
+    "yellow": "#FFCB6B",
+    "blue": "#82AAFF",
+    "purple": "#C792EA",
+    "cyan": "#89DDFF",
+    "white": "#CCCCCC",
+    "brightBlack": "#333333",
+    "brightRed": "#F6A9AE",
+    "brightGreen": "#DBF1BA",
+    "brightYellow": "#FFDFA6",
+    "brightBlue": "#B4CCFF",
+    "brightPurple": "#DDBDF2",
+    "brightCyan": "#B8EAFF",
+    "brightWhite": "#FFFFFF",
+    "background": "#000000",
+    "foreground": "#FFFFFF",
+    "cursorColor": "#FEFEFE",
+    "selectionBackground": "#404040"
+}

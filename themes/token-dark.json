@@ -1,0 +1,23 @@
+{
+    "name": "Token Dark",
+    "black": "#1D1D1C",
+    "red": "#C67777",
+    "green": "#7DA47A",
+    "yellow": "#C4A855",
+    "blue": "#7B9EBD",
+    "purple": "#A68BBF",
+    "cyan": "#6BA8A8",
+    "white": "#D4CFC6",
+    "brightBlack": "#5A5955",
+    "brightRed": "#D97757",
+    "brightGreen": "#98BF95",
+    "brightYellow": "#C4956A",
+    "brightBlue": "#96B8D3",
+    "brightPurple": "#BEA5D4",
+    "brightCyan": "#88C0C0",
+    "brightWhite": "#E8E4DC",
+    "background": "#262624",
+    "foreground": "#E8E4DC",
+    "cursorColor": "#E8E4DC",
+    "selectionBackground": "#3A3A37"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Material Lost",
+    "black": "#073641",
+    "red": "#EB606B",
+    "green": "#C3E88D",
+    "yellow": "#F7EB95",
+    "blue": "#80CBC3",
+    "purple": "#FF2490",
+    "cyan": "#AEDDFF",
+    "white": "#FFFFFF",
+    "brightBlack": "#002B36",
+    "brightRed": "#EB606B",
+    "brightGreen": "#C3E88D",
+    "brightYellow": "#F7EB95",
+    "brightBlue": "#7DC6BF",
+    "brightPurple": "#6C71C3",
+    "brightCyan": "#34434D",
+    "brightWhite": "#FFFFFF",
+    "background": "#1E282C",
+    "foreground": "#C3C7D1",
+    "cursorColor": "#657B83",
+    "selectionBackground": "#475055"
+}

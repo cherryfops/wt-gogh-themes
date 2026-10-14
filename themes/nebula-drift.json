@@ -1,0 +1,23 @@
+{
+    "name": "Nebula Drift",
+    "black": "#1A0E38",
+    "red": "#FF5C8D",
+    "green": "#66E6A8",
+    "yellow": "#FFCB6B",
+    "blue": "#7C9BFF",
+    "purple": "#C77DFF",
+    "cyan": "#57E6F0",
+    "white": "#C8C6E8",
+    "brightBlack": "#5C5A88",
+    "brightRed": "#FF5C8D",
+    "brightGreen": "#66E6A8",
+    "brightYellow": "#FF9E64",
+    "brightBlue": "#7C9BFF",
+    "brightPurple": "#C77DFF",
+    "brightCyan": "#57E6F0",
+    "brightWhite": "#E2E0FA",
+    "background": "#0A0420",
+    "foreground": "#E2E0FA",
+    "cursorColor": "#D58BFF",
+    "selectionBackground": "#221645"
+}

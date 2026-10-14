@@ -1,0 +1,23 @@
+{
+    "name": "Terminal Green 1999",
+    "black": "#32463A",
+    "red": "#FF5C7A",
+    "green": "#22C55E",
+    "yellow": "#00D26A",
+    "blue": "#7DD3FC",
+    "purple": "#9DFF57",
+    "cyan": "#39FF88",
+    "white": "#8FD6A9",
+    "brightBlack": "#274335",
+    "brightRed": "#FF7D95",
+    "brightGreen": "#4ED17E",
+    "brightYellow": "#2EDA85",
+    "brightBlue": "#97DCFD",
+    "brightPurple": "#B1FF79",
+    "brightCyan": "#61FFA0",
+    "brightWhite": "#D8FFE6",
+    "background": "#03120A",
+    "foreground": "#D8FFE6",
+    "cursorColor": "#D8FFE6",
+    "selectionBackground": "#384D41"
+}

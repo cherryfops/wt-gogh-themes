@@ -1,0 +1,23 @@
+{
+    "name": "Cherry Midnight",
+    "black": "#33333F",
+    "red": "#FF568E",
+    "green": "#64DE83",
+    "yellow": "#EFFF73",
+    "blue": "#73A9FF",
+    "purple": "#946FF7",
+    "cyan": "#62C6DA",
+    "white": "#DEDEFF",
+    "brightBlack": "#43435A",
+    "brightRed": "#FF69A2",
+    "brightGreen": "#73DE8A",
+    "brightYellow": "#F3FF85",
+    "brightBlue": "#85B6FF",
+    "brightPurple": "#A481F7",
+    "brightCyan": "#71C2D9",
+    "brightWhite": "#EBEBFF",
+    "background": "#101017",
+    "foreground": "#BDC3DF",
+    "cursorColor": "#BDC3DF",
+    "selectionBackground": "#3B3D49"
+}

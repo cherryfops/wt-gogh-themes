@@ -1,0 +1,23 @@
+{
+    "name": "Arcoiris",
+    "black": "#333333",
+    "red": "#DA2700",
+    "green": "#12C258",
+    "yellow": "#FFC656",
+    "blue": "#518BFC",
+    "purple": "#E37BD9",
+    "cyan": "#63FAD5",
+    "white": "#BAB2B2",
+    "brightBlack": "#777777",
+    "brightRed": "#FFB9B9",
+    "brightGreen": "#E3F6AA",
+    "brightYellow": "#FFDDAA",
+    "brightBlue": "#B3E8F3",
+    "brightPurple": "#CBBAF9",
+    "brightCyan": "#BCFFC7",
+    "brightWhite": "#EFEFEF",
+    "background": "#201F1E",
+    "foreground": "#EEE4D9",
+    "cursorColor": "#7A1C1C",
+    "selectionBackground": "#54504D"
+}

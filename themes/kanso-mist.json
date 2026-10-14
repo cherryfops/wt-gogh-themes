@@ -1,0 +1,23 @@
+{
+    "name": "Kanso Mist",
+    "black": "#22262D",
+    "red": "#C4746E",
+    "green": "#8A9A7B",
+    "yellow": "#C4B28A",
+    "blue": "#8BA4B0",
+    "purple": "#A292A3",
+    "cyan": "#8EA4A2",
+    "white": "#A4A7A4",
+    "brightBlack": "#5C6066",
+    "brightRed": "#E46876",
+    "brightGreen": "#87A987",
+    "brightYellow": "#E6C384",
+    "brightBlue": "#7FB4CA",
+    "brightPurple": "#938AA9",
+    "brightCyan": "#7AA89F",
+    "brightWhite": "#C5C9C7",
+    "background": "#22262D",
+    "foreground": "#C5C9C7",
+    "cursorColor": "#C5C9C7",
+    "selectionBackground": "#43464E"
+}

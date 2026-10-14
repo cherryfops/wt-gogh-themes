@@ -1,0 +1,23 @@
+{
+    "name": "Thayer Bright",
+    "black": "#1B1D1E",
+    "red": "#F92672",
+    "green": "#4DF840",
+    "yellow": "#F4FD22",
+    "blue": "#2757D6",
+    "purple": "#8C54FE",
+    "cyan": "#38C8B5",
+    "white": "#CCCCC6",
+    "brightBlack": "#505354",
+    "brightRed": "#FF5995",
+    "brightGreen": "#B6E354",
+    "brightYellow": "#FEED6C",
+    "brightBlue": "#3F78FF",
+    "brightPurple": "#9E6FFE",
+    "brightCyan": "#23CFD5",
+    "brightWhite": "#F8F8F2",
+    "background": "#1B1D1E",
+    "foreground": "#F8F8F8",
+    "cursorColor": "#FC971F",
+    "selectionBackground": "#4D4D4D"
+}

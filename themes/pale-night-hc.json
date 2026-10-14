@@ -1,0 +1,23 @@
+{
+    "name": "Pale Night Hc",
+    "black": "#000000",
+    "red": "#F07178",
+    "green": "#C3E88D",
+    "yellow": "#FFCB6B",
+    "blue": "#82AAFF",
+    "purple": "#C792EA",
+    "cyan": "#89DDFF",
+    "white": "#FFFFFF",
+    "brightBlack": "#666666",
+    "brightRed": "#F6A9AE",
+    "brightGreen": "#DBF1BA",
+    "brightYellow": "#FFDFA6",
+    "brightBlue": "#B4CCFF",
+    "brightPurple": "#DDBDF2",
+    "brightCyan": "#B8EAFF",
+    "brightWhite": "#999999",
+    "background": "#3E4251",
+    "foreground": "#CCCCCC",
+    "cursorColor": "#FFCB6B",
+    "selectionBackground": "#626470"
+}

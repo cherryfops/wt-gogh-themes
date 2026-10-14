@@ -1,0 +1,23 @@
+{
+    "name": "Treehouse",
+    "black": "#321300",
+    "red": "#B2270E",
+    "green": "#44A900",
+    "yellow": "#AA820C",
+    "blue": "#58859A",
+    "purple": "#97363D",
+    "cyan": "#B25A1E",
+    "white": "#786B53",
+    "brightBlack": "#433626",
+    "brightRed": "#ED5D20",
+    "brightGreen": "#55F238",
+    "brightYellow": "#F2B732",
+    "brightBlue": "#85CFED",
+    "brightPurple": "#E14C5A",
+    "brightCyan": "#F07D14",
+    "brightWhite": "#FFC800",
+    "background": "#191919",
+    "foreground": "#786B53",
+    "cursorColor": "#FAC814",
+    "selectionBackground": "#312E28"
+}

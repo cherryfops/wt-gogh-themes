@@ -1,0 +1,23 @@
+{
+    "name": "Adapta Nokto Maia",
+    "black": "#222D31",
+    "red": "#AB4642",
+    "green": "#7E807E",
+    "yellow": "#F7CA88",
+    "blue": "#7CAFC2",
+    "purple": "#BA8BAF",
+    "cyan": "#1ABB9B",
+    "white": "#D8D8D8",
+    "brightBlack": "#585858",
+    "brightRed": "#AB4642",
+    "brightGreen": "#8D8F8D",
+    "brightYellow": "#F7CA88",
+    "brightBlue": "#7CAFC2",
+    "brightPurple": "#BA8BAF",
+    "brightCyan": "#1ABB9B",
+    "brightWhite": "#F8F8F8",
+    "background": "#222D31",
+    "foreground": "#D8D8D8",
+    "cursorColor": "#D8D8D8",
+    "selectionBackground": "#50585B"
+}

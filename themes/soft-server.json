@@ -1,0 +1,23 @@
+{
+    "name": "Soft Server",
+    "black": "#000000",
+    "red": "#A2686A",
+    "green": "#9AA56A",
+    "yellow": "#A3906A",
+    "blue": "#6B8FA3",
+    "purple": "#6A71A3",
+    "cyan": "#6BA58F",
+    "white": "#99A3A2",
+    "brightBlack": "#666C6C",
+    "brightRed": "#DD5C60",
+    "brightGreen": "#BFDF55",
+    "brightYellow": "#DEB360",
+    "brightBlue": "#62B1DF",
+    "brightPurple": "#606EDF",
+    "brightCyan": "#64E39C",
+    "brightWhite": "#D2E0DE",
+    "background": "#242626",
+    "foreground": "#99A3A2",
+    "cursorColor": "#D2E0DE",
+    "selectionBackground": "#7F8786"
+}

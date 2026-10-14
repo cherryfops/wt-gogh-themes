@@ -1,0 +1,23 @@
+{
+    "name": "Elemental",
+    "black": "#3C3C30",
+    "red": "#98290F",
+    "green": "#479A43",
+    "yellow": "#7F7111",
+    "blue": "#497F7D",
+    "purple": "#7F4E2F",
+    "cyan": "#387F58",
+    "white": "#807974",
+    "brightBlack": "#555445",
+    "brightRed": "#E0502A",
+    "brightGreen": "#61E070",
+    "brightYellow": "#D69927",
+    "brightBlue": "#79D9D9",
+    "brightPurple": "#CD7C54",
+    "brightCyan": "#59D599",
+    "brightWhite": "#FFF1E9",
+    "background": "#22211D",
+    "foreground": "#807A74",
+    "cursorColor": "#FACB80",
+    "selectionBackground": "#413829"
+}

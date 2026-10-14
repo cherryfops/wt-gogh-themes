@@ -1,0 +1,23 @@
+{
+    "name": "Monokai Pro Light",
+    "black": "#FAF4F2",
+    "red": "#E14775",
+    "green": "#269D69",
+    "yellow": "#CC7A0A",
+    "blue": "#E16032",
+    "purple": "#7058BE",
+    "cyan": "#1C8CA8",
+    "white": "#29242A",
+    "brightBlack": "#A59FA0",
+    "brightRed": "#E14775",
+    "brightGreen": "#269D69",
+    "brightYellow": "#CC7A0A",
+    "brightBlue": "#E16032",
+    "brightPurple": "#7058BE",
+    "brightCyan": "#1C8CA8",
+    "brightWhite": "#29242A",
+    "background": "#FAF4F2",
+    "foreground": "#29242A",
+    "cursorColor": "#706B6E",
+    "selectionBackground": "#BFB9BA"
+}

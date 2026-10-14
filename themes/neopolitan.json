@@ -1,0 +1,23 @@
+{
+    "name": "Neopolitan",
+    "black": "#000000",
+    "red": "#800000",
+    "green": "#61CE3C",
+    "yellow": "#FBDE2D",
+    "blue": "#253B76",
+    "purple": "#FF0080",
+    "cyan": "#8DA6CE",
+    "white": "#F8F8F8",
+    "brightBlack": "#000000",
+    "brightRed": "#800000",
+    "brightGreen": "#61CE3C",
+    "brightYellow": "#FBDE2D",
+    "brightBlue": "#253B76",
+    "brightPurple": "#FF0080",
+    "brightCyan": "#8DA6CE",
+    "brightWhite": "#F8F8F8",
+    "background": "#271F19",
+    "foreground": "#FFFFFF",
+    "cursorColor": "#FFFFFF",
+    "selectionBackground": "#5D5752"
+}

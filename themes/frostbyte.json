@@ -1,0 +1,23 @@
+{
+    "name": "Frostbyte",
+    "black": "#283645",
+    "red": "#C2384F",
+    "green": "#2E7A56",
+    "yellow": "#876010",
+    "blue": "#1A66BE",
+    "purple": "#5552CC",
+    "cyan": "#1A7E9E",
+    "white": "#586878",
+    "brightBlack": "#93A4B6",
+    "brightRed": "#C2384F",
+    "brightGreen": "#2E7A56",
+    "brightYellow": "#9A5220",
+    "brightBlue": "#1A66BE",
+    "brightPurple": "#5552CC",
+    "brightCyan": "#1A7E9E",
+    "brightWhite": "#283645",
+    "background": "#EEF5FC",
+    "foreground": "#283645",
+    "cursorColor": "#1F73CC",
+    "selectionBackground": "#D2E4F4"
+}

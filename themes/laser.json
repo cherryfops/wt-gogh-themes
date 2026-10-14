@@ -1,0 +1,23 @@
+{
+    "name": "Laser",
+    "black": "#626262",
+    "red": "#FF8373",
+    "green": "#B4FB73",
+    "yellow": "#09B4BD",
+    "blue": "#FED300",
+    "purple": "#FF90FE",
+    "cyan": "#D1D1FE",
+    "white": "#F1F1F1",
+    "brightBlack": "#8F8F8F",
+    "brightRed": "#FFC4BE",
+    "brightGreen": "#D6FCBA",
+    "brightYellow": "#FFFED5",
+    "brightBlue": "#F92883",
+    "brightPurple": "#FFB2FE",
+    "brightCyan": "#E6E7FE",
+    "brightWhite": "#FFFFFF",
+    "background": "#030D18",
+    "foreground": "#F106E3",
+    "cursorColor": "#00FF9C",
+    "selectionBackground": "#2E206A"
+}

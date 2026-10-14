@@ -1,0 +1,23 @@
+{
+    "name": "Kissa Latte",
+    "black": "#F5F4F0",
+    "red": "#9E3E3E",
+    "green": "#387050",
+    "yellow": "#7D6820",
+    "blue": "#3468A8",
+    "purple": "#6438A0",
+    "cyan": "#287070",
+    "white": "#1F1C16",
+    "brightBlack": "#91887D",
+    "brightRed": "#9E3E3E",
+    "brightGreen": "#387050",
+    "brightYellow": "#7D6820",
+    "brightBlue": "#3468A8",
+    "brightPurple": "#6438A0",
+    "brightCyan": "#287070",
+    "brightWhite": "#FEFCFA",
+    "background": "#F5F4F0",
+    "foreground": "#1F1C16",
+    "cursorColor": "#1F1C16",
+    "selectionBackground": "#C0BEBA"
+}

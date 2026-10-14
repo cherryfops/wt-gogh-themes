@@ -1,0 +1,23 @@
+{
+    "name": "3024",
+    "black": "#090300",
+    "red": "#DB2D20",
+    "green": "#01A252",
+    "yellow": "#FDED02",
+    "blue": "#01A0E4",
+    "purple": "#A16A94",
+    "cyan": "#B5E4F4",
+    "white": "#A5A2A2",
+    "brightBlack": "#5C5855",
+    "brightRed": "#DB2D20",
+    "brightGreen": "#01A252",
+    "brightYellow": "#FDED02",
+    "brightBlue": "#01A0E4",
+    "brightPurple": "#A16A94",
+    "brightCyan": "#B5E4F4",
+    "brightWhite": "#F7F7F7",
+    "background": "#090300",
+    "foreground": "#A5A2A2",
+    "cursorColor": "#A5A2A2",
+    "selectionBackground": "#302B28"
+}

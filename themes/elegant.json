@@ -1,0 +1,23 @@
+{
+    "name": "Elegant",
+    "black": "#0C1221",
+    "red": "#EA335B",
+    "green": "#95CA9A",
+    "yellow": "#F7CD94",
+    "blue": "#93AADD",
+    "purple": "#BF94E5",
+    "cyan": "#8CCAEC",
+    "white": "#FFFFFF",
+    "brightBlack": "#575656",
+    "brightRed": "#EA335B",
+    "brightGreen": "#95CA9A",
+    "brightYellow": "#F7CD94",
+    "brightBlue": "#93AADD",
+    "brightPurple": "#BF94E5",
+    "brightCyan": "#5FAAE9",
+    "brightWhite": "#FFFFFF",
+    "background": "#292B31",
+    "foreground": "#CFD2D6",
+    "cursorColor": "#55BBF9",
+    "selectionBackground": "#52555A"
+}

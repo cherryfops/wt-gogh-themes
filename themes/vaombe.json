@@ -1,0 +1,23 @@
+{
+    "name": "Vaombe",
+    "black": "#111413",
+    "red": "#8F3232",
+    "green": "#3B5C3B",
+    "yellow": "#7A6322",
+    "blue": "#28405C",
+    "purple": "#46285C",
+    "cyan": "#346666",
+    "white": "#D1D1D1",
+    "brightBlack": "#212927",
+    "brightRed": "#B84242",
+    "brightGreen": "#57A355",
+    "brightYellow": "#DBBB60",
+    "brightBlue": "#5183B8",
+    "brightPurple": "#935FB8",
+    "brightCyan": "#51B8B0",
+    "brightWhite": "#F5FFFD",
+    "background": "#010A08",
+    "foreground": "#F5FFFD",
+    "cursorColor": "#9DF5E2",
+    "selectionBackground": "#3E4745"
+}

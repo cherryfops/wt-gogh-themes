@@ -1,0 +1,23 @@
+{
+    "name": "Materia",
+    "black": "#263238",
+    "red": "#EC5F67",
+    "green": "#8BD649",
+    "yellow": "#FFCC00",
+    "blue": "#89DDFF",
+    "purple": "#82AAFF",
+    "cyan": "#80CBC4",
+    "white": "#CDD3DE",
+    "brightBlack": "#707880",
+    "brightRed": "#EC5F67",
+    "brightGreen": "#8BD649",
+    "brightYellow": "#FFCC00",
+    "brightBlue": "#89DDFF",
+    "brightPurple": "#82AAFF",
+    "brightCyan": "#80CBC4",
+    "brightWhite": "#FFFFFF",
+    "background": "#263238",
+    "foreground": "#CDD3DE",
+    "cursorColor": "#CDD3DE",
+    "selectionBackground": "#505A62"
+}

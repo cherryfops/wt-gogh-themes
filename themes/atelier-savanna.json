@@ -1,0 +1,23 @@
+{
+    "name": "Atelier Savanna",
+    "black": "#171C19",
+    "red": "#B16139",
+    "green": "#489963",
+    "yellow": "#A07E3B",
+    "blue": "#478C90",
+    "purple": "#55859B",
+    "cyan": "#1C9AA0",
+    "white": "#87928A",
+    "brightBlack": "#5F6D64",
+    "brightRed": "#9F713C",
+    "brightGreen": "#489963",
+    "brightYellow": "#A07E3B",
+    "brightBlue": "#478C90",
+    "brightPurple": "#55859B",
+    "brightCyan": "#1C9AA0",
+    "brightWhite": "#ECF4EE",
+    "background": "#171C19",
+    "foreground": "#78877D",
+    "cursorColor": "#78877D",
+    "selectionBackground": "#2F3732"
+}

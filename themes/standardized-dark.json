@@ -1,0 +1,23 @@
+{
+    "name": "Standardized Dark",
+    "black": "#222222",
+    "red": "#E15D67",
+    "green": "#5DB129",
+    "yellow": "#E1B31A",
+    "blue": "#00A3F2",
+    "purple": "#B46EE0",
+    "cyan": "#21C992",
+    "white": "#C0C0C0",
+    "brightBlack": "#898989",
+    "brightRed": "#E15D67",
+    "brightGreen": "#5DB129",
+    "brightYellow": "#E1B31A",
+    "brightBlue": "#00A3F2",
+    "brightPurple": "#B46EE0",
+    "brightCyan": "#21C992",
+    "brightWhite": "#FFFFFF",
+    "background": "#222222",
+    "foreground": "#C0C0C0",
+    "cursorColor": "#C0C0C0",
+    "selectionBackground": "#4A4A4A"
+}

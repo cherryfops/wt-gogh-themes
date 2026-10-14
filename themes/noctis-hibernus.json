@@ -1,0 +1,23 @@
+{
+    "name": "Noctis Hibernus",
+    "black": "#003B42",
+    "red": "#E34E1C",
+    "green": "#00B368",
+    "yellow": "#F49725",
+    "blue": "#0094F0",
+    "purple": "#FF5792",
+    "cyan": "#00BDD6",
+    "white": "#8CA6A6",
+    "brightBlack": "#004D57",
+    "brightRed": "#FF4000",
+    "brightGreen": "#00D17A",
+    "brightYellow": "#FF8C00",
+    "brightBlue": "#0FA3FF",
+    "brightPurple": "#FF6B9F",
+    "brightCyan": "#00CBE6",
+    "brightWhite": "#BBC3C4",
+    "background": "#F4F6F6",
+    "foreground": "#005661",
+    "cursorColor": "#005661",
+    "selectionBackground": "#D9E0E0"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Sumi Linen",
+    "black": "#3A342C",
+    "red": "#B83830",
+    "green": "#2E8050",
+    "yellow": "#A87820",
+    "blue": "#3060A0",
+    "purple": "#704890",
+    "cyan": "#18786C",
+    "white": "#5A5448",
+    "brightBlack": "#6A6458",
+    "brightRed": "#C84840",
+    "brightGreen": "#3A9868",
+    "brightYellow": "#C09030",
+    "brightBlue": "#4080C0",
+    "brightPurple": "#8858A8",
+    "brightCyan": "#28A090",
+    "brightWhite": "#14100C",
+    "background": "#E6DFD0",
+    "foreground": "#1C1814",
+    "cursorColor": "#18786C",
+    "selectionBackground": "#9EC4BA"
+}

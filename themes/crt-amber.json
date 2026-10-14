@@ -1,0 +1,23 @@
+{
+    "name": "CRT Amber",
+    "black": "#4C422F",
+    "red": "#EF4444",
+    "green": "#84CC16",
+    "yellow": "#FDE68A",
+    "blue": "#C084FC",
+    "purple": "#F97316",
+    "cyan": "#F59E0B",
+    "white": "#D8A657",
+    "brightBlack": "#544435",
+    "brightRed": "#F26969",
+    "brightGreen": "#9DD645",
+    "brightYellow": "#FDEB9F",
+    "brightBlue": "#CD9DFD",
+    "brightPurple": "#FA8F45",
+    "brightCyan": "#F7B13C",
+    "brightWhite": "#FFF3C4",
+    "background": "#1A1005",
+    "foreground": "#FFF3C4",
+    "cursorColor": "#FFF3C4",
+    "selectionBackground": "#534935"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Kaolin Ocean",
+    "black": "#14141E",
+    "red": "#E84C58",
+    "green": "#35BF88",
+    "yellow": "#DBAC66",
+    "blue": "#4CA6E8",
+    "purple": "#C79AF4",
+    "cyan": "#6BD9DB",
+    "white": "#E6E6E8",
+    "brightBlack": "#545C5E",
+    "brightRed": "#E84C58",
+    "brightGreen": "#7CF083",
+    "brightYellow": "#EED891",
+    "brightBlue": "#53859D",
+    "brightPurple": "#CEA2CA",
+    "brightCyan": "#4D9391",
+    "brightWhite": "#BEBEC4",
+    "background": "#14141E",
+    "foreground": "#E6E6E8",
+    "cursorColor": "#E6E6E8",
+    "selectionBackground": "#484850"
+}

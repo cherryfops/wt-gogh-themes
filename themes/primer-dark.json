@@ -1,0 +1,23 @@
+{
+    "name": "Primer Dark",
+    "black": "#010409",
+    "red": "#FF7B72",
+    "green": "#3FB950",
+    "yellow": "#D29922",
+    "blue": "#58A6FF",
+    "purple": "#F778BA",
+    "cyan": "#A5D6FF",
+    "white": "#B1BAC4",
+    "brightBlack": "#484F58",
+    "brightRed": "#FF7B72",
+    "brightGreen": "#3FB950",
+    "brightYellow": "#D29922",
+    "brightBlue": "#58A6FF",
+    "brightPurple": "#F778BA",
+    "brightCyan": "#A5D6FF",
+    "brightWhite": "#F0F6FC",
+    "background": "#010409",
+    "foreground": "#B1BAC4",
+    "cursorColor": "#B1BAC4",
+    "selectionBackground": "#2D3238"
+}

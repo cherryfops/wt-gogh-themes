@@ -1,0 +1,23 @@
+{
+    "name": "Tokyo Night Dark",
+    "black": "#1A1B26",
+    "red": "#C0CAF5",
+    "green": "#9ECE6A",
+    "yellow": "#0DB9D7",
+    "blue": "#2AC3DE",
+    "purple": "#BB9AF7",
+    "cyan": "#B4F9F8",
+    "white": "#A9B1D6",
+    "brightBlack": "#444B6A",
+    "brightRed": "#FF7A93",
+    "brightGreen": "#73DACA",
+    "brightYellow": "#FF9E64",
+    "brightBlue": "#89DDFF",
+    "brightPurple": "#BB9AF7",
+    "brightCyan": "#7DCFFF",
+    "brightWhite": "#D5D6DB",
+    "background": "#1A1B26",
+    "foreground": "#A9B1D6",
+    "cursorColor": "#A9B1D6",
+    "selectionBackground": "#3E4052"
+}

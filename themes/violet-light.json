@@ -1,0 +1,23 @@
+{
+    "name": "Violet Light",
+    "black": "#56595C",
+    "red": "#C94C22",
+    "green": "#85981C",
+    "yellow": "#B4881D",
+    "blue": "#2E8BCE",
+    "purple": "#D13A82",
+    "cyan": "#32A198",
+    "white": "#D3D0C9",
+    "brightBlack": "#45484B",
+    "brightRed": "#BD3613",
+    "brightGreen": "#738A04",
+    "brightYellow": "#A57705",
+    "brightBlue": "#2176C7",
+    "brightPurple": "#C61C6F",
+    "brightCyan": "#259286",
+    "brightWhite": "#C9C6BD",
+    "background": "#FCF4DC",
+    "foreground": "#536870",
+    "cursorColor": "#536870",
+    "selectionBackground": "#D2D1C1"
+}

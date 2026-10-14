@@ -1,0 +1,23 @@
+{
+    "name": "1984 Dark",
+    "black": "#000000",
+    "red": "#FF16B0",
+    "green": "#B3F361",
+    "yellow": "#FFEA16",
+    "blue": "#46BDFF",
+    "purple": "#F806FA",
+    "cyan": "#59E1E3",
+    "white": "#FFFFFF",
+    "brightBlack": "#555753",
+    "brightRed": "#FF16B0",
+    "brightGreen": "#B3F361",
+    "brightYellow": "#FFEA16",
+    "brightBlue": "#46BDFF",
+    "brightPurple": "#F806FA",
+    "brightCyan": "#6BE4E6",
+    "brightWhite": "#FFFFFF",
+    "background": "#0D0F31",
+    "foreground": "#FFFFFF",
+    "cursorColor": "#FFFFFF",
+    "selectionBackground": "#4A4B64"
+}

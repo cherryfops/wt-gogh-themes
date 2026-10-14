@@ -1,0 +1,23 @@
+{
+    "name": "Sweet Terminal",
+    "black": "#3F3F54",
+    "red": "#F60055",
+    "green": "#06C993",
+    "yellow": "#9700BE",
+    "blue": "#F69154",
+    "purple": "#EC89CB",
+    "cyan": "#60ADEC",
+    "white": "#ABB2BF",
+    "brightBlack": "#959DCB",
+    "brightRed": "#F60055",
+    "brightGreen": "#06C993",
+    "brightYellow": "#9700BE",
+    "brightBlue": "#F69154",
+    "brightPurple": "#EC89CB",
+    "brightCyan": "#00DDED",
+    "brightWhite": "#FFFFFF",
+    "background": "#222235",
+    "foreground": "#FFFFFF",
+    "cursorColor": "#FFFFFF",
+    "selectionBackground": "#595968"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Night Owlish Light",
+    "black": "#011627",
+    "red": "#D3423E",
+    "green": "#2AA298",
+    "yellow": "#DAAA01",
+    "blue": "#4876D6",
+    "purple": "#403F53",
+    "cyan": "#08916A",
+    "white": "#7A8181",
+    "brightBlack": "#7A8181",
+    "brightRed": "#F76E6E",
+    "brightGreen": "#49D0C5",
+    "brightYellow": "#DAC26B",
+    "brightBlue": "#5CA7E4",
+    "brightPurple": "#697098",
+    "brightCyan": "#00C990",
+    "brightWhite": "#989FB1",
+    "background": "#FFFFFF",
+    "foreground": "#403F53",
+    "cursorColor": "#403F53",
+    "selectionBackground": "#F2F2F2"
+}

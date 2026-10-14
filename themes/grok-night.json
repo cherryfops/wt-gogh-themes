@@ -1,0 +1,23 @@
+{
+    "name": "Grok Night",
+    "black": "#0A0A0A",
+    "red": "#F7768E",
+    "green": "#9ECE6A",
+    "yellow": "#E0AF68",
+    "blue": "#7AA2F7",
+    "purple": "#BB9AF7",
+    "cyan": "#7DCFFF",
+    "white": "#C8C8C8",
+    "brightBlack": "#6C6C6C",
+    "brightRed": "#F7768E",
+    "brightGreen": "#9ECE6A",
+    "brightYellow": "#E0AF68",
+    "brightBlue": "#7AA2F7",
+    "brightPurple": "#BB9AF7",
+    "brightCyan": "#7DCFFF",
+    "brightWhite": "#E1E1E1",
+    "background": "#141414",
+    "foreground": "#E1E1E1",
+    "cursorColor": "#E0AF68",
+    "selectionBackground": "#242424"
+}

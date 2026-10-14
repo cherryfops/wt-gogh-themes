@@ -1,0 +1,23 @@
+{
+    "name": "Violite",
+    "black": "#241C36",
+    "red": "#EC7979",
+    "green": "#79ECB3",
+    "yellow": "#ECE279",
+    "blue": "#A979EC",
+    "purple": "#EC79EC",
+    "cyan": "#79ECEC",
+    "white": "#EEF4F6",
+    "brightBlack": "#56447A",
+    "brightRed": "#EF8F8F",
+    "brightGreen": "#9FEFBF",
+    "brightYellow": "#EFE78F",
+    "brightBlue": "#B78FEF",
+    "brightPurple": "#EF8FCF",
+    "brightCyan": "#9FEFEF",
+    "brightWhite": "#F8FAFC",
+    "background": "#241C36",
+    "foreground": "#EEF4F6",
+    "cursorColor": "#EEF4F6",
+    "selectionBackground": "#49376D"
+}

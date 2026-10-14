@@ -1,0 +1,23 @@
+{
+    "name": "Whimsy",
+    "black": "#535178",
+    "red": "#EF6487",
+    "green": "#5ECA89",
+    "yellow": "#FDD877",
+    "blue": "#65AEF7",
+    "purple": "#AA7FF0",
+    "cyan": "#43C1BE",
+    "white": "#FFFFFF",
+    "brightBlack": "#535178",
+    "brightRed": "#EF6487",
+    "brightGreen": "#5ECA89",
+    "brightYellow": "#FDD877",
+    "brightBlue": "#65AEF7",
+    "brightPurple": "#AA7FF0",
+    "brightCyan": "#43C1BE",
+    "brightWhite": "#FFFFFF",
+    "background": "#29283B",
+    "foreground": "#B3B0D6",
+    "cursorColor": "#B3B0D6",
+    "selectionBackground": "#3D3C58"
+}

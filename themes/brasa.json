@@ -1,0 +1,23 @@
+{
+    "name": "Brasa",
+    "black": "#1A0F0A",
+    "red": "#F2685A",
+    "green": "#B8C24A",
+    "yellow": "#F0B23A",
+    "blue": "#9AA6E0",
+    "purple": "#E68AA2",
+    "cyan": "#6BC8B8",
+    "white": "#F0D8C0",
+    "brightBlack": "#7A6150",
+    "brightRed": "#F2685A",
+    "brightGreen": "#B8C24A",
+    "brightYellow": "#F0B23A",
+    "brightBlue": "#9AA6E0",
+    "brightPurple": "#E68AA2",
+    "brightCyan": "#6BC8B8",
+    "brightWhite": "#FBEAD8",
+    "background": "#1A0F0A",
+    "foreground": "#F0D8C0",
+    "cursorColor": "#F0D8C0",
+    "selectionBackground": "#504138"
+}

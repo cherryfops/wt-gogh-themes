@@ -1,0 +1,23 @@
+{
+    "name": "Measured Light",
+    "black": "#FDF9F5",
+    "red": "#AC1F35",
+    "green": "#0C680C",
+    "yellow": "#645A00",
+    "blue": "#0158AD",
+    "purple": "#6645C2",
+    "cyan": "#01716F",
+    "white": "#292929",
+    "brightBlack": "#5A5A5A",
+    "brightRed": "#AC1F35",
+    "brightGreen": "#0C680C",
+    "brightYellow": "#645A00",
+    "brightBlue": "#0158AD",
+    "brightPurple": "#6645C2",
+    "brightCyan": "#01716F",
+    "brightWhite": "#000000",
+    "background": "#FDF9F5",
+    "foreground": "#292929",
+    "cursorColor": "#292929",
+    "selectionBackground": "#C8C5C2"
+}

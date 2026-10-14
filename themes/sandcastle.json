@@ -1,0 +1,23 @@
+{
+    "name": "Sandcastle",
+    "black": "#282C34",
+    "red": "#83A598",
+    "green": "#528B8B",
+    "yellow": "#A07E3B",
+    "blue": "#83A598",
+    "purple": "#D75F5F",
+    "cyan": "#83A598",
+    "white": "#A89984",
+    "brightBlack": "#665C54",
+    "brightRed": "#83A598",
+    "brightGreen": "#528B8B",
+    "brightYellow": "#A07E3B",
+    "brightBlue": "#83A598",
+    "brightPurple": "#D75F5F",
+    "brightCyan": "#83A598",
+    "brightWhite": "#FDF4C1",
+    "background": "#282C34",
+    "foreground": "#A89984",
+    "cursorColor": "#A89984",
+    "selectionBackground": "#484748"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Medallion",
+    "black": "#000000",
+    "red": "#B64C00",
+    "green": "#7C8B16",
+    "yellow": "#D3BD26",
+    "blue": "#616BB0",
+    "purple": "#8C5A90",
+    "cyan": "#916C25",
+    "white": "#CAC29A",
+    "brightBlack": "#5E5219",
+    "brightRed": "#FF9149",
+    "brightGreen": "#B2CA3B",
+    "brightYellow": "#FFE54A",
+    "brightBlue": "#ACB8FF",
+    "brightPurple": "#FFA0FF",
+    "brightCyan": "#FFBC51",
+    "brightWhite": "#FED698",
+    "background": "#1D1908",
+    "foreground": "#CAC296",
+    "cursorColor": "#D3BA30",
+    "selectionBackground": "#626DAC"
+}

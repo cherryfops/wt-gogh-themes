@@ -1,0 +1,23 @@
+{
+    "name": "Base4Tone Classic D",
+    "black": "#21211C",
+    "red": "#049582",
+    "green": "#DA6B2B",
+    "yellow": "#EE9968",
+    "blue": "#CFB617",
+    "purple": "#82C115",
+    "cyan": "#E6854D",
+    "white": "#EEEDE8",
+    "brightBlack": "#0D0C07",
+    "brightRed": "#1CC4AE",
+    "brightGreen": "#F0A57A",
+    "brightYellow": "#F5C1A3",
+    "brightBlue": "#F6EDB1",
+    "brightPurple": "#95DC18",
+    "brightCyan": "#F2E58C",
+    "brightWhite": "#F9F8F6",
+    "background": "#21211C",
+    "foreground": "#A2A090",
+    "cursorColor": "#85776F",
+    "selectionBackground": "#414139"
+}

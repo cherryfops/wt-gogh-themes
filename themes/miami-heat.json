@@ -1,0 +1,23 @@
+{
+    "name": "Miami Heat",
+    "black": "#2A1A4A",
+    "red": "#FF3D7F",
+    "green": "#2EE6B6",
+    "yellow": "#FFCB52",
+    "blue": "#29B6FF",
+    "purple": "#B86BFF",
+    "cyan": "#18E0FF",
+    "white": "#E6D4FF",
+    "brightBlack": "#5E5388",
+    "brightRed": "#FF2E97",
+    "brightGreen": "#2EE6B6",
+    "brightYellow": "#FF7847",
+    "brightBlue": "#29B6FF",
+    "brightPurple": "#B86BFF",
+    "brightCyan": "#18E0FF",
+    "brightWhite": "#FCE7FF",
+    "background": "#120B2E",
+    "foreground": "#FCE7FF",
+    "cursorColor": "#FF2E97",
+    "selectionBackground": "#34215C"
+}

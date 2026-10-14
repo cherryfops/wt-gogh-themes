@@ -1,0 +1,23 @@
+{
+    "name": "Vivid Punk",
+    "black": "#010101",
+    "red": "#A32522",
+    "green": "#115A24",
+    "yellow": "#D5A243",
+    "blue": "#263788",
+    "purple": "#793664",
+    "cyan": "#128CA1",
+    "white": "#DADAD7",
+    "brightBlack": "#757575",
+    "brightRed": "#D53B3E",
+    "brightGreen": "#0A8439",
+    "brightYellow": "#F5BF59",
+    "brightBlue": "#6C85E8",
+    "brightPurple": "#B75492",
+    "brightCyan": "#7ACCD4",
+    "brightWhite": "#F3F3F2",
+    "background": "#171A26",
+    "foreground": "#F88132",
+    "cursorColor": "#F88132",
+    "selectionBackground": "#4F3429"
+}

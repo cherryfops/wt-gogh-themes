@@ -1,0 +1,23 @@
+{
+    "name": "Eldritch Dark",
+    "black": "#21222C",
+    "red": "#F9515D",
+    "green": "#37F499",
+    "yellow": "#E9F941",
+    "blue": "#9071F4",
+    "purple": "#F265B5",
+    "cyan": "#04D1F9",
+    "white": "#EBFAFA",
+    "brightBlack": "#7081D0",
+    "brightRed": "#F16C75",
+    "brightGreen": "#69F8B3",
+    "brightYellow": "#F1FC79",
+    "brightBlue": "#A48CF2",
+    "brightPurple": "#FD92CE",
+    "brightCyan": "#66E4FD",
+    "brightWhite": "#FFFFFF",
+    "background": "#171928",
+    "foreground": "#EBFAFA",
+    "cursorColor": "#EBFAFA",
+    "selectionBackground": "#4C515C"
+}

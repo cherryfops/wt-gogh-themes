@@ -1,0 +1,23 @@
+{
+    "name": "Neowave",
+    "black": "#123E7C",
+    "red": "#FF0000",
+    "green": "#DF00DF",
+    "yellow": "#FF7F00",
+    "blue": "#00FF00",
+    "purple": "#C11CD1",
+    "cyan": "#0AFDF6",
+    "white": "#D7D7D5",
+    "brightBlack": "#1C61C2",
+    "brightRed": "#FF0000",
+    "brightGreen": "#DF00DF",
+    "brightYellow": "#FF7F00",
+    "brightBlue": "#00FF00",
+    "brightPurple": "#711C91",
+    "brightCyan": "#0AFDF6",
+    "brightWhite": "#D7D7D5",
+    "background": "#161021",
+    "foreground": "#00FFFF",
+    "cursorColor": "#00FFFF",
+    "selectionBackground": "#104C58"
+}

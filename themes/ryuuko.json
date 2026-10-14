@@ -1,0 +1,23 @@
+{
+    "name": "Ryuuko",
+    "black": "#2C3941",
+    "red": "#865F5B",
+    "green": "#66907D",
+    "yellow": "#B1A990",
+    "blue": "#6A8E95",
+    "purple": "#B18A73",
+    "cyan": "#88B2AC",
+    "white": "#ECECEC",
+    "brightBlack": "#5D7079",
+    "brightRed": "#865F5B",
+    "brightGreen": "#66907D",
+    "brightYellow": "#B1A990",
+    "brightBlue": "#6A8E95",
+    "brightPurple": "#B18A73",
+    "brightCyan": "#88B2AC",
+    "brightWhite": "#ECECEC",
+    "background": "#2C3941",
+    "foreground": "#ECECEC",
+    "cursorColor": "#ECECEC",
+    "selectionBackground": "#002831"
+}

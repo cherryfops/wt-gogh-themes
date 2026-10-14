@@ -1,0 +1,23 @@
+{
+    "name": "Paul Millr",
+    "black": "#2A2A2A",
+    "red": "#FF0000",
+    "green": "#79FF0F",
+    "yellow": "#E7BF00",
+    "blue": "#396BD7",
+    "purple": "#B449BE",
+    "cyan": "#66CCFF",
+    "white": "#BBBBBB",
+    "brightBlack": "#666666",
+    "brightRed": "#FF0080",
+    "brightGreen": "#66FF66",
+    "brightYellow": "#F3D64E",
+    "brightBlue": "#709AED",
+    "brightPurple": "#DB67E6",
+    "brightCyan": "#7ADFF2",
+    "brightWhite": "#FFFFFF",
+    "background": "#000000",
+    "foreground": "#F2F2F2",
+    "cursorColor": "#4D4D4D",
+    "selectionBackground": "#414141"
+}

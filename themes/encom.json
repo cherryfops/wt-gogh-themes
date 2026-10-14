@@ -1,0 +1,23 @@
+{
+    "name": "ENCOM",
+    "black": "#000000",
+    "red": "#9F0000",
+    "green": "#008B00",
+    "yellow": "#FFD000",
+    "blue": "#0081FF",
+    "purple": "#BC00CA",
+    "cyan": "#008B8B",
+    "white": "#BBBBBB",
+    "brightBlack": "#555555",
+    "brightRed": "#FF0000",
+    "brightGreen": "#00EE00",
+    "brightYellow": "#FFFF00",
+    "brightBlue": "#0000FF",
+    "brightPurple": "#FF00FF",
+    "brightCyan": "#00CDCD",
+    "brightWhite": "#FFFFFF",
+    "background": "#000000",
+    "foreground": "#00A595",
+    "cursorColor": "#BBBBBB",
+    "selectionBackground": "#002925"
+}

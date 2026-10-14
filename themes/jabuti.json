@@ -1,0 +1,23 @@
+{
+    "name": "Jabuti",
+    "black": "#292A37",
+    "red": "#EC6A88",
+    "green": "#3FDAA4",
+    "yellow": "#E1C697",
+    "blue": "#3FC6DE",
+    "purple": "#BE95FF",
+    "cyan": "#FF7EB6",
+    "white": "#C0CBE3",
+    "brightBlack": "#45475D",
+    "brightRed": "#EC6A88",
+    "brightGreen": "#3FDAA4",
+    "brightYellow": "#E1C697",
+    "brightBlue": "#3FC6DE",
+    "brightPurple": "#BE95FF",
+    "brightCyan": "#FF7EB6",
+    "brightWhite": "#FFFFFF",
+    "background": "#292A37",
+    "foreground": "#C0CBE3",
+    "cursorColor": "#C0CBE3",
+    "selectionBackground": "#4F5262"
+}

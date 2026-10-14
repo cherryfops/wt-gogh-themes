@@ -1,0 +1,23 @@
+{
+    "name": "Aizen Dark",
+    "black": "#1A1A1A",
+    "red": "#F08898",
+    "green": "#A4E09C",
+    "yellow": "#F5DEA4",
+    "blue": "#84B4F8",
+    "purple": "#C8A2F4",
+    "cyan": "#90DCD0",
+    "white": "#D0D6F0",
+    "brightBlack": "#444444",
+    "brightRed": "#F08898",
+    "brightGreen": "#A4E09C",
+    "brightYellow": "#F5DEA4",
+    "brightBlue": "#84B4F8",
+    "brightPurple": "#C8A2F4",
+    "brightCyan": "#90DCD0",
+    "brightWhite": "#FFFFFF",
+    "background": "#1A1A1A",
+    "foreground": "#D0D6F0",
+    "cursorColor": "#F8B080",
+    "selectionBackground": "#333333"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Saga",
+    "black": "#05080A",
+    "red": "#FFD4E9",
+    "green": "#F7DDFF",
+    "yellow": "#FBEBC8",
+    "blue": "#C9FFF7",
+    "purple": "#DCC3F9",
+    "cyan": "#C5EDC1",
+    "white": "#DCE2F7",
+    "brightBlack": "#141F27",
+    "brightRed": "#FFD4E9",
+    "brightGreen": "#F7DDFF",
+    "brightYellow": "#FBEBC8",
+    "brightBlue": "#C9FFF7",
+    "brightPurple": "#DCC3F9",
+    "brightCyan": "#C5EDC1",
+    "brightWhite": "#CCD3FE",
+    "background": "#05080A",
+    "foreground": "#DCE2F7",
+    "cursorColor": "#DCE2F7",
+    "selectionBackground": "#3B3E45"
+}

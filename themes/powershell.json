@@ -1,0 +1,23 @@
+{
+    "name": "Powershell",
+    "black": "#000000",
+    "red": "#981A22",
+    "green": "#098003",
+    "yellow": "#C4A000",
+    "blue": "#4140C3",
+    "purple": "#D33682",
+    "cyan": "#0E807F",
+    "white": "#7F7C7F",
+    "brightBlack": "#808080",
+    "brightRed": "#EF2929",
+    "brightGreen": "#1CFE3C",
+    "brightYellow": "#FEFE45",
+    "brightBlue": "#268AD2",
+    "brightPurple": "#FE13FA",
+    "brightCyan": "#29FFFE",
+    "brightWhite": "#C2C1C3",
+    "background": "#052454",
+    "foreground": "#F6F6F7",
+    "cursorColor": "#F6F6F7",
+    "selectionBackground": "#41587D"
+}

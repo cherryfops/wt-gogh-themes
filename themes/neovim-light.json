@@ -1,0 +1,23 @@
+{
+    "name": "Neovim Light",
+    "black": "#E0E2EA",
+    "red": "#590008",
+    "green": "#005523",
+    "yellow": "#6B5300",
+    "blue": "#004C73",
+    "purple": "#470045",
+    "cyan": "#007373",
+    "white": "#14161B",
+    "brightBlack": "#4F5258",
+    "brightRed": "#590008",
+    "brightGreen": "#005523",
+    "brightYellow": "#6B5300",
+    "brightBlue": "#004C73",
+    "brightPurple": "#470045",
+    "brightCyan": "#007373",
+    "brightWhite": "#07080D",
+    "background": "#E0E2EA",
+    "foreground": "#14161B",
+    "cursorColor": "#14161B",
+    "selectionBackground": "#ADAFB6"
+}

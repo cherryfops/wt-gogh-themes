@@ -1,0 +1,23 @@
+{
+    "name": "Overnight Slumber",
+    "black": "#0A1222",
+    "red": "#FFA7C4",
+    "green": "#85CC95",
+    "yellow": "#FFCB8B",
+    "blue": "#8DABE1",
+    "purple": "#C792EB",
+    "cyan": "#78CCF0",
+    "white": "#FFFFFF",
+    "brightBlack": "#575656",
+    "brightRed": "#FFA7C4",
+    "brightGreen": "#85CC95",
+    "brightYellow": "#FFCB8B",
+    "brightBlue": "#8DABE1",
+    "brightPurple": "#C792EB",
+    "brightCyan": "#FFA7C4",
+    "brightWhite": "#FFFFFF",
+    "background": "#0E1729",
+    "foreground": "#CED2D6",
+    "cursorColor": "#FFA7C4",
+    "selectionBackground": "#1F2B41"
+}

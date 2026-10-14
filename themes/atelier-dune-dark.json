@@ -1,0 +1,23 @@
+{
+    "name": "Atelier Dune Dark",
+    "black": "#20201D",
+    "red": "#D73737",
+    "green": "#60AC39",
+    "yellow": "#AE9513",
+    "blue": "#6684E1",
+    "purple": "#B854D4",
+    "cyan": "#1FAD83",
+    "white": "#A6A28C",
+    "brightBlack": "#7D7A68",
+    "brightRed": "#B65611",
+    "brightGreen": "#292824",
+    "brightYellow": "#6E6B5E",
+    "brightBlue": "#999580",
+    "brightPurple": "#E8E4CF",
+    "brightCyan": "#D43552",
+    "brightWhite": "#FEFBEC",
+    "background": "#20201D",
+    "foreground": "#A6A28C",
+    "cursorColor": "#A6A28C",
+    "selectionBackground": "#424039"
+}

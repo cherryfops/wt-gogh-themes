@@ -1,0 +1,23 @@
+{
+    "name": "Blue Moon",
+    "black": "#353B52",
+    "red": "#D06178",
+    "green": "#B4C4B4",
+    "yellow": "#CFCFBF",
+    "blue": "#959DCB",
+    "purple": "#B9A3EB",
+    "cyan": "#89BBDD",
+    "white": "#FFFFFF",
+    "brightBlack": "#8796B0",
+    "brightRed": "#E61F44",
+    "brightGreen": "#ACFAB4",
+    "brightYellow": "#DFDF9F",
+    "brightBlue": "#B8BCF3",
+    "brightPurple": "#B9A3EB",
+    "brightCyan": "#89DDFF",
+    "brightWhite": "#FFFFFF",
+    "background": "#1B1E2B",
+    "foreground": "#676E96",
+    "cursorColor": "#676E96",
+    "selectionBackground": "#2E3246"
+}

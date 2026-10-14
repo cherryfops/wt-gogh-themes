@@ -1,0 +1,23 @@
+{
+    "name": "Karma Dark HC",
+    "black": "#000000",
+    "red": "#FF5C87",
+    "green": "#80E598",
+    "yellow": "#FCE566",
+    "blue": "#61DCEB",
+    "purple": "#B9A3EE",
+    "cyan": "#61DCEB",
+    "white": "#D6D2DB",
+    "brightBlack": "#69676C",
+    "brightRed": "#FF8AAB",
+    "brightGreen": "#A3E9B1",
+    "brightYellow": "#FFF080",
+    "brightBlue": "#87E5F1",
+    "brightPurple": "#CAB6F4",
+    "brightCyan": "#87E5F1",
+    "brightWhite": "#FFFFFF",
+    "background": "#000000",
+    "foreground": "#FFFFFF",
+    "cursorColor": "#FCE566",
+    "selectionBackground": "#4D4A5E"
+}

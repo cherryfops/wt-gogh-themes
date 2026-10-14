@@ -1,0 +1,23 @@
+{
+    "name": "Fairyfloss",
+    "black": "#040303",
+    "red": "#F92672",
+    "green": "#C2FFDF",
+    "yellow": "#E6C000",
+    "blue": "#C2FFDF",
+    "purple": "#FFB8D1",
+    "cyan": "#C5A3FF",
+    "white": "#F8F8F0",
+    "brightBlack": "#6090CB",
+    "brightRed": "#FF857F",
+    "brightGreen": "#C2FFDF",
+    "brightYellow": "#FFEA00",
+    "brightBlue": "#C2FFDF",
+    "brightPurple": "#FFB8D1",
+    "brightCyan": "#C5A3FF",
+    "brightWhite": "#F8F8F0",
+    "background": "#5A5475",
+    "foreground": "#F8F8F2",
+    "cursorColor": "#F8F8F0",
+    "selectionBackground": "#8077A8"
+}

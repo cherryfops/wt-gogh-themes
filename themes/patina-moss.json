@@ -1,0 +1,23 @@
+{
+    "name": "Patina Moss",
+    "black": "#33362E",
+    "red": "#C07878",
+    "green": "#5BA886",
+    "yellow": "#D4BF6E",
+    "blue": "#65A8B5",
+    "purple": "#C08A7D",
+    "cyan": "#63A8A6",
+    "white": "#DBD7CA",
+    "brightBlack": "#585B51",
+    "brightRed": "#C07878",
+    "brightGreen": "#5BA886",
+    "brightYellow": "#D4BF6E",
+    "brightBlue": "#65A8B5",
+    "brightPurple": "#C08A7D",
+    "brightCyan": "#63A8A6",
+    "brightWhite": "#DBD7CA",
+    "background": "#20231F",
+    "foreground": "#DBD7CA",
+    "cursorColor": "#DBD7CA",
+    "selectionBackground": "#383B31"
+}

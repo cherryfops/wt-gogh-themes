@@ -1,0 +1,23 @@
+{
+    "name": "Equilibrium Light",
+    "black": "#F5F0E7",
+    "red": "#D02023",
+    "green": "#637200",
+    "yellow": "#9D6F00",
+    "blue": "#0073B5",
+    "purple": "#4E66B6",
+    "cyan": "#007A72",
+    "white": "#43474E",
+    "brightBlack": "#73777F",
+    "brightRed": "#D02023",
+    "brightGreen": "#637200",
+    "brightYellow": "#9D6F00",
+    "brightBlue": "#0073B5",
+    "brightPurple": "#4E66B6",
+    "brightCyan": "#007A72",
+    "brightWhite": "#181C22",
+    "background": "#F5F0E7",
+    "foreground": "#43474E",
+    "cursorColor": "#43474E",
+    "selectionBackground": "#C8C6C1"
+}

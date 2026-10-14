@@ -1,0 +1,23 @@
+{
+    "name": "Detuned",
+    "black": "#171717",
+    "red": "#EA5386",
+    "green": "#B3E153",
+    "yellow": "#E4DA81",
+    "blue": "#4192D3",
+    "purple": "#8F3EF6",
+    "cyan": "#6CB4D5",
+    "white": "#C7C7C7",
+    "brightBlack": "#686868",
+    "brightRed": "#EA86AC",
+    "brightGreen": "#C5E280",
+    "brightYellow": "#FDF38F",
+    "brightBlue": "#55BBF9",
+    "brightPurple": "#B9A0F9",
+    "brightCyan": "#7FD4FB",
+    "brightWhite": "#FFFFFF",
+    "background": "#000000",
+    "foreground": "#C7C7C7",
+    "cursorColor": "#C7C7C7",
+    "selectionBackground": "#323232"
+}

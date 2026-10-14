@@ -1,0 +1,23 @@
+{
+    "name": "Goa Base",
+    "black": "#880041",
+    "red": "#F78000",
+    "green": "#249000",
+    "yellow": "#F40000",
+    "blue": "#000482",
+    "purple": "#F43BFF",
+    "cyan": "#3AFFFF",
+    "white": "#000000",
+    "brightBlack": "#411A6D",
+    "brightRed": "#F800E1",
+    "brightGreen": "#5743FF",
+    "brightYellow": "#EA00D7",
+    "brightBlue": "#B90003",
+    "brightPurple": "#9A5952",
+    "brightCyan": "#C8F9F3",
+    "brightWhite": "#F5F4FB",
+    "background": "#2F0033",
+    "foreground": "#F6ED00",
+    "cursorColor": "#F6ED00",
+    "selectionBackground": "#613B26"
+}

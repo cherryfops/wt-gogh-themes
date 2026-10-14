@@ -1,0 +1,23 @@
+{
+    "name": "Sauber",
+    "black": "#15191E",
+    "red": "#A74532",
+    "green": "#57BF38",
+    "yellow": "#C7C43F",
+    "blue": "#2E43C0",
+    "purple": "#B149B8",
+    "cyan": "#59C2C6",
+    "white": "#C7C7C7",
+    "brightBlack": "#686868",
+    "brightRed": "#D07E78",
+    "brightGreen": "#82E498",
+    "brightYellow": "#EAE24A",
+    "brightBlue": "#A7ABED",
+    "brightPurple": "#D483DC",
+    "brightCyan": "#3D898E",
+    "brightWhite": "#9F8133",
+    "background": "#F0FEE8",
+    "foreground": "#2244ED",
+    "cursorColor": "#000000",
+    "selectionBackground": "#BCD0E9"
+}

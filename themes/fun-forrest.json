@@ -1,0 +1,23 @@
+{
+    "name": "Fun Forrest",
+    "black": "#000000",
+    "red": "#D6262B",
+    "green": "#919C00",
+    "yellow": "#BE8A13",
+    "blue": "#4699A3",
+    "purple": "#8D4331",
+    "cyan": "#DA8213",
+    "white": "#DDC265",
+    "brightBlack": "#7F6A55",
+    "brightRed": "#E55A1C",
+    "brightGreen": "#BFC65A",
+    "brightYellow": "#FFCB1B",
+    "brightBlue": "#7CC9CF",
+    "brightPurple": "#D26349",
+    "brightCyan": "#E6A96B",
+    "brightWhite": "#FFEAA3",
+    "background": "#251200",
+    "foreground": "#DEC165",
+    "cursorColor": "#E5591C",
+    "selectionBackground": "#E5591C"
+}

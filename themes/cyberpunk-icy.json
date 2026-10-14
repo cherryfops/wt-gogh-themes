@@ -1,0 +1,23 @@
+{
+    "name": "cyberpunk-icy",
+    "black": "#1A1A2E",
+    "red": "#FF0055",
+    "green": "#00FF9F",
+    "yellow": "#FFFC00",
+    "blue": "#7B2FFF",
+    "purple": "#FF00FF",
+    "cyan": "#00FFFF",
+    "white": "#D4B3F7",
+    "brightBlack": "#2A2A4E",
+    "brightRed": "#FF3377",
+    "brightGreen": "#33FFB2",
+    "brightYellow": "#FFFE33",
+    "brightBlue": "#9955FF",
+    "brightPurple": "#FF55FF",
+    "brightCyan": "#55FFFF",
+    "brightWhite": "#FFFFFF",
+    "background": "#0A0A0F",
+    "foreground": "#D4B3F7",
+    "cursorColor": "#00FFFF",
+    "selectionBackground": "#3C3449"
+}

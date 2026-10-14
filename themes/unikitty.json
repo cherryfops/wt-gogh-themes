@@ -1,0 +1,23 @@
+{
+    "name": "Unikitty",
+    "black": "#0C0C0C",
+    "red": "#A80F20",
+    "green": "#BAFC8B",
+    "yellow": "#EEDF4B",
+    "blue": "#145FCD",
+    "purple": "#FF36A2",
+    "cyan": "#6BD1BC",
+    "white": "#E2D7E1",
+    "brightBlack": "#434343",
+    "brightRed": "#D91329",
+    "brightGreen": "#D3FFAF",
+    "brightYellow": "#FFEF50",
+    "brightBlue": "#0075EA",
+    "brightPurple": "#FDD5E5",
+    "brightCyan": "#79ECD5",
+    "brightWhite": "#FFF3FE",
+    "background": "#FF8CD9",
+    "foreground": "#0B0B0B",
+    "cursorColor": "#BAFC8B",
+    "selectionBackground": "#C26CA6"
+}

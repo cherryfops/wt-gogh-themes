@@ -1,0 +1,23 @@
+{
+    "name": "Monokai Dark",
+    "black": "#272822",
+    "red": "#F92672",
+    "green": "#A6E22E",
+    "yellow": "#F4BF75",
+    "blue": "#66D9EF",
+    "purple": "#AE81FF",
+    "cyan": "#2AA198",
+    "white": "#F9F8F5",
+    "brightBlack": "#75715E",
+    "brightRed": "#F92672",
+    "brightGreen": "#A6E22E",
+    "brightYellow": "#F4BF75",
+    "brightBlue": "#66D9EF",
+    "brightPurple": "#AE81FF",
+    "brightCyan": "#2AA198",
+    "brightWhite": "#F8F8F2",
+    "background": "#272822",
+    "foreground": "#F8F8F2",
+    "cursorColor": "#F8F8F2",
+    "selectionBackground": "#5B5C56"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Tokyo Night Terminal Light",
+    "black": "#D5D6DB",
+    "red": "#8C4351",
+    "green": "#33635C",
+    "yellow": "#8F5E15",
+    "blue": "#34548A",
+    "purple": "#5A4A78",
+    "cyan": "#0F4B6E",
+    "white": "#4C505E",
+    "brightBlack": "#9699A3",
+    "brightRed": "#8C4351",
+    "brightGreen": "#33635C",
+    "brightYellow": "#8F5E15",
+    "brightBlue": "#34548A",
+    "brightPurple": "#5A4A78",
+    "brightCyan": "#0F4B6E",
+    "brightWhite": "#1A1B26",
+    "background": "#D5D6DB",
+    "foreground": "#4C505E",
+    "cursorColor": "#4C505E",
+    "selectionBackground": "#B3B4BC"
+}

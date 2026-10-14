@@ -1,0 +1,23 @@
+{
+    "name": "Vaporwave Sunset",
+    "black": "#4B3D53",
+    "red": "#FB7185",
+    "green": "#2DD4BF",
+    "yellow": "#FB923C",
+    "blue": "#A78BFA",
+    "purple": "#22D3EE",
+    "cyan": "#FF4FD8",
+    "white": "#F0ABFC",
+    "brightBlack": "#563F6E",
+    "brightRed": "#FC8D9D",
+    "brightGreen": "#57DDCC",
+    "brightYellow": "#FCA65F",
+    "brightBlue": "#B9A2FB",
+    "brightPurple": "#4EDCF1",
+    "brightCyan": "#FF72E0",
+    "brightWhite": "#FFF7ED",
+    "background": "#180827",
+    "foreground": "#FFF7ED",
+    "cursorColor": "#FFF7ED",
+    "selectionBackground": "#524458"
+}

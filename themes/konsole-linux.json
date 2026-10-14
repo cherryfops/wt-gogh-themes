@@ -1,0 +1,23 @@
+{
+    "name": "Konsole Linux",
+    "black": "#000000",
+    "red": "#B21818",
+    "green": "#18B218",
+    "yellow": "#B26818",
+    "blue": "#1818B2",
+    "purple": "#B218B2",
+    "cyan": "#18B2B2",
+    "white": "#B2B2B2",
+    "brightBlack": "#686868",
+    "brightRed": "#FF5454",
+    "brightGreen": "#54FF54",
+    "brightYellow": "#FFFF54",
+    "brightBlue": "#5454FF",
+    "brightPurple": "#FF54FF",
+    "brightCyan": "#54FFFF",
+    "brightWhite": "#FFFFFF",
+    "background": "#1F1F1F",
+    "foreground": "#E3E3E3",
+    "cursorColor": "#E3E3E3",
+    "selectionBackground": "#505050"
+}

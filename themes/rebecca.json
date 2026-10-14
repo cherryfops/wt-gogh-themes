@@ -1,0 +1,23 @@
+{
+    "name": "Rebecca",
+    "black": "#12131E",
+    "red": "#DD7755",
+    "green": "#04DBB5",
+    "yellow": "#F2E7B7",
+    "blue": "#7AA5FF",
+    "purple": "#BF9CF9",
+    "cyan": "#56D3C2",
+    "white": "#E4E3E9",
+    "brightBlack": "#666699",
+    "brightRed": "#FF92CD",
+    "brightGreen": "#01EAC0",
+    "brightYellow": "#FFFCA8",
+    "brightBlue": "#69C0FA",
+    "brightPurple": "#C17FF8",
+    "brightCyan": "#8BFDE1",
+    "brightWhite": "#F4F2F9",
+    "background": "#292A44",
+    "foreground": "#E8E6ED",
+    "cursorColor": "#B89BF9",
+    "selectionBackground": "#663399"
+}

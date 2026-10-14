@@ -1,0 +1,23 @@
+{
+    "name": "Iterm Solardark",
+    "black": "#003440",
+    "red": "#DC312E",
+    "green": "#7CC67F",
+    "yellow": "#B58900",
+    "blue": "#268AD2",
+    "purple": "#D33582",
+    "cyan": "#2AA197",
+    "white": "#EEE8D5",
+    "brightBlack": "#00779A",
+    "brightRed": "#F9314B",
+    "brightGreen": "#5BEE96",
+    "brightYellow": "#C08F34",
+    "brightBlue": "#109FD2",
+    "brightPurple": "#E9679F",
+    "brightCyan": "#00BDAE",
+    "brightWhite": "#FDF6E3",
+    "background": "#002833",
+    "foreground": "#A5ABB6",
+    "cursorColor": "#A5ABB6",
+    "selectionBackground": "#294954"
+}

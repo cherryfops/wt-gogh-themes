@@ -1,0 +1,23 @@
+{
+    "name": "Guezwhoz",
+    "black": "#333333",
+    "red": "#E85181",
+    "green": "#7AD694",
+    "yellow": "#B7D074",
+    "blue": "#5AA0D6",
+    "purple": "#9A90E0",
+    "cyan": "#58D6CE",
+    "white": "#D9D9D9",
+    "brightBlack": "#808080",
+    "brightRed": "#E85181",
+    "brightGreen": "#AFD7AF",
+    "brightYellow": "#D1ED85",
+    "brightBlue": "#64B2ED",
+    "brightPurple": "#A398ED",
+    "brightCyan": "#61EDE4",
+    "brightWhite": "#EDEDED",
+    "background": "#1D1D1D",
+    "foreground": "#D9D9D9",
+    "cursorColor": "#99D4B1",
+    "selectionBackground": "#245354"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Subliminal",
+    "black": "#7F7F7F",
+    "red": "#E15A60",
+    "green": "#A9CFA4",
+    "yellow": "#FFE2A9",
+    "blue": "#6699CC",
+    "purple": "#F1A5AB",
+    "cyan": "#5FB3B3",
+    "white": "#D4D4D4",
+    "brightBlack": "#7F7F7F",
+    "brightRed": "#E15A60",
+    "brightGreen": "#A9CFA4",
+    "brightYellow": "#FFE2A9",
+    "brightBlue": "#6699CC",
+    "brightPurple": "#F1A5AB",
+    "brightCyan": "#5FB3B3",
+    "brightWhite": "#D4D4D4",
+    "background": "#282C35",
+    "foreground": "#D4D4D4",
+    "cursorColor": "#C7C7C7",
+    "selectionBackground": "#484E5B"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Kaolin Dark",
+    "black": "#4B5254",
+    "red": "#CD5C60",
+    "green": "#6FB593",
+    "yellow": "#DBAC66",
+    "blue": "#91B9C7",
+    "purple": "#845A84",
+    "cyan": "#4D9391",
+    "white": "#E4E4E8",
+    "brightBlack": "#879193",
+    "brightRed": "#E36D5B",
+    "brightGreen": "#72CCBA",
+    "brightYellow": "#F2C866",
+    "brightBlue": "#97B8DE",
+    "brightPurple": "#8C629C",
+    "brightCyan": "#5096AB",
+    "brightWhite": "#EFEFF1",
+    "background": "#18181B",
+    "foreground": "#E4E4E8",
+    "cursorColor": "#E4E4E8",
+    "selectionBackground": "#4B4B4E"
+}

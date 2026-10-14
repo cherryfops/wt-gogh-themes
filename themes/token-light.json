@@ -1,0 +1,23 @@
+{
+    "name": "Token Light",
+    "black": "#2A2920",
+    "red": "#B05555",
+    "green": "#3F643C",
+    "yellow": "#6E5C20",
+    "blue": "#527594",
+    "purple": "#7C619A",
+    "cyan": "#2D6C6C",
+    "white": "#B5B2AB",
+    "brightBlack": "#6C675F",
+    "brightRed": "#9A4929",
+    "brightGreen": "#3A5E37",
+    "brightYellow": "#876032",
+    "brightBlue": "#486A88",
+    "brightPurple": "#6F578C",
+    "brightCyan": "#286363",
+    "brightWhite": "#FAF9F5",
+    "background": "#FAF9F5",
+    "foreground": "#2A2920",
+    "cursorColor": "#2A2920",
+    "selectionBackground": "#DDDCD6"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Cyan Day",
+    "black": "#12343B",
+    "red": "#B3345C",
+    "green": "#147C72",
+    "yellow": "#9B6A00",
+    "blue": "#006D8F",
+    "purple": "#6F4AA8",
+    "cyan": "#008CA8",
+    "white": "#E8FBFF",
+    "brightBlack": "#5B7E86",
+    "brightRed": "#D64B73",
+    "brightGreen": "#1B9A8E",
+    "brightYellow": "#C98300",
+    "brightBlue": "#0088B8",
+    "brightPurple": "#8964C8",
+    "brightCyan": "#00AFCF",
+    "brightWhite": "#FFFFFF",
+    "background": "#E8FBFF",
+    "foreground": "#12343B",
+    "cursorColor": "#008CA8",
+    "selectionBackground": "#B2C9CE"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Base2Tone Evening",
+    "black": "#2A2734",
+    "red": "#8A75F5",
+    "green": "#FFAD5C",
+    "yellow": "#FFCC99",
+    "blue": "#9A86FD",
+    "purple": "#FFAD5C",
+    "cyan": "#AFA0FE",
+    "white": "#A4A1B5",
+    "brightBlack": "#6C6783",
+    "brightRed": "#FFB870",
+    "brightGreen": "#363342",
+    "brightYellow": "#545167",
+    "brightBlue": "#787391",
+    "brightPurple": "#D9D2FE",
+    "brightCyan": "#FFA142",
+    "brightWhite": "#EEEBFF",
+    "background": "#2A2734",
+    "foreground": "#A4A1B5",
+    "cursorColor": "#B37537",
+    "selectionBackground": "#484654"
+}

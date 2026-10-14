@@ -1,0 +1,23 @@
+{
+    "name": "Grayscale Dark",
+    "black": "#101010",
+    "red": "#7C7C7C",
+    "green": "#8E8E8E",
+    "yellow": "#A0A0A0",
+    "blue": "#686868",
+    "purple": "#747474",
+    "cyan": "#868686",
+    "white": "#B9B9B9",
+    "brightBlack": "#525252",
+    "brightRed": "#7C7C7C",
+    "brightGreen": "#8E8E8E",
+    "brightYellow": "#A0A0A0",
+    "brightBlue": "#686868",
+    "brightPurple": "#747474",
+    "brightCyan": "#868686",
+    "brightWhite": "#F7F7F7",
+    "background": "#101010",
+    "foreground": "#B9B9B9",
+    "cursorColor": "#B9B9B9",
+    "selectionBackground": "#3A3A3A"
+}

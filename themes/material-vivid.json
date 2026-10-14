@@ -1,0 +1,23 @@
+{
+    "name": "Material Vivid",
+    "black": "#202124",
+    "red": "#F44336",
+    "green": "#00E676",
+    "yellow": "#FFEB3B",
+    "blue": "#2196F3",
+    "purple": "#673AB7",
+    "cyan": "#00BCD4",
+    "white": "#80868B",
+    "brightBlack": "#44464D",
+    "brightRed": "#F44336",
+    "brightGreen": "#00E676",
+    "brightYellow": "#FFEB3B",
+    "brightBlue": "#2196F3",
+    "brightPurple": "#673AB7",
+    "brightCyan": "#00BCD4",
+    "brightWhite": "#FFFFFF",
+    "background": "#202124",
+    "foreground": "#80868B",
+    "cursorColor": "#80868B",
+    "selectionBackground": "#383A3E"
+}

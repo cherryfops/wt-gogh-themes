@@ -1,0 +1,23 @@
+{
+    "name": "Synth Midnight Dark",
+    "black": "#050608",
+    "red": "#B53B50",
+    "green": "#06EA61",
+    "yellow": "#C9D364",
+    "blue": "#03AEFF",
+    "purple": "#EA5CE2",
+    "cyan": "#42FFF9",
+    "white": "#C1C3C4",
+    "brightBlack": "#474849",
+    "brightRed": "#B53B50",
+    "brightGreen": "#06EA61",
+    "brightYellow": "#C9D364",
+    "brightBlue": "#03AEFF",
+    "brightPurple": "#EA5CE2",
+    "brightCyan": "#42FFF9",
+    "brightWhite": "#DDDFE0",
+    "background": "#050608",
+    "foreground": "#C1C3C4",
+    "cursorColor": "#C1C3C4",
+    "selectionBackground": "#343537"
+}

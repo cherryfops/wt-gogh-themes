@@ -1,0 +1,23 @@
+{
+    "name": "Vague",
+    "black": "#252530",
+    "red": "#D8647E",
+    "green": "#7FA563",
+    "yellow": "#F3BE7C",
+    "blue": "#6E94B2",
+    "purple": "#BB9DBD",
+    "cyan": "#AEAED1",
+    "white": "#CDCDCD",
+    "brightBlack": "#606079",
+    "brightRed": "#E08398",
+    "brightGreen": "#99B782",
+    "brightYellow": "#F5CB96",
+    "brightBlue": "#8BA9C1",
+    "brightPurple": "#C9B1CA",
+    "brightCyan": "#BEBEDA",
+    "brightWhite": "#D7D7D7",
+    "background": "#141415",
+    "foreground": "#CDCDCD",
+    "cursorColor": "#CDCDCD",
+    "selectionBackground": "#252530"
+}

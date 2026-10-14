@@ -1,0 +1,23 @@
+{
+    "name": "No Clown Fiesta",
+    "black": "#151515",
+    "red": "#B46958",
+    "green": "#90A959",
+    "yellow": "#F4BF75",
+    "blue": "#BAD7FF",
+    "purple": "#AA759F",
+    "cyan": "#88AFA2",
+    "white": "#E1E1E1",
+    "brightBlack": "#727272",
+    "brightRed": "#7E97AB",
+    "brightGreen": "#90A959",
+    "brightYellow": "#F4BF75",
+    "brightBlue": "#BAD7FF",
+    "brightPurple": "#AA759F",
+    "brightCyan": "#88AFA2",
+    "brightWhite": "#AFAFAF",
+    "background": "#101010",
+    "foreground": "#E0E1E4",
+    "cursorColor": "#E0E1E4",
+    "selectionBackground": "#696D79"
+}

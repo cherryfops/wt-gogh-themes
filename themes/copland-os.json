@@ -1,0 +1,23 @@
+{
+    "name": "Copland OS",
+    "black": "#000000",
+    "red": "#CB0102",
+    "green": "#19CB00",
+    "yellow": "#F0A300",
+    "blue": "#605BC6",
+    "purple": "#9C3FA4",
+    "cyan": "#00D6A6",
+    "white": "#DDDDDD",
+    "brightBlack": "#767676",
+    "brightRed": "#ED3A2C",
+    "brightGreen": "#23FD00",
+    "brightYellow": "#FFBC02",
+    "brightBlue": "#8483F2",
+    "brightPurple": "#BB5DC3",
+    "brightCyan": "#00FFC8",
+    "brightWhite": "#FFFFFF",
+    "background": "#001B33",
+    "foreground": "#6EBEFF",
+    "cursorColor": "#6EBEFF",
+    "selectionBackground": "#1C4466"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Monoindustrial",
+    "black": "#151C19",
+    "red": "#A39E64",
+    "green": "#A8B3AB",
+    "yellow": "#E98800",
+    "blue": "#648BD2",
+    "purple": "#588E60",
+    "cyan": "#C23800",
+    "white": "#FFFFFF",
+    "brightBlack": "#151C19",
+    "brightRed": "#A39E64",
+    "brightGreen": "#A8B3AB",
+    "brightYellow": "#C87500",
+    "brightBlue": "#5879B7",
+    "brightPurple": "#588E60",
+    "brightCyan": "#990000",
+    "brightWhite": "#EEEEEE",
+    "background": "#222C28",
+    "foreground": "#FFFFFF",
+    "cursorColor": "#FFFFFF",
+    "selectionBackground": "#59615E"
+}

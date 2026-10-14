@@ -1,0 +1,23 @@
+{
+    "name": "Hurtado",
+    "black": "#575757",
+    "red": "#FF1B00",
+    "green": "#A5E055",
+    "yellow": "#FBE74A",
+    "blue": "#496487",
+    "purple": "#FD5FF1",
+    "cyan": "#86E9FE",
+    "white": "#CBCCCB",
+    "brightBlack": "#262626",
+    "brightRed": "#D51D00",
+    "brightGreen": "#A5DF55",
+    "brightYellow": "#FBE84A",
+    "brightBlue": "#89BEFF",
+    "brightPurple": "#C001C1",
+    "brightCyan": "#86EAFE",
+    "brightWhite": "#DBDBDB",
+    "background": "#000000",
+    "foreground": "#DBDBDB",
+    "cursorColor": "#BBBBBB",
+    "selectionBackground": "#373737"
+}

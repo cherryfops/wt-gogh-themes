@@ -1,0 +1,23 @@
+{
+    "name": "Cursor Dark",
+    "black": "#242424",
+    "red": "#FC6B83",
+    "green": "#3FA266",
+    "yellow": "#D2943E",
+    "blue": "#81A1C1",
+    "purple": "#B48EAD",
+    "cyan": "#88C0D0",
+    "white": "#E4E4E4",
+    "brightBlack": "#4A4A4A",
+    "brightRed": "#FC6B83",
+    "brightGreen": "#70B489",
+    "brightYellow": "#F1B467",
+    "brightBlue": "#87A6C4",
+    "brightPurple": "#B48EAD",
+    "brightCyan": "#88C0D0",
+    "brightWhite": "#E4E4E4",
+    "background": "#141414",
+    "foreground": "#D4D4D4",
+    "cursorColor": "#D4D4D4",
+    "selectionBackground": "#2C2C2C"
+}

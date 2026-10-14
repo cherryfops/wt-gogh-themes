@@ -1,0 +1,23 @@
+{
+    "name": "Forest Blue",
+    "black": "#333333",
+    "red": "#F8818E",
+    "green": "#92D3A2",
+    "yellow": "#1A8E63",
+    "blue": "#8ED0CE",
+    "purple": "#5E468C",
+    "cyan": "#31658C",
+    "white": "#E2D8CD",
+    "brightBlack": "#3D3D3D",
+    "brightRed": "#FB3D66",
+    "brightGreen": "#6BB48D",
+    "brightYellow": "#30C85A",
+    "brightBlue": "#39A7A2",
+    "brightPurple": "#7E62B3",
+    "brightCyan": "#6096BF",
+    "brightWhite": "#E2D8CD",
+    "background": "#051519",
+    "foreground": "#E2D8CD",
+    "cursorColor": "#9E9ECB",
+    "selectionBackground": "#3C4646"
+}

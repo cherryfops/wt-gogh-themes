@@ -1,0 +1,23 @@
+{
+    "name": "Tempus Past",
+    "black": "#53545B",
+    "red": "#C00C50",
+    "green": "#0A7040",
+    "yellow": "#A6403A",
+    "blue": "#1763AA",
+    "purple": "#B02874",
+    "cyan": "#096A83",
+    "white": "#EAE2DE",
+    "brightBlack": "#80565D",
+    "brightRed": "#BD3133",
+    "brightGreen": "#337243",
+    "brightYellow": "#8D554A",
+    "brightBlue": "#5559BB",
+    "brightPurple": "#B022A7",
+    "brightCyan": "#07707A",
+    "brightWhite": "#F3F2F4",
+    "background": "#F3F2F4",
+    "foreground": "#53545B",
+    "cursorColor": "#53545B",
+    "selectionBackground": "#CBCACE"
+}

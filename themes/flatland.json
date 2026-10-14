@@ -1,0 +1,23 @@
+{
+    "name": "Flatland",
+    "black": "#1D1D19",
+    "red": "#F18339",
+    "green": "#9FD364",
+    "yellow": "#F4EF6D",
+    "blue": "#5096BE",
+    "purple": "#695ABC",
+    "cyan": "#D63865",
+    "white": "#FFFFFF",
+    "brightBlack": "#1D1D19",
+    "brightRed": "#D22A24",
+    "brightGreen": "#A7D42C",
+    "brightYellow": "#FF8949",
+    "brightBlue": "#61B9D0",
+    "brightPurple": "#695ABC",
+    "brightCyan": "#D63865",
+    "brightWhite": "#FFFFFF",
+    "background": "#1D1F21",
+    "foreground": "#B8DBEF",
+    "cursorColor": "#708284",
+    "selectionBackground": "#444E54"
+}

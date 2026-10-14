@@ -1,0 +1,23 @@
+{
+    "name": "Desert",
+    "black": "#4D4D4D",
+    "red": "#FF2B2B",
+    "green": "#98FB98",
+    "yellow": "#F0E68C",
+    "blue": "#CD853F",
+    "purple": "#FFDEAD",
+    "cyan": "#FFA0A0",
+    "white": "#F5DEB3",
+    "brightBlack": "#555555",
+    "brightRed": "#FF5555",
+    "brightGreen": "#55FF55",
+    "brightYellow": "#FFFF55",
+    "brightBlue": "#87CEFF",
+    "brightPurple": "#FF55FF",
+    "brightCyan": "#FFD700",
+    "brightWhite": "#FFFFFF",
+    "background": "#333333",
+    "foreground": "#FFFFFF",
+    "cursorColor": "#00FF00",
+    "selectionBackground": "#666666"
+}

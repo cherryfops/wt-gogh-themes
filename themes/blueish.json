@@ -1,0 +1,23 @@
+{
+    "name": "Blueish",
+    "black": "#182430",
+    "red": "#4CE587",
+    "green": "#C3E88D",
+    "yellow": "#F6CD5C",
+    "blue": "#82AAFF",
+    "purple": "#FF84DD",
+    "cyan": "#5FD1FF",
+    "white": "#C8E1F8",
+    "brightBlack": "#616D78",
+    "brightRed": "#4CE587",
+    "brightGreen": "#C3E88D",
+    "brightYellow": "#F6CD5C",
+    "brightBlue": "#82AAFF",
+    "brightPurple": "#FF84DD",
+    "brightCyan": "#5FD1FF",
+    "brightWhite": "#8F98A0",
+    "background": "#182430",
+    "foreground": "#C8E1F8",
+    "cursorColor": "#C8E1F8",
+    "selectionBackground": "#445362"
+}

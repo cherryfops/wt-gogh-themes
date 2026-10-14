@@ -1,0 +1,23 @@
+{
+    "name": "Low Contrast",
+    "black": "#000000",
+    "red": "#BB0000",
+    "green": "#00BB00",
+    "yellow": "#BBBB00",
+    "blue": "#0000BB",
+    "purple": "#BB00BB",
+    "cyan": "#00BBBB",
+    "white": "#BBBBBB",
+    "brightBlack": "#000000",
+    "brightRed": "#BB0000",
+    "brightGreen": "#00BB00",
+    "brightYellow": "#BBBB00",
+    "brightBlue": "#0000BB",
+    "brightPurple": "#BB00BB",
+    "brightCyan": "#00BBBB",
+    "brightWhite": "#BBBBBB",
+    "background": "#333333",
+    "foreground": "#DDDDDD",
+    "cursorColor": "#DDDDDD",
+    "selectionBackground": "#5E5E5E"
+}

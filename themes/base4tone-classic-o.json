@@ -1,0 +1,23 @@
+{
+    "name": "Base4Tone Classic O",
+    "black": "#1A1D23",
+    "red": "#A24AD9",
+    "green": "#0D9C89",
+    "yellow": "#1ED2BA",
+    "blue": "#74A8FB",
+    "purple": "#9488F2",
+    "cyan": "#1BBBA6",
+    "white": "#E7EAEE",
+    "brightBlack": "#07090D",
+    "brightRed": "#C27EED",
+    "brightGreen": "#2FDAC3",
+    "brightYellow": "#93ECE0",
+    "brightBlue": "#C7DCFF",
+    "brightPurple": "#ABA1F7",
+    "brightCyan": "#C2D9FF",
+    "brightWhite": "#F6F7F9",
+    "background": "#1A1D23",
+    "foreground": "#8995A9",
+    "cursorColor": "#6D8884",
+    "selectionBackground": "#363B44"
+}

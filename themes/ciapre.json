@@ -1,0 +1,23 @@
+{
+    "name": "Ciapre",
+    "black": "#181818",
+    "red": "#810009",
+    "green": "#48513B",
+    "yellow": "#CC8B3F",
+    "blue": "#576D8C",
+    "purple": "#724D7C",
+    "cyan": "#5C4F4B",
+    "white": "#AEA47F",
+    "brightBlack": "#555555",
+    "brightRed": "#AC3835",
+    "brightGreen": "#A6A75D",
+    "brightYellow": "#DCDF7C",
+    "brightBlue": "#3097C6",
+    "brightPurple": "#D33061",
+    "brightCyan": "#F3DBB2",
+    "brightWhite": "#F4F4F4",
+    "background": "#191C27",
+    "foreground": "#AEA47A",
+    "cursorColor": "#92805B",
+    "selectionBackground": "#3E3E3C"
+}

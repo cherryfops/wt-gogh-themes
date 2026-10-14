@@ -1,0 +1,23 @@
+{
+    "name": "Medailion",
+    "black": "#000000",
+    "red": "#B54C00",
+    "green": "#7C8A16",
+    "yellow": "#ABB8FF",
+    "blue": "#606BAF",
+    "purple": "#8B5990",
+    "cyan": "#906B25",
+    "white": "#C9C199",
+    "brightBlack": "#5E5118",
+    "brightRed": "#FF9148",
+    "brightGreen": "#B1C93A",
+    "brightYellow": "#FFE449",
+    "brightBlue": "#ABB8FF",
+    "brightPurple": "#FE9FFF",
+    "brightCyan": "#FFBB51",
+    "brightWhite": "#FED597",
+    "background": "#1D1808",
+    "foreground": "#AEA578",
+    "cursorColor": "#AEA578",
+    "selectionBackground": "#413B24"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Minimal Kiwi Theme",
+    "black": "#191919",
+    "red": "#F44747",
+    "green": "#C3E88D",
+    "yellow": "#FFCB6B",
+    "blue": "#6796E6",
+    "purple": "#F07178",
+    "cyan": "#89DDFF",
+    "white": "#B2CCD6",
+    "brightBlack": "#191919",
+    "brightRed": "#3D1212",
+    "brightGreen": "#1A2536",
+    "brightYellow": "#3D3019",
+    "brightBlue": "#6796E6",
+    "brightPurple": "#3D1D1F",
+    "brightCyan": "#1F3538",
+    "brightWhite": "#2B3236",
+    "background": "#212121",
+    "foreground": "#828989",
+    "cursorColor": "#828989",
+    "selectionBackground": "#393B3B"
+}

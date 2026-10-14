@@ -1,0 +1,23 @@
+{
+    "name": "Nord Light Lost",
+    "black": "#003B4E",
+    "red": "#E64569",
+    "green": "#069F5F",
+    "yellow": "#DAB752",
+    "blue": "#439ECF",
+    "purple": "#D961DC",
+    "cyan": "#00B1BE",
+    "white": "#B3B3B3",
+    "brightBlack": "#3E89A1",
+    "brightRed": "#E4859A",
+    "brightGreen": "#A2CCA1",
+    "brightYellow": "#E1E387",
+    "brightBlue": "#6FBBE2",
+    "brightPurple": "#E586E7",
+    "brightCyan": "#96DCDA",
+    "brightWhite": "#DEDEDE",
+    "background": "#EBEAF2",
+    "foreground": "#004F7C",
+    "cursorColor": "#439ECF",
+    "selectionBackground": "#B0C3D4"
+}

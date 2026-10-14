@@ -1,0 +1,23 @@
+{
+    "name": "Phd",
+    "black": "#061229",
+    "red": "#D07346",
+    "green": "#99BF52",
+    "yellow": "#FBD461",
+    "blue": "#5299BF",
+    "purple": "#9989CC",
+    "cyan": "#72B9BF",
+    "white": "#B8BBC2",
+    "brightBlack": "#717885",
+    "brightRed": "#D07346",
+    "brightGreen": "#99BF52",
+    "brightYellow": "#FBD461",
+    "brightBlue": "#5299BF",
+    "brightPurple": "#9989CC",
+    "brightCyan": "#72B9BF",
+    "brightWhite": "#FFFFFF",
+    "background": "#061229",
+    "foreground": "#B8BBC2",
+    "cursorColor": "#B8BBC2",
+    "selectionBackground": "#323C4F"
+}

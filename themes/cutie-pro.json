@@ -1,0 +1,23 @@
+{
+    "name": "Cutie Pro",
+    "black": "#000000",
+    "red": "#F56E7F",
+    "green": "#BEC975",
+    "yellow": "#F58669",
+    "blue": "#42D9C5",
+    "purple": "#D286B7",
+    "cyan": "#37CB8A",
+    "white": "#D5C3C3",
+    "brightBlack": "#88847F",
+    "brightRed": "#E5A1A3",
+    "brightGreen": "#E8D6A7",
+    "brightYellow": "#F1BB79",
+    "brightBlue": "#80C5DE",
+    "brightPurple": "#B294BB",
+    "brightCyan": "#9DCCBB",
+    "brightWhite": "#FFFFFF",
+    "background": "#181818",
+    "foreground": "#D5D0C9",
+    "cursorColor": "#EFC4CD",
+    "selectionBackground": "#363636"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Dark Pride",
+    "black": "#282828",
+    "red": "#CA1444",
+    "green": "#789ABA",
+    "yellow": "#B3879F",
+    "blue": "#94469B",
+    "purple": "#CB6FA1",
+    "cyan": "#FB6E93",
+    "white": "#CF98C1",
+    "brightBlack": "#98218E",
+    "brightRed": "#CB515D",
+    "brightGreen": "#5A87B1",
+    "brightYellow": "#9C61AB",
+    "brightBlue": "#9A77B1",
+    "brightPurple": "#F2A297",
+    "brightCyan": "#F4436F",
+    "brightWhite": "#EBDBB2",
+    "background": "#0D0D1B",
+    "foreground": "#CCCCCE",
+    "cursorColor": "#CCCCCE",
+    "selectionBackground": "#3D3D48"
+}

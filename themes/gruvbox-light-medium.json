@@ -1,0 +1,23 @@
+{
+    "name": "Gruvbox Light Medium",
+    "black": "#FBF1C7",
+    "red": "#9D0006",
+    "green": "#79740E",
+    "yellow": "#B57614",
+    "blue": "#076678",
+    "purple": "#8F3F71",
+    "cyan": "#427B58",
+    "white": "#504945",
+    "brightBlack": "#BDAE93",
+    "brightRed": "#9D0006",
+    "brightGreen": "#79740E",
+    "brightYellow": "#B57614",
+    "brightBlue": "#076678",
+    "brightPurple": "#8F3F71",
+    "brightCyan": "#427B58",
+    "brightWhite": "#282828",
+    "background": "#FBF1C7",
+    "foreground": "#504945",
+    "cursorColor": "#504945",
+    "selectionBackground": "#D0C7A6"
+}

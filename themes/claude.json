@@ -1,0 +1,23 @@
+{
+    "name": "Claude",
+    "black": "#C15F3C",
+    "red": "#788C5D",
+    "green": "#B16803",
+    "yellow": "#6A9BCC",
+    "blue": "#8B6CB0",
+    "purple": "#2E8B8B",
+    "cyan": "#B5B3A9",
+    "white": "#3D3D3C",
+    "brightBlack": "#D97757",
+    "brightRed": "#8FA86B",
+    "brightGreen": "#D4952B",
+    "brightYellow": "#7BAFD4",
+    "brightBlue": "#A080C8",
+    "brightPurple": "#4EAAAA",
+    "brightCyan": "#BAB9B5",
+    "brightWhite": "#141413",
+    "background": "#FAF9F5",
+    "foreground": "#141413",
+    "cursorColor": "#D97757",
+    "selectionBackground": "#E8E6DC"
+}

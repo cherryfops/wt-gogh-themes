@@ -1,0 +1,23 @@
+{
+    "name": "Firefox Dev",
+    "black": "#002831",
+    "red": "#E63853",
+    "green": "#5EB83C",
+    "yellow": "#A57706",
+    "blue": "#359DDF",
+    "purple": "#D75CFF",
+    "cyan": "#4B73A2",
+    "white": "#DCDCDC",
+    "brightBlack": "#001E27",
+    "brightRed": "#E1003F",
+    "brightGreen": "#1D9000",
+    "brightYellow": "#CD9409",
+    "brightBlue": "#006FC0",
+    "brightPurple": "#A200DA",
+    "brightCyan": "#005794",
+    "brightWhite": "#E2E2E2",
+    "background": "#0E1011",
+    "foreground": "#7C8FA4",
+    "cursorColor": "#708284",
+    "selectionBackground": "#2A3036"
+}

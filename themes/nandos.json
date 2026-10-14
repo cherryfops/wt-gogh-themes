@@ -1,0 +1,23 @@
+{
+    "name": "Nandos",
+    "black": "#0C0C0C",
+    "red": "#C50F1F",
+    "green": "#13A10E",
+    "yellow": "#C19C00",
+    "blue": "#0037DA",
+    "purple": "#881798",
+    "cyan": "#FFFF00",
+    "white": "#FFFF00",
+    "brightBlack": "#FFFF00",
+    "brightRed": "#FF0000",
+    "brightGreen": "#16C60C",
+    "brightYellow": "#FFFF00",
+    "brightBlue": "#3B78FF",
+    "brightPurple": "#B4009E",
+    "brightCyan": "#61D6D6",
+    "brightWhite": "#F2F2F2",
+    "background": "#E8841D",
+    "foreground": "#FFFFFF",
+    "cursorColor": "#FFFFFF",
+    "selectionBackground": "#EEA356"
+}

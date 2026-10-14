@@ -1,0 +1,23 @@
+{
+    "name": "Blue Dolphin",
+    "black": "#292D3E",
+    "red": "#FF8288",
+    "green": "#B4E88D",
+    "yellow": "#F4D69F",
+    "blue": "#82AAFF",
+    "purple": "#E9C1FF",
+    "cyan": "#89EBFF",
+    "white": "#D0D0D0",
+    "brightBlack": "#434758",
+    "brightRed": "#FF8B92",
+    "brightGreen": "#DDFFA7",
+    "brightYellow": "#FFE585",
+    "brightBlue": "#9CC4FF",
+    "brightPurple": "#DDB0F6",
+    "brightCyan": "#A3F7FF",
+    "brightWhite": "#FFFFFF",
+    "background": "#006984",
+    "foreground": "#C5F2FF",
+    "cursorColor": "#FFCC00",
+    "selectionBackground": "#318BA3"
+}

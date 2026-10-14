@@ -1,0 +1,23 @@
+{
+    "name": "Ultra Violent",
+    "black": "#242728",
+    "red": "#FF0090",
+    "green": "#B6FF00",
+    "yellow": "#FFF727",
+    "blue": "#47E0FB",
+    "purple": "#D731FF",
+    "cyan": "#0EFFBB",
+    "white": "#E1E1E1",
+    "brightBlack": "#636667",
+    "brightRed": "#FB58B4",
+    "brightGreen": "#DEFF8C",
+    "brightYellow": "#EBE087",
+    "brightBlue": "#7FECFF",
+    "brightPurple": "#E681FF",
+    "brightCyan": "#69FCD3",
+    "brightWhite": "#F9F9F5",
+    "background": "#242728",
+    "foreground": "#C1C1C1",
+    "cursorColor": "#C1C1C1",
+    "selectionBackground": "#574C49"
+}

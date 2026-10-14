@@ -1,0 +1,23 @@
+{
+    "name": "Royal",
+    "black": "#241F2B",
+    "red": "#91284C",
+    "green": "#23801C",
+    "yellow": "#B49D27",
+    "blue": "#6580B0",
+    "purple": "#674D96",
+    "cyan": "#8AAABE",
+    "white": "#524966",
+    "brightBlack": "#312D3D",
+    "brightRed": "#D5356C",
+    "brightGreen": "#2CD946",
+    "brightYellow": "#FDE83B",
+    "brightBlue": "#90BAF9",
+    "brightPurple": "#A479E3",
+    "brightCyan": "#ACD4EB",
+    "brightWhite": "#9E8CBD",
+    "background": "#100815",
+    "foreground": "#514968",
+    "cursorColor": "#524966",
+    "selectionBackground": "#20182A"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Gruvbox Dark Pale",
+    "black": "#262626",
+    "red": "#D75F5F",
+    "green": "#AFAF00",
+    "yellow": "#FFAF00",
+    "blue": "#83ADAD",
+    "purple": "#D485AD",
+    "cyan": "#85AD85",
+    "white": "#DAB997",
+    "brightBlack": "#8A8A8A",
+    "brightRed": "#D75F5F",
+    "brightGreen": "#AFAF00",
+    "brightYellow": "#FFAF00",
+    "brightBlue": "#83ADAD",
+    "brightPurple": "#D485AD",
+    "brightCyan": "#85AD85",
+    "brightWhite": "#EBDBB2",
+    "background": "#262626",
+    "foreground": "#DAB997",
+    "cursorColor": "#DAB997",
+    "selectionBackground": "#534B42"
+}

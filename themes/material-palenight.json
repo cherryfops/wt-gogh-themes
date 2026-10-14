@@ -1,0 +1,23 @@
+{
+    "name": "Material Palenight",
+    "black": "#2E3436",
+    "red": "#FF5370",
+    "green": "#C3E88D",
+    "yellow": "#FFCB6B",
+    "blue": "#82AAFF",
+    "purple": "#C792EA",
+    "cyan": "#89DDFF",
+    "white": "#D3D7CF",
+    "brightBlack": "#555753",
+    "brightRed": "#F07178",
+    "brightGreen": "#C3E88D",
+    "brightYellow": "#F78C6C",
+    "brightBlue": "#729FCF",
+    "brightPurple": "#BB80B3",
+    "brightCyan": "#89DDFF",
+    "brightWhite": "#EEEEEC",
+    "background": "#292D3E",
+    "foreground": "#A6ACCD",
+    "cursorColor": "#A6ACCD",
+    "selectionBackground": "#484D62"
+}

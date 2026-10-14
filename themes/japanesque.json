@@ -1,0 +1,23 @@
+{
+    "name": "Japanesque",
+    "black": "#343935",
+    "red": "#CF3F61",
+    "green": "#7BB75B",
+    "yellow": "#E9B32A",
+    "blue": "#4C9AD4",
+    "purple": "#A57FC4",
+    "cyan": "#389AAD",
+    "white": "#FAFAF6",
+    "brightBlack": "#595B59",
+    "brightRed": "#D18FA6",
+    "brightGreen": "#767F2C",
+    "brightYellow": "#78592F",
+    "brightBlue": "#135979",
+    "brightPurple": "#604291",
+    "brightCyan": "#76BBCA",
+    "brightWhite": "#B2B5AE",
+    "background": "#1E1E1E",
+    "foreground": "#F7F6EC",
+    "cursorColor": "#EDCF4F",
+    "selectionBackground": "#175877"
+}

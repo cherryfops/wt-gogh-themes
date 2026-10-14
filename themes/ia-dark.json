@@ -1,0 +1,23 @@
+{
+    "name": "Ia Dark",
+    "black": "#1A1A1A",
+    "red": "#D88568",
+    "green": "#83A471",
+    "yellow": "#B99353",
+    "blue": "#8ECCDD",
+    "purple": "#B98EB2",
+    "cyan": "#7C9CAE",
+    "white": "#CCCCCC",
+    "brightBlack": "#767676",
+    "brightRed": "#D88568",
+    "brightGreen": "#83A471",
+    "brightYellow": "#B99353",
+    "brightBlue": "#8ECCDD",
+    "brightPurple": "#B98EB2",
+    "brightCyan": "#7C9CAE",
+    "brightWhite": "#F8F8F8",
+    "background": "#1A1A1A",
+    "foreground": "#CCCCCC",
+    "cursorColor": "#CCCCCC",
+    "selectionBackground": "#464646"
+}

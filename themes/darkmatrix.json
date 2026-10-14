@@ -1,0 +1,23 @@
+{
+    "name": "Darkmatrix",
+    "black": "#091013",
+    "red": "#006536",
+    "green": "#6FA64C",
+    "yellow": "#7E8000",
+    "blue": "#2C9A84",
+    "purple": "#452D53",
+    "cyan": "#114D53",
+    "white": "#006536",
+    "brightBlack": "#333333",
+    "brightRed": "#00733D",
+    "brightGreen": "#90D762",
+    "brightYellow": "#E2E500",
+    "brightBlue": "#46D8B8",
+    "brightPurple": "#4A3059",
+    "brightCyan": "#12545A",
+    "brightWhite": "#006536",
+    "background": "#070C0E",
+    "foreground": "#3E5715",
+    "cursorColor": "#9FA86E",
+    "selectionBackground": "#151F10"
+}

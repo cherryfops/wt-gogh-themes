@@ -1,0 +1,23 @@
+{
+    "name": "iTerm2 Smoooooth",
+    "black": "#14191E",
+    "red": "#B43C2A",
+    "green": "#00C200",
+    "yellow": "#C7C400",
+    "blue": "#2744C7",
+    "purple": "#C040BE",
+    "cyan": "#00C5C7",
+    "white": "#C7C7C7",
+    "brightBlack": "#686868",
+    "brightRed": "#DD7975",
+    "brightGreen": "#58E790",
+    "brightYellow": "#ECE100",
+    "brightBlue": "#A7ABF2",
+    "brightPurple": "#E17EE1",
+    "brightCyan": "#60FDFF",
+    "brightWhite": "#FFFFFF",
+    "background": "#15191F",
+    "foreground": "#DCDCDC",
+    "cursorColor": "#FFFFFF",
+    "selectionBackground": "#474A4E"
+}

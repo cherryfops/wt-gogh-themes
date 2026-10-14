@@ -1,0 +1,23 @@
+{
+    "name": "Galaxy",
+    "black": "#000000",
+    "red": "#F9555F",
+    "green": "#21B089",
+    "yellow": "#FEF02A",
+    "blue": "#589DF6",
+    "purple": "#944D95",
+    "cyan": "#1F9EE7",
+    "white": "#BBBBBB",
+    "brightBlack": "#555555",
+    "brightRed": "#FA8C8F",
+    "brightGreen": "#35BB9A",
+    "brightYellow": "#FFFF55",
+    "brightBlue": "#589DF6",
+    "brightPurple": "#E75699",
+    "brightCyan": "#3979BC",
+    "brightWhite": "#FFFFFF",
+    "background": "#1D2837",
+    "foreground": "#FFFFFF",
+    "cursorColor": "#BBBBBB",
+    "selectionBackground": "#B5D5FF"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Kimbie Dark",
+    "black": "#221A0F",
+    "red": "#C87E5A",
+    "green": "#879A6B",
+    "yellow": "#E4B581",
+    "blue": "#5D90CD",
+    "purple": "#C792EA",
+    "cyan": "#6BBAB2",
+    "white": "#D3AF86",
+    "brightBlack": "#7D6F48",
+    "brightRed": "#C87E5A",
+    "brightGreen": "#879A6B",
+    "brightYellow": "#E4B581",
+    "brightBlue": "#5D90CD",
+    "brightPurple": "#C792EA",
+    "brightCyan": "#6BBAB2",
+    "brightWhite": "#F2CCA8",
+    "background": "#221A0F",
+    "foreground": "#D3AF86",
+    "cursorColor": "#D3AF86",
+    "selectionBackground": "#4E3F2D"
+}

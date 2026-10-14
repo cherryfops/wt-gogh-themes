@@ -1,0 +1,23 @@
+{
+    "name": "Sandstone Ink",
+    "black": "#002B36",
+    "red": "#CF2522",
+    "green": "#4B7000",
+    "yellow": "#906800",
+    "blue": "#0D6FA8",
+    "purple": "#B5006E",
+    "cyan": "#00756D",
+    "white": "#6E6855",
+    "brightBlack": "#2B3D45",
+    "brightRed": "#B33000",
+    "brightGreen": "#536868",
+    "brightYellow": "#566C6C",
+    "brightBlue": "#5C6F6F",
+    "brightPurple": "#5F64B7",
+    "brightCyan": "#5F6E6E",
+    "brightWhite": "#FDF6E3",
+    "background": "#FDF6E3",
+    "foreground": "#2B3D45",
+    "cursorColor": "#2B3D45",
+    "selectionBackground": "#DDD8C0"
+}

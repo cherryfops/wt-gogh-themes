@@ -1,0 +1,23 @@
+{
+    "name": "Tempus Day",
+    "black": "#464340",
+    "red": "#C81000",
+    "green": "#107410",
+    "yellow": "#806000",
+    "blue": "#385DC4",
+    "purple": "#B63052",
+    "cyan": "#007070",
+    "white": "#E7E3D7",
+    "brightBlack": "#68607D",
+    "brightRed": "#B24000",
+    "brightGreen": "#427040",
+    "brightYellow": "#6F6600",
+    "brightBlue": "#0F64C4",
+    "brightPurple": "#8050A7",
+    "brightCyan": "#336C87",
+    "brightWhite": "#F8F2E5",
+    "background": "#F8F2E5",
+    "foreground": "#464340",
+    "cursorColor": "#464340",
+    "selectionBackground": "#CCC6BC"
+}

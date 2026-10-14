@@ -1,0 +1,23 @@
+{
+    "name": "Space Grey Eighties",
+    "black": "#15171C",
+    "red": "#EC5F67",
+    "green": "#80A763",
+    "yellow": "#4D83D0",
+    "blue": "#5485C0",
+    "purple": "#BF83C0",
+    "cyan": "#57C2C0",
+    "white": "#EEECE7",
+    "brightBlack": "#555555",
+    "brightRed": "#FF6973",
+    "brightGreen": "#93D393",
+    "brightYellow": "#FFD156",
+    "brightBlue": "#4D83D0",
+    "brightPurple": "#FF55FF",
+    "brightCyan": "#83E8E4",
+    "brightWhite": "#FFFFFF",
+    "background": "#212121",
+    "foreground": "#C7C6C2",
+    "cursorColor": "#C7C6C2",
+    "selectionBackground": "#4A4A49"
+}

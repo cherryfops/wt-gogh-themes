@@ -1,0 +1,23 @@
+{
+    "name": "Piatto Light",
+    "black": "#414141",
+    "red": "#B23771",
+    "green": "#66781E",
+    "yellow": "#CD6F34",
+    "blue": "#3C5EA8",
+    "purple": "#A454B2",
+    "cyan": "#66781E",
+    "white": "#FFFFFF",
+    "brightBlack": "#3F3F3F",
+    "brightRed": "#DB3365",
+    "brightGreen": "#829429",
+    "brightYellow": "#CD6F34",
+    "brightBlue": "#3C5EA8",
+    "brightPurple": "#A454B2",
+    "brightCyan": "#829429",
+    "brightWhite": "#F2F2F2",
+    "background": "#FFFFFF",
+    "foreground": "#414141",
+    "cursorColor": "#5E77C8",
+    "selectionBackground": "#D0D0D0"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Shadesmear Light",
+    "black": "#DBDBDB",
+    "red": "#CC5450",
+    "green": "#71983B",
+    "yellow": "#307878",
+    "blue": "#376388",
+    "purple": "#D7AB54",
+    "cyan": "#C57D42",
+    "white": "#232323",
+    "brightBlack": "#4E4E4E",
+    "brightRed": "#CC5450",
+    "brightGreen": "#71983B",
+    "brightYellow": "#307878",
+    "brightBlue": "#376388",
+    "brightPurple": "#D7AB54",
+    "brightCyan": "#C57D42",
+    "brightWhite": "#E4E4E4",
+    "background": "#DBDBDB",
+    "foreground": "#232323",
+    "cursorColor": "#232323",
+    "selectionBackground": "#ADADAD"
+}

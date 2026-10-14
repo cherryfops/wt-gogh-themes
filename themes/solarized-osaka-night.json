@@ -1,0 +1,23 @@
+{
+    "name": "Solarized Osaka Night",
+    "black": "#15161D",
+    "red": "#E77D8F",
+    "green": "#A8CD76",
+    "yellow": "#D8B172",
+    "blue": "#82A1F1",
+    "purple": "#B69BF1",
+    "cyan": "#90CDFA",
+    "white": "#AAB1D3",
+    "brightBlack": "#424866",
+    "brightRed": "#E77D8F",
+    "brightGreen": "#A8CD76",
+    "brightYellow": "#D8B172",
+    "brightBlue": "#82A1F1",
+    "brightPurple": "#B69BF1",
+    "brightCyan": "#90CDFA",
+    "brightWhite": "#C2CAF1",
+    "background": "#1A1B25",
+    "foreground": "#C2CAF1",
+    "cursorColor": "#C2CAF1",
+    "selectionBackground": "#444758"
+}

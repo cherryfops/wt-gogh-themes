@@ -1,0 +1,23 @@
+{
+    "name": "Lab Fox",
+    "black": "#2E2E2E",
+    "red": "#FC6D26",
+    "green": "#3EB383",
+    "yellow": "#FCA121",
+    "blue": "#DB3B21",
+    "purple": "#380D75",
+    "cyan": "#6E49CB",
+    "white": "#FFFFFF",
+    "brightBlack": "#464646",
+    "brightRed": "#FF6517",
+    "brightGreen": "#53EAA8",
+    "brightYellow": "#FCA013",
+    "brightBlue": "#DB501F",
+    "brightPurple": "#441090",
+    "brightCyan": "#7D53E7",
+    "brightWhite": "#FFFFFF",
+    "background": "#2E2E2E",
+    "foreground": "#FFFFFF",
+    "cursorColor": "#7F7F7F",
+    "selectionBackground": "#626262"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Dawnfox",
+    "black": "#575279",
+    "red": "#B4637A",
+    "green": "#618774",
+    "yellow": "#EA9D34",
+    "blue": "#286983",
+    "purple": "#907AA9",
+    "cyan": "#56949F",
+    "white": "#E5E9F0",
+    "brightBlack": "#5F5695",
+    "brightRed": "#C26D85",
+    "brightGreen": "#629F81",
+    "brightYellow": "#EEA846",
+    "brightBlue": "#2D81A3",
+    "brightPurple": "#9A80B9",
+    "brightCyan": "#5CA7B4",
+    "brightWhite": "#E6EBF3",
+    "background": "#FAF4ED",
+    "foreground": "#575279",
+    "cursorColor": "#575279",
+    "selectionBackground": "#D1CCD0"
+}

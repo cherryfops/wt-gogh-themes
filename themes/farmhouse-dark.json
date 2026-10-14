@@ -1,0 +1,23 @@
+{
+    "name": "Farmhouse Dark",
+    "black": "#1D2027",
+    "red": "#BA0004",
+    "green": "#549D00",
+    "yellow": "#C87300",
+    "blue": "#0049E6",
+    "purple": "#9F1B61",
+    "cyan": "#1FB65C",
+    "white": "#E8E4E1",
+    "brightBlack": "#394047",
+    "brightRed": "#EB0009",
+    "brightGreen": "#7AC100",
+    "brightYellow": "#EA9A00",
+    "brightBlue": "#006EFE",
+    "brightPurple": "#BF3B7F",
+    "brightCyan": "#19E062",
+    "brightWhite": "#F4EEF0",
+    "background": "#1D2027",
+    "foreground": "#E8E4E1",
+    "cursorColor": "#006EFE",
+    "selectionBackground": "#505156"
+}

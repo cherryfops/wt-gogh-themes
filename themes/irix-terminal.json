@@ -1,0 +1,23 @@
+{
+    "name": "IRIX Terminal",
+    "black": "#1A1919",
+    "red": "#FF2B1E",
+    "green": "#57FF3D",
+    "yellow": "#FFFF44",
+    "blue": "#0004FF",
+    "purple": "#FF2CFF",
+    "cyan": "#56FFFF",
+    "white": "#FFFFFF",
+    "brightBlack": "#FFFF44",
+    "brightRed": "#FFFF44",
+    "brightGreen": "#FFFF44",
+    "brightYellow": "#FFFC72",
+    "brightBlue": "#FFFF44",
+    "brightPurple": "#FFFF44",
+    "brightCyan": "#FFFF44",
+    "brightWhite": "#FFFF44",
+    "background": "#000043",
+    "foreground": "#F2F2F2",
+    "cursorColor": "#C7C7C7",
+    "selectionBackground": "#C2DEFF"
+}

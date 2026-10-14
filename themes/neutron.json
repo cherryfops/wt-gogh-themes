@@ -1,0 +1,23 @@
+{
+    "name": "Neutron",
+    "black": "#23252B",
+    "red": "#B54036",
+    "green": "#5AB977",
+    "yellow": "#DEB566",
+    "blue": "#6A7C93",
+    "purple": "#A4799D",
+    "cyan": "#3F94A8",
+    "white": "#E6E8EF",
+    "brightBlack": "#23252B",
+    "brightRed": "#B54036",
+    "brightGreen": "#5AB977",
+    "brightYellow": "#DEB566",
+    "brightBlue": "#6A7C93",
+    "brightPurple": "#A4799D",
+    "brightCyan": "#3F94A8",
+    "brightWhite": "#EBEDF2",
+    "background": "#1C1E22",
+    "foreground": "#E6E8EF",
+    "cursorColor": "#F6F7EC",
+    "selectionBackground": "#4E5055"
+}

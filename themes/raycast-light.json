@@ -1,0 +1,23 @@
+{
+    "name": "Raycast Light",
+    "black": "#000000",
+    "red": "#B12424",
+    "green": "#006B4F",
+    "yellow": "#F8A300",
+    "blue": "#138AF2",
+    "purple": "#9A1B6E",
+    "cyan": "#3EB8BF",
+    "white": "#FFFFFF",
+    "brightBlack": "#000000",
+    "brightRed": "#B12424",
+    "brightGreen": "#006B4F",
+    "brightYellow": "#F8A300",
+    "brightBlue": "#138AF2",
+    "brightPurple": "#9A1B6E",
+    "brightCyan": "#3EB8BF",
+    "brightWhite": "#FFFFFF",
+    "background": "#FFFFFF",
+    "foreground": "#000000",
+    "cursorColor": "#000000",
+    "selectionBackground": "#BFBFBF"
+}

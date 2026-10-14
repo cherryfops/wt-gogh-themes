@@ -1,0 +1,23 @@
+{
+    "name": "SeedFlip Pulse",
+    "black": "#0D0D0D",
+    "red": "#E34F4F",
+    "green": "#4FE380",
+    "yellow": "#E3CB4F",
+    "blue": "#4F8DE3",
+    "purple": "#E34FE3",
+    "cyan": "#4FE3E3",
+    "white": "#FFFFFF",
+    "brightBlack": "#454545",
+    "brightRed": "#EE9191",
+    "brightGreen": "#91EEB0",
+    "brightYellow": "#EEDE91",
+    "brightBlue": "#91B8EE",
+    "brightPurple": "#EE91EE",
+    "brightCyan": "#91EEEE",
+    "brightWhite": "#FFFFFF",
+    "background": "#121212",
+    "foreground": "#FFFFFF",
+    "cursorColor": "#1DB954",
+    "selectionBackground": "#1A1A1A"
+}

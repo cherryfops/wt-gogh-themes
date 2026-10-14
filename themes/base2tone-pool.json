@@ -1,0 +1,23 @@
+{
+    "name": "Base2Tone Pool",
+    "black": "#2A2433",
+    "red": "#AA75F5",
+    "green": "#F87972",
+    "yellow": "#FFB6B3",
+    "blue": "#B886FD",
+    "purple": "#F87972",
+    "cyan": "#C7A0FE",
+    "white": "#9A90A7",
+    "brightBlack": "#635775",
+    "brightRed": "#FC8983",
+    "brightGreen": "#372F42",
+    "brightYellow": "#574B68",
+    "brightBlue": "#706383",
+    "brightPurple": "#E4D2FE",
+    "brightCyan": "#F36F68",
+    "brightWhite": "#F3EBFF",
+    "background": "#2A2433",
+    "foreground": "#9A90A7",
+    "cursorColor": "#CF504A",
+    "selectionBackground": "#463F50"
+}

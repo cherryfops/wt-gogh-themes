@@ -1,0 +1,23 @@
+{
+    "name": "Windows Highcontrast",
+    "black": "#000000",
+    "red": "#FC5454",
+    "green": "#54FC54",
+    "yellow": "#FCFC54",
+    "blue": "#5454FC",
+    "purple": "#FC54FC",
+    "cyan": "#54FCFC",
+    "white": "#C0C0C0",
+    "brightBlack": "#545454",
+    "brightRed": "#FC5454",
+    "brightGreen": "#54FC54",
+    "brightYellow": "#FCFC54",
+    "brightBlue": "#5454FC",
+    "brightPurple": "#FC54FC",
+    "brightCyan": "#54FCFC",
+    "brightWhite": "#FCFCFC",
+    "background": "#000000",
+    "foreground": "#C0C0C0",
+    "cursorColor": "#C0C0C0",
+    "selectionBackground": "#303030"
+}

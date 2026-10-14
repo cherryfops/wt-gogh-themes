@@ -1,0 +1,23 @@
+{
+    "name": "Sparky",
+    "black": "#212322",
+    "red": "#FF585D",
+    "green": "#78D64B",
+    "yellow": "#FBDD40",
+    "blue": "#4698CB",
+    "purple": "#D59ED7",
+    "cyan": "#2DCCD3",
+    "white": "#DEE6DE",
+    "brightBlack": "#4B4F54",
+    "brightRed": "#FF7276",
+    "brightGreen": "#8EDD65",
+    "brightYellow": "#F6EB61",
+    "brightBlue": "#69B3E7",
+    "brightPurple": "#F99FC9",
+    "brightCyan": "#00C1D5",
+    "brightWhite": "#D9E1E2",
+    "background": "#072B31",
+    "foreground": "#F4F5F0",
+    "cursorColor": "#F4F5F0",
+    "selectionBackground": "#425E61"
+}

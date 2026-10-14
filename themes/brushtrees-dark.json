@@ -1,0 +1,23 @@
+{
+    "name": "Brushtrees Dark",
+    "black": "#485867",
+    "red": "#B38686",
+    "green": "#87B386",
+    "yellow": "#AAB386",
+    "blue": "#868CB3",
+    "purple": "#B386B2",
+    "cyan": "#86B3B3",
+    "white": "#B0C5C8",
+    "brightBlack": "#8299A1",
+    "brightRed": "#B38686",
+    "brightGreen": "#87B386",
+    "brightYellow": "#AAB386",
+    "brightBlue": "#868CB3",
+    "brightPurple": "#B386B2",
+    "brightCyan": "#86B3B3",
+    "brightWhite": "#E3EFEF",
+    "background": "#485867",
+    "foreground": "#B0C5C8",
+    "cursorColor": "#B0C5C8",
+    "selectionBackground": "#62737F"
+}

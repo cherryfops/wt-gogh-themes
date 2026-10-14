@@ -1,0 +1,23 @@
+{
+    "name": "Sunset Drive",
+    "black": "#0A0A12",
+    "red": "#FF3366",
+    "green": "#00F59B",
+    "yellow": "#FFEA00",
+    "blue": "#33A1FF",
+    "purple": "#FF66F6",
+    "cyan": "#3CFFED",
+    "white": "#EDEDFE",
+    "brightBlack": "#181824",
+    "brightRed": "#FF9A8F",
+    "brightGreen": "#57F8BD",
+    "brightYellow": "#FFFF80",
+    "brightBlue": "#5A9EFF",
+    "brightPurple": "#FF99FF",
+    "brightCyan": "#80FFFF",
+    "brightWhite": "#F8F8FF",
+    "background": "#0F0F19",
+    "foreground": "#EDEDFD",
+    "cursorColor": "#EDEDFD",
+    "selectionBackground": "#464652"
+}

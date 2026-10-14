@@ -1,0 +1,23 @@
+{
+    "name": "Atelier Sulphurpool",
+    "black": "#202746",
+    "red": "#C94922",
+    "green": "#AC9739",
+    "yellow": "#C08B30",
+    "blue": "#3D8FD1",
+    "purple": "#6679CC",
+    "cyan": "#22A2C9",
+    "white": "#979DB4",
+    "brightBlack": "#6B7394",
+    "brightRed": "#C76B29",
+    "brightGreen": "#293256",
+    "brightYellow": "#5E6687",
+    "brightBlue": "#898EA4",
+    "brightPurple": "#DFE2F1",
+    "brightCyan": "#9C637A",
+    "brightWhite": "#F5F7FF",
+    "background": "#202746",
+    "foreground": "#979DB4",
+    "cursorColor": "#979DB4",
+    "selectionBackground": "#3E4462"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "SeedFlip Phosphor",
+    "black": "#070707",
+    "red": "#F04242",
+    "green": "#42F07C",
+    "yellow": "#F0D342",
+    "blue": "#428BF0",
+    "purple": "#F042F0",
+    "cyan": "#42F0F0",
+    "white": "#CDFFCD",
+    "brightBlack": "#3F3F3F",
+    "brightRed": "#F58989",
+    "brightGreen": "#89F5AD",
+    "brightYellow": "#F5E389",
+    "brightBlue": "#89B6F5",
+    "brightPurple": "#F589F5",
+    "brightCyan": "#89F5F5",
+    "brightWhite": "#FFFFFF",
+    "background": "#0C0C0C",
+    "foreground": "#B3FFB3",
+    "cursorColor": "#00FF88",
+    "selectionBackground": "#141414"
+}

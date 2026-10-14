@@ -1,0 +1,23 @@
+{
+    "name": "Slate",
+    "black": "#222222",
+    "red": "#E2A8BF",
+    "green": "#81D778",
+    "yellow": "#C4C9C0",
+    "blue": "#264B49",
+    "purple": "#A481D3",
+    "cyan": "#15AB9C",
+    "white": "#02C5E0",
+    "brightBlack": "#FFFFFF",
+    "brightRed": "#FFCDD9",
+    "brightGreen": "#BEFFA8",
+    "brightYellow": "#D0CCCA",
+    "brightBlue": "#7AB0D2",
+    "brightPurple": "#C5A7D9",
+    "brightCyan": "#8CDFE0",
+    "brightWhite": "#E0E0E0",
+    "background": "#222222",
+    "foreground": "#35B1D2",
+    "cursorColor": "#87D3C4",
+    "selectionBackground": "#27464E"
+}

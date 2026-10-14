@@ -1,0 +1,23 @@
+{
+    "name": "Embark",
+    "black": "#1E1C31",
+    "red": "#F0719B",
+    "green": "#A1EFD3",
+    "yellow": "#FFE9AA",
+    "blue": "#57C7FF",
+    "purple": "#C792EA",
+    "cyan": "#87DFEB",
+    "white": "#F8F8F2",
+    "brightBlack": "#585273",
+    "brightRed": "#F02E6E",
+    "brightGreen": "#2CE592",
+    "brightYellow": "#FFB378",
+    "brightBlue": "#1DA0E2",
+    "brightPurple": "#A742EA",
+    "brightCyan": "#63F2F1",
+    "brightWhite": "#A6B3CC",
+    "background": "#1E1C31",
+    "foreground": "#EEFFFF",
+    "cursorColor": "#A1EFD3",
+    "selectionBackground": "#525564"
+}

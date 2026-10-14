@@ -1,0 +1,23 @@
+{
+    "name": "Belafonte Day",
+    "black": "#20111B",
+    "red": "#BE100E",
+    "green": "#858162",
+    "yellow": "#EAA549",
+    "blue": "#426A79",
+    "purple": "#97522C",
+    "cyan": "#989A9C",
+    "white": "#968C83",
+    "brightBlack": "#5E5252",
+    "brightRed": "#BE100E",
+    "brightGreen": "#858162",
+    "brightYellow": "#EAA549",
+    "brightBlue": "#426A79",
+    "brightPurple": "#97522C",
+    "brightCyan": "#989A9C",
+    "brightWhite": "#D5CCBA",
+    "background": "#D5CCBA",
+    "foreground": "#45373C",
+    "cursorColor": "#45373C",
+    "selectionBackground": "#B1A79A"
+}

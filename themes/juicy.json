@@ -1,0 +1,23 @@
+{
+    "name": "Juicy",
+    "black": "#2E3436",
+    "red": "#FF0945",
+    "green": "#1AFF81",
+    "yellow": "#FFF64A",
+    "blue": "#2BF1FF",
+    "purple": "#7B68EE",
+    "cyan": "#98F4FF",
+    "white": "#D3D7CF",
+    "brightBlack": "#555753",
+    "brightRed": "#FF0945",
+    "brightGreen": "#1AFF81",
+    "brightYellow": "#FFF64A",
+    "brightBlue": "#2BF1FF",
+    "brightPurple": "#7B68EE",
+    "brightCyan": "#98F4FF",
+    "brightWhite": "#EEEEEC",
+    "background": "#212121",
+    "foreground": "#FCFCFC",
+    "cursorColor": "#FCFCFC",
+    "selectionBackground": "#585858"
+}

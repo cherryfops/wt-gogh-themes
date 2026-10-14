@@ -1,0 +1,23 @@
+{
+    "name": "Sleepy Hollow",
+    "black": "#572100",
+    "red": "#BA3934",
+    "green": "#91773F",
+    "yellow": "#B55600",
+    "blue": "#5F63B4",
+    "purple": "#A17C7B",
+    "cyan": "#8FAEA9",
+    "white": "#AF9A91",
+    "brightBlack": "#4E4B61",
+    "brightRed": "#D9443F",
+    "brightGreen": "#D6B04E",
+    "brightYellow": "#F66813",
+    "brightBlue": "#8086EF",
+    "brightPurple": "#E2C2BB",
+    "brightCyan": "#A4DCE7",
+    "brightWhite": "#D2C7A9",
+    "background": "#121214",
+    "foreground": "#AF9A91",
+    "cursorColor": "#AF9A91",
+    "selectionBackground": "#575256"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Evenok Dark",
+    "black": "#000000",
+    "red": "#F5708A",
+    "green": "#54BC5C",
+    "yellow": "#B8A300",
+    "blue": "#00AFF2",
+    "purple": "#9095FF",
+    "cyan": "#00BAB3",
+    "white": "#D0D0D0",
+    "brightBlack": "#505050",
+    "brightRed": "#F5708A",
+    "brightGreen": "#54BC5C",
+    "brightYellow": "#B8A300",
+    "brightBlue": "#00AFF2",
+    "brightPurple": "#9095FF",
+    "brightCyan": "#00BAB3",
+    "brightWhite": "#FFFFFF",
+    "background": "#000000",
+    "foreground": "#D0D0D0",
+    "cursorColor": "#D0D0D0",
+    "selectionBackground": "#343434"
+}

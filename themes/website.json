@@ -1,0 +1,23 @@
+{
+    "name": "Website",
+    "black": "#183C44",
+    "red": "#DA4949",
+    "green": "#BCCA15",
+    "yellow": "#FFB02E",
+    "blue": "#35A6E6",
+    "purple": "#D343A2",
+    "cyan": "#38C995",
+    "white": "#FFE8C1",
+    "brightBlack": "#235662",
+    "brightRed": "#FF5757",
+    "brightGreen": "#ECFF14",
+    "brightYellow": "#FFD694",
+    "brightBlue": "#4CBFFF",
+    "brightPurple": "#FF4CC2",
+    "brightCyan": "#35FFB6",
+    "brightWhite": "#FFD48F",
+    "background": "#132F35",
+    "foreground": "#D1B890",
+    "cursorColor": "#D1B890",
+    "selectionBackground": "#42514C"
+}

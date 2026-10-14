@@ -1,0 +1,23 @@
+{
+    "name": "Tinacious Design Dark",
+    "black": "#1D1D26",
+    "red": "#FF3399",
+    "green": "#00D364",
+    "yellow": "#FFCC66",
+    "blue": "#00CBFF",
+    "purple": "#CC66FF",
+    "cyan": "#00CECA",
+    "white": "#CBCBF0",
+    "brightBlack": "#636667",
+    "brightRed": "#FF2F92",
+    "brightGreen": "#00D364",
+    "brightYellow": "#FFD479",
+    "brightBlue": "#00CBFF",
+    "brightPurple": "#D783FF",
+    "brightCyan": "#00D5D4",
+    "brightWhite": "#D5D6F3",
+    "background": "#1D1D26",
+    "foreground": "#CBCBF0",
+    "cursorColor": "#CBCBF0",
+    "selectionBackground": "#FF3399"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Base2Tone Morning",
+    "black": "#232834",
+    "red": "#1659DF",
+    "green": "#B29762",
+    "yellow": "#E5DDCD",
+    "blue": "#3D75E6",
+    "purple": "#B29762",
+    "cyan": "#728FCB",
+    "white": "#8D95A5",
+    "brightBlack": "#656E81",
+    "brightRed": "#C6B28B",
+    "brightGreen": "#31363F",
+    "brightYellow": "#4F5664",
+    "brightBlue": "#707A8F",
+    "brightPurple": "#B7C9EB",
+    "brightCyan": "#9A7C42",
+    "brightWhite": "#DEE6F7",
+    "background": "#232834",
+    "foreground": "#8D95A5",
+    "cursorColor": "#594212",
+    "selectionBackground": "#3E4350"
+}

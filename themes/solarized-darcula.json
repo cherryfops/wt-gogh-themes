@@ -1,0 +1,23 @@
+{
+    "name": "Solarized Darcula",
+    "black": "#25292A",
+    "red": "#F24840",
+    "green": "#629655",
+    "yellow": "#B68800",
+    "blue": "#2075C7",
+    "purple": "#797FD4",
+    "cyan": "#15968D",
+    "white": "#D2D8D9",
+    "brightBlack": "#25292A",
+    "brightRed": "#F24840",
+    "brightGreen": "#629655",
+    "brightYellow": "#B68800",
+    "brightBlue": "#2075C7",
+    "brightPurple": "#797FD4",
+    "brightCyan": "#15968D",
+    "brightWhite": "#D2D8D9",
+    "background": "#3D3F41",
+    "foreground": "#D2D8D9",
+    "cursorColor": "#708284",
+    "selectionBackground": "#626567"
+}

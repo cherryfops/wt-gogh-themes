@@ -1,0 +1,23 @@
+{
+    "name": "Poimandres Storm",
+    "black": "#252B37",
+    "red": "#D0679D",
+    "green": "#5DE4C7",
+    "yellow": "#FFFAC2",
+    "blue": "#89DDFF",
+    "purple": "#F087BD",
+    "cyan": "#89DDFF",
+    "white": "#FFFFFF",
+    "brightBlack": "#A6ACCD",
+    "brightRed": "#D0679D",
+    "brightGreen": "#5DE4C7",
+    "brightYellow": "#FFFAC2",
+    "brightBlue": "#ADD7FF",
+    "brightPurple": "#F087BD",
+    "brightCyan": "#ADD7FF",
+    "brightWhite": "#FFFFFF",
+    "background": "#252B37",
+    "foreground": "#A6ACCD",
+    "cursorColor": "#FFFFFF",
+    "selectionBackground": "#454B5C"
+}

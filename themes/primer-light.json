@@ -1,0 +1,23 @@
+{
+    "name": "Primer Light",
+    "black": "#FAFBFC",
+    "red": "#D73A49",
+    "green": "#28A745",
+    "yellow": "#FFD33D",
+    "blue": "#0366D6",
+    "purple": "#EA4AAA",
+    "cyan": "#79B8FF",
+    "white": "#2F363D",
+    "brightBlack": "#959DA5",
+    "brightRed": "#D73A49",
+    "brightGreen": "#28A745",
+    "brightYellow": "#FFD33D",
+    "brightBlue": "#0366D6",
+    "brightPurple": "#EA4AAA",
+    "brightCyan": "#79B8FF",
+    "brightWhite": "#1B1F23",
+    "background": "#FAFBFC",
+    "foreground": "#2F363D",
+    "cursorColor": "#2F363D",
+    "selectionBackground": "#C7CACC"
+}

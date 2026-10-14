@@ -1,0 +1,23 @@
+{
+    "name": "Mellow",
+    "black": "#27272A",
+    "red": "#F5A191",
+    "green": "#90B99F",
+    "yellow": "#E6B99D",
+    "blue": "#ACA1CF",
+    "purple": "#E29ECA",
+    "cyan": "#EA83A5",
+    "white": "#C1C0D4",
+    "brightBlack": "#353539",
+    "brightRed": "#FFAE9F",
+    "brightGreen": "#9DC6AC",
+    "brightYellow": "#F0C5A9",
+    "brightBlue": "#B9AEDA",
+    "brightPurple": "#ECAAD6",
+    "brightCyan": "#F591B2",
+    "brightWhite": "#CAC9DD",
+    "background": "#161617",
+    "foreground": "#C9C7CD",
+    "cursorColor": "#CAC9DD",
+    "selectionBackground": "#434244"
+}

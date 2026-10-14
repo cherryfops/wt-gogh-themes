@@ -1,0 +1,23 @@
+{
+    "name": "Ayu Light Lost",
+    "black": "#575F66",
+    "red": "#F51818",
+    "green": "#86B300",
+    "yellow": "#F2AE49",
+    "blue": "#399EE6",
+    "purple": "#A37ACC",
+    "cyan": "#4CBF99",
+    "white": "#FAFAFA",
+    "brightBlack": "#8A9199",
+    "brightRed": "#F51818",
+    "brightGreen": "#86B300",
+    "brightYellow": "#F2AE49",
+    "brightBlue": "#399EE6",
+    "brightPurple": "#A37ACC",
+    "brightCyan": "#4CBF99",
+    "brightWhite": "#FAFAFA",
+    "background": "#FAFAFA",
+    "foreground": "#575F66",
+    "cursorColor": "#FF9940",
+    "selectionBackground": "#D1D3D5"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Electron Highlighter",
+    "black": "#15161E",
+    "red": "#F7768E",
+    "green": "#58FFC7",
+    "yellow": "#FFECB8",
+    "blue": "#82AAFF",
+    "purple": "#D2A6EF",
+    "cyan": "#5CE1FF",
+    "white": "#7586B3",
+    "brightBlack": "#4E5B88",
+    "brightRed": "#F7768E",
+    "brightGreen": "#58FFC7",
+    "brightYellow": "#FFECB8",
+    "brightBlue": "#82AAFF",
+    "brightPurple": "#D2A6EF",
+    "brightCyan": "#5CE1FF",
+    "brightWhite": "#C5CDE0",
+    "background": "#24283B",
+    "foreground": "#A8B5D1",
+    "cursorColor": "#A8B5D1",
+    "selectionBackground": "#454B60"
+}

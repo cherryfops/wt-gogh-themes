@@ -1,0 +1,23 @@
+{
+    "name": "Ryoccino",
+    "black": "#313244",
+    "red": "#F5A3C9",
+    "green": "#9EE6B8",
+    "yellow": "#F5E6A8",
+    "blue": "#89B4FA",
+    "purple": "#EEC2F2",
+    "cyan": "#94E2D5",
+    "white": "#BCD2F5",
+    "brightBlack": "#45475A",
+    "brightRed": "#F5A3C9",
+    "brightGreen": "#9EE6B8",
+    "brightYellow": "#F5E6A8",
+    "brightBlue": "#89B4FA",
+    "brightPurple": "#EEC2F2",
+    "brightCyan": "#94E2D5",
+    "brightWhite": "#BCD2F5",
+    "background": "#11131B",
+    "foreground": "#B4C2ED",
+    "cursorColor": "#B4C2ED",
+    "selectionBackground": "#3A3F50"
+}

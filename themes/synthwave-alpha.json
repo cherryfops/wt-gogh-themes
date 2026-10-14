@@ -1,0 +1,23 @@
+{
+    "name": "Synthwave Alpha",
+    "black": "#241B30",
+    "red": "#E60A70",
+    "green": "#00986C",
+    "yellow": "#ADAD3E",
+    "blue": "#6E29AD",
+    "purple": "#B300AD",
+    "cyan": "#00B0B1",
+    "white": "#B9B1BC",
+    "brightBlack": "#7F7094",
+    "brightRed": "#E60A70",
+    "brightGreen": "#0AE4A4",
+    "brightYellow": "#F9F972",
+    "brightBlue": "#AA54F9",
+    "brightPurple": "#FF00F6",
+    "brightCyan": "#00FBFD",
+    "brightWhite": "#F2F2E3",
+    "background": "#241B30",
+    "foreground": "#F2F2E3",
+    "cursorColor": "#F2F2E3",
+    "selectionBackground": "#6E29AD"
+}

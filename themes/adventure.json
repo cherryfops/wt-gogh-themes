@@ -1,0 +1,23 @@
+{
+    "name": "Adventure",
+    "black": "#040404",
+    "red": "#D84A33",
+    "green": "#5DA602",
+    "yellow": "#EEBB6E",
+    "blue": "#417AB3",
+    "purple": "#E5C499",
+    "cyan": "#BDCFE5",
+    "white": "#DBDED8",
+    "brightBlack": "#685656",
+    "brightRed": "#D76B42",
+    "brightGreen": "#99B52C",
+    "brightYellow": "#FFB670",
+    "brightBlue": "#97D7EF",
+    "brightPurple": "#AA7900",
+    "brightCyan": "#BDCFE5",
+    "brightWhite": "#E4D5C7",
+    "background": "#040404",
+    "foreground": "#FEFFFF",
+    "cursorColor": "#FEFFFF",
+    "selectionBackground": "#606060"
+}

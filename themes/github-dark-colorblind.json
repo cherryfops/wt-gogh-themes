@@ -1,0 +1,23 @@
+{
+    "name": "GitHub Dark Colorblind",
+    "black": "#484F58",
+    "red": "#EC8E2C",
+    "green": "#58A6FF",
+    "yellow": "#D29922",
+    "blue": "#58A6FF",
+    "purple": "#BC8CFF",
+    "cyan": "#39C5CF",
+    "white": "#B1BAC4",
+    "brightBlack": "#6E7681",
+    "brightRed": "#FDAC54",
+    "brightGreen": "#79C0FF",
+    "brightYellow": "#E3B341",
+    "brightBlue": "#79C0FF",
+    "brightPurple": "#D2A8FF",
+    "brightCyan": "#56D4DD",
+    "brightWhite": "#FFFFFF",
+    "background": "#0D1117",
+    "foreground": "#C9D1D9",
+    "cursorColor": "#58A6FF",
+    "selectionBackground": "#3C4148"
+}

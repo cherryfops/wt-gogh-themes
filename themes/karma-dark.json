@@ -1,0 +1,23 @@
+{
+    "name": "Karma Dark",
+    "black": "#0A0E14",
+    "red": "#FC618D",
+    "green": "#7BD88F",
+    "yellow": "#FCE566",
+    "blue": "#5AD4E6",
+    "purple": "#AF98E6",
+    "cyan": "#5AD4E6",
+    "white": "#BAB6C0",
+    "brightBlack": "#69676C",
+    "brightRed": "#FF7BA0",
+    "brightGreen": "#9CE3AB",
+    "brightYellow": "#FCE566",
+    "brightBlue": "#7FE0EE",
+    "brightPurple": "#C3B0F0",
+    "brightCyan": "#7FE0EE",
+    "brightWhite": "#F7F1FF",
+    "background": "#0A0E14",
+    "foreground": "#F7F1FF",
+    "cursorColor": "#FCE566",
+    "selectionBackground": "#3A384A"
+}

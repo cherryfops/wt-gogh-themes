@@ -1,0 +1,23 @@
+{
+    "name": "Laserwave",
+    "black": "#39243A",
+    "red": "#EB64B9",
+    "green": "#AFD686",
+    "yellow": "#FEAE87",
+    "blue": "#40B4C4",
+    "purple": "#B381C5",
+    "cyan": "#215969",
+    "white": "#91889B",
+    "brightBlack": "#716485",
+    "brightRed": "#FC2377",
+    "brightGreen": "#50FA7B",
+    "brightYellow": "#FFE261",
+    "brightBlue": "#74DFC4",
+    "brightPurple": "#6D75E0",
+    "brightCyan": "#B4DCE7",
+    "brightWhite": "#FFFFFF",
+    "background": "#1F1926",
+    "foreground": "#E0E0E0",
+    "cursorColor": "#C7C7C7",
+    "selectionBackground": "#4F4B54"
+}

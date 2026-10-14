@@ -1,0 +1,23 @@
+{
+    "name": "Shel",
+    "black": "#2C2423",
+    "red": "#AB2463",
+    "green": "#6CA323",
+    "yellow": "#AB6423",
+    "blue": "#2C64A2",
+    "purple": "#6C24A2",
+    "cyan": "#2CA363",
+    "white": "#918988",
+    "brightBlack": "#918988",
+    "brightRed": "#F588B9",
+    "brightGreen": "#C2EE86",
+    "brightYellow": "#F5BA86",
+    "brightBlue": "#8FBAEC",
+    "brightPurple": "#C288EC",
+    "brightCyan": "#8FEEB9",
+    "brightWhite": "#F5EEEC",
+    "background": "#2A201F",
+    "foreground": "#4882CD",
+    "cursorColor": "#4882CD",
+    "selectionBackground": "#32384A"
+}

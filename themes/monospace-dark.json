@@ -1,0 +1,23 @@
+{
+    "name": "Monospace Dark",
+    "black": "#738295",
+    "red": "#F76769",
+    "green": "#17B877",
+    "yellow": "#FFA23E",
+    "blue": "#708FFF",
+    "purple": "#A87FFB",
+    "cyan": "#25A6E9",
+    "white": "#A4AFBD",
+    "brightBlack": "#8B98A9",
+    "brightRed": "#FC8F8E",
+    "brightGreen": "#66CE98",
+    "brightYellow": "#FFC26E",
+    "brightBlue": "#A2B6FF",
+    "brightPurple": "#C8AAFF",
+    "brightCyan": "#71C2EE",
+    "brightWhite": "#FAFBFE",
+    "background": "#10151D",
+    "foreground": "#A4AFBD",
+    "cursorColor": "#C8AAFF",
+    "selectionBackground": "#264DCB"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Jup",
+    "black": "#000000",
+    "red": "#DD006F",
+    "green": "#6FDD00",
+    "yellow": "#DD6F00",
+    "blue": "#006FDD",
+    "purple": "#6F00DD",
+    "cyan": "#00DD6F",
+    "white": "#F2F2F2",
+    "brightBlack": "#7D7D7D",
+    "brightRed": "#FF74B9",
+    "brightGreen": "#B9FF74",
+    "brightYellow": "#FFB974",
+    "brightBlue": "#74B9FF",
+    "brightPurple": "#B974FF",
+    "brightCyan": "#74FFB9",
+    "brightWhite": "#FFFFFF",
+    "background": "#758480",
+    "foreground": "#23476A",
+    "cursorColor": "#23476A",
+    "selectionBackground": "#62767B"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Sagelight",
+    "black": "#F8F8F8",
+    "red": "#FA8480",
+    "green": "#A0D2C8",
+    "yellow": "#FFDC61",
+    "blue": "#A0A7D2",
+    "purple": "#C8A0D2",
+    "cyan": "#A2D6F5",
+    "white": "#383838",
+    "brightBlack": "#B8B8B8",
+    "brightRed": "#FA8480",
+    "brightGreen": "#A0D2C8",
+    "brightYellow": "#FFDC61",
+    "brightBlue": "#A0A7D2",
+    "brightPurple": "#C8A0D2",
+    "brightCyan": "#A2D6F5",
+    "brightWhite": "#181818",
+    "background": "#F8F8F8",
+    "foreground": "#383838",
+    "cursorColor": "#383838",
+    "selectionBackground": "#C8C8C8"
+}

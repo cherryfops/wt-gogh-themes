@@ -1,0 +1,23 @@
+{
+    "name": "Cassette Tape",
+    "black": "#514339",
+    "red": "#B91C1C",
+    "green": "#3F6212",
+    "yellow": "#BE123C",
+    "blue": "#7C2D12",
+    "purple": "#0F766E",
+    "cyan": "#B45309",
+    "white": "#6B4F3F",
+    "brightBlack": "#C4B39A",
+    "brightRed": "#941616",
+    "brightGreen": "#324E0E",
+    "brightYellow": "#9C0F31",
+    "brightBlue": "#63240E",
+    "brightPurple": "#0C5E58",
+    "brightCyan": "#904207",
+    "brightWhite": "#2B1B12",
+    "background": "#FFF7ED",
+    "foreground": "#2B1B12",
+    "cursorColor": "#2B1B12",
+    "selectionBackground": "#CAC0B6"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Urple",
+    "black": "#000000",
+    "red": "#B0425B",
+    "green": "#37A415",
+    "yellow": "#AD5C42",
+    "blue": "#564D9B",
+    "purple": "#6C3CA1",
+    "cyan": "#808080",
+    "white": "#87799C",
+    "brightBlack": "#5D3225",
+    "brightRed": "#FF6388",
+    "brightGreen": "#29E620",
+    "brightYellow": "#F08161",
+    "brightBlue": "#867AED",
+    "brightPurple": "#A05EEE",
+    "brightCyan": "#EAEAEA",
+    "brightWhite": "#BFA3FF",
+    "background": "#1B1B23",
+    "foreground": "#877A9B",
+    "cursorColor": "#A063EB",
+    "selectionBackground": "#363341"
+}

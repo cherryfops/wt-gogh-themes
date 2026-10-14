@@ -1,0 +1,23 @@
+{
+    "name": "Duskfox",
+    "black": "#393552",
+    "red": "#EB6F92",
+    "green": "#A3BE8C",
+    "yellow": "#F6C177",
+    "blue": "#569FBA",
+    "purple": "#C4A7E7",
+    "cyan": "#9CCFD8",
+    "white": "#E0DEF4",
+    "brightBlack": "#47407D",
+    "brightRed": "#F083A2",
+    "brightGreen": "#B1D196",
+    "brightYellow": "#F9CB8C",
+    "brightBlue": "#65B1CD",
+    "brightPurple": "#CCB1ED",
+    "brightCyan": "#A6DAE3",
+    "brightWhite": "#E2E0F7",
+    "background": "#232136",
+    "foreground": "#E0DEF4",
+    "cursorColor": "#E0DEF4",
+    "selectionBackground": "#525066"
+}

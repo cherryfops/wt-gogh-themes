@@ -1,0 +1,23 @@
+{
+    "name": "branch",
+    "black": "#32251D",
+    "red": "#B55C38",
+    "green": "#99A667",
+    "yellow": "#CA9D64",
+    "blue": "#528C8B",
+    "purple": "#BA8161",
+    "cyan": "#6F9990",
+    "white": "#CDC1AC",
+    "brightBlack": "#544A46",
+    "brightRed": "#B55C38",
+    "brightGreen": "#99A667",
+    "brightYellow": "#CA9D64",
+    "brightBlue": "#528C8B",
+    "brightPurple": "#BA8161",
+    "brightCyan": "#6F9990",
+    "brightWhite": "#CDC1AC",
+    "background": "#30231B",
+    "foreground": "#CDC1AC",
+    "cursorColor": "#CDC1AC",
+    "selectionBackground": "#574A3F"
+}

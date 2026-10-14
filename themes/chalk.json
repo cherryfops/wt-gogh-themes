@@ -1,0 +1,23 @@
+{
+    "name": "Chalk",
+    "black": "#7D8B8F",
+    "red": "#B23A52",
+    "green": "#789B6A",
+    "yellow": "#B9AC4A",
+    "blue": "#2A7FAC",
+    "purple": "#BD4F5A",
+    "cyan": "#44A799",
+    "white": "#D2D8D9",
+    "brightBlack": "#888888",
+    "brightRed": "#F24840",
+    "brightGreen": "#80C470",
+    "brightYellow": "#FFEB62",
+    "brightBlue": "#4196FF",
+    "brightPurple": "#FC5275",
+    "brightCyan": "#53CDBD",
+    "brightWhite": "#D2D8D9",
+    "background": "#2B2D2E",
+    "foreground": "#D2D8D9",
+    "cursorColor": "#708284",
+    "selectionBackground": "#E4E8ED"
+}

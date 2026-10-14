@@ -1,0 +1,23 @@
+{
+    "name": "Tin",
+    "black": "#000000",
+    "red": "#8D534E",
+    "green": "#4E8D53",
+    "yellow": "#888D4E",
+    "blue": "#534E8D",
+    "purple": "#8D4E88",
+    "cyan": "#4E888D",
+    "white": "#FFFFFF",
+    "brightBlack": "#000000",
+    "brightRed": "#B57D78",
+    "brightGreen": "#78B57D",
+    "brightYellow": "#B0B578",
+    "brightBlue": "#7D78B5",
+    "brightPurple": "#B578B0",
+    "brightCyan": "#78B0B5",
+    "brightWhite": "#FFFFFF",
+    "background": "#2E2E35",
+    "foreground": "#FFFFFF",
+    "cursorColor": "#FFFFFF",
+    "selectionBackground": "#626268"
+}

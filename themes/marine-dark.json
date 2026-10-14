@@ -1,0 +1,23 @@
+{
+    "name": "Marine Dark",
+    "black": "#002221",
+    "red": "#EA3431",
+    "green": "#00B6B6",
+    "yellow": "#F8B017",
+    "blue": "#4894FD",
+    "purple": "#E01DCA",
+    "cyan": "#1AB2AD",
+    "white": "#99DDDB",
+    "brightBlack": "#006562",
+    "brightRed": "#EA3431",
+    "brightGreen": "#00B6B6",
+    "brightYellow": "#F8B017",
+    "brightBlue": "#4894FD",
+    "brightPurple": "#E01DCA",
+    "brightCyan": "#1AB2AD",
+    "brightWhite": "#E6F6F6",
+    "background": "#002221",
+    "foreground": "#E6F8F8",
+    "cursorColor": "#E6F8F8",
+    "selectionBackground": "#3A5857"
+}

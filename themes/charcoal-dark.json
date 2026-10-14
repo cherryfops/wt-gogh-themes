@@ -1,0 +1,23 @@
+{
+    "name": "Charcoal Dark",
+    "black": "#0F0B05",
+    "red": "#A88C62",
+    "green": "#DEC8A7",
+    "yellow": "#DEC8A7",
+    "blue": "#C3A983",
+    "purple": "#A88C62",
+    "cyan": "#DEC8A7",
+    "white": "#C3A983",
+    "brightBlack": "#57462C",
+    "brightRed": "#A88C62",
+    "brightGreen": "#DEC8A7",
+    "brightYellow": "#DEC8A7",
+    "brightBlue": "#C3A983",
+    "brightPurple": "#A88C62",
+    "brightCyan": "#DEC8A7",
+    "brightWhite": "#231B0E",
+    "background": "#0F0B05",
+    "foreground": "#C3A983",
+    "cursorColor": "#C3A983",
+    "selectionBackground": "#3C3224"
+}

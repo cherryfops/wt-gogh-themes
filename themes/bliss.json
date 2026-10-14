@@ -1,0 +1,23 @@
+{
+    "name": "Bliss",
+    "black": "#000000",
+    "red": "#FF6F8D",
+    "green": "#93FF8D",
+    "yellow": "#FFFC9B",
+    "blue": "#A198FF",
+    "purple": "#FF95DF",
+    "cyan": "#95DFFF",
+    "white": "#C7C7C7",
+    "brightBlack": "#676767",
+    "brightRed": "#FF7894",
+    "brightGreen": "#9AFF95",
+    "brightYellow": "#FFFDA9",
+    "brightBlue": "#AEA6FF",
+    "brightPurple": "#FFA2E3",
+    "brightCyan": "#A5DEF7",
+    "brightWhite": "#FEFFFF",
+    "background": "#16181F",
+    "foreground": "#EAEAEA",
+    "cursorColor": "#EAEAEA",
+    "selectionBackground": "#4B4C52"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Silk Light",
+    "black": "#E9F1EF",
+    "red": "#CF432E",
+    "green": "#6CA38C",
+    "yellow": "#CFAD25",
+    "blue": "#39AAC9",
+    "purple": "#6E6582",
+    "cyan": "#329CA2",
+    "white": "#385156",
+    "brightBlack": "#5C787B",
+    "brightRed": "#CF432E",
+    "brightGreen": "#6CA38C",
+    "brightYellow": "#CFAD25",
+    "brightBlue": "#39AAC9",
+    "brightPurple": "#6E6582",
+    "brightCyan": "#329CA2",
+    "brightWhite": "#D2FAFF",
+    "background": "#E9F1EF",
+    "foreground": "#385156",
+    "cursorColor": "#385156",
+    "selectionBackground": "#BDC9C9"
+}

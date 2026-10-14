@@ -1,0 +1,23 @@
+{
+    "name": "Sourcerer",
+    "black": "#111111",
+    "red": "#AA4450",
+    "green": "#719611",
+    "yellow": "#FF9800",
+    "blue": "#6688AA",
+    "purple": "#8F6F8F",
+    "cyan": "#528B8B",
+    "white": "#D3D3D3",
+    "brightBlack": "#181818",
+    "brightRed": "#FF6A6A",
+    "brightGreen": "#B1D631",
+    "brightYellow": "#87875F",
+    "brightBlue": "#90B0D1",
+    "brightPurple": "#8181A6",
+    "brightCyan": "#87CEEB",
+    "brightWhite": "#C1CDC1",
+    "background": "#222222",
+    "foreground": "#C2C2B0",
+    "cursorColor": "#C2C2B0",
+    "selectionBackground": "#4A4A46"
+}

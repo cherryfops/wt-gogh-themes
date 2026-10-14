@@ -1,0 +1,23 @@
+{
+    "name": "Banana Blueberry",
+    "black": "#17141F",
+    "red": "#FF6B7F",
+    "green": "#00BD9C",
+    "yellow": "#E6C62F",
+    "blue": "#22E8DF",
+    "purple": "#DC396A",
+    "cyan": "#56B6C2",
+    "white": "#F1F1F1",
+    "brightBlack": "#495162",
+    "brightRed": "#FE9EA1",
+    "brightGreen": "#98C379",
+    "brightYellow": "#F9E46B",
+    "brightBlue": "#91FFF4",
+    "brightPurple": "#DA70D6",
+    "brightCyan": "#BCF3FF",
+    "brightWhite": "#FFFFFF",
+    "background": "#191323",
+    "foreground": "#CCCCCC",
+    "cursorColor": "#E07D13",
+    "selectionBackground": "#220525"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Danqing Light",
+    "black": "#FCFEFD",
+    "red": "#F9906F",
+    "green": "#8AB361",
+    "yellow": "#F0C239",
+    "blue": "#B0A4E3",
+    "purple": "#CCA4E3",
+    "cyan": "#30DFF3",
+    "white": "#5A605D",
+    "brightBlack": "#CAD8D2",
+    "brightRed": "#F9906F",
+    "brightGreen": "#8AB361",
+    "brightYellow": "#F0C239",
+    "brightBlue": "#B0A4E3",
+    "brightPurple": "#CCA4E3",
+    "brightCyan": "#30DFF3",
+    "brightWhite": "#2D302F",
+    "background": "#FCFEFD",
+    "foreground": "#5A605D",
+    "cursorColor": "#5A605D",
+    "selectionBackground": "#D4D6D5"
+}

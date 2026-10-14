@@ -1,0 +1,23 @@
+{
+    "name": "Desert Night",
+    "black": "#473F31",
+    "red": "#E56B55",
+    "green": "#99B05F",
+    "yellow": "#E18245",
+    "blue": "#949FB4",
+    "purple": "#D261A5",
+    "cyan": "#BFAB36",
+    "white": "#87765D",
+    "brightBlack": "#473F31",
+    "brightRed": "#E56B55",
+    "brightGreen": "#99B05F",
+    "brightYellow": "#E5A440",
+    "brightBlue": "#949FB4",
+    "brightPurple": "#D261A5",
+    "brightCyan": "#BFAB36",
+    "brightWhite": "#87765D",
+    "background": "#24221C",
+    "foreground": "#D4B07B",
+    "cursorColor": "#D4B07B",
+    "selectionBackground": "#504634"
+}

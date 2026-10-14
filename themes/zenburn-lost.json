@@ -1,0 +1,23 @@
+{
+    "name": "Zenburn Lost",
+    "black": "#333333",
+    "red": "#CC9393",
+    "green": "#EFEF87",
+    "yellow": "#FFD7A7",
+    "blue": "#C3BF97",
+    "purple": "#BCA3A3",
+    "cyan": "#93B3A3",
+    "white": "#F0EFD0",
+    "brightBlack": "#757575",
+    "brightRed": "#DFAF87",
+    "brightGreen": "#FFFF87",
+    "brightYellow": "#FFCFAF",
+    "brightBlue": "#D7D7AF",
+    "brightPurple": "#D7AFAF",
+    "brightCyan": "#93BEA3",
+    "brightWhite": "#DCDCCC",
+    "background": "#3A3A3A",
+    "foreground": "#DCDCCC",
+    "cursorColor": "#DCDCCC",
+    "selectionBackground": "#62625E"
+}

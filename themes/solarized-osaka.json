@@ -1,0 +1,23 @@
+{
+    "name": "Solarized Osaka",
+    "black": "#073642",
+    "red": "#DC322F",
+    "green": "#859900",
+    "yellow": "#B58900",
+    "blue": "#268BD2",
+    "purple": "#D33682",
+    "cyan": "#2AA198",
+    "white": "#EEE8D5",
+    "brightBlack": "#4C4C4C",
+    "brightRed": "#CB4B16",
+    "brightGreen": "#586E75",
+    "brightYellow": "#657B83",
+    "brightBlue": "#839496",
+    "brightPurple": "#6C71C4",
+    "brightCyan": "#93A1A1",
+    "brightWhite": "#FDF6E3",
+    "background": "#001A1D",
+    "foreground": "#839496",
+    "cursorColor": "#839496",
+    "selectionBackground": "#21383B"
+}

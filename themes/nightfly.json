@@ -1,0 +1,23 @@
+{
+    "name": "Nightfly",
+    "black": "#1D3B53",
+    "red": "#FC514E",
+    "green": "#A1CD5E",
+    "yellow": "#E3D18A",
+    "blue": "#82AAFF",
+    "purple": "#C792EA",
+    "cyan": "#7FDBCA",
+    "white": "#A1AAB8",
+    "brightBlack": "#7C8F8F",
+    "brightRed": "#FF5874",
+    "brightGreen": "#21C7A8",
+    "brightYellow": "#ECC48D",
+    "brightBlue": "#82AAFF",
+    "brightPurple": "#AE81FF",
+    "brightCyan": "#7FDBCA",
+    "brightWhite": "#D6DEEB",
+    "background": "#011627",
+    "foreground": "#BDC1C6",
+    "cursorColor": "#9CA1AA",
+    "selectionBackground": "#30414F"
+}

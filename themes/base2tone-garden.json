@@ -1,0 +1,23 @@
+{
+    "name": "Base2Tone Garden",
+    "black": "#1E1F1E",
+    "red": "#3FAC39",
+    "green": "#DB9257",
+    "yellow": "#E0CAB8",
+    "blue": "#4CB946",
+    "purple": "#DB9257",
+    "cyan": "#6BCC66",
+    "white": "#969C96",
+    "brightBlack": "#5D605C",
+    "brightRed": "#DBA070",
+    "brightGreen": "#2B2C2A",
+    "brightYellow": "#505350",
+    "brightBlue": "#696D69",
+    "brightPurple": "#B7E3B5",
+    "brightCyan": "#DD843C",
+    "brightWhite": "#DCF0DB",
+    "background": "#1E1F1E",
+    "foreground": "#969C96",
+    "cursorColor": "#BD5D0F",
+    "selectionBackground": "#3C3E3C"
+}

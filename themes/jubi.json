@@ -1,0 +1,23 @@
+{
+    "name": "Jubi",
+    "black": "#3B3750",
+    "red": "#CF7B98",
+    "green": "#90A94B",
+    "yellow": "#6EBFC0",
+    "blue": "#576EA6",
+    "purple": "#BC4F68",
+    "cyan": "#75A7D2",
+    "white": "#C3D3DE",
+    "brightBlack": "#A874CE",
+    "brightRed": "#DE90AB",
+    "brightGreen": "#BCDD61",
+    "brightYellow": "#87E9EA",
+    "brightBlue": "#8C9FCD",
+    "brightPurple": "#E16C87",
+    "brightCyan": "#B7C9EF",
+    "brightWhite": "#D5E5F1",
+    "background": "#262B33",
+    "foreground": "#C3D3DE",
+    "cursorColor": "#C3D3DE",
+    "selectionBackground": "#5B5184"
+}

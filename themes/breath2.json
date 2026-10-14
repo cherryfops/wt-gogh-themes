@@ -1,0 +1,23 @@
+{
+    "name": "breath2",
+    "black": "#0D0F11",
+    "red": "#C0392B",
+    "green": "#55A649",
+    "yellow": "#FDBC4B",
+    "blue": "#3DAEE9",
+    "purple": "#8E44AD",
+    "cyan": "#16A085",
+    "white": "#FFFFFF",
+    "brightBlack": "#2E3439",
+    "brightRed": "#783228",
+    "brightGreen": "#32642C",
+    "brightYellow": "#B65619",
+    "brightBlue": "#1B668F",
+    "brightPurple": "#614A73",
+    "brightCyan": "#186C60",
+    "brightWhite": "#63686D",
+    "background": "#1E2229",
+    "foreground": "#17A88B",
+    "cursorColor": "#17A88B",
+    "selectionBackground": "#1C4442"
+}

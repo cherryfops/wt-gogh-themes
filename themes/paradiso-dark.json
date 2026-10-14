@@ -1,0 +1,23 @@
+{
+    "name": "Paradiso Dark",
+    "black": "#553A63",
+    "red": "#8EB8DB",
+    "green": "#8E92DB",
+    "yellow": "#9157CC",
+    "blue": "#4660A0",
+    "purple": "#DB74E0",
+    "cyan": "#68ACC1",
+    "white": "#B8D0DB",
+    "brightBlack": "#6F4C82",
+    "brightRed": "#C2E1FC",
+    "brightGreen": "#C2C4FC",
+    "brightYellow": "#C68FFC",
+    "brightBlue": "#5D8AFC",
+    "brightPurple": "#F8AEFC",
+    "brightCyan": "#99E5FC",
+    "brightWhite": "#CCEBF9",
+    "background": "#302138",
+    "foreground": "#B8D0DB",
+    "cursorColor": "#B8D0DB",
+    "selectionBackground": "#524D61"
+}

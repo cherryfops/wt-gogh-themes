@@ -1,0 +1,23 @@
+{
+    "name": "The Hulk",
+    "black": "#1B1D1E",
+    "red": "#269D1B",
+    "green": "#13CE30",
+    "yellow": "#63E457",
+    "blue": "#2525F5",
+    "purple": "#641F74",
+    "cyan": "#378CA9",
+    "white": "#D9D8D1",
+    "brightBlack": "#505354",
+    "brightRed": "#8DFF2A",
+    "brightGreen": "#48FF77",
+    "brightYellow": "#3AFE16",
+    "brightBlue": "#506B95",
+    "brightPurple": "#72589D",
+    "brightCyan": "#4085A6",
+    "brightWhite": "#E5E6E1",
+    "background": "#1B1D1E",
+    "foreground": "#B5B5B5",
+    "cursorColor": "#16B61B",
+    "selectionBackground": "#424344"
+}

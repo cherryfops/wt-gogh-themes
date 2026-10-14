@@ -1,0 +1,23 @@
+{
+    "name": "IR Black Lost",
+    "black": "#4E4E4E",
+    "red": "#FF6C60",
+    "green": "#A8FF60",
+    "yellow": "#FFFFB6",
+    "blue": "#69CBFE",
+    "purple": "#FF73FD",
+    "cyan": "#C6C5FE",
+    "white": "#EEEEEE",
+    "brightBlack": "#7C7C7C",
+    "brightRed": "#FFB6B0",
+    "brightGreen": "#CEFFAC",
+    "brightYellow": "#FFFFCB",
+    "brightBlue": "#B5DCFE",
+    "brightPurple": "#FF9CFE",
+    "brightCyan": "#DFDFFE",
+    "brightWhite": "#FFFFFF",
+    "background": "#000000",
+    "foreground": "#EEEEEE",
+    "cursorColor": "#FFA560",
+    "selectionBackground": "#3C3C3C"
+}

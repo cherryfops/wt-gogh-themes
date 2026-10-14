@@ -1,0 +1,23 @@
+{
+    "name": "Msx",
+    "black": "#5955E0",
+    "red": "#B95E51",
+    "green": "#3AA241",
+    "yellow": "#CCC35E",
+    "blue": "#000000",
+    "purple": "#DB6559",
+    "cyan": "#3EB849",
+    "white": "#CCCCCC",
+    "brightBlack": "#8076F1",
+    "brightRed": "#FF897D",
+    "brightGreen": "#74D07D",
+    "brightYellow": "#DED087",
+    "brightBlue": "#CCCCCC",
+    "brightPurple": "#B766B5",
+    "brightCyan": "#65DBEF",
+    "brightWhite": "#FFFFFF",
+    "background": "#5955E0",
+    "foreground": "#FFFFFF",
+    "cursorColor": "#FFFFFF",
+    "selectionBackground": "#8280E8"
+}

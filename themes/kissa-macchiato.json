@@ -1,0 +1,23 @@
+{
+    "name": "Kissa Macchiato",
+    "black": "#1F1C16",
+    "red": "#E87777",
+    "green": "#8CB870",
+    "yellow": "#EAC67A",
+    "blue": "#7FA8D4",
+    "purple": "#B094CC",
+    "cyan": "#6AB8B0",
+    "white": "#FAF0E6",
+    "brightBlack": "#B8A48C",
+    "brightRed": "#E87777",
+    "brightGreen": "#8CB870",
+    "brightYellow": "#EAC67A",
+    "brightBlue": "#7FA8D4",
+    "brightPurple": "#B094CC",
+    "brightCyan": "#6AB8B0",
+    "brightWhite": "#FEF4E4",
+    "background": "#1F1C16",
+    "foreground": "#FAF0E6",
+    "cursorColor": "#FAF0E6",
+    "selectionBackground": "#56514A"
+}

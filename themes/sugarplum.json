@@ -1,0 +1,23 @@
+{
+    "name": "Sugarplum",
+    "black": "#111147",
+    "red": "#5CA8DC",
+    "green": "#53B397",
+    "yellow": "#249A84",
+    "blue": "#DB7DDD",
+    "purple": "#D0BEEE",
+    "cyan": "#F9F3F9",
+    "white": "#A175D4",
+    "brightBlack": "#111147",
+    "brightRed": "#5CB5DC",
+    "brightGreen": "#52DEB5",
+    "brightYellow": "#01F5C7",
+    "brightBlue": "#FA5DFD",
+    "brightPurple": "#C6A5FD",
+    "brightCyan": "#FFFFFF",
+    "brightWhite": "#B577FD",
+    "background": "#111147",
+    "foreground": "#DB7DDD",
+    "cursorColor": "#53B397",
+    "selectionBackground": "#442C6C"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Wizzy Muted",
+    "black": "#444444",
+    "red": "#9D5776",
+    "green": "#398484",
+    "yellow": "#6B6B88",
+    "blue": "#4A6684",
+    "purple": "#6F579D",
+    "cyan": "#42769D",
+    "white": "#9AADB2",
+    "brightBlack": "#4E4E4E",
+    "brightRed": "#CF5E91",
+    "brightGreen": "#64B7B7",
+    "brightYellow": "#8D8DBA",
+    "brightBlue": "#588BC4",
+    "brightPurple": "#8F73C4",
+    "brightCyan": "#71A7CF",
+    "brightWhite": "#D1D1D1",
+    "background": "#100814",
+    "foreground": "#B2B8C4",
+    "cursorColor": "#B2B8C4",
+    "selectionBackground": "#383440"
+}

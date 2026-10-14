@@ -1,0 +1,23 @@
+{
+    "name": "Ganbaru",
+    "black": "#151B24",
+    "red": "#E8608C",
+    "green": "#A2D37E",
+    "yellow": "#FFB270",
+    "blue": "#73B3FF",
+    "purple": "#B8ABEC",
+    "cyan": "#60CEE0",
+    "white": "#A8ADB7",
+    "brightBlack": "#555555",
+    "brightRed": "#FF6D7E",
+    "brightGreen": "#B1E397",
+    "brightYellow": "#E5DE8C",
+    "brightBlue": "#A2C8F5",
+    "brightPurple": "#ECAEE3",
+    "brightCyan": "#A8D9E1",
+    "brightWhite": "#D1D8E5",
+    "background": "#151B24",
+    "foreground": "#E1E5EC",
+    "cursorColor": "#E1E5EC",
+    "selectionBackground": "#484E56"
+}

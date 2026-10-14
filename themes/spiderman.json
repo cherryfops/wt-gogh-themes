@@ -1,0 +1,23 @@
+{
+    "name": "Spiderman",
+    "black": "#1B1D1E",
+    "red": "#E60813",
+    "green": "#E22928",
+    "yellow": "#E24756",
+    "blue": "#2C3FFF",
+    "purple": "#2435DB",
+    "cyan": "#3256FF",
+    "white": "#FFFEF6",
+    "brightBlack": "#505354",
+    "brightRed": "#FF0325",
+    "brightGreen": "#FF3338",
+    "brightYellow": "#FE3A35",
+    "brightBlue": "#1D50FF",
+    "brightPurple": "#747CFF",
+    "brightCyan": "#6184FF",
+    "brightWhite": "#FFFFF9",
+    "background": "#1B1D1E",
+    "foreground": "#E3E3E3",
+    "cursorColor": "#2C3FFF",
+    "selectionBackground": "#070E50"
+}

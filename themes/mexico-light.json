@@ -1,0 +1,23 @@
+{
+    "name": "Mexico Light",
+    "black": "#F8F8F8",
+    "red": "#AB4642",
+    "green": "#538947",
+    "yellow": "#F79A0E",
+    "blue": "#7CAFC2",
+    "purple": "#96609E",
+    "cyan": "#4B8093",
+    "white": "#383838",
+    "brightBlack": "#B8B8B8",
+    "brightRed": "#AB4642",
+    "brightGreen": "#538947",
+    "brightYellow": "#F79A0E",
+    "brightBlue": "#7CAFC2",
+    "brightPurple": "#96609E",
+    "brightCyan": "#4B8093",
+    "brightWhite": "#181818",
+    "background": "#F8F8F8",
+    "foreground": "#383838",
+    "cursorColor": "#383838",
+    "selectionBackground": "#C8C8C8"
+}

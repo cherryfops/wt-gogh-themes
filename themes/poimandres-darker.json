@@ -1,0 +1,23 @@
+{
+    "name": "Poimandres Darker",
+    "black": "#16161E",
+    "red": "#D0679D",
+    "green": "#5DE4C7",
+    "yellow": "#FFFAC2",
+    "blue": "#89DDFF",
+    "purple": "#FCC5E9",
+    "cyan": "#ADD7FF",
+    "white": "#FFFFFF",
+    "brightBlack": "#A6ACCD",
+    "brightRed": "#D0679D",
+    "brightGreen": "#5DE4C7",
+    "brightYellow": "#FFFAC2",
+    "brightBlue": "#ADD7FF",
+    "brightPurple": "#FAE4FC",
+    "brightCyan": "#89DDFF",
+    "brightWhite": "#FFFFFF",
+    "background": "#16161E",
+    "foreground": "#A6ACCD",
+    "cursorColor": "#FFFFFF",
+    "selectionBackground": "#3A3C4A"
+}

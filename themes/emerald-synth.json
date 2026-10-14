@@ -1,0 +1,23 @@
+{
+    "name": "Emerald Synth",
+    "black": "#0A0118",
+    "red": "#FF2A6D",
+    "green": "#00E67E",
+    "yellow": "#FFCC66",
+    "blue": "#8B9CF7",
+    "purple": "#FF79C6",
+    "cyan": "#4DD0E1",
+    "white": "#F0E6FF",
+    "brightBlack": "#6A5585",
+    "brightRed": "#FF5C8A",
+    "brightGreen": "#40FFDD",
+    "brightYellow": "#FFE099",
+    "brightBlue": "#B0B8FC",
+    "brightPurple": "#FF9ED0",
+    "brightCyan": "#7EE0EC",
+    "brightWhite": "#FFFFFF",
+    "background": "#0D0221",
+    "foreground": "#00FFCC",
+    "cursorColor": "#FF79C6",
+    "selectionBackground": "#2E6B5F"
+}

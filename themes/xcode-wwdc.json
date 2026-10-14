@@ -1,0 +1,23 @@
+{
+    "name": "Xcode WWDC",
+    "black": "#494D5C",
+    "red": "#BB383A",
+    "green": "#94C66E",
+    "yellow": "#D28E5D",
+    "blue": "#8884C5",
+    "purple": "#B73999",
+    "cyan": "#00ABA4",
+    "white": "#E7E8EB",
+    "brightBlack": "#7F869E",
+    "brightRed": "#BB383A",
+    "brightGreen": "#94C66E",
+    "brightYellow": "#D28E5D",
+    "brightBlue": "#8884C5",
+    "brightPurple": "#B73999",
+    "brightCyan": "#00ABA4",
+    "brightWhite": "#E7E8EB",
+    "background": "#292C36",
+    "foreground": "#E7E8EB",
+    "cursorColor": "#E7E8EB",
+    "selectionBackground": "#494D5C"
+}

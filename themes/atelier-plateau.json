@@ -1,0 +1,23 @@
+{
+    "name": "Atelier Plateau",
+    "black": "#1B1818",
+    "red": "#CA4949",
+    "green": "#4B8B8B",
+    "yellow": "#A06E3B",
+    "blue": "#7272CA",
+    "purple": "#8464C4",
+    "cyan": "#5485B6",
+    "white": "#8A8585",
+    "brightBlack": "#655D5D",
+    "brightRed": "#B45A3C",
+    "brightGreen": "#4B8B8B",
+    "brightYellow": "#A06E3B",
+    "brightBlue": "#7272CA",
+    "brightPurple": "#8464C4",
+    "brightCyan": "#5485B6",
+    "brightWhite": "#F4ECEC",
+    "background": "#1B1818",
+    "foreground": "#7E7777",
+    "cursorColor": "#7E7777",
+    "selectionBackground": "#343030"
+}

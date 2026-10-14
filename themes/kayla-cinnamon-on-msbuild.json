@@ -1,0 +1,23 @@
+{
+    "name": "Kayla Cinnamon On Msbuild",
+    "black": "#0C0C0C",
+    "red": "#C50F1F",
+    "green": "#13A10E",
+    "yellow": "#C19C00",
+    "blue": "#0037DA",
+    "purple": "#881798",
+    "cyan": "#3A96DD",
+    "white": "#812727",
+    "brightBlack": "#B1B1B1",
+    "brightRed": "#E74856",
+    "brightGreen": "#16C60C",
+    "brightYellow": "#F9F1A5",
+    "brightBlue": "#3B78FF",
+    "brightPurple": "#B4009E",
+    "brightCyan": "#61D6D6",
+    "brightWhite": "#F2F2F2",
+    "background": "#492D7C",
+    "foreground": "#F1F1F1",
+    "cursorColor": "#F1F1F1",
+    "selectionBackground": "#735E99"
+}

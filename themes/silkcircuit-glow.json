@@ -1,0 +1,23 @@
+{
+    "name": "SilkCircuit Glow",
+    "black": "#000000",
+    "red": "#FF2244",
+    "green": "#00FF00",
+    "yellow": "#FFFF00",
+    "blue": "#0099FF",
+    "purple": "#FF00FF",
+    "cyan": "#00FFFF",
+    "white": "#FFFFFF",
+    "brightBlack": "#818181",
+    "brightRed": "#FF6666",
+    "brightGreen": "#66FF66",
+    "brightYellow": "#FFFF66",
+    "brightBlue": "#66CCFF",
+    "brightPurple": "#FF66FF",
+    "brightCyan": "#66FFFF",
+    "brightWhite": "#FFFFFF",
+    "background": "#0A0816",
+    "foreground": "#FFFFFF",
+    "cursorColor": "#00FFFF",
+    "selectionBackground": "#4B0654"
+}

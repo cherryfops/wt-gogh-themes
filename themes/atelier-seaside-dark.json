@@ -1,0 +1,23 @@
+{
+    "name": "Atelier Seaside Dark",
+    "black": "#131513",
+    "red": "#E6193C",
+    "green": "#29A329",
+    "yellow": "#98981B",
+    "blue": "#3D62F5",
+    "purple": "#AD2BEE",
+    "cyan": "#1999B3",
+    "white": "#8CA68C",
+    "brightBlack": "#687D68",
+    "brightRed": "#87711D",
+    "brightGreen": "#242924",
+    "brightYellow": "#5E6E5E",
+    "brightBlue": "#809980",
+    "brightPurple": "#CFE8CF",
+    "brightCyan": "#E619C3",
+    "brightWhite": "#F4FBF4",
+    "background": "#131513",
+    "foreground": "#8CA68C",
+    "cursorColor": "#8CA68C",
+    "selectionBackground": "#313931"
+}

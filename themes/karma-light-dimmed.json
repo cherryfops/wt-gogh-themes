@@ -1,0 +1,23 @@
+{
+    "name": "Karma Light Dimmed",
+    "black": "#1C1F24",
+    "red": "#E07A90",
+    "green": "#4A9A4C",
+    "yellow": "#D49A26",
+    "blue": "#6688B8",
+    "purple": "#7C5AB0",
+    "cyan": "#6688B8",
+    "white": "#5A5860",
+    "brightBlack": "#999999",
+    "brightRed": "#E07A90",
+    "brightGreen": "#4A9A4C",
+    "brightYellow": "#E0A040",
+    "brightBlue": "#6688B8",
+    "brightPurple": "#9676D0",
+    "brightCyan": "#6688B8",
+    "brightWhite": "#1C1F24",
+    "background": "#F5F3F7",
+    "foreground": "#1C1F24",
+    "cursorColor": "#9676D0",
+    "selectionBackground": "#DDD8E2"
+}

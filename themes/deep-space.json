@@ -1,0 +1,23 @@
+{
+    "name": "Deep Space",
+    "black": "#1B202A",
+    "red": "#B15E7C",
+    "green": "#709D6C",
+    "yellow": "#B5A262",
+    "blue": "#608CC3",
+    "purple": "#8F72BF",
+    "cyan": "#56ADB7",
+    "white": "#9AA7BD",
+    "brightBlack": "#232936",
+    "brightRed": "#B3785D",
+    "brightGreen": "#709D6C",
+    "brightYellow": "#D5B875",
+    "brightBlue": "#608CC3",
+    "brightPurple": "#C47EBD",
+    "brightCyan": "#51617D",
+    "brightWhite": "#9AA7BD",
+    "background": "#1B202A",
+    "foreground": "#9AA7BD",
+    "cursorColor": "#9AA7BD",
+    "selectionBackground": "#3B424F"
+}

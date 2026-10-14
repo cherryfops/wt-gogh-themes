@@ -1,0 +1,23 @@
+{
+    "name": "Atelier Estuary Dark",
+    "black": "#22221B",
+    "red": "#BA6236",
+    "green": "#7D9726",
+    "yellow": "#A5980D",
+    "blue": "#36A166",
+    "purple": "#5F9182",
+    "cyan": "#5B9D48",
+    "white": "#929181",
+    "brightBlack": "#6C6B5A",
+    "brightRed": "#AE7313",
+    "brightGreen": "#302F27",
+    "brightYellow": "#5F5E4E",
+    "brightBlue": "#878573",
+    "brightPurple": "#E7E6DF",
+    "brightCyan": "#9D6C7C",
+    "brightWhite": "#F4F3EC",
+    "background": "#22221B",
+    "foreground": "#929181",
+    "cursorColor": "#929181",
+    "selectionBackground": "#3E3E34"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Atelier Heath Dark",
+    "black": "#1B181B",
+    "red": "#CA402B",
+    "green": "#918B3B",
+    "yellow": "#BB8A35",
+    "blue": "#516AEC",
+    "purple": "#7B59C0",
+    "cyan": "#159393",
+    "white": "#AB9BAB",
+    "brightBlack": "#776977",
+    "brightRed": "#A65926",
+    "brightGreen": "#292329",
+    "brightYellow": "#695D69",
+    "brightBlue": "#9E8F9E",
+    "brightPurple": "#D8CAD8",
+    "brightCyan": "#CC33CC",
+    "brightWhite": "#F7F3F7",
+    "background": "#1B181B",
+    "foreground": "#AB9BAB",
+    "cursorColor": "#AB9BAB",
+    "selectionBackground": "#3F393F"
+}

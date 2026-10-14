@@ -1,0 +1,23 @@
+{
+    "name": "Broadcast",
+    "black": "#000000",
+    "red": "#DA4939",
+    "green": "#519F50",
+    "yellow": "#FFD24A",
+    "blue": "#6D9CBE",
+    "purple": "#D0D0FF",
+    "cyan": "#6E9CBE",
+    "white": "#FFFFFF",
+    "brightBlack": "#323232",
+    "brightRed": "#FF7B6B",
+    "brightGreen": "#83D182",
+    "brightYellow": "#FFFF7C",
+    "brightBlue": "#9FCEF0",
+    "brightPurple": "#FFFFFF",
+    "brightCyan": "#A0CEF0",
+    "brightWhite": "#FFFFFF",
+    "background": "#2B2B2B",
+    "foreground": "#E6E1DC",
+    "cursorColor": "#FFFFFF",
+    "selectionBackground": "#5A5857"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Nachtschicht",
+    "black": "#0E1012",
+    "red": "#E5484D",
+    "green": "#33D17A",
+    "yellow": "#E3B341",
+    "blue": "#4D7CFE",
+    "purple": "#C86AD8",
+    "cyan": "#3FC8B0",
+    "white": "#C9CFD6",
+    "brightBlack": "#9DA4AF",
+    "brightRed": "#EF8F92",
+    "brightGreen": "#76E0A5",
+    "brightYellow": "#EDCF88",
+    "brightBlue": "#9EB8FE",
+    "brightPurple": "#E0ABE9",
+    "brightCyan": "#7EDACA",
+    "brightWhite": "#E8EAED",
+    "background": "#17191D",
+    "foreground": "#E8EAED",
+    "cursorColor": "#E3B341",
+    "selectionBackground": "#36393C"
+}

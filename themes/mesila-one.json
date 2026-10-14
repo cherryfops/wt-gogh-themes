@@ -1,0 +1,23 @@
+{
+    "name": "Mesila One",
+    "black": "#111418",
+    "red": "#918680",
+    "green": "#79C6FA",
+    "yellow": "#E2B5AB",
+    "blue": "#D9C2FB",
+    "purple": "#7B70B5",
+    "cyan": "#79C6FA",
+    "white": "#ECF9E5",
+    "brightBlack": "#7B70B5",
+    "brightRed": "#918680",
+    "brightGreen": "#79C6FA",
+    "brightYellow": "#E2B5AB",
+    "brightBlue": "#D9C2FB",
+    "brightPurple": "#7B70B5",
+    "brightCyan": "#79C6FA",
+    "brightWhite": "#ECF9E5",
+    "background": "#1C1F23",
+    "foreground": "#ECF9E5",
+    "cursorColor": "#79C6FA",
+    "selectionBackground": "#505654"
+}

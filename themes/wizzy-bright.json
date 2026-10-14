@@ -1,0 +1,23 @@
+{
+    "name": "Wizzy Bright",
+    "black": "#666666",
+    "red": "#BF7998",
+    "green": "#5BA6A6",
+    "yellow": "#8D8DAA",
+    "blue": "#6C88A6",
+    "purple": "#8F79BF",
+    "cyan": "#6498BF",
+    "white": "#ABBEC5",
+    "brightBlack": "#6F6F6F",
+    "brightRed": "#CF7FB3",
+    "brightGreen": "#75C8C8",
+    "brightYellow": "#AFAFDC",
+    "brightBlue": "#7AADE6",
+    "brightPurple": "#AF95E6",
+    "brightCyan": "#82B8DF",
+    "brightWhite": "#BCCFD4",
+    "background": "#100814",
+    "foreground": "#B2B8C4",
+    "cursorColor": "#B2B8C4",
+    "selectionBackground": "#383440"
+}

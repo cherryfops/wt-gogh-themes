@@ -1,0 +1,23 @@
+{
+    "name": "Purplepeter",
+    "black": "#0A0520",
+    "red": "#FF796D",
+    "green": "#99B481",
+    "yellow": "#EFDFAC",
+    "blue": "#66D9EF",
+    "purple": "#E78FCD",
+    "cyan": "#BA8CFF",
+    "white": "#FFBA81",
+    "brightBlack": "#100B23",
+    "brightRed": "#F99F92",
+    "brightGreen": "#B4BE8F",
+    "brightYellow": "#F2E9BF",
+    "brightBlue": "#79DAED",
+    "brightPurple": "#BA91D4",
+    "brightCyan": "#A0A0D6",
+    "brightWhite": "#B9AED3",
+    "background": "#2A1A4A",
+    "foreground": "#ECE7FA",
+    "cursorColor": "#C7C7C7",
+    "selectionBackground": "#5A4D76"
+}

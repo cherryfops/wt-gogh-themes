@@ -1,0 +1,23 @@
+{
+    "name": "Leaf Dark",
+    "black": "#2E2C2F",
+    "red": "#BA5860",
+    "green": "#729B79",
+    "yellow": "#CCAA6C",
+    "blue": "#5292C6",
+    "purple": "#8C6AA8",
+    "cyan": "#489CA5",
+    "white": "#E1E4DC",
+    "brightBlack": "#403F42",
+    "brightRed": "#D6797A",
+    "brightGreen": "#98CCA4",
+    "brightYellow": "#E3C882",
+    "brightBlue": "#76ACE6",
+    "brightPurple": "#B798E6",
+    "brightCyan": "#77C5DA",
+    "brightWhite": "#FCFFF6",
+    "background": "#2E2C2F",
+    "foreground": "#E1E4DC",
+    "cursorColor": "#E1E4DC",
+    "selectionBackground": "#5B5A5A"
+}

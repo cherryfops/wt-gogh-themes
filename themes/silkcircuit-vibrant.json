@@ -1,0 +1,23 @@
+{
+    "name": "SilkCircuit Vibrant",
+    "black": "#0F0C1A",
+    "red": "#FF3366",
+    "green": "#00FF66",
+    "yellow": "#FFCC00",
+    "blue": "#6699FF",
+    "purple": "#FF00CC",
+    "cyan": "#00FFCC",
+    "white": "#F8F8F2",
+    "brightBlack": "#728989",
+    "brightRed": "#FF6677",
+    "brightGreen": "#66FF99",
+    "brightYellow": "#FFFF66",
+    "brightBlue": "#88AAFF",
+    "brightPurple": "#FF66FF",
+    "brightCyan": "#00FFFF",
+    "brightWhite": "#FFFFFF",
+    "background": "#0F0C1A",
+    "foreground": "#F8F8F2",
+    "cursorColor": "#00FFCC",
+    "selectionBackground": "#3A2E5A"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "One Dark Two",
+    "black": "#1D1F23",
+    "red": "#E27881",
+    "green": "#98C379",
+    "yellow": "#EAC786",
+    "blue": "#71B9F4",
+    "purple": "#C88BDA",
+    "cyan": "#62BAC6",
+    "white": "#C9CCD3",
+    "brightBlack": "#4A505A",
+    "brightRed": "#E68991",
+    "brightGreen": "#A8CC8E",
+    "brightYellow": "#EDCF97",
+    "brightBlue": "#8DC7F6",
+    "brightPurple": "#D3A2E2",
+    "brightCyan": "#78C4CE",
+    "brightWhite": "#E6E6E6",
+    "background": "#21252B",
+    "foreground": "#E6E6E6",
+    "cursorColor": "#E6E6E6",
+    "selectionBackground": "#393E47"
+}

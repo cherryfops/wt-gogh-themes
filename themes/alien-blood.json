@@ -1,0 +1,23 @@
+{
+    "name": "Alien Blood",
+    "black": "#112616",
+    "red": "#7F2B27",
+    "green": "#2F7E25",
+    "yellow": "#717F24",
+    "blue": "#2F6A7F",
+    "purple": "#47587F",
+    "cyan": "#327F77",
+    "white": "#647D75",
+    "brightBlack": "#3C4812",
+    "brightRed": "#E08009",
+    "brightGreen": "#18E000",
+    "brightYellow": "#BDE000",
+    "brightBlue": "#00AAE0",
+    "brightPurple": "#0058E0",
+    "brightCyan": "#00E0C4",
+    "brightWhite": "#73FA91",
+    "background": "#0F1610",
+    "foreground": "#637D75",
+    "cursorColor": "#73FA91",
+    "selectionBackground": "#1D4125"
+}

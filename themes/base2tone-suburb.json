@@ -1,0 +1,23 @@
+{
+    "name": "Base2Tone Suburb",
+    "black": "#1E202F",
+    "red": "#7586F5",
+    "green": "#FB6FA9",
+    "yellow": "#FFB3D2",
+    "blue": "#8696FD",
+    "purple": "#FB6FA9",
+    "cyan": "#A0ACFE",
+    "white": "#878BA6",
+    "brightBlack": "#4F5472",
+    "brightRed": "#FE81B5",
+    "brightGreen": "#292C3D",
+    "brightYellow": "#444864",
+    "brightBlue": "#5B6080",
+    "brightPurple": "#D2D8FE",
+    "brightCyan": "#F764A1",
+    "brightWhite": "#EBEDFF",
+    "background": "#1E202F",
+    "foreground": "#878BA6",
+    "cursorColor": "#D14781",
+    "selectionBackground": "#383B4D"
+}

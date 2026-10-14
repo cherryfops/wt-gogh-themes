@@ -1,0 +1,23 @@
+{
+    "name": "Aquarium Dark",
+    "black": "#3B3B4D",
+    "red": "#EBB9B9",
+    "green": "#CAF6BB",
+    "yellow": "#E6DFB8",
+    "blue": "#CDDBF9",
+    "purple": "#F6BBE7",
+    "cyan": "#B8DCEB",
+    "white": "#C8CEDC",
+    "brightBlack": "#1B1B23",
+    "brightRed": "#D95E59",
+    "brightGreen": "#8FC587",
+    "brightYellow": "#FFCF85",
+    "brightBlue": "#4A83C3",
+    "brightPurple": "#BF83B5",
+    "brightCyan": "#4EB3CD",
+    "brightWhite": "#ABB2C2",
+    "background": "#20202A",
+    "foreground": "#C6D0E9",
+    "cursorColor": "#C6D0E9",
+    "selectionBackground": "#4A4C5A"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Wilmersdorf",
+    "black": "#34373E",
+    "red": "#E06383",
+    "green": "#7EBEBD",
+    "yellow": "#CCCCCC",
+    "blue": "#A6C1E0",
+    "purple": "#E1C1EE",
+    "cyan": "#5B94AB",
+    "white": "#ABABAB",
+    "brightBlack": "#434750",
+    "brightRed": "#FA7193",
+    "brightGreen": "#8FD7D6",
+    "brightYellow": "#D1DFFF",
+    "brightBlue": "#B2CFF0",
+    "brightPurple": "#EFCCFD",
+    "brightCyan": "#69ABC5",
+    "brightWhite": "#D3D3D3",
+    "background": "#282B33",
+    "foreground": "#C6C6C6",
+    "cursorColor": "#7EBEBD",
+    "selectionBackground": "#505258"
+}

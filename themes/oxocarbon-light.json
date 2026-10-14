@@ -1,0 +1,23 @@
+{
+    "name": "Oxocarbon Light",
+    "black": "#F2F4F8",
+    "red": "#FF7EB6",
+    "green": "#42BE65",
+    "yellow": "#FF6F00",
+    "blue": "#0F62FE",
+    "purple": "#BE95FF",
+    "cyan": "#673AB7",
+    "white": "#525F70",
+    "brightBlack": "#A1ACBA",
+    "brightRed": "#FF7EB6",
+    "brightGreen": "#42BE65",
+    "brightYellow": "#FF6F00",
+    "brightBlue": "#0F62FE",
+    "brightPurple": "#BE95FF",
+    "brightCyan": "#673AB7",
+    "brightWhite": "#272D35",
+    "background": "#F2F4F8",
+    "foreground": "#525F70",
+    "cursorColor": "#525F70",
+    "selectionBackground": "#CACFD6"
+}

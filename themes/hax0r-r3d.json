@@ -1,0 +1,23 @@
+{
+    "name": "HaX0R R3D",
+    "black": "#1F0000",
+    "red": "#B00D0D",
+    "green": "#B00D0D",
+    "yellow": "#B00D0D",
+    "blue": "#B00D0D",
+    "purple": "#B00D0D",
+    "cyan": "#B00D0D",
+    "white": "#FAFAFA",
+    "brightBlack": "#150000",
+    "brightRed": "#FF1111",
+    "brightGreen": "#FF1010",
+    "brightYellow": "#FF1010",
+    "brightBlue": "#FF1010",
+    "brightPurple": "#FF1010",
+    "brightCyan": "#FF1010",
+    "brightWhite": "#FEFEFE",
+    "background": "#200101",
+    "foreground": "#B10E0E",
+    "cursorColor": "#B00D0D",
+    "selectionBackground": "#440404"
+}

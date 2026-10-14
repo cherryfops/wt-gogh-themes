@@ -1,0 +1,23 @@
+{
+    "name": "Liquid Carbon",
+    "black": "#000000",
+    "red": "#FF3030",
+    "green": "#559A70",
+    "yellow": "#CCAC00",
+    "blue": "#0099CC",
+    "purple": "#CC69C8",
+    "cyan": "#7AC4CC",
+    "white": "#BCCCCC",
+    "brightBlack": "#000000",
+    "brightRed": "#FF3030",
+    "brightGreen": "#559A70",
+    "brightYellow": "#CCAC00",
+    "brightBlue": "#0099CC",
+    "brightPurple": "#CC69C8",
+    "brightCyan": "#7AC4CC",
+    "brightWhite": "#BCCCCC",
+    "background": "#303030",
+    "foreground": "#AFC2C2",
+    "cursorColor": "#FFFFFF",
+    "selectionBackground": "#505454"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Nvim Dark",
+    "black": "#07080D",
+    "red": "#FFC0B9",
+    "green": "#B3F6C0",
+    "yellow": "#FCE094",
+    "blue": "#A6DBFF",
+    "purple": "#FFCAFF",
+    "cyan": "#8CF8F7",
+    "white": "#EEF1F8",
+    "brightBlack": "#4F5258",
+    "brightRed": "#FFC0B9",
+    "brightGreen": "#B3F6C0",
+    "brightYellow": "#FCE094",
+    "brightBlue": "#A6DBFF",
+    "brightPurple": "#FFCAFF",
+    "brightCyan": "#8CF8F7",
+    "brightWhite": "#EEF1F8",
+    "background": "#14161B",
+    "foreground": "#E0E2EA",
+    "cursorColor": "#9B9EA4",
+    "selectionBackground": "#4F5258"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Breeze",
+    "black": "#31363B",
+    "red": "#ED1515",
+    "green": "#11D116",
+    "yellow": "#F67400",
+    "blue": "#1D99F3",
+    "purple": "#9B59B6",
+    "cyan": "#1ABC9C",
+    "white": "#EFF0F1",
+    "brightBlack": "#7F8C8D",
+    "brightRed": "#C0392B",
+    "brightGreen": "#1CDC9A",
+    "brightYellow": "#FDBC4B",
+    "brightBlue": "#3DAEE9",
+    "brightPurple": "#8E44AD",
+    "brightCyan": "#16A085",
+    "brightWhite": "#FCFCFC",
+    "background": "#31363B",
+    "foreground": "#EFF0F1",
+    "cursorColor": "#EFF0F1",
+    "selectionBackground": "#606468"
+}

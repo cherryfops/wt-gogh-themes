@@ -1,0 +1,23 @@
+{
+    "name": "Lahabana",
+    "black": "#19191A",
+    "red": "#FC618D",
+    "green": "#7BD88F",
+    "yellow": "#E5FF9D",
+    "blue": "#FD9353",
+    "purple": "#948AE3",
+    "cyan": "#5AD4E6",
+    "white": "#F7F1FF",
+    "brightBlack": "#19191A",
+    "brightRed": "#FC618D",
+    "brightGreen": "#7BD88F",
+    "brightYellow": "#E5FF9D",
+    "brightBlue": "#FD9353",
+    "brightPurple": "#948AE3",
+    "brightCyan": "#5AD4E6",
+    "brightWhite": "#F7F1FF",
+    "background": "#19191A",
+    "foreground": "#F7F1FF",
+    "cursorColor": "#F7F1FF",
+    "selectionBackground": "#504F53"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "London Bonfire Night",
+    "black": "#1A1418",
+    "red": "#D65A3A",
+    "green": "#6A8A4A",
+    "yellow": "#E8B048",
+    "blue": "#5A7AB8",
+    "purple": "#D76AA8",
+    "cyan": "#88A8C8",
+    "white": "#E8E0C8",
+    "brightBlack": "#44403C",
+    "brightRed": "#EC7654",
+    "brightGreen": "#88A868",
+    "brightYellow": "#F5C25C",
+    "brightBlue": "#7A96D0",
+    "brightPurple": "#ED85BC",
+    "brightCyan": "#A0BCD6",
+    "brightWhite": "#FDF6DF",
+    "background": "#0E0C0E",
+    "foreground": "#E8E0C8",
+    "cursorColor": "#E85AA8",
+    "selectionBackground": "#2A2228"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Mar",
+    "black": "#000000",
+    "red": "#B5407B",
+    "green": "#7BB540",
+    "yellow": "#B57B40",
+    "blue": "#407BB5",
+    "purple": "#7B40B5",
+    "cyan": "#40B57B",
+    "white": "#F8F8F8",
+    "brightBlack": "#737373",
+    "brightRed": "#CD73A0",
+    "brightGreen": "#A0CD73",
+    "brightYellow": "#CDA073",
+    "brightBlue": "#73A0CD",
+    "brightPurple": "#A073CD",
+    "brightCyan": "#73CDA0",
+    "brightWhite": "#FFFFFF",
+    "background": "#FFFFFF",
+    "foreground": "#23476A",
+    "cursorColor": "#23476A",
+    "selectionBackground": "#C8D1DA"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Tempus Classic",
+    "black": "#232323",
+    "red": "#D4823D",
+    "green": "#8C9E3D",
+    "yellow": "#B1942B",
+    "blue": "#6E9CB0",
+    "purple": "#B58D88",
+    "cyan": "#6DA280",
+    "white": "#949D9F",
+    "brightBlack": "#312E30",
+    "brightRed": "#D0913D",
+    "brightGreen": "#96A42D",
+    "brightYellow": "#A8A030",
+    "brightBlue": "#8E9CC0",
+    "brightPurple": "#D58888",
+    "brightCyan": "#7AA880",
+    "brightWhite": "#AEADAF",
+    "background": "#232323",
+    "foreground": "#AEADAF",
+    "cursorColor": "#AEADAF",
+    "selectionBackground": "#464646"
+}

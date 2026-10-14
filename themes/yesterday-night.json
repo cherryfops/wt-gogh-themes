@@ -1,0 +1,23 @@
+{
+    "name": "Yesterday Night",
+    "black": "#343D46",
+    "red": "#CC6666",
+    "green": "#B5BD68",
+    "yellow": "#F0C674",
+    "blue": "#81A2BE",
+    "purple": "#B294BB",
+    "cyan": "#8ABEB7",
+    "white": "#DFE1E8",
+    "brightBlack": "#A7ADBA",
+    "brightRed": "#CC6666",
+    "brightGreen": "#B5BD68",
+    "brightYellow": "#F0C674",
+    "brightBlue": "#81A2BE",
+    "brightPurple": "#B294BB",
+    "brightCyan": "#8ABEB7",
+    "brightWhite": "#FFFFFF",
+    "background": "#343D46",
+    "foreground": "#DFE1E8",
+    "cursorColor": "#DFE1E8",
+    "selectionBackground": "#5F666E"
+}

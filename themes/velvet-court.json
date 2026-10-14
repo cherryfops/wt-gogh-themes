@@ -1,0 +1,23 @@
+{
+    "name": "Velvet Court",
+    "black": "#2F1629",
+    "red": "#EE5C82",
+    "green": "#9AD08A",
+    "yellow": "#F0C44E",
+    "blue": "#B392E8",
+    "purple": "#D087E0",
+    "cyan": "#6FD0C8",
+    "white": "#E2C8D8",
+    "brightBlack": "#836075",
+    "brightRed": "#EE5C82",
+    "brightGreen": "#9AD08A",
+    "brightYellow": "#E8964F",
+    "brightBlue": "#B392E8",
+    "brightPurple": "#D087E0",
+    "brightCyan": "#6FD0C8",
+    "brightWhite": "#F2DCEA",
+    "background": "#1F0E1C",
+    "foreground": "#F2DCEA",
+    "cursorColor": "#F0C44E",
+    "selectionBackground": "#3E2138"
+}

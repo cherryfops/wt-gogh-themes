@@ -1,0 +1,23 @@
+{
+    "name": "C64",
+    "black": "#090300",
+    "red": "#883932",
+    "green": "#55A049",
+    "yellow": "#BFCE72",
+    "blue": "#40318D",
+    "purple": "#8B3F96",
+    "cyan": "#67B6BD",
+    "white": "#FFFFFF",
+    "brightBlack": "#000000",
+    "brightRed": "#883932",
+    "brightGreen": "#55A049",
+    "brightYellow": "#BFCE72",
+    "brightBlue": "#40318D",
+    "brightPurple": "#8B3F96",
+    "brightCyan": "#67B6BD",
+    "brightWhite": "#F7F7F7",
+    "background": "#40318D",
+    "foreground": "#7869C4",
+    "cursorColor": "#7869C4",
+    "selectionBackground": "#483A8F"
+}

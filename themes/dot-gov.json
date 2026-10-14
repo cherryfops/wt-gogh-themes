@@ -1,0 +1,23 @@
+{
+    "name": "Dot Gov",
+    "black": "#191919",
+    "red": "#BF091D",
+    "green": "#3D9751",
+    "yellow": "#F6BB34",
+    "blue": "#17B2E0",
+    "purple": "#7830B0",
+    "cyan": "#8BD2ED",
+    "white": "#FFFFFF",
+    "brightBlack": "#191919",
+    "brightRed": "#BF091D",
+    "brightGreen": "#3D9751",
+    "brightYellow": "#F6BB34",
+    "brightBlue": "#17B2E0",
+    "brightPurple": "#7830B0",
+    "brightCyan": "#8BD2ED",
+    "brightWhite": "#FFFFFF",
+    "background": "#262C35",
+    "foreground": "#EBEBEB",
+    "cursorColor": "#D9002F",
+    "selectionBackground": "#575C62"
+}

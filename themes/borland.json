@@ -1,0 +1,23 @@
+{
+    "name": "Borland",
+    "black": "#4F4F4F",
+    "red": "#FF6C60",
+    "green": "#A8FF60",
+    "yellow": "#FFFFB6",
+    "blue": "#96CBFE",
+    "purple": "#FF73FD",
+    "cyan": "#C6C5FE",
+    "white": "#EEEEEE",
+    "brightBlack": "#7C7C7C",
+    "brightRed": "#FFB6B0",
+    "brightGreen": "#CEFFAC",
+    "brightYellow": "#FFFFCC",
+    "brightBlue": "#B5DCFF",
+    "brightPurple": "#FF9CFE",
+    "brightCyan": "#DFDFFE",
+    "brightWhite": "#FFFFFF",
+    "background": "#0000A4",
+    "foreground": "#FFFF4E",
+    "cursorColor": "#FFA560",
+    "selectionBackground": "#A4A4A4"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Adwaita Light",
+    "black": "#FCFCFC",
+    "red": "#ED333B",
+    "green": "#57E389",
+    "yellow": "#FF7800",
+    "blue": "#62A0EA",
+    "purple": "#9141AC",
+    "cyan": "#5BC8AF",
+    "white": "#DEDDDA",
+    "brightBlack": "#9A9996",
+    "brightRed": "#F66151",
+    "brightGreen": "#8FF0A4",
+    "brightYellow": "#FFA348",
+    "brightBlue": "#99C1F1",
+    "brightPurple": "#DC8ADD",
+    "brightCyan": "#93DDC2",
+    "brightWhite": "#F6F5F4",
+    "background": "#FCFCFC",
+    "foreground": "#504E55",
+    "cursorColor": "#504E55",
+    "selectionBackground": "#D1D0D2"
+}

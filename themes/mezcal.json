@@ -1,0 +1,23 @@
+{
+    "name": "Mezcal",
+    "black": "#13110E",
+    "red": "#DA6E54",
+    "green": "#A8B84A",
+    "yellow": "#D9A441",
+    "blue": "#8AA6C0",
+    "purple": "#C28AA8",
+    "cyan": "#6FC8AE",
+    "white": "#E0D8C8",
+    "brightBlack": "#6E6450",
+    "brightRed": "#DA6E54",
+    "brightGreen": "#A8B84A",
+    "brightYellow": "#D9A441",
+    "brightBlue": "#8AA6C0",
+    "brightPurple": "#C28AA8",
+    "brightCyan": "#6FC8AE",
+    "brightWhite": "#F2EAD6",
+    "background": "#13110E",
+    "foreground": "#E0D8C8",
+    "cursorColor": "#E0D8C8",
+    "selectionBackground": "#46433C"
+}

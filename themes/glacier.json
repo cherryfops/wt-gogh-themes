@@ -1,0 +1,23 @@
+{
+    "name": "Glacier",
+    "black": "#2E343C",
+    "red": "#BD0F2F",
+    "green": "#35A770",
+    "yellow": "#FB9435",
+    "blue": "#1F5872",
+    "purple": "#BD2523",
+    "cyan": "#778397",
+    "white": "#FFFFFF",
+    "brightBlack": "#404A55",
+    "brightRed": "#BD0F2F",
+    "brightGreen": "#49E998",
+    "brightYellow": "#FDDF6E",
+    "brightBlue": "#2A8BC1",
+    "brightPurple": "#EA4727",
+    "brightCyan": "#A0B6D3",
+    "brightWhite": "#FFFFFF",
+    "background": "#0C1115",
+    "foreground": "#FFFFFF",
+    "cursorColor": "#6C6C6C",
+    "selectionBackground": "#BD2523"
+}

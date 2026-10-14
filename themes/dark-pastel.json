@@ -1,0 +1,23 @@
+{
+    "name": "Dark Pastel",
+    "black": "#000000",
+    "red": "#FF5555",
+    "green": "#55FF55",
+    "yellow": "#FFFF55",
+    "blue": "#5555FF",
+    "purple": "#FF55FF",
+    "cyan": "#55FFFF",
+    "white": "#BBBBBB",
+    "brightBlack": "#555555",
+    "brightRed": "#FF5555",
+    "brightGreen": "#55FF55",
+    "brightYellow": "#FFFF55",
+    "brightBlue": "#5555FF",
+    "brightPurple": "#FF55FF",
+    "brightCyan": "#55FFFF",
+    "brightWhite": "#FFFFFF",
+    "background": "#000000",
+    "foreground": "#FFFFFF",
+    "cursorColor": "#BBBBBB",
+    "selectionBackground": "#B5D5FF"
+}

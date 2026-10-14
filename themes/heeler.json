@@ -1,0 +1,23 @@
+{
+    "name": "Heeler",
+    "black": "#000000",
+    "red": "#D3573B",
+    "green": "#C1D041",
+    "yellow": "#EECF75",
+    "blue": "#6DA3EC",
+    "purple": "#FD9BC1",
+    "cyan": "#FE9D6E",
+    "white": "#FFFFFF",
+    "brightBlack": "#000000",
+    "brightRed": "#D3573B",
+    "brightGreen": "#C1D041",
+    "brightYellow": "#EECF75",
+    "brightBlue": "#2C86FF",
+    "brightPurple": "#FD9BC1",
+    "brightCyan": "#92A5DF",
+    "brightWhite": "#FFFFFF",
+    "background": "#211F44",
+    "foreground": "#FDFDFD",
+    "cursorColor": "#FFFFFF",
+    "selectionBackground": "#585672"
+}

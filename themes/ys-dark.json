@@ -1,0 +1,23 @@
+{
+    "name": "Ys Dark",
+    "black": "#101010",
+    "red": "#F07178",
+    "green": "#C3E88D",
+    "yellow": "#FFCB6B",
+    "blue": "#82AAFF",
+    "purple": "#E1ACFF",
+    "cyan": "#89DDFF",
+    "white": "#D0D0D0",
+    "brightBlack": "#434758",
+    "brightRed": "#FF8B92",
+    "brightGreen": "#DDFFA7",
+    "brightYellow": "#FFE585",
+    "brightBlue": "#9CC4FF",
+    "brightPurple": "#C792EA",
+    "brightCyan": "#A3F7FF",
+    "brightWhite": "#FFFFFF",
+    "background": "#1B1E35",
+    "foreground": "#BBC5FF",
+    "cursorColor": "#BBC5FF",
+    "selectionBackground": "#434868"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Patina Light",
+    "black": "#2E2A24",
+    "red": "#9B3B3B",
+    "green": "#34644C",
+    "yellow": "#6E5817",
+    "blue": "#2F626F",
+    "purple": "#7A4F47",
+    "cyan": "#2E6260",
+    "white": "#5A5248",
+    "brightBlack": "#625A51",
+    "brightRed": "#833333",
+    "brightGreen": "#2D5839",
+    "brightYellow": "#634E14",
+    "brightBlue": "#2C5660",
+    "brightPurple": "#6D463E",
+    "brightCyan": "#285654",
+    "brightWhite": "#393A34",
+    "background": "#DDD7C4",
+    "foreground": "#2E2A24",
+    "cursorColor": "#2E2A24",
+    "selectionBackground": "#BFB8A3"
+}

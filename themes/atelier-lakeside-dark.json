@@ -1,0 +1,23 @@
+{
+    "name": "Atelier Lakeside Dark",
+    "black": "#161B1D",
+    "red": "#D22D72",
+    "green": "#568C3B",
+    "yellow": "#8A8A0F",
+    "blue": "#257FAD",
+    "purple": "#6B6BB8",
+    "cyan": "#2D8F6F",
+    "white": "#7EA2B4",
+    "brightBlack": "#5A7B8C",
+    "brightRed": "#935C25",
+    "brightGreen": "#1F292E",
+    "brightYellow": "#516D7B",
+    "brightBlue": "#7195A8",
+    "brightPurple": "#C1E4F6",
+    "brightCyan": "#B72DD2",
+    "brightWhite": "#EBF8FF",
+    "background": "#161B1D",
+    "foreground": "#7EA2B4",
+    "cursorColor": "#7EA2B4",
+    "selectionBackground": "#303D43"
+}

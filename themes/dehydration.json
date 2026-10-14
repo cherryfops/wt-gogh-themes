@@ -1,0 +1,23 @@
+{
+    "name": "Dehydration",
+    "black": "#333333",
+    "red": "#FF5555",
+    "green": "#5FD38D",
+    "yellow": "#FF9955",
+    "blue": "#3771C8",
+    "purple": "#BC5FD3",
+    "cyan": "#5FD3BC",
+    "white": "#999999",
+    "brightBlack": "#666666",
+    "brightRed": "#FF8080",
+    "brightGreen": "#87DEAA",
+    "brightYellow": "#FFB380",
+    "brightBlue": "#5F8DD3",
+    "brightPurple": "#CD87DE",
+    "brightCyan": "#87DECD",
+    "brightWhite": "#CCCCCC",
+    "background": "#333333",
+    "foreground": "#CCCCCC",
+    "cursorColor": "#CCCCCC",
+    "selectionBackground": "#595959"
+}

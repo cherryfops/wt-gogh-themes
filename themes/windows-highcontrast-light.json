@@ -1,0 +1,23 @@
+{
+    "name": "Windows Highcontrast Light",
+    "black": "#FCFCFC",
+    "red": "#800000",
+    "green": "#008000",
+    "yellow": "#808000",
+    "blue": "#000080",
+    "purple": "#800080",
+    "cyan": "#008080",
+    "white": "#545454",
+    "brightBlack": "#C0C0C0",
+    "brightRed": "#800000",
+    "brightGreen": "#008000",
+    "brightYellow": "#808000",
+    "brightBlue": "#000080",
+    "brightPurple": "#800080",
+    "brightCyan": "#008080",
+    "brightWhite": "#000000",
+    "background": "#FCFCFC",
+    "foreground": "#545454",
+    "cursorColor": "#545454",
+    "selectionBackground": "#D2D2D2"
+}

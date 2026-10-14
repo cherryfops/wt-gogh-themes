@@ -1,0 +1,23 @@
+{
+    "name": "Gruvbox Dark Medium Forest",
+    "black": "#282828",
+    "red": "#FB4934",
+    "green": "#B8BB26",
+    "yellow": "#FABD2F",
+    "blue": "#B8BB26",
+    "purple": "#96BDA2",
+    "cyan": "#5F6C1F",
+    "white": "#D5C4A1",
+    "brightBlack": "#665C50",
+    "brightRed": "#FB4934",
+    "brightGreen": "#B8BB26",
+    "brightYellow": "#FABD2F",
+    "brightBlue": "#B8BB26",
+    "brightPurple": "#96BDA2",
+    "brightCyan": "#5F6C1F",
+    "brightWhite": "#FBF1C7",
+    "background": "#282828",
+    "foreground": "#D5C4A1",
+    "cursorColor": "#D5C4A1",
+    "selectionBackground": "#534F46"
+}

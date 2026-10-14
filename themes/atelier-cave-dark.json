@@ -1,0 +1,23 @@
+{
+    "name": "Atelier Cave Dark",
+    "black": "#19171C",
+    "red": "#BE4678",
+    "green": "#2A9292",
+    "yellow": "#A06E3B",
+    "blue": "#576DDB",
+    "purple": "#955AE7",
+    "cyan": "#398BC6",
+    "white": "#8B8792",
+    "brightBlack": "#655F6D",
+    "brightRed": "#AA573C",
+    "brightGreen": "#26232A",
+    "brightYellow": "#585260",
+    "brightBlue": "#7E7887",
+    "brightPurple": "#E2DFE7",
+    "brightCyan": "#BF40BF",
+    "brightWhite": "#EFECF4",
+    "background": "#19171C",
+    "foreground": "#8B8792",
+    "cursorColor": "#8B8792",
+    "selectionBackground": "#36333A"
+}

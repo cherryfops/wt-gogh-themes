@@ -1,0 +1,23 @@
+{
+    "name": "Deep",
+    "black": "#000000",
+    "red": "#D70005",
+    "green": "#1CD915",
+    "yellow": "#D9BD26",
+    "blue": "#5665FF",
+    "purple": "#B052DA",
+    "cyan": "#50D2DA",
+    "white": "#E0E0E0",
+    "brightBlack": "#535353",
+    "brightRed": "#FB0007",
+    "brightGreen": "#22FF18",
+    "brightYellow": "#FEDC2B",
+    "brightBlue": "#9FA9FF",
+    "brightPurple": "#E09AFF",
+    "brightCyan": "#8DF9FF",
+    "brightWhite": "#FFFFFF",
+    "background": "#090909",
+    "foreground": "#CDCDCD",
+    "cursorColor": "#D0D0D0",
+    "selectionBackground": "#780002"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Keys Ocean Sunset",
+    "black": "#101927",
+    "red": "#E85A52",
+    "green": "#4A9A72",
+    "yellow": "#E89A2E",
+    "blue": "#5288B8",
+    "purple": "#BC5090",
+    "cyan": "#5EC8C8",
+    "white": "#A5B5D5",
+    "brightBlack": "#344658",
+    "brightRed": "#FC9077",
+    "brightGreen": "#62C48E",
+    "brightYellow": "#FFCB9A",
+    "brightBlue": "#5A8FD4",
+    "brightPurple": "#FDBFDE",
+    "brightCyan": "#7ED4E0",
+    "brightWhite": "#FFF5BE",
+    "background": "#0A1018",
+    "foreground": "#B8C8DC",
+    "cursorColor": "#FC9077",
+    "selectionBackground": "#1A2430"
+}

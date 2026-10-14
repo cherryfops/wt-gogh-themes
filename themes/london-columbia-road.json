@@ -1,0 +1,23 @@
+{
+    "name": "London Columbia Road",
+    "black": "#2A2520",
+    "red": "#C14A4A",
+    "green": "#5A8A3A",
+    "yellow": "#D4A82C",
+    "blue": "#3A7A8A",
+    "purple": "#C45F8A",
+    "cyan": "#5FA89A",
+    "white": "#1F3A2F",
+    "brightBlack": "#756A55",
+    "brightRed": "#D96A6A",
+    "brightGreen": "#6EA050",
+    "brightYellow": "#E5BC40",
+    "brightBlue": "#5598AB",
+    "brightPurple": "#D97AA3",
+    "brightCyan": "#7AC0B0",
+    "brightWhite": "#142217",
+    "background": "#F8F5EC",
+    "foreground": "#1F3A2F",
+    "cursorColor": "#D4708E",
+    "selectionBackground": "#C2C6BD"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Minimalist Dark",
+    "black": "#F5F5F5",
+    "red": "#B81414",
+    "green": "#1B9F6B",
+    "yellow": "#D28F79",
+    "blue": "#AA5A24",
+    "purple": "#9E40A3",
+    "cyan": "#FE8330",
+    "white": "#A5A2A2",
+    "brightBlack": "#5C5855",
+    "brightRed": "#E8BBD0",
+    "brightGreen": "#006400",
+    "brightYellow": "#4A4543",
+    "brightBlue": "#A16A94",
+    "brightPurple": "#A020F0",
+    "brightCyan": "#FF69B4",
+    "brightWhite": "#CACAD0",
+    "background": "#13141F",
+    "foreground": "#F5F5F5",
+    "cursorColor": "#F5F5F5",
+    "selectionBackground": "#4C4C54"
+}

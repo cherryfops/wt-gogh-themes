@@ -1,0 +1,23 @@
+{
+    "name": "Clear Dark",
+    "black": "#35424C",
+    "red": "#B45648",
+    "green": "#6CAA71",
+    "yellow": "#C4AC62",
+    "blue": "#6D96B4",
+    "purple": "#BD7BCD",
+    "cyan": "#7CCBCD",
+    "white": "#DEE5EB",
+    "brightBlack": "#465C6D",
+    "brightRed": "#DF6C5A",
+    "brightGreen": "#79BE7E",
+    "brightYellow": "#E5C872",
+    "brightBlue": "#67B5ED",
+    "brightPurple": "#D389E5",
+    "brightCyan": "#84DDE0",
+    "brightWhite": "#E5EFF5",
+    "background": "#212734",
+    "foreground": "#E6E6E6",
+    "cursorColor": "#9D9D9D",
+    "selectionBackground": "#334E5E"
+}

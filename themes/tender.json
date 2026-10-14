@@ -1,0 +1,23 @@
+{
+    "name": "Tender",
+    "black": "#1D1D1D",
+    "red": "#C5152F",
+    "green": "#C9D05C",
+    "yellow": "#FFC24B",
+    "blue": "#B3DEEF",
+    "purple": "#D3B987",
+    "cyan": "#73CEF4",
+    "white": "#EEEEEE",
+    "brightBlack": "#323232",
+    "brightRed": "#F43753",
+    "brightGreen": "#D9E066",
+    "brightYellow": "#FACC72",
+    "brightBlue": "#C0EAFB",
+    "brightPurple": "#EFD093",
+    "brightCyan": "#A1D6EC",
+    "brightWhite": "#FFFFFF",
+    "background": "#282828",
+    "foreground": "#EEEEEE",
+    "cursorColor": "#EEEEEE",
+    "selectionBackground": "#5A5A5A"
+}

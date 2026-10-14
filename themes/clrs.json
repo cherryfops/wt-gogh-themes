@@ -1,0 +1,23 @@
+{
+    "name": "CLRS",
+    "black": "#000000",
+    "red": "#F8282A",
+    "green": "#328A5D",
+    "yellow": "#FA701D",
+    "blue": "#135CD0",
+    "purple": "#9F00BD",
+    "cyan": "#33C3C1",
+    "white": "#B3B3B3",
+    "brightBlack": "#555753",
+    "brightRed": "#FB0416",
+    "brightGreen": "#2CC631",
+    "brightYellow": "#FDD727",
+    "brightBlue": "#1670FF",
+    "brightPurple": "#E900B0",
+    "brightCyan": "#3AD5CE",
+    "brightWhite": "#EEEEEC",
+    "background": "#FFFFFF",
+    "foreground": "#262626",
+    "cursorColor": "#6FD3FC",
+    "selectionBackground": "#C9C9C9"
+}

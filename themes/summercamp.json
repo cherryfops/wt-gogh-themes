@@ -1,0 +1,23 @@
+{
+    "name": "Summercamp",
+    "black": "#1C1810",
+    "red": "#E35142",
+    "green": "#5CEB5A",
+    "yellow": "#F2FF27",
+    "blue": "#489BF0",
+    "purple": "#FF8080",
+    "cyan": "#5AEBBC",
+    "white": "#736E55",
+    "brightBlack": "#504B38",
+    "brightRed": "#E35142",
+    "brightGreen": "#5CEB5A",
+    "brightYellow": "#F2FF27",
+    "brightBlue": "#489BF0",
+    "brightPurple": "#FF8080",
+    "brightCyan": "#5AEBBC",
+    "brightWhite": "#F8F5DE",
+    "background": "#1C1810",
+    "foreground": "#736E55",
+    "cursorColor": "#736E55",
+    "selectionBackground": "#322E21"
+}

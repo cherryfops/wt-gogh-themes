@@ -1,0 +1,23 @@
+{
+    "name": "Swamp Dark",
+    "black": "#242015",
+    "red": "#DB930D",
+    "green": "#7A7653",
+    "yellow": "#A82D56",
+    "blue": "#C1666B",
+    "purple": "#91506C",
+    "cyan": "#DB930D",
+    "white": "#D2C3A4",
+    "brightBlack": "#5F4E41",
+    "brightRed": "#DB930D",
+    "brightGreen": "#7A7653",
+    "brightYellow": "#A82D56",
+    "brightBlue": "#C1666B",
+    "brightPurple": "#91506C",
+    "brightCyan": "#DB930D",
+    "brightWhite": "#F1E9D0",
+    "background": "#242015",
+    "foreground": "#D2C3A4",
+    "cursorColor": "#D2C3A4",
+    "selectionBackground": "#504939"
+}

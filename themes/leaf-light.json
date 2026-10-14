@@ -1,0 +1,23 @@
+{
+    "name": "Leaf Light",
+    "black": "#2E2C2F",
+    "red": "#BA5860",
+    "green": "#729B79",
+    "yellow": "#CCAA6C",
+    "blue": "#5292C6",
+    "purple": "#8C6AA8",
+    "cyan": "#489CA5",
+    "white": "#E1E4DC",
+    "brightBlack": "#403F42",
+    "brightRed": "#9D4B53",
+    "brightGreen": "#59795F",
+    "brightYellow": "#A78A58",
+    "brightBlue": "#40739A",
+    "brightPurple": "#715688",
+    "brightCyan": "#3B8187",
+    "brightWhite": "#B1B3AD",
+    "background": "#E1E4DC",
+    "foreground": "#2E2C2F",
+    "cursorColor": "#2E2C2F",
+    "selectionBackground": "#B4B6B1"
+}

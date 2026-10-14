@@ -1,0 +1,23 @@
+{
+    "name": "Mission Brogue",
+    "black": "#283139",
+    "red": "#EFA9A9",
+    "green": "#8CD4B0",
+    "yellow": "#E0B88A",
+    "blue": "#A2C5FD",
+    "purple": "#CCB7DB",
+    "cyan": "#93DFEC",
+    "white": "#93A5B4",
+    "brightBlack": "#60778A",
+    "brightRed": "#F6BFBF",
+    "brightGreen": "#B5E090",
+    "brightYellow": "#FFF0B2",
+    "brightBlue": "#C3D9FD",
+    "brightPurple": "#E3C3E6",
+    "brightCyan": "#B2F0FD",
+    "brightWhite": "#E7EBEE",
+    "background": "#283139",
+    "foreground": "#93A5B4",
+    "cursorColor": "#93A5B4",
+    "selectionBackground": "#434E58"
+}

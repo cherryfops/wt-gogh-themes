@@ -1,0 +1,23 @@
+{
+    "name": "Synth Wave84 Python",
+    "black": "#2A2139",
+    "red": "#FF2331",
+    "green": "#37F39E",
+    "yellow": "#FFD83D",
+    "blue": "#03EDF9",
+    "purple": "#B30065",
+    "cyan": "#03EDF9",
+    "white": "#DDDDDD",
+    "brightBlack": "#444251",
+    "brightRed": "#FE4450",
+    "brightGreen": "#72F1B8",
+    "brightYellow": "#FEDE5D",
+    "brightBlue": "#03EDF9",
+    "brightPurple": "#D40078",
+    "brightCyan": "#03EDF9",
+    "brightWhite": "#FFFFFF",
+    "background": "#100A24",
+    "foreground": "#FFADE8",
+    "cursorColor": "#FFADE8",
+    "selectionBackground": "#4C3355"
+}

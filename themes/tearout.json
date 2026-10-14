@@ -1,0 +1,23 @@
+{
+    "name": "Tearout",
+    "black": "#685742",
+    "red": "#CC967B",
+    "green": "#97976D",
+    "yellow": "#6C9861",
+    "blue": "#B5955E",
+    "purple": "#C9A554",
+    "cyan": "#D7C483",
+    "white": "#B5955E",
+    "brightBlack": "#75644F",
+    "brightRed": "#CC967B",
+    "brightGreen": "#97976D",
+    "brightYellow": "#6C9861",
+    "brightBlue": "#B5955E",
+    "brightPurple": "#C9A554",
+    "brightCyan": "#D7C483",
+    "brightWhite": "#B5955E",
+    "background": "#34392D",
+    "foreground": "#F4D2AE",
+    "cursorColor": "#D7C483",
+    "selectionBackground": "#E4C47A"
+}

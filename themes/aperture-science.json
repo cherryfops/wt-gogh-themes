@@ -1,0 +1,23 @@
+{
+    "name": "Aperture Science",
+    "black": "#A66900",
+    "red": "#A66900",
+    "green": "#A66900",
+    "yellow": "#A66900",
+    "blue": "#A66900",
+    "purple": "#A66900",
+    "cyan": "#A66900",
+    "white": "#A66900",
+    "brightBlack": "#A66900",
+    "brightRed": "#A66900",
+    "brightGreen": "#A66900",
+    "brightYellow": "#A66900",
+    "brightBlue": "#A66900",
+    "brightPurple": "#A66900",
+    "brightCyan": "#A66900",
+    "brightWhite": "#A66900",
+    "background": "#6F3D00",
+    "foreground": "#A66900",
+    "cursorColor": "#A66900",
+    "selectionBackground": "#6A3D00"
+}
