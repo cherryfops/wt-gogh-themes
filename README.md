@@ -181,7 +181,7 @@ The following Gogh theme names overlap with names in the Windows Terminal built-
 
 If you want to avoid ambiguity, rename the imported scheme by changing its `"name"` property—for example, `Campbell` to `Campbell (Gogh)`—and use that new name in `"colorScheme"`. Test the result in your installed Windows Terminal version, especially when importing schemes with names that already exist.
 
-The built-in scheme list can change between Windows Terminal releases. For the version you use, consult the [`defaults.json`](https://github.com/microsoft/terminal/blob/main/src/cascadia/TerminalApp/defaults.json) file in the Microsoft Terminal repository.
+Customizing the Windows Terminal means certain factors such as these customizations can change when a new release is available. It's recommended to consult the [Windows Developer Tools](https://learn.microsoft.com/en-us/windows/terminal/) article on **Microsoft Learn** if required.
 
 ## Readability and low-contrast themes
 
